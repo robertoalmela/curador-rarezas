@@ -58,6 +58,5 @@ jobs:
       # 7. Guarda historial de emails
       - name: Save email history
         run: |
-          git add scripts/email-history.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "📧 Historial de envío actualizado"
-          git push
+          git add scripts/email-history.json || true
+          git diff --quiet && git diff --staged --quiet || (git commit -m "📧 Historial de envío actualizado" && git push) || true
