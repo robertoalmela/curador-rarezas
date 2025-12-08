@@ -407,7 +407,7 @@ const discoveriesDatabase = [
         url: "https://disquiet.com/",
         description: "Un proyecto comunitario de música electrónica experimental que invita a músicos de todo el mundo a crear piezas sonoras inspiradas por indicaciones semanales. Un laboratorio de innovación auditiva.",
         quote: "La experimentación es la clave de la creación sonora."
-    ,
+    },
     {
         category: "Webs extrañas o inútiles",
         title: "Staggering Beauty",

@@ -137,19 +137,47 @@ function appendToDatabase(newDiscoveries) {
     let content = fs.readFileSync(scriptPath, 'utf-8');
 
     // Encuentra el final del array discoveriesDatabase
-    const lastItemRegex = /(\}\s*\n\];)/;
+    // Busca el último } antes de ];
+    const arrayEndIndex = content.lastIndexOf('];');
+    if (arrayEndIndex === -1) {
+        console.error('❌ No se encontró el cierre del array discoveriesDatabase');
+        return;
+    }
+    
+    // Encuentra el último } antes de ];
+    let lastBraceIndex = -1;
+    for (let i = arrayEndIndex - 1; i >= 0; i--) {
+        if (content[i] === '}') {
+            lastBraceIndex = i;
+            break;
+        }
+    }
+    
+    if (lastBraceIndex === -1) {
+        console.error('❌ No se encontró el último objeto en el array');
+        return;
+    }
     
     // Genera el código de los nuevos items
-    const newItemsCode = newDiscoveries.map(d => `    {
+    const newItemsCode = newDiscoveries.map(d => {
+        // Escapar comillas en las strings
+        const title = d.title.replace(/"/g, '\\"');
+        const description = d.description.replace(/"/g, '\\"');
+        const quote = d.quote.replace(/"/g, '\\"');
+        
+        return `    {
         category: "${d.category}",
-        title: "${d.title}",
+        title: "${title}",
         url: "${d.url}",
-        description: "${d.description}",
-        quote: "${d.quote}"
-    }`).join(',\n');
+        description: "${description}",
+        quote: "${quote}"
+    }`;
+    }).join(',\n');
 
-    // Inserta antes del cierre del array
-    content = content.replace(lastItemRegex, `,\n${newItemsCode}\n];`);
+    // Inserta después del último } con una coma
+    const before = content.substring(0, lastBraceIndex + 1);
+    const after = content.substring(lastBraceIndex + 1);
+    content = before + ',\n' + newItemsCode + after;
 
     // Guarda el archivo actualizado
     fs.writeFileSync(scriptPath, content, 'utf-8');
