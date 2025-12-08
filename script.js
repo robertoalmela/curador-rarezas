@@ -1,0 +1,744 @@
+// ============================================
+// BASE DE DATOS DE RAREZAS
+// ============================================
+// Esta es una base de datos simulada. Puedes reemplazarla con APIs reales.
+
+const discoveriesDatabase = [
+    // WEBS EXTRAÑAS O INÚTILES
+    {
+        category: "web extraña",
+        title: "The Useless Web",
+        url: "https://theuselessweb.com/",
+        description: "Un botón que te lleva a sitios web completamente inútiles y maravillosos. Cada clic es una ruleta de absurdidad digital.",
+        quote: "A veces la inutilidad es el único propósito que necesitamos."
+    },
+    {
+        category: "web extraña",
+        title: "Windows 93",
+        url: "http://www.windows93.net/",
+        description: "Un sistema operativo ficticio en tu navegador. Glitchy, surrealista, y lleno de easter eggs imposibles.",
+        quote: "La nostalgia del futuro que nunca existió."
+    },
+    {
+        category: "web extraña",
+        title: "Pointer Pointer",
+        url: "https://pointerpointer.com/",
+        description: "Una web que encuentra fotos de personas señalando exactamente donde está tu cursor. Perturbador y hipnótico.",
+        quote: "Siempre hay alguien mirándote desde el otro lado."
+    },
+    {
+        category: "web extraña",
+        title: "Astronaut.io",
+        url: "http://astronaut.io/",
+        description: "Videos de YouTube sin vistas, subidos por desconocidos. Ventanas a vidas ajenas, momentos olvidados.",
+        quote: "La intimidad accidental de internet."
+    },
+    {
+        category: "web extraña",
+        title: "Is It Normal?",
+        url: "https://www.isitnormal.com/",
+        description: "La gente pregunta si sus comportamientos raros son normales. Spoiler: nada es normal.",
+        quote: "Normalidad es solo consenso temporal."
+    },
+    {
+        category: "web extraña",
+        title: "Window Swap",
+        url: "https://www.window-swap.com/",
+        description: "Observa ventanas ajenas desde lugares desconocidos del mundo. Nada pasa, pero es fascinante.",
+        quote: "Quizá la vida es esto: mirar desde fuera."
+    },
+    
+    // ARTISTAS DESCONOCIDOS O MARGINALES
+    {
+        category: "artista marginal",
+        title: "Yayoi Kusama (antes del mainstream)",
+        url: "https://www.yayoi-kusama.jp/e/information/index.html",
+        description: "Antes de ser famosa, hacía performances en las calles de Nueva York cubriéndolo todo de lunares. Obsesión infinita.",
+        quote: "El arte nace del caos repetido hasta la hipnosis."
+    },
+    {
+        category: "artista marginal",
+        title: "Henry Darger - In the Realms of the Unreal",
+        url: "https://en.wikipedia.org/wiki/Henry_Darger",
+        description: "Un conserje solitario escribió una novela de 15.000 páginas con ilustraciones épicas sobre niñas guerreras. Nadie lo supo hasta que murió.",
+        quote: "Las obras maestras a veces se crean en el silencio absoluto."
+    },
+    {
+        category: "artista marginal",
+        title: "Bill Traylor - Arte Outsider",
+        url: "https://www.outsiderartfair.com/bill-traylor",
+        description: "Ex-esclavo que empezó a dibujar a los 85 años en las calles de Alabama. Sus obras son ahora joyas del arte outsider.",
+        quote: "Nunca es tarde para nacer como artista."
+    },
+    {
+        category: "artista marginal",
+        title: "Vivian Maier - Fotógrafa Oculta",
+        url: "https://www.vivianmaier.com/",
+        description: "Niñera de día, fotógrafa secreta de noche. 150.000 fotos descubiertas tras su muerte en una subasta de garaje.",
+        quote: "El arte no necesita audiencia para existir."
+    },
+    
+    // PROYECTOS RAROS Y EXPERIMENTALES
+    {
+        category: "proyecto experimental",
+        title: "Every Icon",
+        url: "http://www.numeral.com/everyicon.html",
+        description: "Un programa que genera cada icono posible de 32x32 píxeles. Tardará más tiempo que la edad del universo.",
+        quote: "La eternidad cabe en una cuadrícula."
+    },
+    {
+        category: "proyecto experimental",
+        title: "One Million Masterpieces",
+        url: "http://www.millionmasterpieces.com/",
+        description: "Un millón de personas pintando un píxel cada una. Arte colaborativo anónimo y caótico.",
+        quote: "Juntos creamos algo que ninguno comprende."
+    },
+    {
+        category: "proyecto experimental",
+        title: "Eternal Sunset",
+        url: "https://www.eternalsunset.net/",
+        description: "Una app que te mantiene siempre en el atardecer perfecto. Viaja siguiendo al sol eternamente.",
+        quote: "Perseguir el horizonte es una forma de rezar."
+    },
+    {
+        category: "proyecto experimental",
+        title: "Long Now Foundation - 10,000 Year Clock",
+        url: "http://longnow.org/clock/",
+        description: "Un reloj diseñado para funcionar durante 10.000 años. Un monumento al tiempo largo y al pensamiento lento.",
+        quote: "Pensar en siglos es un acto revolucionario."
+    },
+    
+    // JUEGOS ABSURDOS O INTERACTIVOS
+    {
+        category: "juego absurdo",
+        title: "Everything - David OReilly",
+        url: "http://everything-game.com/",
+        description: "Un juego donde puedes ser cualquier cosa: una piedra, un átomo, una galaxia. Filosofía jugable.",
+        quote: "Ser todo es no ser nada en particular."
+    },
+    {
+        category: "juego absurdo",
+        title: "QWOP",
+        url: "http://www.foddy.net/Athletics.html",
+        description: "Controlar a un corredor con solo 4 teclas. Imposible, frustrante, adictivo. El arte del fracaso.",
+        quote: "Caminar es un milagro que damos por hecho."
+    },
+    {
+        category: "juego absurdo",
+        title: "The Stanley Parable",
+        url: "https://www.stanleyparable.com/",
+        description: "Un juego sobre libre albedrío y narrativa. Cada decisión te lleva a un absurdo diferente.",
+        quote: "Elegir es ilusorio, pero la ilusión es real."
+    },
+    {
+        category: "juego absurdo",
+        title: "Mountain - David OReilly",
+        url: "http://mountain-game.com/",
+        description: "Eres una montaña. No puedes hacer nada. El tiempo pasa. Es hermoso y deprimente.",
+        quote: "A veces la inacción es la única respuesta honesta."
+    },
+    {
+        category: "juego absurdo",
+        title: "Cookie Clicker",
+        url: "https://orteil.dashnet.org/cookieclicker/",
+        description: "Haces clic en una galleta. Luego compras cosas para hacer más clics. Una sátira del capitalismo tardío.",
+        quote: "La acumulación infinita como parodia de la existencia."
+    },
+    
+    // MUNDOS UNDER, SUBCULTURAS
+    {
+        category: "subcultura",
+        title: "Abandonedporn - Reddit",
+        url: "https://www.reddit.com/r/AbandonedPorn/",
+        description: "Fotos de lugares abandonados. Centros comerciales muertos, parques de atracciones fantasma, ciudades olvidadas.",
+        quote: "La belleza del declive inevitable."
+    },
+    {
+        category: "subcultura",
+        title: "Urban Exploration",
+        url: "https://www.uer.ca/",
+        description: "Comunidad de exploradores urbanos. Entran donde no deben: túneles, edificios cerrados, cataclumbas.",
+        quote: "La ciudad esconde más de lo que muestra."
+    },
+    {
+        category: "subcultura",
+        title: "Geocities Archive",
+        url: "https://geocities.restorativland.org/",
+        description: "Internet de los 90 conservado. Webs personales con GIFs animados, MIDIs y amor puro por la rareza.",
+        quote: "Cuando internet era un lugar extraño hecho por extraños."
+    },
+    {
+        category: "subcultura",
+        title: "Liminal Spaces",
+        url: "https://www.reddit.com/r/LiminalSpace/",
+        description: "Fotos de pasillos vacíos, centros comerciales solitarios, parkings nocturnos. Espacios de transición inquietantes.",
+        quote: "Los lugares intermedios son los más honestos."
+    },
+    
+    // ESTÉTICAS RARAS, NET.ART, GLITCH, VAPORWAVE
+    {
+        category: "estética rara",
+        title: "Jodi.org",
+        url: "http://wwwwwwwww.jodi.org/",
+        description: "Net.art pionero. Código como estética. Tu navegador enloquece. Arte que rompe la interfaz.",
+        quote: "El error como expresión artística."
+    },
+    {
+        category: "estética rara",
+        title: "Glitchet - Rosa Menkman",
+        url: "http://rosa-menkman.blogspot.com/",
+        description: "Artista del glitch. Estudia la belleza en la corrupción digital, en los fallos, en lo roto.",
+        quote: "Lo imperfecto revela la verdad del sistema."
+    },
+    {
+        category: "estética rara",
+        title: "Vaporwave Aesthetics Archive",
+        url: "https://archive.org/details/VaporwaveAesthetics",
+        description: "El archivo definitivo de vaporwave. Nostalgia retrofuturista, estatuas romanas, y Windows 95.",
+        quote: "Nostalgia de un pasado que solo existió en anuncios."
+    },
+    {
+        category: "estética rara",
+        title: "Brutalist Websites",
+        url: "https://brutalistwebsites.com/",
+        description: "Web design anti-diseño. Crudo, honesto, funcional, feo-hermoso.",
+        quote: "La estética de mostrar las costuras."
+    },
+    {
+        category: "estética rara",
+        title: "Webring de Neocities",
+        url: "https://neocities.org/",
+        description: "El renacer de las webs personales. Sin algoritmos, sin likes. Solo personas haciendo cosas raras.",
+        quote: "Internet vuelve a ser jardín, no centro comercial."
+    },
+    
+    // LISTAS DE IDEAS PROVOCADORAS
+    {
+        category: "ideas provocadoras",
+        title: "The Disconnect",
+        url: "https://disconnect.blog/",
+        description: "Ensayos sobre desconectarse. Lentitud digital. Tecnología consciente. Silencio intencional.",
+        quote: "Apagar es el nuevo encender."
+    },
+    {
+        category: "ideas provocadoras",
+        title: "Library of Babel",
+        url: "https://libraryofbabel.info/",
+        description: "Una biblioteca que contiene cada libro posible de 410 páginas. Todo está aquí, perdido entre el ruido infinito.",
+        quote: "Información infinita es indistinguible del silencio."
+    },
+    {
+        category: "ideas provocadoras",
+        title: "Meaningness",
+        url: "https://meaningness.com/",
+        description: "Filosofía práctica sobre significado, propósito, y por qué nada importa pero todo cuenta.",
+        quote: "El significado no se encuentra, se construye."
+    },
+    {
+        category: "ideas provocadoras",
+        title: "Wait But Why",
+        url: "https://waitbutwhy.com/",
+        description: "Ensayos largos ilustrados sobre inteligencia artificial, procrastinación, civilizaciones alienígenas.",
+        quote: "Pensar en grande para entender lo pequeño."
+    },
+    
+    // BLOGS OLVIDADOS
+    {
+        category: "blog olvidado",
+        title: "Kottke.org",
+        url: "https://kottke.org/",
+        description: "Uno de los blogs más antiguos de internet. Todavía actualizado. Curación humana en la era de algoritmos.",
+        quote: "La web lenta resiste."
+    },
+    {
+        category: "blog olvidado",
+        title: "The Marginalian (Brain Pickings)",
+        url: "https://www.themarginalian.org/",
+        description: "Ensayos sobre libros raros, pensadores olvidados, arte, ciencia, y belleza. Hecho con amor obsesivo.",
+        quote: "Leer es conversar con fantasmas sabios."
+    },
+    {
+        category: "blog olvidado",
+        title: "Aeon",
+        url: "https://aeon.co/",
+        description: "Ensayos profundos sobre filosofía, ciencia, psicología. Escritura lenta para mentes rápidas.",
+        quote: "La profundidad es contracultural."
+    },
+    {
+        category: "blog olvidado",
+        title: "Atlas Obscura",
+        url: "https://www.atlasobscura.com/",
+        description: "Lugares raros del mundo real. Museos extraños, monumentos olvidados, geografía imposible.",
+        quote: "El mundo es más extraño de lo que parece en Google Maps."
+    },
+    
+    // CONFERENCIAS, PERFORMANCES, EXPOSICIONES RARAS
+    {
+        category: "performance rara",
+        title: "Marina Abramović - The Artist is Present",
+        url: "https://www.moma.org/learn/moma_learning/marina-abramovic-marina-abramovic-the-artist-is-present-2010/",
+        description: "Se sentó en silencio durante 736 horas mirando a desconocidos a los ojos. Algunos lloraban. Presencia pura.",
+        quote: "Mirar es el acto más íntimo."
+    },
+    {
+        category: "performance rara",
+        title: "John Cage - 4'33\"",
+        url: "https://www.youtube.com/watch?v=JTEFKFiXSx4",
+        description: "Una pieza musical de silencio. El sonido es todo lo que pasa mientras no suena nada.",
+        quote: "El silencio nunca está vacío."
+    },
+    {
+        category: "performance rara",
+        title: "Tehching Hsieh - One Year Performances",
+        url: "https://www.artspace.com/magazine/art_101/in_depth/tehching-hsieh-55245",
+        description: "Pasó un año entero sin entrar en edificios. Otro año atado a otra persona. Arte como resistencia temporal.",
+        quote: "El tiempo es el único material real del arte."
+    },
+    {
+        category: "conferencia rara",
+        title: "TED Talk - Ze Frank",
+        url: "https://www.ted.com/talks/ze_frank_my_web_playroom",
+        description: "Una charla sobre jugar en internet, crear por crear, y hacer cosas raras sin razón.",
+        quote: "El juego es trabajo sin productividad."
+    },
+    
+    // CATEGORÍAS ADICIONALES
+    {
+        category: "experimento social",
+        title: "The Million Dollar Homepage",
+        url: "http://www.milliondollarhomepage.com/",
+        description: "Un estudiante vendió un millón de píxeles a 1 dólar cada uno. Todos compraron. Un monumento al absurdo viral.",
+        quote: "A veces la idea más tonta es la más inteligente."
+    },
+    {
+        category: "archivo digital",
+        title: "Internet Archive",
+        url: "https://archive.org/",
+        description: "La biblioteca de todo internet. Cada versión de cada web. El tiempo congelado en servidores.",
+        quote: "Recordar es resistir al olvido algorítmico."
+    },
+    {
+        category: "música experimental",
+        title: "Ubuweb",
+        url: "https://www.ubu.com/",
+        description: "Archivo de música avant-garde, poesía sonora, video experimental. Arte que no cabe en Spotify.",
+        quote: "El ruido organizado es música del futuro."
+    },
+    {
+        category: "filosofía digital",
+        title: "Are.na",
+        url: "https://www.are.na/",
+        description: "Pinterest para pensadores. Colecciones de ideas, imágenes, textos. Comunidad de curadores obsesivos.",
+        quote: "Conectar ideas es crear conocimiento."
+    },
+    {
+        category: "proyecto imposible",
+        title: "Folding@home",
+        url: "https://foldingathome.org/",
+        description: "Miles de computadoras trabajando juntas para simular proteínas y curar enfermedades. Colaboración silenciosa.",
+        quote: "Los sueños grandes se construyen en silencio distribuido."
+    }
+];
+
+// ============================================
+// ESTADO DE LA APLICACIÓN
+// ============================================
+
+let shownDiscoveries = []; // IDs de descubrimientos ya mostrados (solo del día)
+let currentDayKey = ''; // Clave del día actual (para cambio diario)
+let historyIndices = []; // Historial global para no repetir en el tiempo
+let dailySelectionIndices = []; // Índices elegidos para el día actual
+
+// ============================================
+// FUNCIONES AUXILIARES
+// ============================================
+
+/**
+ * Obtiene la clave del día actual (YYYY-MM-DD)
+ */
+function getDayKey() {
+    const now = new Date();
+    return `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+}
+
+/**
+ * Formatea la fecha para mostrar
+ */
+function formatDate() {
+    const now = new Date();
+    const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+    return now.toLocaleDateString('es-ES', options);
+}
+
+/**
+ * Carga el estado desde localStorage
+ */
+function loadState() {
+    const savedState = localStorage.getItem('curiosityStateV2');
+    const today = getDayKey();
+    if (savedState) {
+        const state = JSON.parse(savedState);
+        currentDayKey = state.dayKey || today;
+        shownDiscoveries = state.shown || [];
+        historyIndices = state.history || [];
+        if (currentDayKey !== today) {
+            // Nuevo día: mantenemos el historial pero vaciamos la selección diaria
+            currentDayKey = today;
+            dailySelectionIndices = [];
+            saveState();
+        } else {
+            dailySelectionIndices = state.dailySelection || [];
+        }
+    } else {
+        // Inicializa
+        currentDayKey = today;
+        shownDiscoveries = [];
+        historyIndices = [];
+        dailySelectionIndices = [];
+        saveState();
+    }
+}
+
+/**
+ * Guarda el estado en localStorage
+ */
+function saveState() {
+    localStorage.setItem('curiosityStateV2', JSON.stringify({
+        dayKey: currentDayKey,
+        shown: shownDiscoveries,
+        history: historyIndices,
+        dailySelection: dailySelectionIndices
+    }));
+}
+
+/**
+ * Reinicia el estado
+ */
+function resetState() {
+    // Reinicia solo lo diario; conserva el historial para no repetir en el tiempo
+    shownDiscoveries = [];
+    dailySelectionIndices = [];
+    currentDayKey = getDayKey();
+    historyIndices = historyIndices || [];
+    saveState();
+}
+
+/**
+ * Mezcla un array (algoritmo Fisher-Yates)
+ */
+function shuffleArray(array) {
+    const newArray = [...array];
+    for (let i = newArray.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
+    }
+    return newArray;
+}
+
+/**
+ * Obtiene descubrimientos aleatorios no mostrados
+ */
+function getRandomDiscoveries(count = 6) {
+    // Filtra los no mostrados
+    const notShown = discoveriesDatabase.filter((_, index) => !shownDiscoveries.includes(index));
+    
+    // Si no quedan suficientes, reinicia
+    if (notShown.length < count) {
+        resetState();
+        return getRandomDiscoveries(count);
+    }
+    
+    // Mezcla y toma los primeros 'count'
+    const shuffled = shuffleArray(notShown);
+    const selected = shuffled.slice(0, count);
+    
+    // Marca como mostrados
+    selected.forEach(item => {
+        const originalIndex = discoveriesDatabase.indexOf(item);
+        if (!shownDiscoveries.includes(originalIndex)) {
+            shownDiscoveries.push(originalIndex);
+        }
+    });
+    
+    saveState();
+    return selected;
+}
+
+/**
+ * Crea una tarjeta de descubrimiento
+ */
+function createDiscoveryCard(discovery) {
+    const card = document.createElement('div');
+    card.className = 'discovery-card';
+    
+    card.innerHTML = `
+        <div class="category-badge">${discovery.category}</div>
+        <h2 class="discovery-title">
+            <a href="${discovery.url}" target="_blank" rel="noopener noreferrer">
+                ${discovery.title}
+            </a>
+        </h2>
+        <p class="discovery-description">${discovery.description}</p>
+        <div class="discovery-quote">${discovery.quote}</div>
+    `;
+    
+    // Animación de entrada
+    card.style.opacity = '0';
+    card.style.transform = 'translateY(20px)';
+    
+    setTimeout(() => {
+        card.style.transition = 'opacity 0.5s ease, transform 0.5s ease';
+        card.style.opacity = '1';
+        card.style.transform = 'translateY(0)';
+    }, 100);
+    
+    return card;
+}
+
+/**
+ * Renderiza los descubrimientos en el grid
+ */
+function renderDiscoveries(discoveries) {
+    const grid = document.getElementById('discoveries-grid');
+    grid.innerHTML = ''; // Limpia el grid
+    
+    discoveries.forEach((discovery, index) => {
+        const card = createDiscoveryCard(discovery);
+        // Añade delay escalonado para animación
+        setTimeout(() => {
+            grid.appendChild(card);
+        }, index * 100);
+    });
+}
+
+/**
+ * Muestra el loading
+ */
+function showLoading() {
+    document.getElementById('loading').classList.remove('hidden');
+    document.getElementById('discoveries-grid').style.opacity = '0';
+}
+
+/**
+ * Oculta el loading
+ */
+function hideLoading() {
+    setTimeout(() => {
+        document.getElementById('loading').classList.add('hidden');
+        document.getElementById('discoveries-grid').style.opacity = '1';
+    }, 800);
+}
+
+/**
+ * Carga nuevos descubrimientos
+ */
+// Selecciona índices para el día (mantiene consistencia al recargar y evita repeticiones en el tiempo)
+function getOrGenerateDailyIndices(count = 6) {
+    if (dailySelectionIndices && dailySelectionIndices.length >= count) {
+        return dailySelectionIndices;
+    }
+
+    // Candidatos: todos los índices menos los ya usados históricamente
+    const allIndices = discoveriesDatabase.map((_, i) => i);
+    const available = allIndices.filter(i => !new Set(historyIndices).has(i));
+
+    const picked = shuffleArray(available).slice(0, Math.min(count, available.length));
+
+    dailySelectionIndices = picked;
+    shownDiscoveries = [...picked]; // del día
+    historyIndices = [...historyIndices, ...picked];
+    saveState();
+    return dailySelectionIndices;
+}
+
+function loadDailyDiscoveries() {
+    showLoading();
+
+    // Simula tiempo de carga (puedes reemplazar con fetch real/servidor)
+    setTimeout(() => {
+        const idx = getOrGenerateDailyIndices(6);
+        const items = idx.map(i => discoveriesDatabase[i]);
+        renderDiscoveries(items);
+        hideLoading();
+    }, 600);
+}
+
+/**
+ * Añade un solo descubrimiento aleatorio
+ */
+function addOneMoreDiscovery() {
+    const grid = document.getElementById('discoveries-grid');
+    const discoveries = getRandomDiscoveries(1);
+    
+    if (discoveries.length > 0) {
+        const card = createDiscoveryCard(discoveries[0]);
+        grid.appendChild(card);
+        
+        // Scroll suave hacia la nueva tarjeta
+        setTimeout(() => {
+            card.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }, 200);
+    }
+}
+
+// ============================================
+// INICIALIZACIÓN
+// ============================================
+
+document.addEventListener('DOMContentLoaded', () => {
+    // Carga el estado
+    loadState();
+    
+    // Muestra la fecha
+    document.getElementById('current-date').textContent = formatDate();
+    
+    // Carga descubrimientos del día (persisten aunque recargues)
+    loadDailyDiscoveries();
+
+    // Suscripción al newsletter (Mailchimp vía backend opcional)
+    const form = document.getElementById('newsletter-form');
+    if (form) {
+        form.addEventListener('submit', handleNewsletterSubmit);
+    }
+});
+
+// ============================================
+// NEWSLETTER: Suscripción (frontend) y helpers
+// ============================================
+
+async function handleNewsletterSubmit(e) {
+    e.preventDefault();
+    const input = document.getElementById('email-input');
+    const msg = document.getElementById('form-message');
+    const email = (input?.value || '').trim();
+    if (!email) return;
+
+    msg.textContent = 'Suscribiendo...';
+    try {
+        // Intentar endpoint backend (Vercel/Netlify) → /api/subscribe
+        const res = await fetch('/api/subscribe', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ email })
+        });
+        if (res.ok) {
+            msg.textContent = '¡Listo! Revisa tu correo para confirmar la suscripción.';
+            input.value = '';
+        } else {
+            msg.textContent = 'Suscripción simulada en local. Configura Mailchimp para activar el envío diario.';
+        }
+    } catch (err) {
+        console.error(err);
+        msg.textContent = 'Suscripción simulada en local. Configura Mailchimp para activar el envío diario.';
+    }
+}
+
+// ============================================
+// INTEGRACIÓN CON APIs REALES (OPCIONAL)
+// ============================================
+
+/**
+ * Ejemplo de cómo integrar con APIs reales
+ * Descomenta y adapta según tus necesidades
+ */
+
+/*
+async function fetchFromReddit(subreddit) {
+    try {
+        const response = await fetch(`https://www.reddit.com/r/${subreddit}/hot.json?limit=10`);
+        const data = await response.json();
+        
+        return data.data.children.map(post => ({
+            category: 'reddit',
+            title: post.data.title,
+            url: `https://reddit.com${post.data.permalink}`,
+            description: post.data.selftext.substring(0, 200) + '...',
+            quote: 'De los rincones de Reddit.'
+        }));
+    } catch (error) {
+        console.error('Error fetching from Reddit:', error);
+        return [];
+    }
+}
+
+async function fetchFromHackerNews() {
+    try {
+        const response = await fetch('https://hacker-news.firebaseio.com/v0/topstories.json');
+        const ids = await response.json();
+        
+        // Obtiene los primeros 5 posts
+        const posts = await Promise.all(
+            ids.slice(0, 5).map(id => 
+                fetch(`https://hacker-news.firebaseio.com/v0/item/${id}.json`).then(r => r.json())
+            )
+        );
+        
+        return posts.map(post => ({
+            category: 'tech',
+            title: post.title,
+            url: post.url || `https://news.ycombinator.com/item?id=${post.id}`,
+            description: 'Descubrimiento técnico de Hacker News.',
+            quote: 'La frontera del hacking y la innovación.'
+        }));
+    } catch (error) {
+        console.error('Error fetching from HN:', error);
+        return [];
+    }
+}
+
+// Para usar APIs reales, reemplaza getRandomDiscoveries() con:
+async function getRandomDiscoveriesFromAPIs() {
+    const redditData = await fetchFromReddit('InternetIsBeautiful');
+    const hnData = await fetchFromHackerNews();
+    
+    // Combina con tu base de datos local
+    const allDiscoveries = [...discoveriesDatabase, ...redditData, ...hnData];
+    
+    // Aplica la lógica de no repetición
+    // ... (similar a getRandomDiscoveries)
+}
+*/
+
+// ============================================
+// NOTAS PARA EXTENSIÓN
+// ============================================
+
+/*
+CÓMO EXTENDER ESTA WEB:
+
+1. AÑADIR MÁS FUENTES DE DATOS:
+   - Modifica la función getRandomDiscoveries para incluir fetch a APIs
+   - APIs sugeridas:
+     * Reddit API: https://www.reddit.com/dev/api/
+     * Hacker News API: https://github.com/HackerNews/API
+     * Are.na API: https://dev.are.na/
+     * Internet Archive API: https://archive.org/help/json.php
+
+2. SCRAPING (REQUIERE BACKEND):
+   - JavaScript en navegador tiene limitaciones de CORS
+   - Considera usar un backend simple (Node.js, Python Flask, etc.)
+   - O usa servicios como ScrapingBee, ParseHub
+
+3. MEJORAR PERSISTENCIA:
+   - Actualmente usa localStorage (límite ~5MB)
+   - Para más datos, considera IndexedDB
+   - O sincroniza con un backend simple
+
+4. AÑADIR FILTROS:
+   - Por categoría
+   - Por "mood" (alegre, triste, filosófico)
+   - Por dificultad/accesibilidad
+
+5. COMPARTIR:
+   - Añade botones de share en cada tarjeta
+   - Genera URLs únicas para colecciones
+
+6. NOTIFICACIONES:
+   - Implementa service worker para notificaciones diarias
+   - Recordatorios de nuevos descubrimientos
+
+7. COMUNIDAD:
+   - Permite a usuarios sugerir nuevas rarezas
+   - Sistema de votación
+   - Backend necesario (Firebase, Supabase, etc.)
+*/

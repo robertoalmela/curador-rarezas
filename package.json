@@ -1,0 +1,25 @@
+{
+  "name": "curador-rarezas",
+  "version": "1.0.0",
+  "description": "Curador automático de rarezas e inspiración con IA y newsletter diario",
+  "type": "module",
+  "scripts": {
+    "update-db": "node scripts/update-database.js",
+    "send-email": "node scripts/send-daily-email.js",
+    "daily": "npm run update-db && npm run send-email"
+  },
+  "dependencies": {
+    "openai": "^4.20.0",
+    "@mailchimp/mailchimp_marketing": "^3.0.80"
+  },
+  "keywords": [
+    "newsletter",
+    "ai",
+    "curation",
+    "web",
+    "art",
+    "underground"
+  ],
+  "author": "",
+  "license": "MIT"
+}

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Curador de Rarezas · Descubrimientos Diarios</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=VT323&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Efecto de fondo animado -->
+    <div class="background-grid"></div>
+    
+    <!-- Header -->
+    <header class="header">
+        <div class="glitch-container">
+            <h1 class="title glitch" data-text="CURADOR DE RAREZAS">CURADOR DE RAREZAS</h1>
+        </div>
+        <p class="subtitle">Descubrimientos que no sabías que necesitabas</p>
+        <div class="date-display">
+            <span id="current-date"></span>
+        </div>
+    </header>
+
+    <!-- Contenedor principal -->
+    <main class="container">
+        <!-- Indicador de carga -->
+        <div id="loading" class="loading">
+            <div class="loading-spinner"></div>
+            <p>Buscando rarezas en los rincones de internet...</p>
+        </div>
+
+        <!-- Grid de descubrimientos -->
+        <div id="discoveries-grid" class="discoveries-grid"></div>
+
+        <!-- Suscripción al newsletter -->
+        <div class="newsletter-container">
+            <h2 class="newsletter-title">¿Quieres recibir rarezas diarias en tu correo?</h2>
+            <p class="newsletter-description">Cada mañana, 6 descubrimientos únicos que nunca volverán a repetirse.</p>
+            <form id="newsletter-form" class="newsletter-form">
+                <input
+                    type="email"
+                    id="email-input"
+                    placeholder="tu@email.com"
+                    required
+                    class="newsletter-input"
+                >
+                <button type="submit" class="newsletter-btn">
+                    <span class="btn-text">Suscribirme</span>
+                    <span class="btn-icon">→</span>
+                </button>
+            </form>
+            <p id="form-message" class="form-message"></p>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <p class="footer-quote">"El mundo es raro. Nosotros también."</p>
+        <p class="footer-sub">Una colección infinita de maravillas olvidadas</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
