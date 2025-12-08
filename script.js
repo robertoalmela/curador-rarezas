@@ -407,6 +407,76 @@ const discoveriesDatabase = [
         url: "https://disquiet.com/",
         description: "Un proyecto comunitario de música electrónica experimental que invita a músicos de todo el mundo a crear piezas sonoras inspiradas por indicaciones semanales. Un laboratorio de innovación auditiva.",
         quote: "La experimentación es la clave de la creación sonora."
+    ,
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://staggeringbeauty.com/",
+        description: "Una serpiente negra baila frenéticamente al ritmo de tus movimientos de ratón, con luces que parpadean y un sonido ensordecedor cuando se agitan demasiado rápido.",
+        quote: "A veces, la belleza tambaleante es la más cautivadora."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "María Nepomuceno",
+        url: "https://www.victoria-miro.com/artists/262-maria-nepomuceno/",
+        description: "Esta artista brasileña teje esculturas orgánicas con colores vibrantes y materiales inesperados, invitando a reflexionar sobre la conexión entre lo natural y lo humano.",
+        quote: "El hilo de la vida se enreda en el arte."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Balloon HQ",
+        url: "http://www.balloonhq.com/",
+        description: "Dedicado al arte y la ciencia de los globos, este sitio explora desde esculturas complicadas hasta fenómenos físicos de volátiles y efímeras criaturas de aire y látex.",
+        quote: "La fragilidad de un globo es su fortaleza más poderosa."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Dinosaur Polo Club's Mini Metro",
+        url: "https://dinopoloclub.com/minimetro/",
+        description: "Un juego estratégico relajante donde dibujas líneas de metro en ciudades que crecen sin cesar, mientras te enfrentas al caos de horarios y pasajeros impacientes.",
+        quote: "Las mejores líneas son las que nunca se detienen."
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "CyberBunk",
+        url: "https://www.cyberbunk.net/",
+        description: "Explora una webcomic que escudriña el mundo del ciberpunk, donde el humor ácido y la crítica social pintan un futuro distópico pero intrínsecamente humano.",
+        quote: "En el futuro, las luces de neón no son lo único eléctrico."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Cory Arcangel's Website",
+        url: "https://www.coryarcangel.com/",
+        description: "Artista relacionado con el net.art, Arcangel utiliza la tecnología y el humor para deconstruir la cultura pop y la estética digital de una era en constante cambio.",
+        quote: "El arte es tan fugaz como la banda ancha."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "Digital Nausea",
+        url: "http://digitalnausea.com/",
+        description: "Un blog de ensayos que busca provocar, reflexionar y a veces incomodar al lector sobre las complejidades de vivir en una era digital delirante.",
+        quote: "Vivir entre píxeles puede ser un mareo constante."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Last Blog",
+        url: "http://lastblog.com/",
+        description: "Una oda nostálgica a los primeros días de los blogs, con reflexiones personales, ensayos y memorias de una era pasada cuando la web todavía era joven e inocente.",
+        quote: "Recordar es revivir en el hipertexto del pasado."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Quiet Volume",
+        url: "https://www.thequietvolume.com/",
+        description: "Una performance participativa en bibliotecas donde susurros y lecturas guiadas crean una narrativa íntima, explorando los límites entre lector, espacio y texto.",
+        quote: "El silencio es el autor más elocuente."
+    },
+    {
+        category: "Música experimental",
+        title: "The Drift",
+        url: "http://www.thedriftproject.com/",
+        description: "Un viaje sonoro que juega con la improvisación y la inmersión, fusionando música ambiental, jazz y electrónica para desafiar la percepción auditiva.",
+        quote: "Dejarse llevar puede ser la única forma de avanzar."
     }
 ];
 
