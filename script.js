@@ -337,7 +337,7 @@ const discoveriesDatabase = [
         url: "https://foldingathome.org/",
         description: "Miles de computadoras trabajando juntas para simular proteínas y curar enfermedades. Colaboración silenciosa.",
         quote: "Los sueños grandes se construyen en silencio distribuido."
-    ,
+    },
     {
         category: "Webs extrañas o inútiles",
         title: "Falling Falling",
