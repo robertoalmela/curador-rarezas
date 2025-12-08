@@ -837,7 +837,77 @@ async function fetchFromHackerNews() {
         console.error('Error fetching from HN:', error);
         return [];
     }
-}
+},
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://www.staggeringbeauty.com",
+        description: "Una obra web interactiva que reacciona de manera sorprendente al movimiento del mouse. Es un paseo visual que sacude el ánimo.",
+        quote: "A veces, la belleza se tambalea en el caos."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Jennifer Glassford",
+        url: "https://cargocollective.com/jenniferglassford",
+        description: "Una artista que explora lo efímero a través de instalaciones hechas de materiales reciclados. Su trabajo es una oda a lo transitorio.",
+        quote: "El arte es un susurro en el viento, apenas audible, pero siempre presente."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Universe Within",
+        url: "http://ncase.me/universe-within/",
+        description: "Un fascinante recorrido interactivo desde lo más grande a lo más pequeño del universo. Es un viaje que desafía la percepción.",
+        quote: "Todo es inmenso y diminuto a la vez."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Notpron Riddle",
+        url: "https://notpron.org/notpron/",
+        description: "Conocido como el 'juego más difícil de la red', Notpron desafía a los jugadores con enigmas que requieren pensar fuera de lo convencional.",
+        quote: "El ingenio es el arte de lo improbable."
+    },
+    {
+        category: "Subculturas",
+        title: "Otaku Pal",
+        url: "https://otaku-pal.com/",
+        description: "Un sitio dedicado a documentar la cultura otaku en Japón y más allá, explorando lo que significa ser un fanático devoto en la era digital.",
+        quote: "La pasión puede convertir lo común en lo extraordinario."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Net Art Anthology",
+        url: "https://anthology.rhizome.org/",
+        description: "Compilación de obras de net.art que han definido y redefinido el arte en la web desde sus inicios. Un museo digital del arte en línea.",
+        quote: "El arte es un virus que infecta el alma."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "Uncomfortable",
+        url: "https://katerinasychova.com/uncomfortable",
+        description: "Una colección de objetos incómodos diseñados para desafiar la utilidad cotidiana y provocar una reflexión sobre su propio uso.",
+        quote: "Lo incómodo nos invita a replantear nuestros hábitos."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "PostSecret",
+        url: "https://postsecret.com/",
+        description: "Un blog donde las personas envían secretos anónimamente en forma de postales. Una mirada íntima a las almas humanas.",
+        quote: "Los secretos son peonzas que giran en el silencio."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Telematic Dreaming",
+        url: "http://www.paolocirio.net/work/telematic-dreaming/",
+        description: "Una performance interactiva a distancia, donde los participantes se comunican a través de proyecciones digitales. Un sueño compartido en la era de la conexión virtual.",
+        quote: "Soñar es viajar sin moverse del sitio."
+    },
+    {
+        category: "Filosofía digital",
+        title: "The Machine Stops",
+        url: "http://archive.ncsa.illinois.edu/prajlich/forster.html",
+        description: "E.M. Forster anticipó nuestra relación con la tecnología en este cuento corto. Una lectura que desafía a repensar nuestra dependencia digital.",
+        quote: "Cuando la máquina se detiene, ¿qué queda de nosotros?"
+    }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
 async function getRandomDiscoveriesFromAPIs() {
