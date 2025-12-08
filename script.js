@@ -437,7 +437,7 @@ const discoveriesDatabase = [
         quote: "Las mejores líneas son las que nunca se detienen."
     },
     {
-        category: "Mundos "under", subculturas",
+        category: "Mundos 'under', subculturas",
         title: "CyberBunk",
         url: "https://www.cyberbunk.net/",
         description: "Explora una webcomic que escudriña el mundo del ciberpunk, donde el humor ácido y la crítica social pintan un futuro distópico pero intrínsecamente humano.",
