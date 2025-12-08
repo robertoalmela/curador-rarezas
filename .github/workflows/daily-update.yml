@@ -6,6 +6,9 @@ on:
     - cron: '0 9 * * *'  # 9 AM UTC cada día
   workflow_dispatch:  # También permite ejecutar manualmente
 
+permissions:
+  contents: write  # Permite hacer commits y push
+
 jobs:
   update-and-send:
     runs-on: ubuntu-latest
