@@ -1216,6 +1216,76 @@ async function fetchFromHackerNews() {
         url: "https://pitchfork.com/reviews/albums/17430-the-disintegration-loops/",
         description: "Una serie de composiciones que capturan el proceso de deterioro magnético de las cintas de audio. La belleza se encuentra en el desvanecimiento y la decadencia.",
         quote: "Hay música en la descomposición, un eco del tiempo desvaneciéndose."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://www.staggeringbeauty.com/",
+        description: "Un gusano negro que responde a cada sacudida del mouse, estallando en una danza de colores asombrosamente psicodélica. Una experiencia hipnotizante en su inutilidad.",
+        quote: "A veces la belleza reside en la pura incomodidad."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Molly Soda",
+        url: "http://mollysoda.exposed/",
+        description: "La artista digital Molly Soda crea obras que exploran la identidad y la vulnerabilidad en la era de las redes sociales, desdibujando las líneas entre lo personal y lo público.",
+        quote: "La intimidad es un campo de batalla digital."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "PostSecret",
+        url: "http://postsecret.com/",
+        description: "Un proyecto comunitario donde personas de todo el mundo envían postales anónimas con secretos, revelando la belleza y el dolor universal de la experiencia humana.",
+        quote: "Todos guardamos un mar de confesiones en nuestros corazones."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Neko Atsume",
+        url: "https://www.nekoatsume.com/",
+        description: "Un encantador juego donde coleccionas virtualmente gatos en tu jardín, celebrando la pasividad y la alegría de lo absurdo en la vida digital.",
+        quote: "A veces, la felicidad se mide en gatos virtuales."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Cyborg Nest",
+        url: "https://www.cyborgnest.net/",
+        description: "Un rincón donde biohackers exploran la fusión del cuerpo humano con lo tecnológico, llevando la noción de humanidad a nuevos horizontes y posibilidades.",
+        quote: "El futuro del ser humano está en la unión entre carne y circuito."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Critter & Guitari",
+        url: "https://www.critterandguitari.com/",
+        description: "Una plataforma de arte modular que combina dispositivos audiovisuales con un toque de estética glitch, permitiendo explorar lo inesperado en cada sonido y pixel.",
+        quote: "La imperfección da lugar a la auténtica belleza."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Immediate Life",
+        url: "http://immediatelife.tumblr.com/",
+        description: "Un viaje visual a través de fragmentos de vida, yuxtaponiendo imágenes que desafían y emocionan, permitiendo que el espectador complete su propio significado.",
+        quote: "La vida no es más que un mosaico de momentos."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Last Psychiatrist",
+        url: "http://thelastpsychiatrist.com/",
+        description: "Un blog provocador y a menudo crítico que explora la psique humana y la cultura moderna, desafiando nuestras suposiciones con un bisturí afilado de ironía.",
+        quote: "La locura es solo una medida de discordancia con la norma."
+    },
+    {
+        category: "Música experimental",
+        title: "People Like Us",
+        url: "https://peoplelikeus.org/",
+        description: "La artista Vicki Bennett crea collages sonoros que desafían las categorías tradicionales, llevando al oyente a un viaje de descubrimiento auditivo único.",
+        quote: "El sonido es solo una narrativa esperando ser contada."
+    },
+    {
+        category: "Filosofía digital",
+        title: "The Digital Beyond",
+        url: "https://www.thedigitalbeyond.com/",
+        description: "Explora el concepto de la muerte digital y el legado de nuestros 'yo' virtuales en un mundo donde lo temporal se vuelve eterno.",
+        quote: "La continuidad de nuestra existencia está enlazada en bits y bytes."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
