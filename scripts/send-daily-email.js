@@ -63,6 +63,23 @@ function saveEmailHistory(history) {
     fs.writeFileSync(historyPath, JSON.stringify(history, null, 2), 'utf-8');
 }
 
+// Devuelve la clave de día (YYYY-MM-DD) usada también en el frontend
+function getDayKey() {
+    const now = new Date();
+    return `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}`;
+}
+
+// Guarda la selección diaria para que la web pueda mostrar las mismas rarezas
+function saveDailySelection(indices) {
+    const selectionPath = path.join(__dirname, 'daily-selection.json');
+    const payload = {
+        date: getDayKey(),
+        indices,
+        generatedAt: new Date().toISOString()
+    };
+    fs.writeFileSync(selectionPath, JSON.stringify(payload, null, 2), 'utf-8');
+}
+
 // Mezcla array
 function shuffle(array) {
     const arr = [...array];
@@ -236,11 +253,15 @@ async function main() {
         console.log(`  ${i + 1}. [${d.category}] ${d.title}`);
     });
 
-    // 4. Envía email
+    // 4. Guarda selección diaria para sincronizar con la web
+    const dailyIndices = dailyDiscoveries.map(d => d.index);
+    saveDailySelection(dailyIndices);
+
+    // 5. Envía email
     console.log('\n📧 Enviando campaña...');
     await sendCampaign(dailyDiscoveries);
 
-    // 5. Actualiza historial
+    // 6. Actualiza historial para no repetir descubrimientos enviados
     dailyDiscoveries.forEach(d => history.sent.push(d.index));
     saveEmailHistory(history);
 

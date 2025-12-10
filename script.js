@@ -691,13 +691,49 @@ function getOrGenerateDailyIndices(count = 6) {
     return dailySelectionIndices;
 }
 
-function loadDailyDiscoveries() {
+// Intenta cargar la selección diaria generada por el script de email (daily-selection.json)
+async function loadDailyDiscoveriesFromServer() {
+    try {
+        const res = await fetch('scripts/daily-selection.json', { cache: 'no-store' });
+        if (!res.ok) return null;
+
+        const data = await res.json();
+        const today = getDayKey();
+        if (!data || data.date !== today || !Array.isArray(data.indices) || data.indices.length === 0) {
+            return null;
+        }
+
+        // Filtra índices inválidos por seguridad
+        const validIndices = data.indices.filter(i => i >= 0 && i < discoveriesDatabase.length);
+        if (validIndices.length === 0) return null;
+
+        // Actualiza estado local para mantener coherencia con el sistema de historial
+        dailySelectionIndices = validIndices;
+        shownDiscoveries = [...validIndices];
+        historyIndices = Array.from(new Set([...(historyIndices || []), ...validIndices]));
+        saveState();
+
+        return validIndices.map(i => discoveriesDatabase[i]);
+    } catch (error) {
+        console.error('No se pudo cargar scripts/daily-selection.json:', error);
+        return null;
+    }
+}
+
+async function loadDailyDiscoveries() {
     showLoading();
 
     // Simula tiempo de carga (puedes reemplazar con fetch real/servidor)
-    setTimeout(() => {
-        const idx = getOrGenerateDailyIndices(6);
-        const items = idx.map(i => discoveriesDatabase[i]);
+    setTimeout(async () => {
+        // 1) Intentar usar la misma selección que el email diario
+        let items = await loadDailyDiscoveriesFromServer();
+
+        // 2) Si falla o no hay selección válida, usar lógica local existente
+        if (!items) {
+            const idx = getOrGenerateDailyIndices(6);
+            items = idx.map(i => discoveriesDatabase[i]);
+        }
+
         renderDiscoveries(items);
         hideLoading();
     }, 600);

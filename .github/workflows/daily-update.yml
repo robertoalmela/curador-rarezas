@@ -53,8 +53,8 @@ jobs:
           BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
         run: node scripts/send-daily-email.js
       
-      # 7. Guarda historial de emails
+      # 7. Guarda historial de emails y selección diaria para la web
       - name: Save email history
         run: |
-          git add scripts/email-history.json || true
+          git add scripts/email-history.json scripts/daily-selection.json || true
           git diff --quiet && git diff --staged --quiet || (git commit -m "📧 Historial de envío actualizado" && git push) || true
