@@ -1110,6 +1110,76 @@ async function fetchFromHackerNews() {
         url: "http://www.irdial.com/conet.htm",
         description: "Grabaciones de números estaciones de onda corta, posiblemente usadas para mensajes de espionaje. La inquietante melodía de lo desconocido.",
         quote: "En el aire, las cifras son los susurros de lo invisible."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Endless Horse",
+        url: "http://endless.horse/",
+        description: "Un sitio que desafía la lógica con un caballo interminable. Desplázate hacia abajo y descubre por cuánto tiempo puedes seguir viendo el caballo sin fin.",
+        quote: "La infinitud es un espacio que solo la imaginación puede recorrer."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "The Art of Jeremy Geddes",
+        url: "http://www.jeremygeddesart.com/",
+        description: "Jeremy Geddes crea mundos etéreos con sus pinturas al óleo, llenos de soledad y misterio. Sus obras evocan un sentimiento de aislamiento surrealista.",
+        quote: "El arte es el lenguaje del silencio."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "This Person Does Not Exist",
+        url: "https://thispersondoesnotexist.com/",
+        description: "Genera rostros humanos realistas de personas que simplemente no existen. Un proyecto que desafía la percepción de la realidad y la identidad.",
+        quote: "La ilusión más convincente es aquella que nunca existió."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Frog Fractions",
+        url: "http://twinbeard.com/frog-fractions",
+        description: "Un juego que empieza siendo sobre fracciones... o eso parece. Pronto, te encontrarás en una travesía surrealista que desafía las expectativas.",
+        quote: "Las matemáticas no son lo que parecen en este lío anfibio."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Dumpster Diving Reddit",
+        url: "https://www.reddit.com/r/DumpsterDiving/",
+        description: "Un rincón de internet donde se comparte la cultura del reciclaje y la reutilización, convirtiendo la basura en tesoro.",
+        quote: "Lo que un hombre tira, otro lo convierte en un arte."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Cyber City Oedo 808 Vaporwave",
+        url: "https://cybercityodvapor.neocities.org/",
+        description: "Un sitio que encapsula la esencia del vaporwave, con una estética cyberpunk que combina pasado, presente y futuro en un solo golpe visual.",
+        quote: "Navega por el ciberespacio; un sueño digital atrapado en un bucle."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Last Message Received",
+        url: "http://thelastmessagereceived.tumblr.com/",
+        description: "Una colección conmovedora de los últimos mensajes recibidos antes de un adiós permanente. Refleja las emociones humanas en su momento más vulnerable.",
+        quote: "Las despedidas escritas resuenan en el eco de la eternidad."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Strange Case of Origami Yoda",
+        url: "http://origamiyoda.wordpress.com/",
+        description: "Un blog sobre una pequeña figura de origami Yoda, que comparte consejos de vida sinceros y divertidos en una sala de escuela.",
+        quote: "Incluso el papel puede doblarse en sabiduría."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Guggenheim's Floating Island",
+        url: "https://www.guggenheim.org/exhibition/robert-smithson-floating-island",
+        description: "Una isla que se desplaza por el río Hudson en un homenaje al artista Robert Smithson. La obra redefine el concepto de escultura y paisaje.",
+        quote: "El arte, como los sueños, a veces necesita flotar libremente."
+    },
+    {
+        category: "Música experimental",
+        title: "The Disintegration Loops",
+        url: "https://pitchfork.com/reviews/albums/17430-the-disintegration-loops/",
+        description: "Una serie de composiciones que capturan el proceso de deterioro magnético de las cintas de audio. La belleza se encuentra en el desvanecimiento y la decadencia.",
+        quote: "Hay música en la descomposición, un eco del tiempo desvaneciéndose."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
