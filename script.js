@@ -970,6 +970,76 @@ async function fetchFromHackerNews() {
         url: "https://disquiet.com/",
         description: "Una comunidad en línea que explora la música experimental, proponiendo desafíos semanales para compositores y creadores sonoros.",
         quote: "El sonido es una frontera infinita, esperando ser explorada."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://www.staggeringbeauty.com/",
+        description: "Un sitio web sorprendentemente inútil pero hipnotizante donde una figura abstracta responde al movimiento de tu ratón con una animación inesperada y vívida.",
+        quote: "El absurdo también tiene su coreografía."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Theo Jansen's Strandbeest",
+        url: "https://www.strandbeest.com/",
+        description: "Theo Jansen crea impresionantes criaturas cinéticas que caminan solas por la playa, fusionando arte e ingeniería en una danza con el viento.",
+        quote: "Cuando el viento sopla, la playa cobra vida."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Quiet Place Project",
+        url: "http://thequietplaceproject.com/",
+        description: "Un refugio digital que te invita a dejar de lado las distracciones del mundo online y disfrutar de instantes de soledad en un espacio virtual tranquilo.",
+        quote: "Encuentra el silencio en la maraña del ruido digital."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Neko Atsume: Kitty Collector",
+        url: "https://www.nekoatsume.com/",
+        description: "Un juego en el que todo lo que haces es colocar juguetes y comida para atraer gatos virtuales a tu jardín, una experiencia tan absurda como encantadora.",
+        quote: "A veces, coleccionar momentos de ternura es suficiente."
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "Cicada 3301",
+        url: "https://cicada3301.github.io/",
+        description: "Un misterioso colectivo que lanzó complejas pruebas de reclutamiento en internet, desafiando la lógica y atrayendo a criptoanalistas y amantes del misterio.",
+        quote: "El camino al conocimiento es laberíntico."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Virtual Dream Foundation",
+        url: "http://www.virtualdreamfoundation.org/",
+        description: "Explora una colección de sueños digitales que evoca las estéticas del net.art y el vaporwave, creando una cartografía onírica del mundo virtual.",
+        quote: "Los sueños también se crean con píxeles."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "This is Sand",
+        url: "https://thisissand.com/",
+        description: "Convierte tu pantalla en un lienzo de arena, dejando que millones de granos virtuales fluyan y formen paisajes únicos. Una idea simple que desafía nuestra percepción de lo tangible.",
+        quote: "Cada grano cuenta una historia."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "BLDGBLOG",
+        url: "https://www.bldgblog.com/",
+        description: "Un blog que explora las fronteras de la arquitectura y el paisaje urbano, desenterrando ideas olvidadas y visiones alternativas del espacio construido.",
+        quote: "Las ciudades son sueños congelados en concreto."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Museum of Broken Relationships",
+        url: "https://brokenships.com/",
+        description: "Una exposición itinerante que colecciona objetos donados por gente de todo el mundo para narrar las historias de relaciones pasadas y pérdidas amorosas.",
+        quote: "Los fragmentos del corazón son arte en potencia."
+    },
+    {
+        category: "Filosofía digital",
+        title: "The Center for Humane Technology",
+        url: "https://www.humanetech.com/",
+        description: "Un movimiento que busca rediseñar la tecnología poniendo en el centro el bienestar humano, cuestionando la naturaleza de nuestras interacciones digitales.",
+        quote: "La verdadera innovación está en humanizar la tecnología."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
