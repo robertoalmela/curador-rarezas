@@ -1286,6 +1286,76 @@ async function fetchFromHackerNews() {
         url: "https://www.thedigitalbeyond.com/",
         description: "Explora el concepto de la muerte digital y el legado de nuestros 'yo' virtuales en un mundo donde lo temporal se vuelve eterno.",
         quote: "La continuidad de nuestra existencia está enlazada en bits y bytes."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Cyborg Name Generator",
+        url: "http://cybernations.wikia.com/wiki/Cyborg_Name_Generator",
+        description: "Un sitio que te asigna un nombre de cyborg, con títulos tan curiosos como 'Quantum-C-Unit'. Es inútil, pero irresistiblemente entretenido.",
+        quote: "¿Qué nombre tendría tu versión robótica?"
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "The Art of Jolene Lau",
+        url: "https://www.jolene-lau.com/",
+        description: "Jolene Lau se adentra en lo surrealista con sus coloridas y oníricas ilustraciones que invitan a perderse en mundos de ensueño.",
+        quote: "La realidad parece un sueño cuando el arte llama."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Quiet Place Project",
+        url: "https://thequietplaceproject.com/",
+        description: "Un refugio digital para desconectar del ruido y encontrar paz. Sin notificaciones ni distracciones, un espacio para sólo estar.",
+        quote: "La tranquilidad no tiene precio, pero puede tener URL."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Sandspiel",
+        url: "https://sandspiel.club/",
+        description: "Un juego que simula la física de partículas de manera relajante, creando paisajes únicos con elementos como agua, fuego y plantas.",
+        quote: "Construye mundos de arena donde la física es poesía."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Post-Internet Survival Guide",
+        url: "https://pismoresearch.org/guide",
+        description: "Una guía para comprender las subculturas digitales que emergen tras el colapso de internet tal como lo conocemos.",
+        quote: "Sobreviviendo a lo que viene después del fin digital."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Glitch Art Collective",
+        url: "https://glitchart.com/",
+        description: "Un colectivo que celebra los errores visuales como forma de arte, transformando fallos digitales en vibrantes obras creativas.",
+        quote: "El error en la máquina tiene su propia belleza."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "A Philosophy of Boredom",
+        url: "https://philosophyofboredom.com/",
+        description: "Un blog dedicado a explorar el concepto de aburrimiento como estímulo intelectual y creativo, más que un estado de apatía.",
+        quote: "El aburrimiento es un prisma que refracta la creatividad."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Encyclopedia Obscura",
+        url: "http://www.encyclopediaobscura.com/",
+        description: "Una colección de entradas que documentan lo extraño y lo maravilloso en tópicos históricos, científicos y culturales.",
+        quote: "Explorando los márgenes de la curiosidad."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Invisible Exhibition",
+        url: "https://invisibleexhibition.com/",
+        description: "Una exposición que desafía los sentidos al explorar el arte desde la ceguera, guiando a los participantes en la oscuridad.",
+        quote: "Cuando el arte se siente más allá de lo visible."
+    },
+    {
+        category: "Música experimental",
+        title: "Disquiet Junto",
+        url: "https://disquiet.com/category/junto/",
+        description: "Un colectivo de músicos experimentales que semanalmente crean piezas basadas en instrucciones específicas, desafiando los límites del sonido.",
+        quote: "Cuando la música se convierte en un experimento semanal."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
