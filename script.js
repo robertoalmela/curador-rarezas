@@ -1356,6 +1356,76 @@ async function fetchFromHackerNews() {
         url: "https://disquiet.com/category/junto/",
         description: "Un colectivo de músicos experimentales que semanalmente crean piezas basadas en instrucciones específicas, desafiando los límites del sonido.",
         quote: "Cuando la música se convierte en un experimento semanal."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Patatap",
+        url: "https://patatap.com/",
+        description: "Un sitio donde cada tecla del teclado genera un sonido y una animación única. Es una experiencia sensorial que transforma el aburrimiento en un juego audiovisual.",
+        quote: "La música es el espacio entre las notas."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Chrisilyst",
+        url: "https://chrisilyst.com/",
+        description: "Chrisilyst es un artista autodidacta que crea simultáneamente caos y orden usando líneas y patrones repetitivos. Sus obras son embriagadoras y reflejan un universo paralelo de geometría infinita.",
+        quote: "Las líneas son universos en expansión."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Infinite Conversation",
+        url: "https://infiniteconversation.com/",
+        description: "Este proyecto utiliza inteligencia artificial para generar una conversación interminable entre dos filósofos podrían discutir eternamente sobre el universo, el arte y la existencia.",
+        quote: "El diálogo sin fin es el eco del pensamiento humano."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "QWOP",
+        url: "http://www.foddy.net/Athletics.html",
+        description: "En este simulador de atletismo, controlarás a un corredor con las teclas Q, W, O y P, en una experiencia tan frustrante como divertida. El desafío yace en mover las piernas correctamente.",
+        quote: "El fracaso está a solo un paso en falso."
+    },
+    {
+        category: "Subculturas",
+        title: "Vapor95",
+        url: "https://vapor95.com/blogs/vapor95-blog",
+        description: "Explora un blog que se sumerge en la cultura vaporwave, una subcultura que mezcla nostalgia, música retro y saturación visual para crear una estética nostálgica y futurista a la vez.",
+        quote: "El pasado y el futuro colisionan en la memoria digital."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Fractal Lab",
+        url: "http://hirnsohle.de/test/fractalLab/",
+        description: "Un generador interactivo de fractales en 3D que te permite explorar y crear tus propios patrones fractales. Es un viaje hipnótico hacia el infinito matemático.",
+        quote: "Los fractales son las huellas digitales del universo."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "Weird Box",
+        url: "https://weirdbox.tv/",
+        description: "Weird Box inserta tus fotos de Instagram en un cortometraje interactivo donde las redes sociales se funden con un thriller surrealista.",
+        quote: "Cuando la realidad y la ficción colisionan, nace lo extraño."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Last Blog",
+        url: "http://www.thelastblog.com/",
+        description: "Un blog encantadoramente anacrónico que continúa publicando reflexiones, poesía y arte en la era de la inmediatez digital. Un refugio para el pensamiento prolongado.",
+        quote: "Las palabras escritas son relojes que desafían el tiempo."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Mono-Ha",
+        url: "https://www.tate.org.uk/art/art-terms/m/mono-ha",
+        description: "Explora la filosofía y obras de Mono-Ha, el movimiento artístico japonés que utilizaba materiales naturales y objetos industriales para desafiar las percepciones tradicionales del arte.",
+        quote: "El arte es la danza del orden y el caos."
+    },
+    {
+        category: "Música experimental",
+        title: "Radiophonic Workshop",
+        url: "https://www.bbc.co.uk/programmes/articles/4LT8Lr8w4m3n8LtqNF04mCz/the-radiophonic-workshop",
+        description: "Revive el legado de un colectivo pionero de la BBC, que revolucionó la música experimental y los efectos de sonido en la radio y televisión del siglo XX.",
+        quote: "El sonido es la materia prima de la imaginación."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
