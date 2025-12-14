@@ -1496,6 +1496,76 @@ async function fetchFromHackerNews() {
         url: "https://glassbead.org/",
         description: "Una revista y proyecto filosófico que explora la intersección de la ciencia, el arte y la filosofía. Un juego intelectual de conexiones.",
         quote: "Todo está conectado en el vasto juego del conocimiento."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Zoom Quilt",
+        url: "http://zoomquilt.org/",
+        description: "Zoom Quilt es una alucinante experiencia visual que parece no tener final. Se trata de una colaboración entre múltiples artistas para crear una imagen infinita y en constante zoom, generando un efecto hipnótico y surreal.",
+        quote: "La infinitud del arte no tiene límites ni bordes."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Joel-Peter Witkin",
+        url: "https://www.edelmangallery.com/joel-peter-witkin",
+        description: "El universo de Joel-Peter Witkin es oscuro y provocador. Sus fotografías desafían las normas del arte convencional, explorando temas de muerte, sexualidad y religión de una manera perturbadora.",
+        quote: "Donde existe la controversia, el arte respira."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Pheromone Synthesizer",
+        url: "https://www.artlery.com/art/The-Pheromone-Synthesizer-13189",
+        description: "Un extraño proyecto que busca replicar feromonas humanas mediante una máquina. Esta obra experimental combina ciencia y arte para hacer visible lo invisible e inaudito.",
+        quote: "Los olores también cuentan historias que nadie escucha."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Isle of Tune",
+        url: "http://isleoftune.com/",
+        description: "Isle of Tune te permite crear música a través de la construcción de una ciudad musical. Cada elemento del entorno genera un sonido, sumergiéndote en un mundo donde la urbanización se convierte en sinfonía.",
+        quote: "Edificando melodías en el vasto terreno de la imaginación."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Furscience",
+        url: "https://furscience.com/",
+        description: "Furscience es un espacio dedicado al estudio científico de la comunidad 'furry'. Aquí se exploran los aspectos culturales, sociales y psicológicos de esta vibrante subcultura.",
+        quote: "En el pelaje se encuentran historias más profundas de lo que se ve."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Hyper Geography",
+        url: "https://www.hypergeography.tumblr.com/",
+        description: "Un blog visual que desafía la percepción del espacio y la geografía. A través de collages digitales, Hyper Geography crea una experiencia estética única y desorientadora.",
+        quote: "El mundo en un collage pixelado y sin fronteras."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "Dead Drops",
+        url: "https://deaddrops.com/",
+        description: "Dead Drops es una red de intercambio de archivos fuera de línea en espacios públicos. USBs cementados en paredes urbanas invitan a una reflexión sobre la privacidad digital.",
+        quote: "Los secretos mejor guardados pueden estar al alcance de todos."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Obscure Hollow",
+        url: "https://theobscurehollow.blogspot.com/",
+        description: "Un blog que explora casas antiguas, encantadas y estéticamente inquietantes. The Obscure Hollow te invita a un viaje a través del tiempo y la arquitectura olvidada.",
+        quote: "Entre las ruinas yace la memoria de lo que fue."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Ryoji Ikeda's Data-verse",
+        url: "https://ryojiikeda.com/project/data-verse/",
+        description: "Ryoji Ikeda manipula datos en una serie de performances audiovisuales que transforman información en arte sensorial. Data-verse es una sinfonía moderna de bits y bytes.",
+        quote: "En el caos del código, la belleza encuentra su orden."
+    },
+    {
+        category: "Música experimental",
+        title: "Plunderphonics by John Oswald",
+        url: "http://www.plunderphonics.com/",
+        description: "John Oswald desafía la música convencional al remezclar y reorganizar sonidos existentes en nuevas composiciones. Este acto de 'plunderphonics' cuestiona los límites de la autoría musical.",
+        quote: "La música es un río en constante remolino."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
