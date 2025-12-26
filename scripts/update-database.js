@@ -89,6 +89,36 @@ function getExistingURLs(database) {
     return database.map(d => d.url);
 }
 
+// Extrae un objeto JSON desde una respuesta que puede traer texto extra o markdown
+function extractJsonObject(text) {
+    if (!text) return null;
+
+    // Quita fences de markdown si existen
+    const noFences = String(text)
+        .replace(/```json\s*/gi, '')
+        .replace(/```\s*/g, '')
+        .trim();
+
+    // Caso ideal: es JSON puro
+    try {
+        return JSON.parse(noFences);
+    } catch (_) {
+        // sigue intentando
+    }
+
+    // Fallback: recorta desde el primer "{" hasta el último "}"
+    const start = noFences.indexOf('{');
+    const end = noFences.lastIndexOf('}');
+    if (start === -1 || end === -1 || end <= start) return null;
+
+    const candidate = noFences.slice(start, end + 1);
+    try {
+        return JSON.parse(candidate);
+    } catch (_) {
+        return null;
+    }
+}
+
 // Llama a OpenAI para generar nuevos descubrimientos
 async function generateDiscoveries(existingUrls) {
     console.log('🤖 Consultando a la IA...');
@@ -108,17 +138,20 @@ Ahora genera 10 nuevos descubrimientos únicos:`;
                 { role: 'system', content: 'Eres un curador experto en cultura underground y rarezas de internet.' },
                 { role: 'user', content: fullPrompt }
             ],
+            // Pide explícitamente un objeto JSON para minimizar respuestas con texto extra
+            response_format: { type: 'json_object' },
             temperature: 0.9,
             max_tokens: 3000
         });
 
-        const content = response.choices[0].message.content.trim();
-        
-        // Intenta parsear JSON
-        // Elimina markdown si hay (```json ... ```)
-        const cleaned = content.replace(/```json\n?/g, '').replace(/```\n?/g, '');
-        const parsed = JSON.parse(cleaned);
-        
+        const raw = (response?.choices?.[0]?.message?.content ?? '').trim();
+        const parsed = extractJsonObject(raw);
+
+        if (!parsed || typeof parsed !== 'object') {
+            console.error('❌ Respuesta no parseable como JSON. Primeros 500 chars:', raw.slice(0, 500));
+            return [];
+        }
+
         return parsed.discoveries || [];
     } catch (error) {
         console.error('❌ Error al generar descubrimientos:', error);
