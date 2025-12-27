@@ -1636,6 +1636,76 @@ async function fetchFromHackerNews() {
         url: "https://disquiet.com/",
         description: "Comunidad de músicos que participan en desafíos semanales para crear música experimental. Una colmena de creatividad sónica que explora los límites del sonido en la era digital.",
         quote: "Cada nota es un paso hacia lo desconocido."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Zoomquilt",
+        url: "http://zoomquilt.org/",
+        description: "Un viaje visual interminable a través de un paisaje surrealista que se expande y contrae en un bucle infinito. Cada imagen fluye hacia la siguiente, creando una ilusión hipnótica que desafía la percepción del espacio.",
+        quote: "El infinito es un enigma envuelto en la eternidad."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Anne van der Linden",
+        url: "http://annevanderlinden.net/",
+        description: "Anne van der Linden es una pintora y dibujante cuyo trabajo explora lo grotesco, lo sensual y lo subversivo. Sus obras provocativas desdibujan las fronteras entre el cuerpo y la mente, desafiando las normas artísticas convencionales.",
+        quote: "Lo grotesco revela aquello que la belleza esconde."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Human Clock",
+        url: "http://www.humanclock.com/",
+        description: "Una curiosa colección de fotografías que muestran personas sosteniendo el tiempo. Cada minuto del día se representa con una imagen diferente, creando una cápsula del tiempo visual que cambia constantemente.",
+        quote: "El tiempo es un mosaico de momentos efímeros."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Neko Atsume",
+        url: "http://nekoatsume.com/",
+        description: "Un juego encantadormente absurdo donde el objetivo es atraer gatos virtuales a tu jardín con juguetes y comida. Imagina un mundo donde los felinos son la única preocupación, proporcionando una satisfacción inesperadamente serena.",
+        quote: "La simplicidad del juego es un refugio de tranquilidad."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Ghost Town Cafe",
+        url: "https://ghosttowncafe.neocities.org/",
+        description: "Un rincón digital dedicado a la exploración de lo paranormal y lo inexplicado. Esta comunidad online fomenta el intercambio de historias de encuentros sobrenaturales, avistamientos de ovnis y lo inexplicable.",
+        quote: "Lo desconocido es un eco del mundo que no vemos."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Glitché App Showcase",
+        url: "https://glitche.com/",
+        description: "Explora las posibilidades del arte en la era digital con Glitché, una aplicación que transforma las imágenes cotidianas en obras glitch art. Los ejemplos presentados muestran la belleza oculta en el error.",
+        quote: "El caos puede ser tan hermoso como el orden."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "PostSecret",
+        url: "https://postsecret.com/",
+        description: "Un proyecto comunitario donde las personas envían sus secretos de forma anónima en postales. El espacio se convierte en un lienzo para confesiones humanas, desde lo cómico hasta lo trágico.",
+        quote: "Los secretos son las sombras del alma."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Things Organized Neatly",
+        url: "http://thingsorganizedneatly.tumblr.com/",
+        description: "Un blog dedicado a la organización visual, donde los objetos cotidianos se transforman en arte a través del orden y la simetría. Una oda a la armonía en las pequeñas cosas de la vida.",
+        quote: "El orden revela lo sublime en lo cotidiano."
+    },
+    {
+        category: "Experimentos sociales",
+        title: "We Feel Fine",
+        url: "http://www.wefeelfine.org/",
+        description: "Este proyecto recopila sentimientos humanos de blogs en todo el mundo, creando una representación visual de las emociones colectivas. Una exploración poética de la humanidad a través de los datos.",
+        quote: "Cada sentimiento es un latido en el corazón del mundo."
+    },
+    {
+        category: "Filosofía digital",
+        title: "The Cyborg Manifesto",
+        url: "https://theanarchistlibrary.org/library/donna-haraway-a-cyborg-manifesto",
+        description: "Un ensayo seminal de Donna Haraway que desafía las definiciones tradicionales de naturaleza, cultura y tecnología. Propone una visión radical del futuro posthumano a través del lente del ciborg.",
+        quote: "El futuro será híbrido o no será."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
