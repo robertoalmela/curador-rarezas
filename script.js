@@ -1776,6 +1776,76 @@ async function fetchFromHackerNews() {
         url: "http://thequietplaceproject.com/",
         description: "Un espacio virtual diseñado para desconectar del ruido digital, invitando al visitante a un refugio de tranquilidad y meditación sencilla. Aquí, el silencio es un lujo indulgente.",
         quote: "Desconectar para conectarse con uno mismo."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Patience is a Virtue",
+        url: "https://patience-is-a-virtue.org/",
+        description: "Un sitio que celebra la paciencia, con una sola página que se carga infinitamente y sin ofrecer nada más que la experiencia de esperar. Una oda a lo inútil en la era de la instantaneidad.",
+        quote: "A veces, esperar es lo único que podemos hacer."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Don Porcella",
+        url: "http://www.donporcella.com/",
+        description: "Don Porcella utiliza limpiapipas para crear esculturas coloridas y absurdas que redefinen el significado de lo efímero y lo cotidiano, mostrando otro ángulo del arte contemporáneo.",
+        quote: "El arte es la reimaginación de lo ordinario."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Weird Box",
+        url: "http://weirdbox.tv/",
+        description: "Un proyecto interactivo donde puedes ver tus fotos de Instagram en una extraña y surrealista caja de televisión, cuestionando la relación entre tecnología e identidad.",
+        quote: "Mira cómo te ve la pantalla."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "A Dark Room",
+        url: "http://adarkroom.doublespeakgames.com/",
+        description: "Un juego de texto minimalista que comienza con una simple habitación oscura y se convierte en una épica experiencia de supervivencia, exploración y misterio.",
+        quote: "En la oscuridad es donde realmente despertamos."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "DeepDream Viewer",
+        url: "https://deepdreamviewer.com/",
+        description: "Explora el surrealista universo del algoritmo DeepDream, donde las imágenes son reimaginadas con un toque psicodélico y un vistazo a la percepción artificial.",
+        quote: "Las máquinas también sueñan."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Glitché Art",
+        url: "https://www.glitche.com/",
+        description: "Una aplicación que permite crear glitch art en dispositivos móviles, descompone y distorsiona imágenes para transformarlas en obras de arte digital únicas.",
+        quote: "La belleza en el error."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Quiet Place Project",
+        url: "http://thequietplaceproject.com/",
+        description: "Un refugio digital del ruido y el caos de internet, ofreciendo espacios de tranquilidad virtual para la reflexión y el silencio en medio de la saturación digital.",
+        quote: "Encuentra la calma en un mundo ruidoso."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Hyperbole and a Half",
+        url: "http://hyperboleandahalf.blogspot.com/",
+        description: "Con humor e ilustraciones crudamente honestas, este blog explora la vida con una mirada irónica y conmovedora, ofreciendo un espacio para la risa y la reflexión.",
+        quote: "La vida es una tragicomedia de dibujos."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Luminiferous Aether",
+        url: "https://www.luminiferousaether.com/",
+        description: "Una exposición virtual que combina arte, ciencia y filosofía para explorar la noción del éter luminífero en un espacio digital envolvente lleno de misterio.",
+        quote: "Más allá de lo visible reside la verdadera luz."
+    },
+    {
+        category: "Música experimental",
+        title: "Disquiet Junto",
+        url: "https://disquiet.com/",
+        description: "Una comunidad sonora en línea dedicada a la música experimental, que cada semana propone un desafío creativo para explorar nuevos horizontes musicales.",
+        quote: "El sonido es una exploración infinita."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
