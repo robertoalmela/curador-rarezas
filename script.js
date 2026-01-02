@@ -2056,6 +2056,76 @@ async function fetchFromHackerNews() {
         url: "https://www.digitalphilosophy.org/",
         description: "Un espacio donde se discuten las implicaciones filosóficas de la tecnología y el mundo digital. Es un foro de ideas para quienes cuestionan y reimaginan el futuro.",
         quote: "Pensar digitalmente es pensar en el entramado de nuestras realidades conectadas."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Zombo Com",
+        url: "http://www.zombo.com/",
+        description: "Un sitio web minimalista que celebra la libertad de hacer cualquier cosa. Su mantra constante es que todo es posible en Zombo Com, un recordatorio de los inicios del internet surrealista.",
+        quote: "The only limit is yourself."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Ben Wilson: El artista del chicle",
+        url: "https://www.benwilsonchewinggumman.com/",
+        description: "Ben Wilson transforma chicles desechados en auténticas obras de arte urbano. Estas miniaturas pintadas en las calles de Londres son un testimonio de cómo lo desechable puede convertirse en arte único.",
+        quote: "Even the ground we walk on holds stories."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Telephant",
+        url: "https://www.telephant.me/",
+        description: "Un proyecto experimental que explora las conexiones humanas a través de llamadas telefónicas anónimas. Cada llamada es una ventana a una conversación inesperada, un puente temporal entre desconocidos.",
+        quote: "Every conversation is an untold story waiting to unfold."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Dunkey's Big No-No",
+        url: "https://bontegames.com/2015/05/dunkeys-big-no-no.html",
+        description: "Un juego absurdo e incómodo donde tu misión es literalmente no hacer nada. La experiencia se convierte en una reflexión sobre el sentido de propósito en actividades aparentemente vacías.",
+        quote: "Sometimes doing nothing is the greatest adventure."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Art of Glitch",
+        url: "https://www.artofglitch.com/",
+        description: "Esta plataforma celebra los errores digitales y los convierte en arte. Cada glitch es una oportunidad de ver la belleza oculta en los fallos del sistema, transformando lo defectuoso en fascinante.",
+        quote: "Imperfection is the new perfection."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Quiet Place Project",
+        url: "http://thequietplaceproject.com/",
+        description: "Una iniciativa que ofrece espacios virtuales para desconectarse y encontrar un momento de paz. En un mundo saturado de estímulos, esta página es un refugio para la mente.",
+        quote: "In silence, the mind finds its true voice."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Flaming Lips' Imaginary Blog",
+        url: "http://flaminglipsimaginaryblog.blogspot.com/",
+        description: "Un blog aparentemente olvidado de The Flaming Lips, repleto de ideas disparatadas, arte excéntrico y reflexiones poéticas. Un rincón digital que captura la esencia caótica de la banda.",
+        quote: "Reality is a canvas for the imagination."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Quiet Ensemble's Performances",
+        url: "http://quietensemble.com/",
+        description: "Este colectivo italiano de artistas mezcla tecnología, naturaleza y música para crear performances donde lo cotidiano se transforma en arte sublime. Cada espectáculo es un ballet silencioso de lo inesperado.",
+        quote: "In the ordinary, we find the extraordinary."
+    },
+    {
+        category: "Música experimental",
+        title: "Disquiet Junto",
+        url: "https://disquiet.com/",
+        description: "Una comunidad de músicos que exploran el sonido y la composición experimental. Cada semana, un nuevo reto impulsa a los artistas a cruzar los límites de lo convencional.",
+        quote: "Sound is the playground of the mind."
+    },
+    {
+        category: "Filosofía digital",
+        title: "Digital Philosophy",
+        url: "https://digitalphilosophy.org/",
+        description: "Una exploración filosófica del impacto del entorno digital en nuestra percepción de la realidad. Ofrece ensayos y reflexiones profundas sobre el cruce entre tecnología y existencialismo.",
+        quote: "In bytes and pixels, we seek meaning beyond the virtual."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
