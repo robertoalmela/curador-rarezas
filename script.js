@@ -2336,6 +2336,76 @@ async function fetchFromHackerNews() {
         url: "https://www.youtube.com/c/PhilosophyTube",
         description: "Un canal de YouTube que transforma la filosofía en un arte visual y accesible. Cada video es una reflexión profunda sobre sociedad, política y tecnología.",
         quote: "La filosofía es el código fuente de nuestros pensamientos."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Zoom Quilt",
+        url: "http://zoomquilt.org/",
+        description: "Una experiencia visual hipnótica que te sumerge en un viaje interminable de imágenes que se entrelazan, creando un efecto de zoom infinito. Es una ventana a un universo que nunca deja de expandirse.",
+        quote: "El viaje nunca termina, solo evoluciona en nuevas formas."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Molly Soda",
+        url: "http://mollysoda.exposed/",
+        description: "La artista digital Molly Soda explora la relación entre la feminidad, la cultura de internet y la identidad a través de gifs, videos y redes sociales. Combina nostalgia con crítica cultural en un collage digital.",
+        quote: "Internet es el espejo donde se refleja nuestra sociedad coloreada."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Secret Door",
+        url: "http://www.mapcrunch.com/",
+        description: "Tras un clic, esta web te transporta a un rincón aleatorio del mundo a través de Google Street View, recordándonos que cada lugar tiene su propia historia esperando ser descubierta.",
+        quote: "Cada puerta que abrimos es un nuevo mundo por explorar."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Neko Atsume",
+        url: "http://nekogamestudio.com/atsume/",
+        description: "Un juego encantador y sin pretensiones, donde los jugadores coleccionan gatos digitales simplemente colocando juguetes y comida en su jardín. Un tributo al deleite de lo simple y cotidiano.",
+        quote: "La felicidad puede encontrarse en las cosas más simples, como un gato en tu jardín."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "The Church of the SubGenius",
+        url: "http://www.subgenius.com/",
+        description: "Una parodia religiosa fundida con la cultura pop, esta organización satírica desafía las convenciones con humor absurdo, iconografía bizarra y una dogma de 'Slack'.",
+        quote: "La verdad puede ser tan absurda como el más ridículo de los mitos."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Internet Archaeology",
+        url: "http://www.internetarchaeology.org/",
+        description: "Un proyecto dedicado a preservar y celebrar las estéticas web de los años 90, Internet Archaeology es un homenaje a los días de los sitios GeoCities y el HTML rudimentario.",
+        quote: "Lo que una vez fue moderno, ahora es arqueología digital."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "PostSecret",
+        url: "http://www.postsecret.com/",
+        description: "Un proyecto comunitario que invita a las personas a enviar postales anónimamente revelando sus secretos más íntimos, creando un mosaico de experiencias humanas compartidas.",
+        quote: "En cada secreto, una verdad compartida."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Forgotten Language",
+        url: "http://forgottenlanguages-full.forgottenlanguages.org/",
+        description: "Un enigmático blog que mezcla lingüística, criptografía y teoría de conspiración, cautivando con su lenguaje propio y textos crípticos que parecen desafiar nuestra percepción de la realidad.",
+        quote: "Lo olvidado siempre deja rastros para quien sabe mirar."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Telematic Dreaming",
+        url: "http://www.palatank.com/tele-dream/",
+        description: "Esta obra de arte de Paul Sermon conecta dos camas físicas en ubicaciones diferentes mediante videoconferencia, permitiendo a las personas interactuar y soñar juntas a través de mundos virtuales.",
+        quote: "Sueños compartidos trascienden las fronteras físicas."
+    },
+    {
+        category: "Música experimental",
+        title: "People Like Us",
+        url: "http://peoplelikeus.org/",
+        description: "Un fascinante proyecto de collage sonoro que recontextualiza fragmentos de música y sonido para crear composiciones que son a la vez nostálgicas y radicalmente nuevas.",
+        quote: "El pasado resuena en nuestras creaciones más nuevas."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
