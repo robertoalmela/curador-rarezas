@@ -2546,6 +2546,76 @@ async function fetchFromHackerNews() {
         url: "https://thequietus.com/sections/mix",
         description: "Una colección de mixtapes que desafía los géneros musicales, explorando nuevos territorios sónicos y ofreciendo una experiencia auditiva que es tanto un reto como un deleite. Aquí, la música se convierte en un paisaje a explorar.",
         quote: "El sonido es un universo sin fronteras."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Zoom Quilt",
+        url: "http://zoomquilt.org/",
+        description: "Una web que te invita a un viaje visual interminable a través de una obra de arte que se expande constantemente. Cada cuadro te absorbe en un horizonte hipnótico.",
+        quote: "En el infinito, siempre hay espacio para un poco más de maravilla."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Lena Gieseke",
+        url: "http://lenagieseke.com/",
+        description: "Artista digital que reimagina el mundo de manera tridimensional, explorando la intersección entre el arte tradicional y la tecnología moderna. Su trabajo es un enigma para los sentidos.",
+        quote: "Dibujar en tres dimensiones es escribir en el aire."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "You Are Listening To",
+        url: "http://youarelistening.to/",
+        description: "Esta web mezcla transmisiones de radio policial con paisajes sonoros ambientales, creando una banda sonora envolvente que te sumerge en el pulso de la ciudad.",
+        quote: "Las ciudades, como los sueños, están construidas de deseos y miedos."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Sandspiel",
+        url: "https://sandspiel.club/",
+        description: "Un juego de simulación de física de arena donde puedes crear y destruir mundos, todo en un espacio pixelado y satisfactorio. Ideal para perderse en la hora de la nada.",
+        quote: "La creación es un acto de pura libertad."
+    },
+    {
+        category: "Mundos under, subculturas",
+        title: "We Make Money Not Art",
+        url: "https://we-make-money-not-art.com/",
+        description: "Un blog dedicado a explorar el arte contemporáneo más raro e impactante. Un rincón donde se encuentran tecnología, política y expresión artística de lo no convencional.",
+        quote: "El arte no es un espejo para reflejar el mundo, sino un martillo para forjarlo."
+    },
+    {
+        category: "Estéticas raras",
+        title: "GLTI.CH Karaoke",
+        url: "http://www.gltchkrk.com/",
+        description: "GLTI.CH Karaoke es una experiencia visual donde las lyrics de karaoke se mezclan con estética glitch, creando un espectáculo distorsionado y colorido.",
+        quote: "Las imperfecciones son lo que dan sabor a la vida."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Museum of Everything",
+        url: "http://www.musevery.com/",
+        description: "Un museo que celebra el arte de los invisibles: los autodidactas, los anónimos, los marginales. Un homenaje a la creatividad sin filtros ni reglas.",
+        quote: "En lo que no se ve, reside una belleza inexplorada."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Ghost in the Machine",
+        url: "http://ghostinthemachine.net/",
+        description: "Un blog dedicado a lo extraño y lo inexplicable, donde la cultura pop se encuentra con la filosofía oscura y las rarezas de la vida cotidiana.",
+        quote: "En cada rincón oscuro, hay un misterio esperando a ser descubierto."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Quiet Volume",
+        url: "http://thequietvolume.com/",
+        description: "Un experimento de teatro invisible que tiene lugar en bibliotecas y otros espacios silenciosos, guiado por auriculares. Una coreografía de palabras y susurros.",
+        quote: "En el silencio, la palabra toma su forma más pura."
+    },
+    {
+        category: "Música experimental",
+        title: "Disquiet Junto",
+        url: "https://disquiet.com/",
+        description: "Una comunidad de músicos experimentales que exploran el potencial de lo digital y lo acústico. Cada proyecto es una conversación sónica con lo desconocido.",
+        quote: "La música es el arte de pensar con sonidos."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
