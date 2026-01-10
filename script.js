@@ -2616,6 +2616,76 @@ async function fetchFromHackerNews() {
         url: "https://disquiet.com/",
         description: "Una comunidad de músicos experimentales que exploran el potencial de lo digital y lo acústico. Cada proyecto es una conversación sónica con lo desconocido.",
         quote: "La música es el arte de pensar con sonidos."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://www.staggeringbeauty.com/",
+        description: "Un sitio web hipnótico donde una curiosa criatura es detonada en efectos vibrantes y rítmicos con cada movimiento del cursor. La simplicidad del sitio es su encanto.",
+        quote: "A veces, lo sencillo es lo más sublime."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Enigmatic Sculptures of Sophie Lygon",
+        url: "https://sophielygon.art",
+        description: "Sophie Lygon, una escultora que trabaja con materiales encontrados, crea piezas que parecen relictos de un mundo alternativo. Sus obras invitan a la contemplación de las narrativas no contadas de objetos ordinarios.",
+        quote: "El arte nace en la intersección de lo olvidado y lo redescubierto."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Deep Time Walk",
+        url: "https://www.deeptimewalk.org/",
+        description: "Este proyecto invita a los participantes a caminar 4.6 kilómetros para experimentar la historia completa de la Tierra: cada metro recorrido representa un millón de años. Una mezcla única de aplicación móvil y exploración al aire libre.",
+        quote: "Camina para comprender la eternidad."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Nonsense Dance Machine",
+        url: "https://nonsensedancemachine.com/",
+        description: "Un juego en línea donde puedes crear baile de personajes absurdos al ritmo de música electrónica aleatoria. La interacción es tan impredecible como divertida.",
+        quote: "Bailar es solo un pretexto para el caos organizado."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Letterboxing Community",
+        url: "http://www.letterboxing.org/",
+        description: "Una subcultura de búsqueda de tesoros secreta que combina el arte y la aventura. Los participantes crean cajas ocultas en espacios públicos, compartiendo pistas para encontrarlas.",
+        quote: "El tesoro no es el hallazgo, sino el camino recorrido."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Trash Wave Aesthetic",
+        url: "https://trash-wave.tumblr.com/",
+        description: "Una colección de imágenes y memes que representan la estética del 'Trash Wave', un collage visual de la decadencia digital y el exceso de los años 90.",
+        quote: "En la basura hay belleza si sabes dónde mirar."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Anti-Museum",
+        url: "http://www.anti-museum.com/",
+        description: "Un proyecto que desafía la noción de los museos como guardianes del arte. Presenta arte que no puede capturarse, objetos efímeros y performances que cuestionan la permanencia.",
+        quote: "El arte es como el viento, sólo se siente pero nunca se posee."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Ghost in the Machine",
+        url: "https://ghostinthemachine.wordpress.com/",
+        description: "Un blog que explora relatos de encuentros con la tecnología y lo paranormal, mezclando anécdotas personales con teoría filosófica.",
+        quote: "Hay espíritus escondidos en cada línea de código."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Invisible Art Exhibit",
+        url: "https://www.invisibleartmuseum.com/",
+        description: "Una exhibición curada de obras de arte 'invisibles', donde la imaginación del espectador es el lienzo y la narrativa es libre. Un desafío a la percepción tradicional del arte.",
+        quote: "Lo que no se ve puede ser lo más revelador."
+    },
+    {
+        category: "Música experimental",
+        title: "Infinite Drone Radio",
+        url: "http://www.infinitedroneradio.com/",
+        description: "Una web que transmite drones musicales experimentales ininterrumpidamente. Su atmósfera envolvente es un escape hacia paisajes sonoros interminables.",
+        quote: "El silencio también tiene melodía, sólo hay que saber escucharla."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
