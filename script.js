@@ -2686,6 +2686,76 @@ async function fetchFromHackerNews() {
         url: "http://www.infinitedroneradio.com/",
         description: "Una web que transmite drones musicales experimentales ininterrumpidamente. Su atmósfera envolvente es un escape hacia paisajes sonoros interminables.",
         quote: "El silencio también tiene melodía, sólo hay que saber escucharla."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Zoomquilt",
+        url: "https://zoomquilt.org/",
+        description: "Un tortuoso viaje visual que te sumerge en un continuo interminable de imágenes surrealistas que se conectan en un asombroso bucle sin fin.",
+        quote: "¿Dónde termina el sueño y comienza la realidad?"
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "James Castle",
+        url: "https://jamescastle.com/",
+        description: "Descubre el mundo de James Castle, un artista autodidacta que creó universos de papel y cartón en un lenguaje visual propio, a pesar de ser sordo y mudo.",
+        quote: "Habla el silencio con formas y sombras."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Eternal Echo",
+        url: "https://eternalecho.org/",
+        description: "Una experiencia auditiva interactiva que transforma sonidos cotidianos en ecos musicales infinitos y meditativos, creando ritmos que desafían la percepción del tiempo.",
+        quote: "El sonido es el viaje que nunca termina."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Burrito Galaxy",
+        url: "https://burritogalaxy.com/",
+        description: "Un juego de rol surrealista que mezcla la estética vaporwave con mecánicas absurdas y narrativas delirantes, donde la lógica es tanto el enemigo como el aliado.",
+        quote: "Desertiza tu mente, explora la galaxia burrito."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "The Weird Christian Twitter",
+        url: "https://twitter.com/hashtag/WeirdChristianTwitter",
+        description: "Sumérgete en un rincón singular de Twitter donde la teología se mezcla con memes absurdos y reflexiones profundas, desdibujando las líneas entre fe y humor.",
+        quote: "La divinidad no es siempre solemne."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Data Erasure",
+        url: "https://dataerase.com/",
+        description: "Explora un espacio digital donde el arte glitch celebra la belleza del error, la corrupción de datos y la estética de lo incompleto.",
+        quote: "La imperfección es el nuevo perfecto."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Society of the Spectacle",
+        url: "https://www.marxists.org/reference/archive/debord/society.htm",
+        description: "Un texto esencial de Guy Debord sobre la crítica de la sociedad contemporánea, reflexionando sobre cómo la vida se ha convertido en una representación espectacular.",
+        quote: "La representación ha usurpado la realidad."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Grumpy Old Twentysomething",
+        url: "http://grumpyoldtwentysomething.blogspot.com/",
+        description: "Un blog sarcástico y olvidado que, con humor ácido, ilustra las luchas existenciales de ser adulto en una década incierta.",
+        quote: "La ironía es el bálsamo de una generación confundida."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Quiet Volume",
+        url: "https://anthampton.com/thequietvolume/",
+        description: "Una obra de teatro íntima y silenciosa que se desarrolla en una biblioteca, donde los participantes son guiados en un viaje de susurros y páginas.",
+        quote: "Escuchar es leer con oídos atentos."
+    },
+    {
+        category: "Música experimental",
+        title: "The Disquiet Junto",
+        url: "https://disquiet.com/junto/",
+        description: "Una comunidad de música experimental que desafía a los compositores a crear piezas conceptuales basadas en desafíos semanales, explorando el sonido de maneras innovadoras.",
+        quote: "La música es el arte de transformar el aire."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
