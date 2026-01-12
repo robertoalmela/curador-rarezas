@@ -2756,6 +2756,76 @@ async function fetchFromHackerNews() {
         url: "https://disquiet.com/junto/",
         description: "Una comunidad de música experimental que desafía a los compositores a crear piezas conceptuales basadas en desafíos semanales, explorando el sonido de maneras innovadoras.",
         quote: "La música es el arte de transformar el aire."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://staggeringbeauty.com/",
+        description: "Una serpiente negra ondulante que reacciona de manera caótica y psicodélica cuando mueves tu mouse de forma rápida. Inútil, pero hipnótico.",
+        quote: "A veces, el caos es la mejor forma de belleza."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "The Art of Lin Onus",
+        url: "https://www.artgallery.nsw.gov.au/collection/artists/onus-lin/",
+        description: "Lin Onus fue un artista aborigen australiano cuyo trabajo desafía las convenciones del arte indígena y combina elementos surrealistas con iconografía cultural.",
+        quote: "El arte es un puente entre mundos, visibles e invisibles."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Solar Protocol",
+        url: "https://solarprotocol.net/",
+        description: "Un servidor web experimental que funciona con energía solar, rediseñando nuestra relación con la energía y la tecnología. Cuando el sol no brilla, el servidor descansa.",
+        quote: "La naturaleza dicta el ritmo, nosotros lo seguimos."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "NAYA's Realm",
+        url: "https://nayarealm.tumblr.com/",
+        description: "Un viaje experimental en un universo visual interactivo. Pierde el sentido del tiempo mientras exploras sus formas impredecibles.",
+        quote: "La exploración es un juego donde las reglas se escriben en cada paso."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "El Mundo de los ARGs",
+        url: "https://forums.unfiction.com/forums/",
+        description: "Sumérgete en los ARGs (Alternate Reality Games) donde la comunidad global se reúne para jugar, desconcertar y crear mundos alternativos.",
+        quote: "La realidad tiene más capas de las que el ojo puede ver."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Glitch Artists Collective",
+        url: "https://www.facebook.com/groups/626626184057327/",
+        description: "Un colectivo vibrante que celebra la estética del error en el arte digital. Aquí, la imperfección es una forma de arte.",
+        quote: "El error también es un lenguaje, uno que revela lo oculto."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "Privacidad vs. Transparencia",
+        url: "https://shmoocon.org/",
+        description: "Conferencia que reúne a hackers, tecnólogos y pensadores alrededor del mundo para discutir y empujar los límites de la privacidad y la transparencia digital.",
+        quote: "Lo que escondemos revela quiénes creemos ser."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Stone - NY Times",
+        url: "https://archive.nytimes.com/opinionator.blogs.nytimes.com/category/the-stone/",
+        description: "Un espacio casi olvidado que albergaba artículos de filosofía discutidos por voces contemporáneas. Reflexiones profundas sobre la vida, el arte y la humanidad.",
+        quote: "El pensamiento es un arte en sí mismo, uno que nunca deja de evolucionar."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Swarm",
+        url: "https://www.thesunshinefactory.co.uk/the-swarm/",
+        description: "Una performance interactiva donde una multitud de drones coreografiados bailan, reflejando la danza de la humanidad en su búsqueda de conexión.",
+        quote: "Bailamos todos, aunque nuestras alas sean invisibles."
+    },
+    {
+        category: "Música experimental",
+        title: "Hyperdub",
+        url: "https://www.hyperdub.net/",
+        description: "Sello discográfico que desafía los límites de la música electrónica, explorando ritmos que desarman al oyente. Cada sonido es una nueva dimensión por descubrir.",
+        quote: "El sonido es un mapa hacia lo desconocido."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
