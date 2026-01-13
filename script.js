@@ -2826,6 +2826,76 @@ async function fetchFromHackerNews() {
         url: "https://www.hyperdub.net/",
         description: "Sello discográfico que desafía los límites de la música electrónica, explorando ritmos que desarman al oyente. Cada sonido es una nueva dimensión por descubrir.",
         quote: "El sonido es un mapa hacia lo desconocido."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "ZoomQuilt",
+        url: "http://zoomquilt.org/",
+        description: "Una hipnótica obra de arte multimedia que te lleva en un viaje interminable a través de un mundo de ensueños y pesadillas, pintado por varios artistas. Cada clic te sumerge más y más en su profundidad infinita.",
+        quote: "¿Qué tan profundo puede sumergirse tu imaginación?"
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Heather Dewey-Hagborg",
+        url: "http://deweyhagborg.com/",
+        description: "Artista transdisciplinaria que explora la privacidad genética. Con su proyecto 'Stranger Visions', crea retratos 3D de personas a partir del ADN dejado en chicles y cabellos encontrados en la ciudad.",
+        quote: "Tu identidad flota en fragmentos invisibles."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "We Feel Fine",
+        url: "http://wefeelfine.org/",
+        description: "Un fascinante proyecto que capta las emociones humanas globales mediante el análisis de blogs. Una cartografía de sentimientos que bulle con la fluctuante latencia del sentir humano.",
+        quote: "La suma de nuestras emociones es el pulso del mundo."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Deep Sea",
+        url: "http://www.roarinpenguin.com/?p=266",
+        description: "Un juego de audio inmersivo sobre la claustrofobia y el miedo. Se navega un oscuro océano solo con sonidos, en la penumbra completa, poniendo a prueba tus sentidos.",
+        quote: "A veces, el verdadero terror es no saber qué te rodea."
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "The Art of Nothing",
+        url: "https://theartofnothingpoetry.tumblr.com/",
+        description: "Un rincón de la web donde la poesía dadaísta y la cultura DIY se encuentran. Un blog poético que celebra la belleza de lo vacío, lo aleatorio y lo realmente subversivo.",
+        quote: "En el vacío, encontramos significado."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Rhizome",
+        url: "https://rhizome.org/",
+        description: "Un archivo y comunidad de arte digital que promueve el net.art y la cultura de los memes. Los artistas exploran las intersecciones entre tecnología y arte en formas inesperadas.",
+        quote: "La creatividad florece en la red de lo inesperado."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "Impermanence",
+        url: "http://www.impermanence.co.uk/",
+        description: "Un proyecto artístico que cuestiona la permanencia a través de compromisos teatrales y artísticos efímeros, alentando a abrazar el cambio y la transitoriedad.",
+        quote: "Todo lo que comienza debe terminar — y así está bien."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "PostSecret",
+        url: "http://postsecret.com/",
+        description: "Un blog comunitario donde las personas envían secretos anónimos en forma de postales artísticas. Un archivo emocional de confesiones privadas que revelan lo humano detrás de lo cotidiano.",
+        quote: "El secreto es el lazo que nos une en la distancia."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Silent Disco",
+        url: "http://silentdisco.com/",
+        description: "Una experiencia musical colectiva donde el público baila con auriculares, creando una fiesta visualmente silenciosa pero íntimamente estruendosa, retando la percepción del espacio compartido.",
+        quote: "El silencio creado por unos es el ruido perfecto para otros."
+    },
+    {
+        category: "Música experimental",
+        title: "Disquiet Junto",
+        url: "https://disquiet.com/2012/01/25/disquiet-junto/",
+        description: "Un colectivo musical en línea que propone desafíos semanales para crear piezas sonoras experimentales, promoviendo la colaboración y la innovación sin fronteras.",
+        quote: "La música comienza donde las palabras terminan."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
