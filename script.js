@@ -2896,6 +2896,76 @@ async function fetchFromHackerNews() {
         url: "https://disquiet.com/2012/01/25/disquiet-junto/",
         description: "Un colectivo musical en línea que propone desafíos semanales para crear piezas sonoras experimentales, promoviendo la colaboración y la innovación sin fronteras.",
         quote: "La música comienza donde las palabras terminan."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Nyan Cat Progress Bar",
+        url: "http://www.nyan.cat/",
+        description: "Una interpretación digital del infame Nyan Cat, pero aquí, la barra de progreso se convierte en un espectáculo interminable de arcoíris y música hilarante que desafía la utilidad misma de la web.",
+        quote: "Porque a veces, la espera merece un desfile de dulces, gatos voladores."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Art Brut Project",
+        url: "https://artbrut.ch/en_GB/home",
+        description: "El Art Brut Project se sumerge en el mundo del arte marginal, exhibiendo obras de creadores autodidactas que desafían las normativas convencionales del arte con sus expresiones puras y a menudo oscuras.",
+        quote: "En el arte marginal, las reglas no aplican; sólo el alma."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Useless Machines",
+        url: "http://uselessmachines.co.uk/",
+        description: "Estas máquinas no tienen propósito, pero en su absurdo, desafían la lógica y nos hacen cuestionar el valor mismo de la utilidad en la era moderna.",
+        quote: "La inutilidad como arte es un abrazo del caos cotidiano."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "It's Literally Just Mowing",
+        url: "http://www.itsliterallyjustmowing.com/",
+        description: "Un juego donde simplemente cortas césped. Es tan absurdo y zen como parece, llevando la simplicidad a un nuevo nivel de satisfacción digital.",
+        quote: "A veces, todas las respuestas están en la hierba."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "The Zine Scene",
+        url: "https://zinelibrary.info/",
+        description: "Un archivo digital que celebra la cultura de los fanzines, ofreciendo un espacio para voces independientes y subversivas que narran historias y manifiestos fuera del radar.",
+        quote: "En cada pliegue de papel, una resistencia en miniatura."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "GL1TCH",
+        url: "http://www.glitchart.com/",
+        description: "Un refugio digital para amantes del arte glitch, donde el caos visual se transforma en belleza inesperada, y cada error es una oportunidad estética.",
+        quote: "Encontrando perfección en la imperfección digital."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Death Clock",
+        url: "https://www.death-clock.org/",
+        description: "Un sitio espeluznante que analiza tu mortalidad estimada, invitando a una reflexión sobre la vida y la inevitabilidad del paso del tiempo.",
+        quote: "Contempla la muerte, vive más intensamente."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Rusty Wire",
+        url: "http://rustywire.blogspot.com/",
+        description: "Un blog olvidado que cuenta historias de carreteras secundarias, encuentros peculiares y reflexiones sobre el paso del tiempo en un mundo de hierro oxidado.",
+        quote: "Cada óxido es una historia que espera ser contada."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Museum of Non-visible Art",
+        url: "https://www.nonvisiblemuseum.com/",
+        description: "Un museo en línea donde las obras de arte no son visibles, desafiando las percepciones de qué es arte y cómo lo experimentamos.",
+        quote: "Ver no siempre es creer; el arte vive en el pensamiento."
+    },
+    {
+        category: "Música experimental",
+        title: "The Disquiet Junto",
+        url: "https://disquiet.com/",
+        description: "Una comunidad dedicada a la música experimental, donde compositores y músicos comparten proyectos que desafían las convenciones musicales y abrazan la innovación sonora.",
+        quote: "El sonido es la frontera final de la imaginación desbocada."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
