@@ -2966,6 +2966,76 @@ async function fetchFromHackerNews() {
         url: "https://disquiet.com/",
         description: "Una comunidad dedicada a la música experimental, donde compositores y músicos comparten proyectos que desafían las convenciones musicales y abrazan la innovación sonora.",
         quote: "El sonido es la frontera final de la imaginación desbocada."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Bored Button",
+        url: "https://www.boredbutton.com/",
+        description: "Un sitio donde puedes presionar un botón rojo y ser llevado a una serie de páginas web aleatorias y extrañas. Es como un juego de ruleta rusa digital para los curiosos de la red.",
+        quote: "El aburrimiento es el lienzo donde se pinta la creatividad."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Syclla Mundi",
+        url: "https://www.scyllamundi.com/",
+        description: "Un artista que explora las profundidades del surrealismo digital y el glitch. Sus obras ofrecen un vistazo a un universo paralelo donde lo distorsionado es la norma.",
+        quote: "En el caos, hallamos la belleza de la imperfección."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Share the Air",
+        url: "http://www.sharetheair.net/",
+        description: "Este sitio invita a los usuarios a compartir y respirar el mismo aire virtual, un experimento extraño que conecta a la gente en una atmósfera intangible.",
+        quote: "Respira profundo, y sentirás el aliento del mundo."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Gravity Points",
+        url: "https://erikfantasia.com/gravity/",
+        description: "Un juego interactivo donde puedes crear burbujas de gravedad que atraen y repelen partículas coloridas, formando patrones hipnóticos. Sin objetivos claros, incita a la meditación visual.",
+        quote: "Déjate atraer por la gravedad de tus propios pensamientos."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Cyberpunk Forums",
+        url: "https://www.cyberpunkforums.com/",
+        description: "Un foro para los amantes de la estética y filosofía cyberpunk, donde se discuten temas que van desde la tecnología de vanguardia hasta las utopías distópicas del futuro.",
+        quote: "En un mundo controlado por la tecnología, la rebelión es digital."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Glitch Artists Collective",
+        url: "https://www.facebook.com/groups/GlitchArtistsCollective/",
+        description: "Un colectivo de artistas que comparten obras innovadoras en glitch art, empujando los límites de la estética digital por medio de distorsiones visuales intencionadas.",
+        quote: "La perfección se descompone en cada pixel roto."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "Death Clock",
+        url: "http://deathclock.com/",
+        description: "Un sitio que calcula una fecha estimada de tu muerte, provocando un tipo peculiar de reflexión sobre la vida y el tiempo. Es un recordatorio inusual de nuestra mortalidad.",
+        quote: "El reloj de la vida nunca deja de marcar, incluso cuando olvidamos mirar."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "PostSecret",
+        url: "https://postsecret.com/",
+        description: "Un blog donde la gente envía postales anónimas que revelan sus secretos más profundos. Una ventana conmovedora a las almas humanas a menudo ocultas.",
+        quote: "En el anonimato, encontramos la verdad sin filtro."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Museum of Nonvisible Art",
+        url: "https://www.kickstarter.com/projects/praxis/museum-of-non-visible-art",
+        description: "Una exposición de arte que no puedes ver porque todas las obras son invisibles. Es un desafío a la percepción tradicional del arte y su valor.",
+        quote: "El arte no visible existe en la mente del que lo percibe."
+    },
+    {
+        category: "Música experimental",
+        title: "Liquid Audio",
+        url: "https://lqdn.bandcamp.com/",
+        description: "Música que transforma sonidos cotidianos en paisajes sonoros oníricos. Una exploración auditiva que desafía lo conocido y nos sumerge en lo surrealista.",
+        quote: "Deja que tus oídos naveguen por mares de sonido."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
