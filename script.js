@@ -3036,6 +3036,76 @@ async function fetchFromHackerNews() {
         url: "https://lqdn.bandcamp.com/",
         description: "Música que transforma sonidos cotidianos en paisajes sonoros oníricos. Una exploración auditiva que desafía lo conocido y nos sumerge en lo surrealista.",
         quote: "Deja que tus oídos naveguen por mares de sonido."
+    },
+    {
+        category: "webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://www.staggeringbeauty.com/",
+        description: "Una experiencia web inusual donde solo controlas un gusano negro con el cursor. El arte de lo absurdo cobra vida cuando todo se descontrola si lo mueves demasiado rápido.",
+        quote: "A veces, perder el control revela lo más bello."
+    },
+    {
+        category: "artistas desconocidos o marginales",
+        title: "The Art of Molly Crabapple",
+        url: "https://www.mollycrabapple.com/",
+        description: "Molly Crabapple, una artista y periodista visual, fusiona arte y activismo. Su trabajo aborda con crudeza temas sociales y políticos, explorando a menudo el borde de lo aceptable.",
+        quote: "El arte debe ser una daga en el corazón del poder."
+    },
+    {
+        category: "proyectos raros y experimentales",
+        title: "Star Simulator",
+        url: "http://stars.chromeexperiments.com/",
+        description: "Explora un universo en miniatura interactivo que simula millones de estrellas. Un proyecto de Google Chrome Experiments que invita a perderse en la infinitud del cosmos digital.",
+        quote: "En el silencio del espacio, cada estrella tiene un secreto."
+    },
+    {
+        category: "juegos absurdos o interactivos",
+        title: "Totally Accurate Battle Simulator",
+        url: "https://landfall.se/totally-accurate-battle-simulator",
+        description: "Un juego que parodia los simuladores de batalla con física caótica y personajes que desafían la lógica. La estrategia se convierte en comedia inesperada.",
+        quote: "La guerra es caos, y en ese caos, hay humor."
+    },
+    {
+        category: "mundos 'under', subculturas",
+        title: "Hikikomori, Japan's Modern-Day Hermits",
+        url: "https://www.dailymotion.com/video/x5x1fzc",
+        description: "Una mirada íntima a la subcultura japonesa de los hikikomori, jóvenes que eligen el aislamiento extremo. Un fenómeno que revela las tensiones de la modernidad.",
+        quote: "A veces, el refugio es una elección en un mundo ruidoso."
+    },
+    {
+        category: "estéticas raras (net.art, glitch, vaporwave)",
+        title: "Cybernetic Spree",
+        url: "https://cybernetic-spree.tumblr.com/",
+        description: "Un blog de Tumblr que celebra el arte cyberpunk y las estéticas retrofuturistas. Un collage visual donde el pasado y el futuro chocan en un estallido de neón.",
+        quote: "El futuro es solo un eco del pasado con más color."
+    },
+    {
+        category: "ideas provocadoras",
+        title: "Post-Internet Art",
+        url: "https://www.postinternet.art/",
+        description: "Un portal dedicado al arte que no solo utiliza internet como medio, sino que se inspira en su omnipresencia. Un cuestionamiento del arte en la era digital.",
+        quote: "Cuando el arte respira bits, ¿qué es real?"
+    },
+    {
+        category: "blogs olvidados",
+        title: "The Invisible Library",
+        url: "https://invisiblelibrary.wordpress.com/",
+        description: "Un blog que compila libros ficticios mencionados en obras literarias reales. Un archivo imaginario que enciende el deseo de lo inexistente.",
+        quote: "Los mejores libros son los que nunca se escribieron."
+    },
+    {
+        category: "performances o exposiciones raras",
+        title: "The Quiet Volume",
+        url: "http://www.thequietvolume.com/",
+        description: "Una performance participativa en bibliotecas que explora la naturaleza íntima de la lectura. A través de auriculares, los participantes son guiados en un viaje casi meditativo.",
+        quote: "En el silencio de las palabras, el mundo se revela."
+    },
+    {
+        category: "música experimental",
+        title: "The Caretaker",
+        url: "https://thecaretaker.bandcamp.com/",
+        description: "Un proyecto musical que evoca la nostalgia y el deterioro mental a través de samples distorsionados de música de salón. Una exploración sonora de la memoria y el olvido.",
+        quote: "En cada eco, una historia que se desvanece."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
