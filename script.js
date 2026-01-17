@@ -3106,6 +3106,76 @@ async function fetchFromHackerNews() {
         url: "https://thecaretaker.bandcamp.com/",
         description: "Un proyecto musical que evoca la nostalgia y el deterioro mental a través de samples distorsionados de música de salón. Una exploración sonora de la memoria y el olvido.",
         quote: "En cada eco, una historia que se desvanece."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "The Mystery of the Haunted Keyboard",
+        url: "http://www.staggeringbeauty.com/",
+        description: "Una página donde puedes mover el mouse para ver cómo una figura serpenteante cobra vida en la pantalla. La simplicidad se encuentra con el surrealismo en este rincón olvidado de la web.",
+        quote: "¿Es un movimiento o solo una ilusión que baila ante tus ojos?"
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Jenny Hval: Sonidos del Inconsciente",
+        url: "https://jennyhval.com/",
+        description: "Con una mezcla de sonidos abstractos y letras poéticas, Jenny Hval desafía los límites de la música convencional. Su obra es un viaje auditivo hacia lo sublime.",
+        quote: "La música es el espacio donde el silencio se atreve a hablar."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Infinite Conversation",
+        url: "https://infiniteconversation.com/",
+        description: "Un experimento que utiliza inteligencia artificial para generar interminables diálogos entre los filósofos Slavoj Žižek y Michel Foucault. Es una charla interminable que desafía el tiempo.",
+        quote: "En la repetición, encontramos lo eterno."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Burrito Bison: Revenge",
+        url: "https://www.kongregate.com/games/juicybeast/burrito-bison-revenge",
+        description: "Un juego donde la gravedad pierde sentido y los burritos vuelan. Prepárate para rebotar en un mundo donde la lógica no es bienvenida.",
+        quote: "A veces hay que dar un salto de fe, incluso si eres un burrito."
+    },
+    {
+        category: "Subculturas",
+        title: "Biopunk: El Nuevo Renacimiento Genético",
+        url: "https://www.biopunkfiction.com/",
+        description: "Una comunidad en línea dedicada a la intersección entre la biotecnología y el ciberpunk. Aquí encontramos historias que exploran el futuro de la evolución impulsada por la tecnología.",
+        quote: "En el ADN del mañana, escribimos las historias del presente."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Glitch Art Collective",
+        url: "https://www.glitchartistscollective.org/",
+        description: "Un hogar en línea para artistas que ven la belleza en lo fragmentado y roto. Glitch Artists Collective reúne obras que celebran la estética de lo imperfecto.",
+        quote: "La verdad está en las fallas que revelamos."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "Uncovering Future Crimes",
+        url: "https://futurecrimes.org/",
+        description: "Un sitio que explora las ramificaciones de futuros crímenes en el ciberespacio. Cada artículo es una exploración de lo que podría ser si nuestras pesadillas digitales se hicieran realidad.",
+        quote: "En las sombras del mañana, se escriben los códigos del miedo."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Letters from Utopia",
+        url: "http://lettersfromutopia.tumblr.com/",
+        description: "Un blog que recopila cartas anónimas de personas que imaginan sus vidas en utopías personales. Un collage de sueños y aspiraciones.",
+        quote: "La utopía vive en las palabras que aún no hemos escrito."
+    },
+    {
+        category: "Performances raras",
+        title: "Act of Resistance",
+        url: "http://www.acts-of-resistance.com/",
+        description: "Una serie de performances que exploran la resistencia como arte. Aquí, el cuerpo se convierte en un lienzo convertido en símbolo de lucha.",
+        quote: "El arte nunca es mudo; siempre resiste."
+    },
+    {
+        category: "Música experimental",
+        title: "Sounds from the Abyss",
+        url: "https://soundsfromtheabyss.bandcamp.com/",
+        description: "Una colección de sonidos oscuros y ambientales que evocan los misterios del océano profundo. Es una invitación a perderse en el sonido del abismo.",
+        quote: "Escucha atentamente; los secretos más profundos no siempre gritan."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
