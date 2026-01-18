@@ -3176,6 +3176,76 @@ async function fetchFromHackerNews() {
         url: "https://soundsfromtheabyss.bandcamp.com/",
         description: "Una colección de sonidos oscuros y ambientales que evocan los misterios del océano profundo. Es una invitación a perderse en el sonido del abismo.",
         quote: "Escucha atentamente; los secretos más profundos no siempre gritan."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Bored Button",
+        url: "https://www.boredbutton.com/",
+        description: "Un botón rojo que promete aliviar el aburrimiento con cada clic, llevándote a un sitio web al azar que es tan inútil como sorprendente.",
+        quote: "Clic por clic, el aburrimiento se va desvaneciendo."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Jon Rafman",
+        url: "https://jonrafman.com/",
+        description: "Artista canadiense conocido por sus exploraciones del impacto de la tecnología en la vida contemporánea, usando capturas de pantalla de Google Street View para revelar fragmentos inesperados de belleza y extrañeza.",
+        quote: "La realidad filtrada a través del lente digital es más rara de lo que la ficción podría concebir."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "We Feel Fine",
+        url: "http://www.wefeelfine.org/",
+        description: "Un experimento social que rastrea los sentimientos humanos a través de las publicaciones en blogs, presentándolos como puntos interactivos y coloridos en un mapa emocional global.",
+        quote: "En la vasta marea de datos, cada emoción es un latido en la sinfonía humana."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Neko Atsume",
+        url: "http://www.nekoatsume.com/ja/",
+        description: "Un juego de recolección de gatos donde la recompensa es pura ternura y no hay otro objetivo más que ver cómo adorables gatitos toman posesión de tu jardín virtual.",
+        quote: "En la simplicidad yace la encantadora magia de la indolencia felina."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "The SCP Foundation",
+        url: "http://www.scpwiki.com/",
+        description: "Un misterioso proyecto colaborativo que documenta objetos y criaturas paranormales, creado por una comunidad de escritores que exploran los límites de la ficción y el horror.",
+        quote: "¿Qué secretos ocultan los rincones más oscuros de nuestra imaginación colectiva?"
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Net Art Anthology",
+        url: "https://anthology.rhizome.org/",
+        description: "Una colección curada de arte digital desde los inicios de internet, que destaca obras que han definido la estética y la cultura en línea.",
+        quote: "La frontera digital es un lienzo sin límites, donde los píxeles pintan una historia en constante evolución."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Quiet Place",
+        url: "http://thequietplaceproject.com/thequietplace",
+        description: "Un refugio en línea que te invita a desconectar de la vorágine digital y buscar un momento de paz introspectiva en el silencio.",
+        quote: "En el ruido constante, el silencio se convierte en el acto más subversivo."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The World of Kane",
+        url: "http://worldofkane.blogspot.com/",
+        description: "Un blog que captura la esencia del diseño visual y la moda de décadas pasadas, resucitando el glamour y la osadía del siglo XX.",
+        quote: "Redescubrir el pasado es darle nueva vida a nuestra imaginación."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Museum of Non-Visible Art",
+        url: "https://www.nonvisiblemuseum.com/",
+        description: "Una exposición que desafía las nociones tradicionales del arte al presentar obras que existen únicamente en la imaginación, cuestionando la relación entre el espectador y la obra de arte.",
+        quote: "El arte más puro es el que se crea en el espacio etéreo de la mente."
+    },
+    {
+        category: "Música experimental",
+        title: "Disquiet Junto",
+        url: "https://disquiet.com/",
+        description: "Una comunidad que desafía a los músicos a crear piezas experimentales en respuesta a conceptos desafiantes, fomentando la innovación y la colaboración sonora.",
+        quote: "Cada sonido es un universo inexplorado, esperando ser habitado."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
