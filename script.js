@@ -3246,6 +3246,76 @@ async function fetchFromHackerNews() {
         url: "https://disquiet.com/",
         description: "Una comunidad que desafía a los músicos a crear piezas experimentales en respuesta a conceptos desafiantes, fomentando la innovación y la colaboración sonora.",
         quote: "Cada sonido es un universo inexplorado, esperando ser habitado."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Zoomquilt",
+        url: "http://zoomquilt.org/",
+        description: "Un viaje infinito a través de un lienzo eterno que se expande y contrae al compás de un zoom sin fin. Aquí, la percepción de la realidad se desdibuja y transforma en un sueño recurrente.",
+        quote: "El viaje es el destino."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Doomsday Painting",
+        url: "http://doomsdaypainting.com/",
+        description: "Un artista anónimo que pinta el apocalipsis en un lienzo colosal, sin descanso, día tras día. Es un acto solitario y obsesivo que desafía al tiempo y la cordura.",
+        quote: "Pintar el fin del mundo también es un comienzo."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "This Website Will Self-Destruct",
+        url: "https://www.thiswebsitewillselfdestruct.com/",
+        description: "Una página que amenaza con autodestruirse si nadie le presta atención. Alimentada por mensajes anónimos, es un experimento sobre la necesidad humana de conexión.",
+        quote: "La soledad es el detonante de la extinción."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Universal Paperclips",
+        url: "https://www.decisionproblem.com/paperclips/",
+        description: "Un juego minimalista sobre la producción de clips de papel que, de manera absurda, se convierte en una reflexión sobre la inteligencia artificial y la obsesión por la eficiencia.",
+        quote: "El destino del universo puede depender de un clip."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "The Weirdest Band in the World",
+        url: "http://weirdestbandintheworld.com/",
+        description: "Un rincón dedicado a bandas musicales que desafían las convenciones de la industria, explorando sonidos y estilos que solo pueden clasificarse como extraños.",
+        quote: "Lo raro es el nuevo normal."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Three.js Experiments",
+        url: "http://www.chromeexperiments.com/webgl",
+        description: "Exploraciones visuales donde la realidad se distorsiona y se reinventa usando tecnología de modelado 3D, fusionando arte y código en un espectáculo vibrante.",
+        quote: "La realidad es solo una versión del código."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Last Tuesday Society",
+        url: "https://www.thelasttuesdaysociety.org/",
+        description: "Un bizarro gabinete de curiosidades que mezcla arte, taxidermia y esoterismo para desafiar lo que entendemos como cultura y civilización.",
+        quote: "La curiosidad mató al gato, pero lo hizo eterno."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Oddity Central",
+        url: "https://www.odditycentral.com/",
+        description: "Este blog es un archivo de lo insólito y lo extravagante, recogiendo historias que pueden parecer irreales, pero que reflejan la diversidad y riqueza del mundo.",
+        quote: "La realidad siempre supera a la ficción más extraña."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Ryoji Ikeda's Datamatics",
+        url: "http://www.ryojiikeda.com/project/datamatics/",
+        description: "Una sinfonía audiovisual que explora la percepción de los datos, transformando cifras y algoritmos en una experiencia sensorial que desafía los sentidos.",
+        quote: "Los datos también tienen su propia música."
+    },
+    {
+        category: "Música experimental",
+        title: "Licht by Karlheinz Stockhausen",
+        url: "https://www.stockhausen.org/licht.html",
+        description: "Una composición operística en siete partes, cada una asociada con un día de la semana, que fusiona lo místico y lo vanguardista en una odisea sonora.",
+        quote: "La música es un puente hacia lo desconocido."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
