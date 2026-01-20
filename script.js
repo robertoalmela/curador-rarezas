@@ -3316,6 +3316,76 @@ async function fetchFromHackerNews() {
         url: "https://www.stockhausen.org/licht.html",
         description: "Una composición operística en siete partes, cada una asociada con un día de la semana, que fusiona lo místico y lo vanguardista en una odisea sonora.",
         quote: "La música es un puente hacia lo desconocido."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://www.staggeringbeauty.com/",
+        description: "Una experiencia visual y de sonido simple pero impactante, donde la interacción con un gracioso personaje negro produce resultados inesperados y caóticos.",
+        quote: "A veces, la belleza está en el desorden."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Mierle Laderman Ukeles",
+        url: "https://www.queensmuseum.org/2016/10/mierle-laderman-ukeles-maintenance-art",
+        description: "Explora la obra de Mierle Laderman Ukeles, una artista que desafía las convenciones del arte al centrar su trabajo en el mantenimiento y el cuidado como formas de arte.",
+        quote: "El arte es lo que hacemos todos los días."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Quietest Place on the Internet",
+        url: "http://nooooooooooooooo.com/",
+        description: "Un sitio con el solo propósito de proporcionar un espacio donde puedas escuchar el interminable grito de Darth Vader para desahogar tu frustración diaria.",
+        quote: "A veces, todo lo que necesitamos es un grito silencioso."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Sandspiel",
+        url: "https://sandspiel.club/",
+        description: "Un simulador de física de partículas en línea que desafía al jugador a jugar con el fuego, agua, plantas y otros elementos en un entorno sandbox.",
+        quote: "La belleza del caos controlado."
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "The Dark Web Diaries",
+        url: "https://darkwebdiaries.com/",
+        description: "Un blog que ofrece un vistazo humano a la vida en el lado oculto de Internet, desmitificando mitos y revelando historias desde lo más profundo de la red oscura.",
+        quote: "A veces, la verdad reside en la oscuridad."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Glitch Art",
+        url: "https://www.glitchet.com/",
+        description: "Un portal dedicado al arte de la distorsión digital, donde los fallos tecnológicos se convierten en formas estéticas fascinantes y contemplativas.",
+        quote: "El error es una nueva forma de belleza."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Uncomfortable",
+        url: "https://www.theuncomfortable.com/",
+        description: "Un proyecto de diseño provocador que reimagina los objetos cotidianos en formas que son deliberadamente incómodas de usar.",
+        quote: "La incomodidad nos despierta a nuevas posibilidades."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Secret Diary of Steve Jobs",
+        url: "http://www.fakesteve.net/",
+        description: "Un blog satírico que presenta una visión alternativa y humorística de la mente de Steve Jobs, explorando la cultura de Silicon Valley desde un ángulo irónico.",
+        quote: "En el mundo de las manzanas, la ironía es dorada."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Soundwalk Collective",
+        url: "https://www.soundwalkcollective.com/",
+        description: "Un colectivo que combina el arte del sonido, la performance y la antropología para crear experiencias auditivas inmersivas y meditativas.",
+        quote: "El sonido es el eco del alma."
+    },
+    {
+        category: "Filosofía digital",
+        title: "Digital Philosophy Org",
+        url: "https://www.digitalphilosophy.org/",
+        description: "Explora la teoría de que el universo puede ser entendido como una vasta computadora, desafiando nuestras percepciones de la realidad y la conciencia.",
+        quote: "En el código del cosmos, encontramos nuestros propios reflejos."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
