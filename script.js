@@ -3386,6 +3386,76 @@ async function fetchFromHackerNews() {
         url: "https://www.digitalphilosophy.org/",
         description: "Explora la teoría de que el universo puede ser entendido como una vasta computadora, desafiando nuestras percepciones de la realidad y la conciencia.",
         quote: "En el código del cosmos, encontramos nuestros propios reflejos."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Zoomquilt",
+        url: "https://zoomquilt.org/",
+        description: "Un portal infinito de ilustraciones entrelazadas que te invita a perderte en su interminable loop visual de elementos surrealistas.",
+        quote: "El viaje no tiene fin, solo tus ojos pueden detenerse."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Jan Svankmajer",
+        url: "http://www.jansvankmajer.com/",
+        description: "Sumérgete en el mundo de este artista checo, conocido por su animación stop-motion y cine surrealista que desafía la lógica convencional.",
+        quote: "El arte es la única manera de escapar sin salir."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Electric Sheep",
+        url: "https://electricsheep.org/",
+        description: "Un protector de pantalla colaborativo que utiliza algoritmos generativos de fractales, creando hipnóticas y eternas animaciones de 'ovejas eléctricas'.",
+        quote: "Sueños colectivos en un mundo digital dormido."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "A Dark Room",
+        url: "http://adarkroom.doublespeakgames.com/",
+        description: "Un juego minimalista de texto que comienza con la simple tarea de encender un fuego, pero pronto evoluciona en un completo universo de misterios.",
+        quote: "Enciende la llama de lo desconocido."
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "The Doll Forum",
+        url: "https://www.dollforum.com/",
+        description: "Una comunidad de entusiastas de muñecas realistas, compartiendo pasiones, anécdotas y curiosidades dentro de una subcultura con matices asombrosos.",
+        quote: "En un mundo de plástico, la realidad es moldeable."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Rafaël Rozendaal's Websites",
+        url: "http://www.newrafael.com/",
+        description: "Una colección de sitios web convertidos en arte digital por Rafaël Rozendaal, donde cada URL es una ventana a una pieza de net.art única.",
+        quote: "El arte de navegar, navegar en el arte."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Plan",
+        url: "http://www.iamtheplan.com/",
+        description: "Una experiencia interactiva que te invita a reflexionar sobre la insignificancia de la vida a través de la aventura de una simple mosca en su efímero viaje.",
+        quote: "La grandeza reside en lo pequeño."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Things Organized Neatly",
+        url: "http://thingsorganizedneatly.tumblr.com/",
+        description: "Un blog dedicado al orden geométrico y la estética de la simetría, celebrando la tranquilizadora belleza del control visual.",
+        quote: "El caos es solo una ilusión de la mente."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Infinite Objects",
+        url: "https://infiniteobjects.com/",
+        description: "Una exhibición de 'videoesculturas' encapsuladas en marcos de pantalla, donde los videos se convierten en objetos físicos.",
+        quote: "El tiempo atrapado en un ojo eléctrico."
+    },
+    {
+        category: "Música experimental",
+        title: "Disquiet Junto",
+        url: "https://disquiet.com/",
+        description: "Un proyecto colaborativo que desafía a músicos a crear piezas sonoras a partir de instrucciones conceptuales, renovando la música cada semana.",
+        quote: "El silencio es el lienzo de la innovación sonora."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
