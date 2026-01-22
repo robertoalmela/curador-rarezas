@@ -3456,6 +3456,76 @@ async function fetchFromHackerNews() {
         url: "https://disquiet.com/",
         description: "Un proyecto colaborativo que desafía a músicos a crear piezas sonoras a partir de instrucciones conceptuales, renovando la música cada semana.",
         quote: "El silencio es el lienzo de la innovación sonora."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Falling Sand Game",
+        url: "https://sandspiel.club/",
+        description: "Una simulación donde puedes crear y destruir pequeños universos de arena, agua, fuego y aceite. La física simple se convierte en un medio para crear arte efímero y caótico.",
+        quote: "La belleza efímera yace en millones de granos danzando al ritmo de un desierto digital."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Agnes Richter: Art from Within",
+        url: "https://www.psychologytoday.com/us/blog/connecting-creativity/201908/embroidery-the-jacket",
+        description: "Una artista anónima del siglo XIX que bordó su chaqueta psiquiátrica con un intrincado y enigmático diario. Un poderoso testimonio de resistencia y expresión personal en medio del confinamiento.",
+        quote: "Aunque limitados, los hilos cosían sus pensamientos en libertad."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "100,000 Stars",
+        url: "https://experiments.withgoogle.com/100000-stars",
+        description: "Un mapa interactivo que te permite explorar la Vía Láctea. Este proyecto de Google visualiza estrellas cercanas en un viaje cósmico que va más allá del ojo humano.",
+        quote: "Viaja a través del vasto silencio donde las estrellas habitan en soledad."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Dinosaur Polo Club: Mini Metro",
+        url: "https://dinopoloclub.com/games/mini-metro/",
+        description: "Mini Metro es un juego minimalista sobre el diseño de mapas de metro. Balancea simplicidad y complejidad mientras conectas líneas y estaciones en un sistema urbano en crecimiento.",
+        quote: "Con cada línea, trazamos nuestra propia cartografía del caos urbano."
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "The Aesthetic of Vaporwave",
+        url: "https://vapor95.com/pages/what-is-vaporwave",
+        description: "Un vistazo a la cultura Vaporwave, una subcultura que recicla elementos de la era digital temprana para crear una estética nostálgica y crítica de la cultura de consumo.",
+        quote: "En la distorsión de lo retro, hallamos el eco de un futuro que nunca llegó."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Glitch Safari",
+        url: "https://glitchsafari.com/",
+        description: "Glitch Safari es un coliseo digital para aquellos que desean cazas sueltas de errores visuales en la web. Una reunión de fallos convertidos en arte.",
+        quote: "Cuando el error se convierte en arte, el caos se embellece."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Age of Em",
+        url: "https://age-of-em.com/",
+        description: "Explora cómo la vida cambiaría si usáramos 'ems', simulaciones de cerebros humanos. Una profunda reflexión sobre identidad, economía y la esencia de lo que significa ser humano.",
+        quote: "¿Y si nuestro cerebro digitalizado nos permitiera vivir para siempre?"
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Textfiles.com",
+        url: "http://www.textfiles.com/",
+        description: "Una colección de archivos de texto que remontan a los primeros días de la web. Un archivo de pensamientos, historias y datos que capturan el espíritu del internet primitivo.",
+        quote: "En la simplicidad de un archivo de texto yace la historia de internet."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Museum of Broken Relationships",
+        url: "https://brokenships.com/",
+        description: "Una singular exposición compuesta por objetos cotidianos que narran historias de amor y pérdida. Cada pieza es un fragmento cristalizado de emociones pasadas.",
+        quote: "Los fragmentos del corazón humano se exhiben como reliquias de un museo compartido."
+    },
+    {
+        category: "Música experimental",
+        title: "Radio Garden",
+        url: "http://radio.garden/",
+        description: "Radio Garden permite explorar emisoras de todo el mundo. Un viaje sonoro en tiempo real que revela las vibraciones únicas de cada rincón del planeta.",
+        quote: "El mundo sintonizado en frecuencias invisibles, una radio infinita."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
