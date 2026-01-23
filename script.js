@@ -3526,6 +3526,76 @@ async function fetchFromHackerNews() {
         url: "http://radio.garden/",
         description: "Radio Garden permite explorar emisoras de todo el mundo. Un viaje sonoro en tiempo real que revela las vibraciones únicas de cada rincón del planeta.",
         quote: "El mundo sintonizado en frecuencias invisibles, una radio infinita."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Zoom Quilt",
+        url: "https://zoomquilt.org/",
+        description: "Un tapiz interminable que te invita a viajar más allá de lo imaginable, un sueño digital tejido con hilos de surrealismo y fantasía sin fin.",
+        quote: "Si el infinito tuviera un rostro, sería un caleidoscopio de sueños."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Anna Dumitriu",
+        url: "http://www.normalflora.co.uk/",
+        description: "Dumitriu combina el arte y la microbiología para explorar el mundo invisible de las bacterias, creando bellas y provocadoras obras que cuestionan nuestra relación con lo biológico.",
+        quote: "En la fusión de ciencia y arte florecen las bacterias de la creatividad."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Museum of Everyday Life",
+        url: "http://museumofeverydaylife.org/",
+        description: "Este museo celebra lo mundano con una colección de objetos cotidianos cargados de historias y significados, revalorizando lo que a menudo pasamos por alto.",
+        quote: "La belleza acecha en los rincones más comunes de nuestra existencia."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "A Dark Room",
+        url: "http://adarkroom.doublespeakgames.com/",
+        description: "Un juego de texto minimalista que comienza con una simple tarea que conduce a un enigmático viaje en lo desconocido. La oscuridad es solo el inicio.",
+        quote: "A veces, encender un fuego es el primer paso hacia lo increíble."
+    },
+    {
+        category: "Mundos under, subculturas",
+        title: "The Burning Man Project",
+        url: "https://burningman.org/",
+        description: "Más allá de su festival famoso, este proyecto cultiva una cultura efímera y vibrante que desafía las convenciones sociales a través de la creatividad radical y la comunidad.",
+        quote: "Un lienzo desértico donde las almas arden con libertad creativa."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Giphy",
+        url: "https://giphy.com/gifs/surreal-glitch-art-1d5UA7n9mVEyR1t2T0",
+        description: "Una pieza de glitch art que te envuelve en su caos digital, donde las fallas se convierten en poesía gráfica. Un recordatorio de la belleza en la imperfección.",
+        quote: "La perfección es una ilusión que los errores transforman en arte."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Human Library",
+        url: "https://humanlibrary.org/",
+        description: "Un espacio vivo donde las personas son libros, y sus historias desafiantes, una colección de empoderamiento, diversidad y diálogo abierto.",
+        quote: "Para entender el mundo, primero debemos leer sus habitantes."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Cool Hunter",
+        url: "http://www.thecoolhunter.net/",
+        description: "Este blog estético, aunque en los bordes del olvido, presenta una mezcla de diseño innovador y cultura visual que desafía lo convencional.",
+        quote: "La frescura es un estado de mente que se reinventa constantemente."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Silent Room",
+        url: "https://www.jakoblang.dk/thesilentroom/",
+        description: "Una instalación de arte sonoro que aísla al oyente del ruido del mundo, promoviendo un espacio de introspección y comprensión personal.",
+        quote: "En el silencio, las voces internas encuentran la armonía."
+    },
+    {
+        category: "Música experimental",
+        title: "Björk's Biophilia App",
+        url: "https://bjork.com/biophilia/",
+        description: "Un disco convertido en experiencia interactiva, donde la música se mezcla con la naturaleza a través de aplicaciones artísticas multidimensionales.",
+        quote: "La música es un universo donde la biología y la tecnología bailan juntas."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
