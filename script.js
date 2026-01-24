@@ -3596,6 +3596,76 @@ async function fetchFromHackerNews() {
         url: "https://bjork.com/biophilia/",
         description: "Un disco convertido en experiencia interactiva, donde la música se mezcla con la naturaleza a través de aplicaciones artísticas multidimensionales.",
         quote: "La música es un universo donde la biología y la tecnología bailan juntas."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "The Staggering Beauty",
+        url: "http://www.staggeringbeauty.com/",
+        description: "Un sitio web surrealista que te invita a mover una figura negra al ritmo de tu ratón, cobrando vida con cada movimiento. La simplicidad se convierte en un juego fascinante de luces y colores.",
+        quote: "El movimiento es poesía en una pantalla."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Evelyn De Morgan",
+        url: "https://www.demorgan.org.uk/evelyn-de-morgan/",
+        description: "Conocida por sus obras llenas de simbolismo y misticismo, Evelyn De Morgan pintó visiones del más allá y la evolución espiritual en colores vívidos, transportándote a un universo diferente.",
+        quote: "En cada lienzo, una ventana a la eternidad."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Nicest Place on the Internet",
+        url: "http://thenicestplaceontheinter.net/",
+        description: "Un espacio virtual donde abrazos digitales de extraños llegan a curar los días más grises. Los vídeos de personas ofreciendo abrazos y sonrisas traen un respiro inesperado.",
+        quote: "A veces, la bondad es solo un clic de distancia."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Sandspiel",
+        url: "https://sandspiel.club/",
+        description: "Este juego te permite experimentar con elementos físicos en una caja de arena digital. El caos y el orden se mezclan en un ballet de partículas, creando mundos efímeros.",
+        quote: "Construye castillos de arena en el ciberespacio."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Glitch Artists Collective",
+        url: "https://www.facebook.com/groups/GlitchArtistsCollective/",
+        description: "Una comunidad dedicada a explorar las imperfecciones digitales como forma de arte. Aquí, los errores tecnológicos se vuelven artefactos de belleza insospechada y provocativa.",
+        quote: "Celebrar el error, encontrar belleza en lo roto."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Cory Arcangel",
+        url: "http://www.coryarcangel.com/",
+        description: "Este artista digital manipula tecnologías obsoletas para crear piezas visuales que evocan nostalgia y reflexión sobre el progreso tecnológico y sus residuos.",
+        quote: "Navegar entre lo obsoleto y lo sublime."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "PostSecret",
+        url: "https://postsecret.com/",
+        description: "Un proyecto de arte comunitario en el que las personas comparten sus secretos más profundos en postales anónimas. Una exploración conmovedora de las sombras de la psique colectiva.",
+        quote: "En las confesiones, encontramos humanidad."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "BizarreRecords",
+        url: "http://bizarrerecords.com/",
+        description: "Este blog celebra portadas de discos extrañas y maravillosas, ofreciendo un paseo nostálgico por las épocas doradas del vinilo donde la creatividad no conocía límites.",
+        quote: "La música visualizada en lo absurdo."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Quiet Volume",
+        url: "http://anthampton.com/thequietvolume/",
+        description: "Una performance literaria que guía a los participantes a través de un mundo de palabras susurradas en una biblioteca, creando una experiencia íntima con el susurro de los libros.",
+        quote: "Las palabras adquieren voz en el susurro del papel."
+    },
+    {
+        category: "Experimentos sociales",
+        title: "We Feel Fine",
+        url: "http://www.wefeelfine.org/",
+        description: "Este proyecto captura emociones humanas de blogs de todo el mundo, visualizándolas como partículas danzantes en una pantalla, un testimonio a la universalidad de nuestras experiencias.",
+        quote: "Las emociones humanas en un tapiz digital."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
