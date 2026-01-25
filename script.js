@@ -3666,6 +3666,76 @@ async function fetchFromHackerNews() {
         url: "http://www.wefeelfine.org/",
         description: "Este proyecto captura emociones humanas de blogs de todo el mundo, visualizándolas como partículas danzantes en una pantalla, un testimonio a la universalidad de nuestras experiencias.",
         quote: "Las emociones humanas en un tapiz digital."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Zoomquilt",
+        url: "http://zoomquilt.org/",
+        description: "Un viaje infinito a través de una obra de arte. La ilusión de un eterno zoom digital lleva la percepción hasta sus límites y da espacio a un mundo sin fin.",
+        quote: "La eternidad es un zoom interminable en el lienzo de la imaginación."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "William Kurelek's Dark Art",
+        url: "https://www.kurelek.ca/",
+        description: "Las pinturas sombrías y provocativas de William Kurelek revelan un universo interior lleno de simbolismo y sufrimiento, desafiando la percepción convencional del arte.",
+        quote: "El arte es un espejo oscuro, reflejando los rincones ocultos del alma."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Quiet Place Project",
+        url: "http://thequietplaceproject.com/",
+        description: "Una esquina virtual para la introspección donde el bullicio del mundo digital se desvanece, dejando solo el murmullo de tus pensamientos en paz.",
+        quote: "El silencio es un espacio donde el alma puede respirar."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Cat Bounce",
+        url: "http://cat-bounce.com/",
+        description: "Gatos pixelados saltan en tu pantalla sin ninguna razón aparente. Absurdamente adictivo, este juego redefine el concepto de la inutilidad con un toque de ternura.",
+        quote: "A veces, el sinsentido es la forma más pura de alegría."
+    },
+    {
+        category: "Mundos under, subculturas",
+        title: "Vapor95",
+        url: "https://vapor95.com/pages/vaporwave",
+        description: "Descubre el universo de la estética vaporwave donde la nostalgia digital se combina con lo kitsch, creando un espacio que desafía las convenciones del arte contemporáneo.",
+        quote: "La nostalgia es el arte de embellecer el olvido."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Internet Archaeology",
+        url: "http://www.internetarchaeology.org/",
+        description: "Un museo virtual dedicado al pasado reciente de la web, donde se exploran restos digitales como artefactos culturales que narran la evolución de nuestra interacción en línea.",
+        quote: "El pasado digital es un eco que resuena en cada clic de nuestra historia."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "This Website Will Self-Destruct",
+        url: "https://thiswebsitewillselfdestruct.com/",
+        description: "Una plataforma efímera donde las contribuciones anónimas de los usuarios desaparecen cuando ya no se envían mensajes, cuestionando la permanencia de nuestras acciones digitales.",
+        quote: "La fragilidad de lo digital refleja la transitoriedad de lo humano."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Obscurist",
+        url: "https://obscurist.xyz/",
+        description: "Un rincón perdido en el vasto mundo digital donde se celebran curiosidades y rarezas, explorando lo que simplemente ha sido olvidado por la corriente principal.",
+        quote: "Los olvidados son los guardianes del misterio."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Museum of Non-Visible Art",
+        url: "http://nonvisiblemuseum.com/",
+        description: "Un museo que desafía la percepción del arte al exhibir obras que existen solo en la imaginación, donde el acto de contemplación se convierte en la obra misma.",
+        quote: "La auténtica obra maestra existe en el ojo del contemplador."
+    },
+    {
+        category: "Música experimental",
+        title: "Generative.fm",
+        url: "https://generative.fm/",
+        description: "Un generador de música ambiental sin fin, creado por algoritmos que producen melodías que evolucionan constantemente, llevando al oyente a un viaje sonoro sin precedentes.",
+        quote: "La música es el lenguaje infinito del alma vibrante."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
