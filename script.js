@@ -3736,6 +3736,76 @@ async function fetchFromHackerNews() {
         url: "https://generative.fm/",
         description: "Un generador de música ambiental sin fin, creado por algoritmos que producen melodías que evolucionan constantemente, llevando al oyente a un viaje sonoro sin precedentes.",
         quote: "La música es el lenguaje infinito del alma vibrante."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Zoom Quilt",
+        url: "http://zoomquilt.org/",
+        description: "Una experiencia visual infinita que te sumerge en un lienzo sin fin, donde cada zoom revela un nuevo mundo surrealista. Navegar por esta página es como entrar en un sueño del que no puedes despertar.",
+        quote: "La profundidad no tiene fin cuando pierdes la noción del tiempo."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "The Art of Bogna Gawrońska",
+        url: "http://bognagawronska.com/",
+        description: "Bogna Gawrońska explora la condición humana a través de sus esculturas y pinturas inquietantes. Su obra evoca emociones crudas y abre una ventana a mundos oscuros y fantásticos.",
+        quote: "Lo que se esconde debajo de la superficie es lo que realmente define nuestra existencia."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Infinite Drum Machine",
+        url: "https://experiments.withgoogle.com/ai/drum-machine/view/",
+        description: "Un experimento de Google que transforma sonidos cotidianos en ritmos de música electrónica. Un caos organizado donde las pisadas rítmicas de un gato pueden convertirse en un beat pegajoso.",
+        quote: "El ritmo de la vida se encuentra en los lugares menos esperados."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Foddy.net's QWOP",
+        url: "http://www.foddy.net/Athletics.html",
+        description: "Controla a un atleta con las teclas Q, W, O y P en este infame juego de física. Lo absurdo de los controles te llevará a la gloria o al desastre total.",
+        quote: "A veces, en la simplicidad se esconde el verdadero desafío."
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "Cyberdelicious: The Cyberdelia Experience",
+        url: "http://cyberdelia.chaosnet.org/",
+        description: "Un portal a la cultura cyberpunk de los años 90. Recuerda un tiempo donde lo digital era mágico y los mundos virtuales prometían libertad absoluta.",
+        quote: "En la digitalidad, el futuro siempre está a un byte de distancia."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "MondoGlitch",
+        url: "https://mondoglitch.com/",
+        description: "Un sitio dedicado al arte de los glitches, celebrando errores digitales como formas de expresión artística. Una oda a la imperfección en el mundo digital.",
+        quote: "En cada error, una nueva forma de belleza nace."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Negativity Generator",
+        url: "http://www.negativitygenerator.com/",
+        description: "Un generador de mensajes negativos en un mundo saturado de positividad. Una reflexión irónica sobre nuestra obsesión por la felicidad superficial.",
+        quote: "A veces, lo negativo ilumina más que un rayo de sol."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Dream Journal of a Sleepwalker",
+        url: "http://thedreamjournalofasleepwalker.blogspot.com/",
+        description: "Un blog que recoge los sueños y reflexiones nocturnas del autor. Los escritos consiguen transportar al lector a un reino de surrealismo onírico.",
+        quote: "En la oscuridad, los sueños se convierten en nuestras verdades más profundas."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The 24-Hour Dance Marathon",
+        url: "http://24hourdance.org/",
+        description: "Una gala de danza performativa que desafía a los participantes a bailar durante 24 horas continuas. Un testamento a la resistencia humana y al arte del movimiento.",
+        quote: "Cuando el cuerpo no puede más, el espíritu sigue danzando."
+    },
+    {
+        category: "Música experimental",
+        title: "Disquiet Junto",
+        url: "https://disquiet.com/junto/",
+        description: "Un colectivo de músicos que colaboran en proyectos experimentales, explorando el potencial del sonido en formas nunca antes escuchadas.",
+        quote: "El sonido es una puerta abierta a lo inimaginable."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
