@@ -3806,6 +3806,76 @@ async function fetchFromHackerNews() {
         url: "https://disquiet.com/junto/",
         description: "Un colectivo de músicos que colaboran en proyectos experimentales, explorando el potencial del sonido en formas nunca antes escuchadas.",
         quote: "El sonido es una puerta abierta a lo inimaginable."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Falling Sand Game",
+        url: "https://sandspiel.club/",
+        description: "Una aplicación web fascinante y simple donde puedes experimentar con el comportamiento de la arena y otros elementos. Juega con fuego, agua, vapor y más en un entorno relajante.",
+        quote: "A veces, las pequeñas cosas pueden provocar las mayores maravillas."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Michael Peck: Forgotten Landscapes",
+        url: "http://www.michaelpeckart.com/",
+        description: "Michael Peck es un artista australiano cuyos retratos y paisajes reflejan una sensación de melancolía y desplazamiento. Su técnica fina evoca una conexión entre el pasado y el presente.",
+        quote: "El arte no reproduce lo visible, sino que hace visible lo invisible."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Electric Sheep",
+        url: "https://electricsheep.tv/",
+        description: "Un proyecto de arte colaborativo donde miles de computadoras trabajan juntas para crear fractales alucinantes llamados 'ovejas'. Cada usuario contribuye con su poder de procesamiento.",
+        quote: "¿Sueñan los androides con ovejas eléctricas?"
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "A Dark Room",
+        url: "http://adarkroom.doublespeakgames.com/",
+        description: "Un juego minimalista basado en texto que te sumerge en un mundo postapocalíptico. Comienza encendiendo un fuego y descubre una historia intrigante que se desarrolla lentamente.",
+        quote: "En la oscuridad, solo el fuego revela la verdad."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Hauntology",
+        url: "https://knowyourmeme.com/memes/cultures/hauntology",
+        description: "Explora el concepto de hauntology, una subcultura entre la nostalgia del pasado y la dislocación temporal. Una mezcla de música, arte y filosofía que desafía la linealidad del tiempo.",
+        quote: "El pasado no está muerto; de hecho, ni siquiera es pasado."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Glitch Artist Collective",
+        url: "https://www.facebook.com/groups/GlitchArtistCollective/",
+        description: "Un grupo dedicado al arte del glitch, donde artistas de todo el mundo comparten y discuten sus obras digitales, que celebran la belleza del error tecnológico.",
+        quote: "El caos tiene su propia belleza; a veces, lo roto resplandece más."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "Uncomfortable",
+        url: "https://www.uncomfortable.website/",
+        description: "Una colección de objetos de diseño absurdos e incómodos que desafían nuestra percepción de la funcionalidad y el uso cotidiano. Ríe, piensa, reflexiona sobre la normalidad.",
+        quote: "A veces, lo útil radica en la inutilidad."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Things Organized Neatly",
+        url: "http://thingsorganizedneatly.tumblr.com/",
+        description: "Un blog visual que encuentra belleza en el orden y la organización meticulosa de objetos. Redescubre la satisfacción oculta en la simplicidad y el cuidado de los detalles.",
+        quote: "En medio del desorden, encuentra la armonía."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Guerilla Art Action Group",
+        url: "http://www.ubu.com/historical/gaag/index.html",
+        description: "Un colectivo de arte de performance de los años 60 que llevó a cabo acciones directas radicales en espacios públicos para desafiar las normas culturales y políticas.",
+        quote: "El arte, en su esencia, es un clamor por el cambio."
+    },
+    {
+        category: "Música experimental",
+        title: "The Caretaker - Everywhere at the End of Time",
+        url: "https://thecaretaker.bandcamp.com/",
+        description: "Un proyecto musical que explora la progresión del Alzheimer a través de la descomposición y el eco de sonidos antiguos. Un viaje emocional por la memoria perdida.",
+        quote: "La mente es un museo de ecos; algunos se desvanecen, otros persisten como espectros."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
