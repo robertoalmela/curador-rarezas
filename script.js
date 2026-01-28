@@ -3876,6 +3876,76 @@ async function fetchFromHackerNews() {
         url: "https://thecaretaker.bandcamp.com/",
         description: "Un proyecto musical que explora la progresión del Alzheimer a través de la descomposición y el eco de sonidos antiguos. Un viaje emocional por la memoria perdida.",
         quote: "La mente es un museo de ecos; algunos se desvanecen, otros persisten como espectros."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://www.staggeringbeauty.com/",
+        description: "Un simple gusano negro baila frenéticamente al ritmo de tu cursor, creando un espectáculo de luces y sonidos inesperados. Es un viaje visual y auditivo tan absurdo como fascinante.",
+        quote: "En la simpleza del caos, encontramos el placer inesperado."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Emotional Art Gallery",
+        url: "http://www.emogallery.com/",
+        description: "Una colección de arte creada por artistas anónimos que exploran emociones humanas intensas. Sus piezas, a menudo oscuras y desgarradoras, capturan la esencia de lo invisible.",
+        quote: "El arte es el lenguaje de las almas perdidas."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Silophone",
+        url: "http://silophone.net/",
+        description: "Este proyecto transforma un silo de granos abandonado en una cámara de eco gigante. Envíale sonidos y escucha cómo resuenan dentro de sus paredes industriales.",
+        quote: "El eco de nuestras voces resuena en los vacíos de la humanidad."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Neko Atsume: Kitty Collector",
+        url: "https://nekoatsume.com/",
+        description: "Un juego donde coleccionas gatos virtuosos que visitan tu jardín. Es un pasatiempo zen que invita a la tranquilidad y el placer de lo efímero.",
+        quote: "En la paciencia del coleccionista, florece la serenidad."
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "Dark Tourism",
+        url: "https://dark-tourism.com/",
+        description: "Explora el lado oscuro de los viajes a través de esta comunidad dedicada a lugares asociados con el sufrimiento y el misterio. Aquí, la curiosidad y el respeto se entrelazan.",
+        quote: "El lado oscuro del mundo nos recuerda nuestra fragilidad."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Museum of Glitch Aesthetics",
+        url: "http://gl1tchwav3museum.com/",
+        description: "Este museo virtual celebra la imperfección digital, con obras de arte que embrujan con sus fallas estéticas y errores intencionales que resultan en belleza inesperada.",
+        quote: "La imperfección es la nueva perfección."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "Uninventions",
+        url: "http://uninventions.org/",
+        description: "Una colección de ideas absurdas y sin utilidad alguna, que desatan la imaginación y provocan risas por su sencillez y falta de propósito.",
+        quote: "En lo inútil, encontramos la chispa de la creatividad."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Listserve",
+        url: "http://thelistserve.com/",
+        description: "Un proyecto donde una persona al azar escribe un email a miles de suscriptores, compartiendo pensamientos, historias o reflexiones. Es un testimonio de la diversidad humana.",
+        quote: "Una voz entre miles, un eco en la multitud."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Museum of Non-Visible Art",
+        url: "http://nonvisiblemuseum.com/",
+        description: "Una colección de arte que desafía la percepción, explorando la idea de obras que existen sólo en la mente. Aquí, la creatividad se libera de las ataduras físicas.",
+        quote: "El verdadero arte reside en la imaginación."
+    },
+    {
+        category: "Música experimental",
+        title: "Disquiet Junto",
+        url: "https://disquiet.com/",
+        description: "Un proyecto colaborativo de música experimental donde los participantes crean sonidos basados en instrucciones semanales, explorando la frontera entre el arte sonoro y la música.",
+        quote: "La música es el ruido ordenado del universo."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
