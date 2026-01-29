@@ -3946,6 +3946,76 @@ async function fetchFromHackerNews() {
         url: "https://disquiet.com/",
         description: "Un proyecto colaborativo de música experimental donde los participantes crean sonidos basados en instrucciones semanales, explorando la frontera entre el arte sonoro y la música.",
         quote: "La música es el ruido ordenado del universo."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "https://www.staggeringbeauty.com/",
+        description: "Una experiencia visual que reacciona a tus movimientos del ratón llevando el absurdo a límites insospechados. Un ejercicio de minimalismo visual que culmina en el caos.",
+        quote: "El caos es el hermano desolado del silencio."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Rammellzee",
+        url: "https://gagosian.com/artists/rammellzee/",
+        description: "Artista visionario que transforma el graffiti en misticismo futurista, creando un universo propio donde el alfabeto se convierte en armamento simbólico.",
+        quote: "Las letras son armas en la galaxia de la imaginación."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "We Feel Fine",
+        url: "http://www.wefeelfine.org/",
+        description: "Explora el paisaje emocional del mundo a través de un enjambre digital que captura sentimientos de blogs y redes sociales, creando una sinfonía de emociones humanas.",
+        quote: "Los sentimientos son partículas que forman el tejido del universo."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Neko Atsume",
+        url: "https://nekoatsume.com/en/index.html",
+        description: "Un juego donde tu objetivo es atraer gatos a tu patio con juguetes y comida. Una celebración del amor por los felinos en su forma más pura y pasiva.",
+        quote: "A veces, el mayor logro es simplemente observar."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Cybertwee",
+        url: "https://cybertwee.net/",
+        description: "Un colectivo que desafía los límites del ciberfeminismo con estética pastel y suavidad radical, explorando el lado tierno de la tecnología y la subversión cultural.",
+        quote: "La ternura es el nuevo punk."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Glitché",
+        url: "https://glitche.com/",
+        description: "Una herramienta de edición de imágenes que convierte lo imperfecto en arte, celebrando el error digital como una nueva forma de belleza imperfecta y disruptiva.",
+        quote: "La imperfección es el lenguaje secreto del universo digital."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Idle Theory of Value",
+        url: "https://www.idletheory.info/",
+        description: "Una visión económica que eleva la inactividad consciente a un principio vital, proponiendo un enfoque alternativo al valor y el trabajo en nuestra sociedad.",
+        quote: "A veces, el no hacer nada es más valioso que cualquier acción."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Indexed",
+        url: "https://thisisindexed.com/",
+        description: "Un blog ilustrado con tarjetas de índice que transforma conceptos complejos en diagramas simples y reveladores, jugando con la lógica y el ingenio.",
+        quote: "La simplicidad es la máxima sofisticación."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Mantra by Julian Irlinger",
+        url: "https://www.pact-zollverein.de/en/programme/mantra-1",
+        description: "Una instalación que combina mantras auditivos con un espacio visualmente envolvente, explorando el potencial transformador del sonido y la repetición.",
+        quote: "La repetición es la madre de la inmersión."
+    },
+    {
+        category: "Música experimental",
+        title: "Tyondai Braxton's HIVE",
+        url: "https://tyondaibraxton.com/",
+        description: "Un experimento musical y arquitectónico donde músicos y esculturas se fusionan para crear una experiencia multisensorial que desafía las convenciones del concierto tradicional.",
+        quote: "La música es la arquitectura del alma."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
