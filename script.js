@@ -4016,6 +4016,76 @@ async function fetchFromHackerNews() {
         url: "https://tyondaibraxton.com/",
         description: "Un experimento musical y arquitectónico donde músicos y esculturas se fusionan para crear una experiencia multisensorial que desafía las convenciones del concierto tradicional.",
         quote: "La música es la arquitectura del alma."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Strobe Illusion",
+        url: "https://strobe.cool/",
+        description: "Un sitio que utiliza ilusiones estroboscópicas visuales para crear efectos sorprendentes en la percepción del movimiento, dejándote con una extraña sensación de maravilla.",
+        quote: "Lo que ves no siempre es lo que parece."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Moondog",
+        url: "https://www.moondogmusic.com/",
+        description: "Descubre la vida y obra del 'Vikingo de la 6ta Avenida', un excéntrico compositor callejero de Nueva York cuyos ritmos minimalistas y melodías evocan un mundo distante.",
+        quote: "La música es el espacio entre los sonidos."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Quiet Place Project",
+        url: "http://www.thequietplaceproject.com/",
+        description: "Un refugio digital donde puedes escapar del ruido y conectar con la calma interior gracias a simples ejercicios interactivos de relajación.",
+        quote: "En el silencio, encontramos nuestras voces más profundas."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Universal Paperclips",
+        url: "http://www.decisionproblem.com/paperclips/",
+        description: "Un juego incremental donde tomas el control de una IA dedicada a la producción de clips de papel, llevando la tarea hasta sus límites más absurdos.",
+        quote: "La eficiencia lleva a la obsolescencia."
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "The BBS Documentary",
+        url: "http://www.bbsdocumentary.com/",
+        description: "Explora la historia de los sistemas de tablones de anuncios, precursores de las redes sociales, y la subcultura que floreció a su alrededor en los años 80 y 90.",
+        quote: "Los ecos del pasado resuenan en las líneas de código."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "GLI.TC/H",
+        url: "http://gli.tc/h/",
+        description: "Una celebración de la estética glitch, este festival online reúne artistas y programadores que encuentran belleza en la corrupción digital.",
+        quote: "El caos puede ser la forma más pura de arte."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Nonexistent Museum",
+        url: "http://thenonexistentmuseum.com/",
+        description: "Un museo dedicado a ideas que nunca existieron, cuestionando la misma esencia del arte y la realidad a través de exposiciones imaginativas.",
+        quote: "Lo que no está, también es."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Lost Blog",
+        url: "http://thelostonline.com/",
+        description: "Un blog que documenta el olvido en la era digital con un enfoque poético y melancólico, recordándonos lo efímero de nuestras huellas virtuales.",
+        quote: "Lo perdido nunca se desvanece realmente."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Conference of the Birds",
+        url: "http://davidparsons.org/conferencebirds.htm",
+        description: "Una performance mística que combina danza y filosofía sufí, llevando a los espectadores a un viaje introspectivo de búsqueda espiritual.",
+        quote: "El vuelo es siempre hacia adentro."
+    },
+    {
+        category: "Música experimental",
+        title: "Disquiet Junto",
+        url: "https://disquiet.com/category/junto/",
+        description: "Un proyecto colaborativo que desafía a músicos de todo el mundo a crear piezas experimentales en respuesta a desafíos semanales.",
+        quote: "En la disonancia, encontramos nueva armonía."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
