@@ -4086,6 +4086,76 @@ async function fetchFromHackerNews() {
         url: "https://disquiet.com/category/junto/",
         description: "Un proyecto colaborativo que desafía a músicos de todo el mundo a crear piezas experimentales en respuesta a desafíos semanales.",
         quote: "En la disonancia, encontramos nueva armonía."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://www.staggeringbeauty.com/",
+        description: "Un simple pero hipnótico sitio web que reacciona a los movimientos de tu ratón de una manera inesperada y exagerada. Un abrazo visual que te sumerge en un frenesí de colores y sonidos.",
+        quote: "A veces, lo absurdo es la mayor de las bellezas."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Yoshitomo Nara",
+        url: "http://www.yoshitomonara.com/",
+        description: "Conocido por sus retratos de niños y animales, Nara combina lo tierno con lo inquietante, creando obras que desafían las convenciones del arte contemporáneo. Sus personajes miran fijamente, desafiantes, desde lienzos que cuentan historias de rebelión y nostalgia.",
+        quote: "La inocencia tiene muchas caras."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Nautilus Project",
+        url: "http://www.nautilusproject.org/",
+        description: "Una exploración submarina que combina la ciencia y el arte, llevando a los espectadores a un viaje por las maravillas ocultas del océano. Participa en una odisea de descubrimiento que revela la poesía escondida en las profundidades marinas.",
+        quote: "En el silencio del océano, hay millones de historias por contar."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Dinosaur Polo Club Mini Metro",
+        url: "http://dinopoloclub.com/minimetro/",
+        description: "Un juego de estrategia y minimalismo donde diseñas rutas de metro para una ciudad en crecimiento. La simplicidad de su diseño esconde una complejidad que desafía la mente y el tiempo.",
+        quote: "El caos urbano se ordena a través del arte del metro."
+    },
+    {
+        category: "Subculturas",
+        title: "Cyberpunk Culture",
+        url: "http://cyberpunk.net/",
+        description: "Una comunidad dedicada al género cyberpunk, donde se exploran las intersecciones entre la tecnología, la distopía y la cultura pop. Un refugio para quienes ven el futuro a través del prisma del neón y el pixel.",
+        quote: "El futuro ya está aquí, solo que no está distribuido equitativamente."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Pixeldust",
+        url: "http://pixeldust.org/",
+        description: "Una oda al arte digital en su forma más pura: píxeles que cobran vida para contar historias a través de patrones infinitos. La pantalla se convierte en un lienzo donde lo digital y lo analógico se encuentran.",
+        quote: "Los píxeles también pueden contar historias."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Museum of Non-Visible Art",
+        url: "http://www.museumofnonvisibleart.com/",
+        description: "Un museo que desafía la percepción del arte al presentar obras que existen solamente en el imaginario del espectador. Un espacio donde el arte es una idea, una provocación intelectual que invita a la introspección.",
+        quote: "El arte más poderoso es el que solo puedes ver con los ojos cerrados."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Hollow Tree Ventures",
+        url: "http://hollowtreeventures.com/",
+        description: "Un blog que recopila historias personales con un toque de humor y reflexión. Momentos aparentemente banales transformados en profundas anécdotas que resuenan con la vida cotidiana de cualquiera.",
+        quote: "La vida es más interesante cuando la observas desde el árbol hueco de la perspectiva."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Quiet Volume",
+        url: "http://www.thequietvolume.com/",
+        description: "Una performance en bibliotecas que explora las sensaciones de la lectura en espacios públicos. Mediante un guion susurrante, lleva al espectador a un viaje introspectivo entre las palabras y el silencio.",
+        quote: "El verdadero sonido de la lectura es el silencio de la mente."
+    },
+    {
+        category: "Música experimental",
+        title: "Tyondai Braxton",
+        url: "http://www.tyondaibraxton.com/",
+        description: "An experimental composer and performer, Braxton's music is a riveting fusion of electronic textures, unconventional rhythms, and organic sounds. His compositions are a sonic journey into the unknown.",
+        quote: "Sound has the power to unlock doors within the mind."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
