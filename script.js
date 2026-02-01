@@ -4156,6 +4156,76 @@ async function fetchFromHackerNews() {
         url: "http://www.tyondaibraxton.com/",
         description: "An experimental composer and performer, Braxton's music is a riveting fusion of electronic textures, unconventional rhythms, and organic sounds. His compositions are a sonic journey into the unknown.",
         quote: "Sound has the power to unlock doors within the mind."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Zoomquilt",
+        url: "https://zoomquilt.org/",
+        description: "Una interminable animación de 'zoom' que te sumerge en un intrincado paisaje de arte surrealista. Esta experiencia visual te lleva a través de un mundo de fantasía infinita.",
+        quote: "La profundidad no tiene fin ni comienzo, solo transiciones."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Cecelia Condit",
+        url: "http://www.ceceliacondit.com/",
+        description: "Artista que explora los límites entre la fantasía y la realidad a través de películas que son tan perturbadoras como fascinantes. Sus trabajos hacen eco de las fábulas oscuras y relatos de terror.",
+        quote: "La realidad se convierte en leyenda y la leyenda se convierte en realidad."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Magenta Studio",
+        url: "https://magenta.tensorflow.org/",
+        description: "Un proyecto que explora la creación de arte y música utilizando inteligencia artificial. Aquí, las máquinas aprenden a interpretar y recrear la creatividad humana en formas novedosas.",
+        quote: "Cuando la máquina se convierte en creador, el arte evoluciona en nuevas dimensiones."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Neko Atsume",
+        url: "http://www.nekoatsume.com/",
+        description: "Un juego de móvil donde tu único objetivo es atraer gatos a tu patio colocando diferentes juguetes y comida. Simplicidad absurda que genera una extraña satisfacción.",
+        quote: "Los gatos siempre encuentran donde ronronear, incluso en el mundo virtual."
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "Cyborg Nest",
+        url: "https://www.cyborgnest.net/",
+        description: "Una comunidad de personas que han decidido ampliar sus sentidos mediante la tecnología, desdibujando las líneas entre humanos y cyborgs. Un viaje hacia la evolución sensorial.",
+        quote: "El futuro del sentido humano se forja en la unión de carne y circuito."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Glitch Artists Collective",
+        url: "https://www.facebook.com/groups/GlitchArtistsCollective/",
+        description: "Un colectivo digital donde los artistas comparten sus obras de arte glitch, desarrollando una estética que celebra el error y la imperfección en el ámbito digital.",
+        quote: "En el caos del error se encuentra la belleza de lo imprevisible."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "We Are Data",
+        url: "https://wearedata.nairobits.com/",
+        description: "Una provocativa plataforma que visualiza el rastro digital que dejamos, abordando cuestiones sobre la privacidad, vigilancia y la noción de identidad digital.",
+        quote: "Somos más que átomos; somos datos en un mar de información."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The McSweeney's Internet Tendency",
+        url: "https://www.mcsweeneys.net/",
+        description: "Un blog de ensayos y sátiras que ha mantenido durante años un filo ingenioso, jugando con la ironía y el humor absurdo para comentar sobre la vida moderna.",
+        quote: "Amargo o dulce, la ironía siempre es un alivio para el alma."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Ryoji Ikeda's Data-verse",
+        url: "https://www.ryojiikeda.com/project/data-verse-1/",
+        description: "Una serie de performances multimedia que combinan arte y ciencia, explorando las dimensiones visuales y sonoras de los datos en bruto del universo.",
+        quote: "El universo de datos es un cosmos de posibilidades aún por descifrar."
+    },
+    {
+        category: "Música experimental",
+        title: "Gong Gong Gong",
+        url: "https://gonggonggong.bandcamp.com/",
+        description: "Un dúo de música experimental que entrelaza elementos de rock, blues y música tradicional china, creando un sonido hipnótico que desafía las convenciones.",
+        quote: "En la resonancia de cuerdas dispares, nace una nueva armonía."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
