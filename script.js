@@ -4226,6 +4226,76 @@ async function fetchFromHackerNews() {
         url: "https://gonggonggong.bandcamp.com/",
         description: "Un dúo de música experimental que entrelaza elementos de rock, blues y música tradicional china, creando un sonido hipnótico que desafía las convenciones.",
         quote: "En la resonancia de cuerdas dispares, nace una nueva armonía."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Patatap",
+        url: "https://patatap.com/",
+        description: "Un sitio donde cada tecla del teclado produce un sonido y una animación peculiar. Un juego sensorial que ofrece un respiro de la realidad rutinaria.",
+        quote: "En cada tecla, una sorpresa sonora."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Svenja Jödicke",
+        url: "https://www.instagram.com/farbodysseus/",
+        description: "Una artista autodidacta que crea pinturas surrealistas con un énfasis en los ojos. Sus coloridas y emotivas obras parecen hablar silenciosamente al alma.",
+        quote: "Los ojos son ventanas al universo del artista."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "This Cat Does Not Exist",
+        url: "https://thiscatdoesnotexist.com/",
+        description: "Este sitio utiliza inteligencia artificial para generar imágenes de gatos que nunca han existido. Un juego con la realidad que desafía nuestra percepción de lo auténtico.",
+        quote: "La realidad es producto de nuestra imaginación cibernética."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Neko Atsume",
+        url: "https://nekoatsume.com/",
+        description: "Un juego donde coleccionas gatos al poner juguetes y comida en tu jardín virtual. Absurdamente encantador, busca el disfrute a través de la paciencia.",
+        quote: "A veces, la espera es la mayor recompensa."
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "Cyberdelic Society",
+        url: "https://cyberdelicsociety.com/",
+        description: "Un rincón para los entusiastas de la mezcla entre el ciberespacio y la psicodelia, explorando los límites de la conciencia a través de la tecnología.",
+        quote: "El viaje no es a través de un espacio, sino de la mente."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Glitch Art Collective",
+        url: "https://glitchartistscollective.tumblr.com/",
+        description: "Un colectivo dedicado a la creación de arte glitch, donde la corrupción digital se transforma en belleza visual. Un manifiesto visual de la era digital.",
+        quote: "El error es la nueva norma estética."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "Randonautica",
+        url: "https://www.randonautica.com/",
+        description: "Una aplicación que genera coordenadas aleatorias para explorar el mundo físico con intención. ¿Azar o destino? Un juego que incita a la reflexión.",
+        quote: "El universo conspira en coordenadas inesperadas."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Last Psychologist",
+        url: "https://thelastpsychiatrist.com/",
+        description: "Un blog con análisis provocativos y a menudo incómodos sobre la cultura moderna. Una mirada sin filtros a la psicología de lo cotidiano.",
+        quote: "El espejo de la mente refleja sombra y luz por igual."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Emergence (by Ryoji Ikeda)",
+        url: "https://www.ryojiikeda.com/project/emergence/",
+        description: "Una instalación audiovisual que transforma datos matemáticos en experiencias visuales y sonoras, desafiando nuestra percepción del número y la música.",
+        quote: "Los números resuenan en el oído del observador silencioso."
+    },
+    {
+        category: "Música experimental",
+        title: "Algorave",
+        url: "https://algorave.com/",
+        description: "Una comunidad que combina la programación en vivo con música bailable. Un espacio donde el código y el ritmo se entrelazan, redefiniendo el acto de crear música.",
+        quote: "Bailamos al ritmo de algoritmos visibles."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
