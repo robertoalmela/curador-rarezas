@@ -4296,6 +4296,76 @@ async function fetchFromHackerNews() {
         url: "https://algorave.com/",
         description: "Una comunidad que combina la programación en vivo con música bailable. Un espacio donde el código y el ritmo se entrelazan, redefiniendo el acto de crear música.",
         quote: "Bailamos al ritmo de algoritmos visibles."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Zoomquilt",
+        url: "http://zoomquilt.org/",
+        description: "Sumérgete en un mundo sin fin de ilusiones ópticas con Zoomquilt, donde la imagen parece expandirse eternamente. Es una experiencia visual hipnótica que desafía la percepción del espacio y del tiempo.",
+        quote: "El infinito es solo el comienzo."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Chiharu Shiota",
+        url: "https://www.chiharushiota.com/",
+        description: "Artista japonesa que usa hilos rojos y negros para crear instalaciones que exploran la memoria, las fronteras y la conexión humana. Sus obras son telarañas poéticas que invitan a la introspección.",
+        quote: "El hilo del destino está tejido en cada rincón de nuestra memoria."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Nautilida",
+        url: "https://nautilida.com/",
+        description: "Un fascinante proyecto experimental que mezcla música, animación y narrativa, Nautilida es un caleidoscopio digital que lleva a los participantes a un viaje a través de la creatividad y la imaginación.",
+        quote: "La creatividad no tiene un mapa, solo un rumbo."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "There is No Game",
+        url: "https://www.kongregate.com/games/kamikazejay/there-is-no-game",
+        description: "Una experiencia interactiva que desafía el concepto mismo de lo que significa ser un juego. Juega a no jugar con este ingenioso experimento que invita a la reflexión y al juego sin reglas.",
+        quote: "No hay juego, solo la ilusión de jugar."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "The Quietus",
+        url: "https://thequietus.com/",
+        description: "Una revista en línea dedicada a la música y la cultura alternativa que ofrece una perspectiva única sobre las subculturas musicales de todo el mundo.",
+        quote: "En el silencio se encuentran los sonidos más sublimes."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Petra Cortright",
+        url: "http://petracortright.com/",
+        description: "Artista digital reconocida por su uso del software y los medios digitales para crear obras vibrantes que desafían los límites del arte tradicional, fusionando el net.art y el glitch art.",
+        quote: "La belleza del error es una dimensión del arte."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "PostSecret",
+        url: "https://postsecret.com/",
+        description: "Un proyecto colaborativo donde personas de todo el mundo envían secretos anónimos en postales artísticas. Una reflexión sobre la vulnerabilidad y el poder de compartir lo oculto.",
+        quote: "Todos llevamos un secreto que anhela ser contado."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Dreaming Machine",
+        url: "http://dreamingmachine.org/",
+        description: "Un blog que explora el cruce entre los sueños y la tecnología, ofreciendo una colección única de ideas y reflexiones sobre lo inconsciente digital.",
+        quote: "Los sueños son algoritmos del alma."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Ryoji Ikeda",
+        url: "https://www.ryojiikeda.com/",
+        description: "Este artista japonés combina imágenes y sonido en performances que transforman el espacio en una experiencia sensorial total. Una meditación sobre el infinito y la percepción humana.",
+        quote: "El sonido es la sombra del silencio."
+    },
+    {
+        category: "Música experimental",
+        title: "Lullatone",
+        url: "http://www.lullatone.com/",
+        description: "Un dúo musical que crea melodías minimalistas y experimentales inspiradas en la cotidianidad y la simplicidad. Un deleite sonoro que encuentra la belleza en lo pequeño y lo común.",
+        quote: "La música de la vida reside en las canciones más simples."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
