@@ -4366,6 +4366,76 @@ async function fetchFromHackerNews() {
         url: "http://www.lullatone.com/",
         description: "Un dúo musical que crea melodías minimalistas y experimentales inspiradas en la cotidianidad y la simplicidad. Un deleite sonoro que encuentra la belleza en lo pequeño y lo común.",
         quote: "La música de la vida reside en las canciones más simples."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Zoom Quilt",
+        url: "http://zoomquilt.org/",
+        description: "Un viaje interminable a través de un mundo surrealista y laberíntico de imágenes encadenadas. La página ofrece una experiencia hipnótica donde el mundo se despliega frente a tus ojos, infinitamente.",
+        quote: "La aventura sin fin en una sola dirección."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "WikiPaintings: Outsider Art",
+        url: "https://www.wikiart.org/en/outsider-art",
+        description: "Un archivo en línea dedicado a las obras de arte creadas por personas fuera del mainstream del arte, ofreciendo una visión única de la creatividad en los márgenes.",
+        quote: "Arte desde el borde del mapa."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Pillow Talk",
+        url: "http://littleelephant.net/pillowtalk/",
+        description: "Un peculiar espacio en línea donde los visitantes son invitados a susurrar sus pensamientos a almohadas virtuales. Un experimento social en intimidad en la vastedad de internet.",
+        quote: "El susurro eterno del mundo digital."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Bored Button",
+        url: "https://www.boredbutton.com/",
+        description: "Un portal que te transporta a sitios aleatorios y absurdos con un solo clic, ideal para romper la monotonía de la navegación en la web.",
+        quote: "La sorpresa aguarda tras cada botón."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Weird Subreddits",
+        url: "https://www.reddit.com/r/weirdsubreddits/",
+        description: "Un rincón de Reddit dedicado a descubrir las comunidades más extrañas y peculiares de la plataforma, mostrando la diversidad y la rareza de la expresión humana en línea.",
+        quote: "En la diversidad está la rareza del ser."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Glitché",
+        url: "https://glitche.com/",
+        description: "Una aplicación y comunidad en línea dedicada al glitch art, donde los errores digitales se transforman en bellas distorsiones visuales. Una celebración del error como arte.",
+        quote: "Cuando el error se convierte en belleza."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Last Bookstore",
+        url: "https://www.lastbookstorela.com/",
+        description: "Una librería en L.A. que parece salida de un sueño, llena de túneles de libros y exposiciones artísticas. Un homenaje al mundo físico en la era digital.",
+        quote: "Donde las páginas nunca callan."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Ghost in My Machine",
+        url: "https://theghostinmymachine.com/",
+        description: "Un blog que documenta lo extraño y paranormal, desde leyendas urbanas hasta experimentos con lo desconocido. Un viaje a través de las historias que alimentan nuestras pesadillas.",
+        quote: "Narraciones de lo oculto en los rincones del ciberespacio."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Sleep Concerts by Robert Rich",
+        url: "https://robertrich.com/sleep-concerts/",
+        description: "Conciertos diseñados para ser escuchados mientras duermes, donde el sonido ambiente y la música se entrelazan para crear una experiencia de sueño compartido.",
+        quote: "La música como puente al subconsciente."
+    },
+    {
+        category: "Música experimental",
+        title: "Alvin Lucier's 'I Am Sitting in a Room'",
+        url: "https://alucier.bandcamp.com/album/i-am-sitting-in-a-room",
+        description: "Una obra maestra de la música experimental donde el sonido de la voz se transforma en ecos resonantes a través de múltiples grabaciones, revelando la arquitectura del espacio auditivo.",
+        quote: "Cuando el sonido descubre su espacio."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
