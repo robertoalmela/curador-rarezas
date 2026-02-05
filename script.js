@@ -4436,6 +4436,76 @@ async function fetchFromHackerNews() {
         url: "https://alucier.bandcamp.com/album/i-am-sitting-in-a-room",
         description: "Una obra maestra de la música experimental donde el sonido de la voz se transforma en ecos resonantes a través de múltiples grabaciones, revelando la arquitectura del espacio auditivo.",
         quote: "Cuando el sonido descubre su espacio."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "The Parallax",
+        url: "https://theparallax.org/",
+        description: "Una serie de pantallas que responden al movimiento del ratón con imágenes geométricas y cambiantes. Navegar en este sitio es como mirar un caleidoscopio digital en constante transformación.",
+        quote: "La belleza está en el ojo del que explora."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Jason Brammer",
+        url: "http://www.jasonbrammer.com/",
+        description: "Con un enfoque en ilusiones ópticas y arte retrofuturista, Brammer crea mundos fantásticos a partir de pintura y objetos encontrados. Su obra invita a cuestionar la realidad tal como la percibimos.",
+        quote: "El arte es el portal hacia universos alternativos."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Twitch Plays Pokémon",
+        url: "https://www.twitch.tv/twitchplayspokemon",
+        description: "Una experiencia interactiva donde miles de espectadores controlan un juego de Pokémon a través del chat. El caos controlado se convierte en un gran experimento social.",
+        quote: "La multitud es la verdadera jugadora."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Manyland",
+        url: "https://manyland.com/",
+        description: "Un universo virtual donde los jugadores crean y exploran un mundo compartido que desafía las leyes de la física y la lógica. Todo aquí es posible gracias a la colaboración comunitaria.",
+        quote: "La realidad se construye píxel a píxel."
+    },
+    {
+        category: "Mundos under, subculturas",
+        title: "Cybertwee",
+        url: "https://cybertwee.net/",
+        description: "Un movimiento que combina lo digital con lo empático, lo tecnológico con lo frágil. Cybertwee es un abrazo digital cálido en un mundo de conexiones frías.",
+        quote: "La ternura es la nueva vanguardia digital."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Art by Psychic TV",
+        url: "http://www.psychic-tv.com/",
+        description: "La icónica banda de culto crea una mezcla visual y sonora que desafía convenciones. Con un diseño web que refleja su estética transgresora, es un viaje a través del caos estructurado.",
+        quote: "La visión es una forma de revelación."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Center for Tactical Magic",
+        url: "http://www.tacticalmagic.org/",
+        description: "Un colectivo que explora la intersección entre la magia, el arte y la política. Utilizan el ilusionismo como herramienta para el cambio social y la crítica cultural.",
+        quote: "La magia es el arte de lo posible."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Sartorialist",
+        url: "https://www.thesartorialist.com/",
+        description: "Un blog que documenta el estilo callejero desde una perspectiva humana, capturando momentos de moda espontánea y explorando la diversidad cultural a través de la vestimenta.",
+        quote: "La moda es la poesía del momento presente."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Long Now Foundation",
+        url: "http://longnow.org/",
+        description: "Un proyecto para crear un reloj que dure 10.000 años, diseñado para cambiar nuestra percepción del tiempo. Una exposición de la paciencia y la ingeniería a largo plazo.",
+        quote: "El tiempo es la tela de la eternidad."
+    },
+    {
+        category: "Música experimental",
+        title: "Tears|Ov",
+        url: "https://tearsov.bandcamp.com/",
+        description: "Un colectivo musical que explora lo etéreo y lo oscuro a través de sonidos ambientales y envolventes. Sus composiciones son un viaje introspectivo al eco de lo desconocido.",
+        quote: "La música es la sombra sonora del alma."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
