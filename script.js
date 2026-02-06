@@ -4506,6 +4506,76 @@ async function fetchFromHackerNews() {
         url: "https://tearsov.bandcamp.com/",
         description: "Un colectivo musical que explora lo etéreo y lo oscuro a través de sonidos ambientales y envolventes. Sus composiciones son un viaje introspectivo al eco de lo desconocido.",
         quote: "La música es la sombra sonora del alma."
+    },
+    {
+        category: "webs extrañas o inútiles",
+        title: "Feed The Head",
+        url: "https://www.feedthehead.net/",
+        description: "Una experiencia interactiva surrealista donde puedes jugar con una cabeza virtual, descubriendo secretos y sorpresas ocultas en sus extrañas características.",
+        quote: "La curiosidad alimenta el intelecto en un ciclo perpetuo de maravilla."
+    },
+    {
+        category: "artistas desconocidos o marginales",
+        title: "The Art of Matthew Barney",
+        url: "https://www.cremaster.net/",
+        description: "Explora el universo visual y narrativo de Matthew Barney, un artista que desafía los límites del arte contemporáneo con sus complejos y enigmáticos ciclos de películas y esculturas.",
+        quote: "El arte es un eco de lo que podría ser, más que de lo que es."
+    },
+    {
+        category: "proyectos raros y experimentales",
+        title: "The Arrangement",
+        url: "http://thearrangement.gallery/",
+        description: "Una galería de arte digital donde las obras son reimaginadas constantemente a través de un algoritmo, cuestionando la idea de permanencia en el arte.",
+        quote: "En el cambio, encontramos la esencia de lo eterno."
+    },
+    {
+        category: "juegos absurdos o interactivos",
+        title: "Gender Game",
+        url: "http://phubans.com/gender.html",
+        description: "Un juego en línea que desafía las construcciones sociales de género a través de escenarios absurdos y humorísticos, invitando a la reflexión crítica.",
+        quote: "La identidad es un laberinto de espejos."
+    },
+    {
+        category: "mundos “under”, subculturas",
+        title: "FursuitVN",
+        url: "https://fursuitvn.com/",
+        description: "Una comunidad dedicada al mundo de los furries, explorando la creatividad y la autoexpresión detrás de esta vibrante subcultura.",
+        quote: "En cada disfraz, una nueva dimensión de autenticidad."
+    },
+    {
+        category: "estéticas raras",
+        title: "Digital Decay",
+        url: "https://digitaldecay.net/",
+        description: "Un archivo de imágenes y videos que exploran la belleza en la degradación digital, uniendo glitch art con el arte contemporáneo.",
+        quote: "El deterioro revela la esencia oculta en el ruido."
+    },
+    {
+        category: "ideas provocadoras",
+        title: "Post-Internet Theory",
+        url: "http://postinternett.com/",
+        description: "Un sitio que compila teorías y reflexiones sobre un mundo más allá de la saturación digital, incitando a imaginar el futuro de nuestra cultura.",
+        quote: "Cuando todo es visible, ¿qué queda por descubrir?"
+    },
+    {
+        category: "blogs olvidados",
+        title: "The Pudding",
+        url: "https://pudding.cool/",
+        description: "Un blog que utiliza ensayos visuales para desentrañar datos complejos, transformando grandes cantidades de información en comprensibles narrativas creativas.",
+        quote: "La claridad emerge cuando los datos encuentran su voz."
+    },
+    {
+        category: "performances o exposiciones raras",
+        title: "Nuit Blanche: Sleep Concert",
+        url: "https://nuitblanche.org/sleep-concerts",
+        description: "Un concierto de sueño que invita a los asistentes a experimentar la música en un estado subconsciente, rompiendo las barreras entre vigilia y sueño.",
+        quote: "La música teje sueños en un tapiz de serenidad."
+    },
+    {
+        category: "música experimental",
+        title: "The Disquiet Junto Project",
+        url: "http://disquiet.com/tag/junto/",
+        description: "Una comunidad de músicos experimentales que crean piezas musicales colectivas basadas en parámetros desafiantes y conceptos abstractos.",
+        quote: "En la disonancia, nace la armonía del pensamiento colectivo."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
