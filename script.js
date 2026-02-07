@@ -4576,6 +4576,76 @@ async function fetchFromHackerNews() {
         url: "http://disquiet.com/tag/junto/",
         description: "Una comunidad de músicos experimentales que crean piezas musicales colectivas basadas en parámetros desafiantes y conceptos abstractos.",
         quote: "En la disonancia, nace la armonía del pensamiento colectivo."
+    },
+    {
+        category: "Música experimental",
+        title: "The Quietus Phonographic Corporation",
+        url: "https://phonographic.co/",
+        description: "Un sello discográfico virtual que presenta lanzamientos de música inusual, ruidos de baja fidelidad y experimentaciones sonoras crípticas. Una tierra fértil para el oído inquieto.",
+        quote: "La disonancia es el nuevo acorde."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Falling Sand Game",
+        url: "https://sandspiel.club/",
+        description: "Un juego de simulación digital que permite manipular distintos elementos como arena, agua y fuego en un espacio vacío. Es un ejercicio en futilidad y un deleite para el amante de lo efímero.",
+        quote: "Todo cae, todo fluye."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Hyde Park Paintings",
+        url: "https://hydeparkpaintings.com/",
+        description: "Un pintor anónimo que transforma paredes de parques en lienzos, creando obras de arte fugaces que desafían las convenciones del espacio expositivo.",
+        quote: "La ciudad es nuestra galería."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Algorave",
+        url: "https://algorave.com/",
+        description: "Una fiesta de música generada por algoritmos, donde programadores crean ritmos en tiempo real, fusionando la lógica matemática con la experiencia sensorial del rave.",
+        quote: "El código es nuestro DJ."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Neko Atsume",
+        url: "http://nekoatsume.com/",
+        description: "Un juego minimalista donde el objetivo es atraer y coleccionar gatos virtuales que aparecen en tu jardín. Una oda a lo absurdo que triunfa en su simplicidad.",
+        quote: "Los gatos siempre saben dónde está el hogar."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Weird Side of YouTube",
+        url: "https://www.reddit.com/r/DeepIntoYouTube/",
+        description: "Un rincón de internet donde se descubren los videos más bizarros y olvidados de YouTube, reflejando la diversidad surrealista del contenido generado por usuarios.",
+        quote: "Navegar el abismo para encontrar un mundo nuevo."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Lingua Ignota",
+        url: "https://linguaignota.net/",
+        description: "Kristin Hayter desafía las normas musicales y líricas con su proyecto sonoro, fusionando estilos que van desde el canto gregoriano hasta el noise industrial en búsqueda de la redención.",
+        quote: "La belleza se revela en el caos."
+    },
+    {
+        category: "Filosofía digital",
+        title: "Digital Philosophy",
+        url: "https://spacecollective.org/",
+        description: "Una comunidad en línea que explora los límites de la existencia digital, lanzando ideas sobre el futuro de la humanidad, la tecnología y la conciencia colectiva.",
+        quote: "¿Somos bits soñando que somos humanos?"
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Worst Things For Sale",
+        url: "https://theworstthingsforsale.com/",
+        description: "Un blog que documenta y comenta sobre los objetos más absurdos y poco prácticos disponibles en línea, una sátira mordaz del consumismo moderno.",
+        quote: "La ridiculez tiene un precio, y está rebajado."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Museum of Broken Relationships",
+        url: "https://brokenships.com/",
+        description: "Un museo dedicado a las historias y objetos de relaciones fallidas, creando una narrativa colectiva sobre el amor, la pérdida y la humanidad compartida.",
+        quote: "Cada corazón roto cuenta una historia."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
