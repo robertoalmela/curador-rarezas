@@ -4646,6 +4646,76 @@ async function fetchFromHackerNews() {
         url: "https://brokenships.com/",
         description: "Un museo dedicado a las historias y objetos de relaciones fallidas, creando una narrativa colectiva sobre el amor, la pérdida y la humanidad compartida.",
         quote: "Cada corazón roto cuenta una historia."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Bored Button",
+        url: "https://www.boredbutton.com/",
+        description: "Cada clic en este botón te transporta a una experiencia web diferente y absurda. Perfecto para exploradores digitales en busca de lo inesperado.",
+        quote: "El aburrimiento es el preludio de la imaginación."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Moki Mioke",
+        url: "https://www.mokimioke.com/",
+        description: "Descubre la obra onírica de Moki Mioke, donde los paisajes se fusionan con cuerpos humanos, creando un universo inusual y evocador.",
+        quote: "En el sueño, la naturaleza encuentra otra forma de diálogo."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Quietus Phosphene",
+        url: "http://quietusmusic.com/phosphene/",
+        description: "Explora la interacción entre la música y los fosfenos, esas luces que ves cuando cierras los ojos con fuerza, en este proyecto sinestésico.",
+        quote: "Ver la música, escuchar la luz."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Nonsense Madness",
+        url: "http://nonsensemadness.com/",
+        description: "Un juego online donde nada tiene sentido y todo puede suceder. Una oda a la absurdidad que desafía cualquier lógica tradicional.",
+        quote: "La lógica es el enemigo de la verdadera libertad."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Cyberpunk in Real Life",
+        url: "https://cyberpunkinreallife.com/",
+        description: "Una exploración visual de cómo la estética y la cultura cyberpunk se manifiestan en la realidad urbana actual.",
+        quote: "El futuro nos alcanzó en un susurro de neón."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Digital Decay",
+        url: "http://digitaldecay.net/",
+        description: "Un homenaje al glitch art y la belleza de los errores digitales, donde la imperfección se convierte en arte.",
+        quote: "La perfección es aburrida; glorifica lo roto."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Society of the Spectacle",
+        url: "http://www.notbored.org/debord.html",
+        description: "Una colección de escritos sobre el concepto de espectáculo de Guy Debord, reflexionando sobre la representación y la alienación en la sociedad moderna.",
+        quote: "La vida de la sociedad se presenta como una inmensa acumulación de espectáculos."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "PostSecret",
+        url: "https://postsecret.blogspot.com/",
+        description: "Un archivo de secretos anónimos enviados por personas de todo el mundo. Una mirada íntima a lo que a menudo permanece oculto.",
+        quote: "Las palabras no dichas son a menudo las más fuertes."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "One Square Inch of Silence",
+        url: "http://onesquareinch.org/",
+        description: "Un proyecto para preservar el espacio más silencioso en el continente americano. Una resistencia sonora contra el ruido del mundo moderno.",
+        quote: "El silencio es el único refugio verdadero."
+    },
+    {
+        category: "Música experimental",
+        title: "The Disquiet Junto Project",
+        url: "https://disquiet.com/2020/01/09/disquiet-junto-project-overview/",
+        description: "Un proyecto musical comunitario donde los artistas colaboran en desafíos semanales para crear música experimental e innovadora.",
+        quote: "El sonido es solo el comienzo del viaje."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
