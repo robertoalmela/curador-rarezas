@@ -4716,6 +4716,76 @@ async function fetchFromHackerNews() {
         url: "https://disquiet.com/2020/01/09/disquiet-junto-project-overview/",
         description: "Un proyecto musical comunitario donde los artistas colaboran en desafíos semanales para crear música experimental e innovadora.",
         quote: "El sonido es solo el comienzo del viaje."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://staggeringbeauty.com/",
+        description: "Una serpenteante figura negra que se mueve frenéticamente al mover el ratón. Una experiencia visual y auditiva que desafía la lógica y despierta una sensación de encantadora inutilidad.",
+        quote: "A veces, lo absurdo es la única forma de dejarse sorprender."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Fiona Banner's Text Works",
+        url: "http://www.fionabanner.com/textworks/",
+        description: "Fiona Banner crea obras artísticas a través del texto, explorando las posibilidades del lenguaje con un enfoque que desafía los límites convencionales del arte, cuestionando la percepción y la interpretación.",
+        quote: "Las palabras son el pincel de la mente."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Dear Data",
+        url: "http://www.dear-data.com/theproject",
+        description: "Dos artistas se intercambiaron postales durante un año, cada una representando datos personales recopilados de su vida diaria. Los resultados son un artefacto de la intimidad y estadística.",
+        quote: "En cada dato se esconde una historia que merece ser contada."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Nothing You Have Done Deserves Such Praise",
+        url: "https://crowscrowscrows.itch.io/nothing",
+        description: "Un juego donde cada acción trivial es recibida con una exagerada ovación. Plantea una reflexión irónica sobre el reconocimiento y la autoindulgencia en la era digital.",
+        quote: "A veces, el aplauso más fuerte es el que se recibe por hacer nada."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Yami-Ichi",
+        url: "http://internet-yami-ichi.net/",
+        description: "Un mercado de pulgas donde se venden objetos del mundo digital en la vida real. Este festival subcultural celebra lo extraño y lo bello de nuestras vidas en línea.",
+        quote: "En el mercado del ciberespacio, lo virtual cobra vida."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Rhizome's Surf Clubs",
+        url: "https://rhizome.org/editorial/2008/nov/14/surf-clubs-the-locked-room-ate-my-website/",
+        description: "Un movimiento dentro del net.art donde los artistas se agrupaban para compartir y crear obras en línea bajo una estética compartida, un precursor de las tendencias de redes sociales actuales.",
+        quote: "Surfear la web no es solo consumir, es crear."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "PostSecret",
+        url: "https://postsecret.com/",
+        description: "Un proyecto de arte comunitario en el que las personas envían postales con sus secretos anónimos. Una ventana a lo más íntimo del ser humano, enterrado bajo la superficie de lo cotidiano.",
+        quote: "Todos guardamos secretos; el verdadero arte es compartirlos."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Last Psychiatrist",
+        url: "http://thelastpsychiatrist.com/",
+        description: "Una crítica incisiva y brillante de la cultura de masas, la psiquiatría y el impacto de los medios, todo desde un blog que parece haberse detenido en el tiempo.",
+        quote: "La verdadera locura es no cuestionar el mundo que nos rodea."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Quiet Ensemble",
+        url: "http://www.quietensemble.com/",
+        description: "Este colectivo italiano convierte la interacción entre la luz y el sonido en una experiencia sensorial única. Sus performances son tan efímeras como impresionantes.",
+        quote: "El arte comienza donde las palabras terminan."
+    },
+    {
+        category: "Filosofía digital",
+        title: "The Society for the Study of Speculative Fiction",
+        url: "https://www.swpac.org/",
+        description: "Un grupo dedicado al estudio y discusión de la ficción especulativa como herramienta para explorar posibilidades filosóficas y tecnológicas del futuro.",
+        quote: "La especulación es el primer paso hacia la creación de nuevos mundos."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
