@@ -4786,6 +4786,76 @@ async function fetchFromHackerNews() {
         url: "https://www.swpac.org/",
         description: "Un grupo dedicado al estudio y discusión de la ficción especulativa como herramienta para explorar posibilidades filosóficas y tecnológicas del futuro.",
         quote: "La especulación es el primer paso hacia la creación de nuevos mundos."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://www.staggeringbeauty.com/",
+        description: "Una página simple, absurda y alucinante, donde mover el mouse provoca reacciones visuales y sonoras inesperadas. Es una experiencia psicodélica y sorprendentemente cautivadora.",
+        quote: "A veces, el caos es la verdadera belleza."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Yves Klein Archives",
+        url: "http://www.yveskleinarchives.org/",
+        description: "Explora la vida y obra de Yves Klein, un artista francés conocido por sus monocromos en azul y sus performances radicales. Su legado desafía las normas del arte convencional.",
+        quote: "El azul no tiene dimensiones, está más allá de las dimensiones."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Radio Garden",
+        url: "http://radio.garden/",
+        description: "Un globo terráqueo interactivo que permite escuchar emisoras de radio de todo el mundo en tiempo real, brindando una conexión auditiva a culturas y voces diversas.",
+        quote: "La música es el lenguaje universal del alma."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Nerdy Day Trips",
+        url: "http://www.nerdydaytrips.com/",
+        description: "Un mapa colaborativo donde los usuarios comparten lugares inusuales y extraños para visitar, desde museos curiosos hasta sitios de interés científico.",
+        quote: "El viaje es el destino más peculiar."
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "Weirder Earth",
+        url: "http://www.weirderearth.com/",
+        description: "Un portal dedicado a las subculturas y fenómenos culturales extraños que no se encuentran en las guías habituales. Un refugio para lo no convencional.",
+        quote: "Lo raro es la esencia de lo especial."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Cyberdelic Society",
+        url: "http://www.cyberdelicsociety.com/",
+        description: "Explora la fusión entre la psicodelia y la tecnología digital, un espacio donde la mente y la máquina convergen en arte visual y sonoro.",
+        quote: "En el ciberespacio, los límites son imaginarios."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "Uncomfortable Design",
+        url: "http://uncomfortable.website/",
+        description: "Una recopilación de diseños cotidianos que deliberadamente buscan ser incómodos, desafiando nuestra percepción de funcionalidad y confort.",
+        quote: "La incomodidad es la chispa del cambio."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Dusty Bookshelf",
+        url: "http://thedustybookshelf.com/",
+        description: "Un blog dedicado a descubrir y reseñar libros olvidados, de épocas pasadas, que merecen ser redescubiertos y volver a la vida.",
+        quote: "Cada libro olvidado es un universo perdido."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Silent Room",
+        url: "http://www.silentroom.org/",
+        description: "Una instalación donde el silencio es el protagonista, invitando a los visitantes a experimentar la ausencia de sonido en un entorno controlado.",
+        quote: "El silencio es el lienzo de la introspección."
+    },
+    {
+        category: "Música experimental",
+        title: "Radio Aporee",
+        url: "http://aporee.org/maps/",
+        description: "Una plataforma colaborativa de grabaciones de campo sonoro alrededor del mundo. Cada lugar tiene una historia acústica que espera ser escuchada.",
+        quote: "El mundo es una partitura sin fin."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
