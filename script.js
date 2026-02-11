@@ -4856,6 +4856,76 @@ async function fetchFromHackerNews() {
         url: "http://aporee.org/maps/",
         description: "Una plataforma colaborativa de grabaciones de campo sonoro alrededor del mundo. Cada lugar tiene una historia acústica que espera ser escuchada.",
         quote: "El mundo es una partitura sin fin."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://staggeringbeauty.com/",
+        description: "Un sitio que presenta una criatura ondulante que reacciona de manera sorprendente cuando interactúas con ella. Un ejemplo fascinante de cómo lo simple puede ser hipnótico.",
+        quote: "A veces, lo absurdo nos ofrece una forma peculiar de belleza."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Tressa Prisbrey: Bottle Village",
+        url: "http://bottlevillage.com/",
+        description: "Tressa Prisbrey creó un pueblo de botellas en California hecho casi en su totalidad de botellas de vidrio recicladas. Esta obra de arte outsider es un testimonio de creatividad y reutilización.",
+        quote: "La basura de un hombre es el tesoro de otro."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Longplayer",
+        url: "http://longplayer.org/",
+        description: "Una composición musical diseñada para sonar continuamente durante 1000 años, desafiando nuestra comprensión del tiempo y la música.",
+        quote: "El tiempo no espera a nadie, pero la música puede esperar por siempre."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Dinosaur Polo Club: Mini Metro",
+        url: "http://dinopoloclub.com/minimetro/",
+        description: "Un juego de simulación de líneas de metro que transforma la planificación urbana en una experiencia zen de caos controlado.",
+        quote: "Construir un mundo es a veces más sencillo que entenderlo."
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "Furry Fandom",
+        url: "https://furscience.com/",
+        description: "Una comunidad de personas que crean personajes animales antropomorfos para disfrute mutuo. Un universo entero bajo la superficie de los disfraces.",
+        quote: "A veces, el disfraz revela más que lo que oculta."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Glitch Artists Collective",
+        url: "https://www.facebook.com/groups/556837554370687/",
+        description: "Un colectivo de artistas que exploran la estética de la degradación digital, celebrando el error como forma de arte.",
+        quote: "En la imperfección encontramos la verdadera belleza."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Dark Room",
+        url: "http://www.thedarkroom.tv/",
+        description: "Una experiencia interactiva que te desafía a escapar de una habitación oscura con lógica torcida y humor negro.",
+        quote: "La oscuridad puede ser un maestro muy iluminador."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "PostSecret",
+        url: "https://postsecret.com/",
+        description: "Un proyecto en línea donde las personas envían sus secretos más profundos de forma anónima, convirtiéndose en un collage de las confesiones humanas.",
+        quote: "Todos tenemos secretos que llevan el peso de lo no dicho."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "We’re All Going to Die",
+        url: "https://www.weareallgoingtodie.com/",
+        description: "Una exposición que se centra en nuestra mortalidad para celebrar la vida, utilizando la danza, el arte y las historias para enfrentar el inevitable final.",
+        quote: "Vivir plenamente es aceptar que el final es parte del viaje."
+    },
+    {
+        category: "Música experimental",
+        title: "The Caretaker – Everywhere at the End of Time",
+        url: "https://thecaretaker.bandcamp.com/",
+        description: "Un proyecto musical que explora la demencia a través de seis fases de audio, ofreciendo una experiencia sonora tan perturbadora como esclarecedora.",
+        quote: "El olvido puede ser un eco persistente en la mente."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
