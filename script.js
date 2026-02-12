@@ -4926,6 +4926,76 @@ async function fetchFromHackerNews() {
         url: "https://thecaretaker.bandcamp.com/",
         description: "Un proyecto musical que explora la demencia a través de seis fases de audio, ofreciendo una experiencia sonora tan perturbadora como esclarecedora.",
         quote: "El olvido puede ser un eco persistente en la mente."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://staggeringbeauty.com/",
+        description: "Un sitio web de lo más peculiar, donde una criatura negroide baila de manera frenética con el movimiento de tu cursor. Un guiño a lo absurdo y al deleite sensorial.",
+        quote: "A veces, lo inútil es una danza frenética en la pantalla."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Ryoji Ikeda",
+        url: "https://ryojiikeda.com/",
+        description: "Un artista japonés que usa frecuencias de sonido y visuales matemáticos para crear experiencias inmersivas e hipnóticas. Su arte busca resonar con el espacio, el tiempo y la percepción humana.",
+        quote: "Lo visible es solo un eco del sonido."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Quiet Place Project",
+        url: "http://thequietplaceproject.com/",
+        description: "Un refugio interactivo en línea para desconectar del ruido digital. A través de la sencillez, te invita a disfrutar de un momento de paz en el ajetreo de la vida virtual.",
+        quote: "En el silencio, encontramos las voces más auténticas."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Neko Atsume",
+        url: "http://www.nekoatsume.com/",
+        description: "Un encantador juego de gatos donde, en lugar de capturarlos, simplemente les proporcionas juguetes y comida para atraerlos. Una celebración de lo cotidiano y lo adorable.",
+        quote: "El universo se expande con cada ronroneo."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "The Glitch Art Collective",
+        url: "https://gl1tch.com/",
+        description: "Un colectivo de artistas que exploran las posibilidades estéticas del error digital. Aquí, la imperfección se convierte en arte y los glitches revelan nuevas narrativas visuales.",
+        quote: "En el caos digital encontramos nuestra belleza imperfecta."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Patrika",
+        url: "https://patrika.net/",
+        description: "Una exploración visual de lo efímero y lo nostálgico en las imágenes digitalizadas. Su estética vaporwave te transportará a una realidad paralela llena de neón y sueños distorsionados.",
+        quote: "Lo retro es nuestro futuro, reimaginado píxel a píxel."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Mindvalley Project",
+        url: "https://www.mindvalley.com/",
+        description: "Una plataforma que desafía las normas educativas convencionales con cursos que fusionan ciencia, espiritualidad y potencial humano. Aquí, el aprendizaje es una revolución personal.",
+        quote: "La mente es un valle, siempre en expansión."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Very Short Novels",
+        url: "http://www.verysmallnovels.com/",
+        description: "Un rincón de internet dedicado a relatos ultracortos, cada uno no más largo que una oración. Un testimonio de que las historias más poderosas pueden surgir de la brevedad.",
+        quote: "En una línea, un universo."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Art by Telephone",
+        url: "https://www.artbytelephone.com/",
+        description: "Una exposición experimental donde las obras se describen a través de llamadas telefónicas en lugar de exponerse físicamente. Un diálogo entre artista y audiencia en el aire.",
+        quote: "El arte no siempre se ve, a veces solo se escucha."
+    },
+    {
+        category: "Música experimental",
+        title: "Disquiet Junto",
+        url: "https://disquiet.com/",
+        description: "Una comunidad de músicos que exploran el potencial de la música algorítmica, la ambient y el experimental. Cada semana, nuevos desafíos creativos transforman el sonido en una experiencia colaborativa.",
+        quote: "El silencio es la partitura más universal."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
