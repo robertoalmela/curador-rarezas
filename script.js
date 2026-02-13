@@ -4996,6 +4996,76 @@ async function fetchFromHackerNews() {
         url: "https://disquiet.com/",
         description: "Una comunidad de músicos que exploran el potencial de la música algorítmica, la ambient y el experimental. Cada semana, nuevos desafíos creativos transforman el sonido en una experiencia colaborativa.",
         quote: "El silencio es la partitura más universal."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Hacker Typer",
+        url: "http://hackertyper.com/",
+        description: "Simula ser un hacker tecleando a velocidades vertiginosas. Solo presiona cualquier tecla y observa cómo el código se despliega mágicamente.",
+        quote: "A veces, la ilusión es más convincente que la realidad."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Susan Te Kahurangi King",
+        url: "http://susankingartist.org/",
+        description: "Artista neozelandesa que, sin hablar desde la infancia, comunica su mundo interior a través de complejos dibujos llenos de personajes deformados.",
+        quote: "El silencio es un lienzo tan vasto como el universo."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Quiet Place Project",
+        url: "http://thequietplaceproject.com/",
+        description: "Un refugio digital diseñado para aquellos que buscan un momento de tranquilidad en medio del bullicio de la vida online.",
+        quote: "En el silencio, las respuestas susurran."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "CrispMe",
+        url: "http://patorjk.com/software/cube2/crispme/",
+        description: "Imagina un mundo donde aplastar cosas es la clave. Este juego se trata de eso, precisión y humor en partes iguales.",
+        quote: "Aplastando es como comprendemos mejor el mundo."
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "Darkweb Diaries",
+        url: "https://darknetdiaries.com/",
+        description: "Podcast que narra las historias más oscuras y fascinantes del mundo digital, explorando las profundidades de internet y la cultura hacker.",
+        quote: "Donde la luz no llega, las historias encuentran su hogar."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Glitch Art",
+        url: "https://www.glitchet.com/",
+        description: "Un blog que explora la belleza en lo roto. El arte de los errores digitales y estéticas glitch desfilan en esta celebración de la imperfección.",
+        quote: "En las imperfecciones reside nuestra verdadera naturaleza."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Dial-Up Modem Symphony",
+        url: "http://www.soundmuseum.fm/single-channel/the-dial-up-modem-symphony/",
+        description: "Una oda a los sonidos del pasado digital, este proyecto convierte el chillido del módem en una sinfonía nostálgica.",
+        quote: "La cacofonía del pasado, sinfonía de recuerdos."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Last Blog",
+        url: "http://www.thedailywtf.com/",
+        description: "Dedicado a compartir fallos épicos del mundo de la programación, este blog es un viaje a través de lo absurdo del código.",
+        quote: "En cada error, una lección disfrazada de risa."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Institute for New Feeling",
+        url: "http://www.institutefornewfeeling.com/",
+        description: "Un colectivo artístico que desafía nuestras percepciones cotidianas, explorando formas inusuales de bienestar y sensaciones.",
+        quote: "Sentir es creer en la magia de lo efímero."
+    },
+    {
+        category: "Filosofía digital",
+        title: "Digital Philosophy",
+        url: "http://www.digitalphilosophy.org/",
+        description: "Un rincón de la web donde se exploran profundas preguntas filosóficas que surgen en el contexto de la tecnología moderna.",
+        quote: "La filosofía es el arte de preguntar en la era digital."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
