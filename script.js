@@ -5066,6 +5066,76 @@ async function fetchFromHackerNews() {
         url: "http://www.digitalphilosophy.org/",
         description: "Un rincón de la web donde se exploran profundas preguntas filosóficas que surgen en el contexto de la tecnología moderna.",
         quote: "La filosofía es el arte de preguntar en la era digital."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://www.staggeringbeauty.com/",
+        description: "Una serpiente negra, digital y lúdica que reacciona de forma extraña a los movimientos del ratón. Es una experiencia de asombro visual minimalista.",
+        quote: "A veces, lo absurdo es lo que nos mantiene despiertos."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Ben Wilson: El Hombre Chicle",
+        url: "https://www.chewinggumman.com/",
+        description: "Ben Wilson crea miniaturas en chicles aplastados, transformando basura urbana en arte efímero y colorido. Una exploración de belleza en lo trivial.",
+        quote: "La belleza yace en lo que los otros desechan."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Institute of Sociometry",
+        url: "http://sociometry.com/",
+        description: "Dedicado a examinar las interacciones sociales, este instituto no convencional explora la vida cotidiana a través de proyectos participativos y estudios absurdos.",
+        quote: "En lo cotidiano, encontramos la poesía de la interacción."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Neko Atsume",
+        url: "https://nekoatsume.com/",
+        description: "Un juego japonés donde coleccionas gatos digitales. Es simple, lindo y extrañamente adictivo, capturando la calma del no hacer nada.",
+        quote: "La serenidad del presente es tan suave como un ronroneo."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Sisters of the Valley",
+        url: "https://www.sistersofthevalley.org/",
+        description: "Una orden no religiosa de 'monjas' que cultivan cannabis y crean aceites y ungüentos en armonía con la naturaleza. Una subcultura única dentro del movimiento de la legalización del cannabis.",
+        quote: "La fe en el poder de la Tierra nos guía."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Kiddie Flamingos",
+        url: "http://www.johnwaters.com/",
+        description: "John Waters transforma su infame película 'Pink Flamingos' para niños, creando una reinterpretación surrealista y familiar. Una mezcla de lo grotesco y lo encantador.",
+        quote: "El arte nos enseña a ver lo familiar como extraño."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Quiet Place Project",
+        url: "http://thequietplaceproject.com/",
+        description: "Un refugio digital para desconectar del bullicio de internet y fomentar la reflexión silenciosa. Una invitación a explorar el poder del silencio.",
+        quote: "La quietud es el bastión del alma en un mundo ruidoso."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Oddity Central",
+        url: "https://www.odditycentral.com/",
+        description: "Un blog que celebra lo extraño y maravilloso del mundo, desde personas hasta lugares peculiares. Un compendio de lo bizarro y encantador.",
+        quote: "La normalidad es una invención aburrida; celebremos lo raro."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Museum of Broken Relationships",
+        url: "https://brokenships.com/",
+        description: "Una exposición itinerante que recopila objetos donados de relaciones fallidas, ofreciendo una catarsis colectiva a través de historias personales.",
+        quote: "En cada ruptura, un eco de humanidad."
+    },
+    {
+        category: "Música experimental",
+        title: "Disquiet Junto",
+        url: "https://disquiet.com/",
+        description: "Una comunidad de músicos y artistas de sonido que colaboran semanalmente en proyectos experimentales, desafiando las barreras del sonido convencional.",
+        quote: "Los límites del sonido son solo el principio del viaje."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
