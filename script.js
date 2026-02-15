@@ -5136,6 +5136,76 @@ async function fetchFromHackerNews() {
         url: "https://disquiet.com/",
         description: "Una comunidad de músicos y artistas de sonido que colaboran semanalmente en proyectos experimentales, desafiando las barreras del sonido convencional.",
         quote: "Los límites del sonido son solo el principio del viaje."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "ZomboCom",
+        url: "http://www.zombo.com/",
+        description: "ZomboCom es un sitio web en el que todo es posible. Con un fondo psicodélico y una voz que promete infinitas posibilidades, invita a cuestionar la naturaleza de la web misma.",
+        quote: "The only limit is yourself."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Chris Hipkiss",
+        url: "https://www.theguardian.com/artanddesign/2020/mar/26/chris-hipkiss-outsider-artist",
+        description: "Chris Hipkiss crea paisajes distópicos con intrincados detalles en blanco y negro. Su mundo es un reflejo oscuro de nuestras ciudades, poblado por enormes cuerpos mecánicos y naturaleza surrealista.",
+        quote: "In the shadows, we find the beauty of the unknown."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Quiet Place Project",
+        url: "https://thequietplaceproject.com/",
+        description: "En un mundo ruidoso, este sitio ofrece un refugio de tranquilidad. Con simples ejercicios interactivos, invita a sus visitantes a meditar sobre el silencio y el respiro.",
+        quote: "Silence isn't empty, it's full of answers."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "The Revolution of Everyday Life",
+        url: "https://www.philosophersgame.com/",
+        description: "Este juego interactivo juega con la filosofía situacionista, retando al jugador a buscar nuevos significados en la cotidianidad a través de simples acciones diarias.",
+        quote: "To change the world, start with how you perceive the mundane."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Fer.al",
+        url: "https://fer.al/en",
+        description: "Un juego en línea lleno de criaturas fantásticas que explora la autoexpresión y la comunidad creativa. Fomenta un sentido de pertenencia en un mundo habitado por personajes únicos y surrealistas.",
+        quote: "In every creature, a reflection of our wild selves."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Glitch Artists Collective",
+        url: "https://www.facebook.com/groups/GlitchArt/",
+        description: "Una comunidad vibrante de artistas que exploran las imperfecciones digitales. Este colectivo celebra los errores y las distorsiones que normalmente se descartan en el arte digital.",
+        quote: "Perfection lies in the unexpected glitches."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Institute for Applied Autonomy",
+        url: "http://www.appliedautonomy.com/",
+        description: "Un colectivo que explora temas de privacidad y autonomía a través de proyectos artísticos. Aboga por la resistencia creativa en un mundo de vigilancia masiva.",
+        quote: "Freedom is the art of thinking independently together."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Because We Want To",
+        url: "http://becausewewantto.com/",
+        description: "Un blog que documenta eventos aleatorios y pensamientos de un grupo de amigos que viven la vida espontáneamente. Una cápsula del tiempo de internet con un toque de nostalgia.",
+        quote: "Life's moments, captured in pixels and prose."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "UbuWeb's Top Ten",
+        url: "http://www.ubu.com/topten/",
+        description: "Una selección curada de performances artísticas vanguardistas. UbuWeb ofrece un vistazo a las obras más extrañas y experimentales del mundo del arte.",
+        quote: "Art is what you can get away with."
+    },
+    {
+        category: "Música experimental",
+        title: "Radiooooo",
+        url: "https://radiooooo.com/",
+        description: "Un viaje musical en el tiempo. Radiooooo permite explorar canciones de diferentes décadas y países, creando una experiencia sonora única que desafía los límites del tiempo y el espacio.",
+        quote: "Travel through time and sound, one song at a time."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
