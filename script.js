@@ -5206,6 +5206,76 @@ async function fetchFromHackerNews() {
         url: "https://radiooooo.com/",
         description: "Un viaje musical en el tiempo. Radiooooo permite explorar canciones de diferentes décadas y países, creando una experiencia sonora única que desafía los límites del tiempo y el espacio.",
         quote: "Travel through time and sound, one song at a time."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Welcome to the Museum of Endangered Sounds",
+        url: "http://savethesounds.info/",
+        description: "Esta peculiar exhibición digital preserva los sonidos que alguna vez llenaron nuestros hogares y oficinas, como el zumbido de un viejo módem o el clic-clac de un teclado IBM. Un viaje sonoro al pasado tecnológico.",
+        quote: "¿Qué pasará cuando el sonido de un cassette rebobinándose se vuelva un mito?"
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Eddie Owens Martin's Pasaquan",
+        url: "http://www.pasaquan.com/",
+        description: "Eddie Owens Martin, también conocido como St. EOM, transformó su hogar en Georgia en un vibrante entorno psicodélico, mezcla de artefolk y monumento a realidades alternas. Un sanctuario para la visión de un outsider.",
+        quote: "El arte es el eco de un sueño en la mente de un creador solitario."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Human Clock",
+        url: "http://humanclock.com/",
+        description: "Un reloj en línea donde cada minuto es mostrado por una fotografía enviada por un usuario, abriendo una puerta a la inusual cotidianidad global. Fascinante microcosmos temporal en constante evolución.",
+        quote: "El tiempo es un collage de momentos humanos."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Screaming Snake",
+        url: "https://www.screamingsnake.com/",
+        description: "Una hilarante y absurda versión del clásico Snake. Aquí, la serpiente avanza a medida que gritas al micrófono, combinando lo absurdo de la interacción con el reto del control clásico.",
+        quote: "A veces el camino al éxito es un grito continuo."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "The Sewer System",
+        url: "https://www.thesewersystem.com/",
+        description: "Una fascinante mirada al arte y la expresión subterránea, literalmente. Un sitio dedicado al grafiti y arte urbano en túneles y alcantarillas, desafiando la corriente estética mainstream.",
+        quote: "Las paredes oscuras susurran secretos visuales."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Gli.tc/h",
+        url: "http://gli.tc/h/",
+        description: "Un festival en línea dedicado al arte glitch, donde los errores digitales se convierten en poesía visual. Una celebración de la imperfección y la belleza de lo fragmentado.",
+        quote: "En los errores, la máquina revela su alma."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Quiet Place Project",
+        url: "http://thequietplaceproject.com/",
+        description: "Un proyecto en línea que busca ofrecer un respiro del constante ruido digital. Cuartos virtuales donde el usuario puede desconectarse y encontrar momentos de silencio introspectivo.",
+        quote: "A veces, el silencio es el descanso más elocuente."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Museum of Ridiculously Interesting Things",
+        url: "https://ridiculouslyinteresting.com/",
+        description: "Un blog que explora artefactos, historias y personajes que bordean lo ridículo y lo sublime. Un pequeño rincón del internet que destila curiosidad y extravagancia.",
+        quote: "La curiosidad no tiene límites, ni sentido común."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Exploding Cinema",
+        url: "http://www.explodingcinema.org/",
+        description: "Una cooperativa de cine underground en Londres que promueve el cine experimental y fuera del circuito convencional. Un lienzo para la creatividad sin fronteras.",
+        quote: "El cine es la llamativa chispa de la imaginación libre."
+    },
+    {
+        category: "Música experimental",
+        title: "The Drone Zone",
+        url: "http://dronezone.stream/",
+        description: "Un espacio sonoro dedicado a la música drone, donde el minimalismo se encuentra con lo cósmico para crear sonidos envolventes que desafían la narrativa convencional.",
+        quote: "El sonido eterno es el susurro del universo."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
