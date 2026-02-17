@@ -5276,6 +5276,76 @@ async function fetchFromHackerNews() {
         url: "http://dronezone.stream/",
         description: "Un espacio sonoro dedicado a la música drone, donde el minimalismo se encuentra con lo cósmico para crear sonidos envolventes que desafían la narrativa convencional.",
         quote: "El sonido eterno es el susurro del universo."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Bury Me With My Money",
+        url: "http://burymewithmymoney.com/",
+        description: "Un bucle interminable de una escena de videojuego retro con un cowboy que repite su frase una y otra vez, acompañado de una música pegajosa. Es una oda al sinsentido y la repetición absurda.",
+        quote: "A veces lo absurdo es un refugio."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Lala Abaddon",
+        url: "https://www.lalaabaddon.com/",
+        description: "Artista que explora la intersección de la fotografía y el tejido, creando piezas que desdibujan la frontera entre lo digital y lo artesanal, con patrones que hipnotizan y desafían la percepción.",
+        quote: "El arte de tejer esconde secretos en cada hilo."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Quiet Walk",
+        url: "https://quietwalk.org/",
+        description: "Una comunidad de personas que documenta sus caminatas sin rumbo, registrando pensamientos y observaciones cotidianas. Un proyecto que convierte el paseo en una meditación compartida.",
+        quote: "Caminar es un diálogo silencioso con el mundo."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Sandspiel",
+        url: "https://sandspiel.club/",
+        description: "Un juego de simulación de físicas donde puedes experimentar con elementos como el fuego, el agua y la vegetación en un mundo de arena infinito. Es un laboratorio de caos y belleza natural.",
+        quote: "Juega a ser un pequeño dios de arena."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Old School Web Design Subculture",
+        url: "https://tilde.club/~oldschool/",
+        description: "Una comunidad dedicada a preservar y celebrar el diseño web de los 90, con páginas personales que remiten a la era de Geocities y el HTML rudimentario. Un viaje nostálgico al ciberespacio.",
+        quote: "La web es más divertida cuando es imperfecta."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Digital Wetlands",
+        url: "https://digitalwetlands.net/",
+        description: "Un proyecto de net.art que utiliza la estetica del glitch y el arte generativo para crear pantanos digitales vivos. Una exploración visual de lo orgánico y lo tecnológico.",
+        quote: "Los pantanos virtuales también respiran."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Museum of Broken Relationships",
+        url: "https://brokenships.com/",
+        description: "Un museo que recolecta objetos significativos que quedan tras el fin de las relaciones, cada pieza es un recuerdo tangible de lo intangible. Provoca reflexión sobre el amor y la pérdida.",
+        quote: "Cada objeto es un eco de lo que fue."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Obsolete Blog",
+        url: "http://obsoleteblog.com/",
+        description: "Un blog dedicado a lo obsoleto y olvidado, desde tecnologías hasta costumbres. Ofrece una mirada melancólica y crítica hacia lo que consideramos 'fuera de moda'.",
+        quote: "El pasado siempre tiene algo más que decir."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Stefan Sagmeister's 'Happy Film'",
+        url: "http://www.thehappyfilm.org/",
+        description: "Un documental experimental y performance en el que el diseñador Stefan Sagmeister se embarca en una misión para rediseñar su propia felicidad, explorando mindfulness, terapia y drogas.",
+        quote: "La felicidad es un diseño en constante evolución."
+    },
+    {
+        category: "Filosofía digital",
+        title: "The Digital Society",
+        url: "http://digital-society.org/",
+        description: "Un blog y think tank que explora cómo la digitalización afecta nuestras vidas y sociedades, con artículos y debates sobre privacidad, identidad y tecnología.",
+        quote: "En la era digital, la identidad es un caleidoscopio."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
