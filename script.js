@@ -5346,6 +5346,76 @@ async function fetchFromHackerNews() {
         url: "http://digital-society.org/",
         description: "Un blog y think tank que explora cómo la digitalización afecta nuestras vidas y sociedades, con artículos y debates sobre privacidad, identidad y tecnología.",
         quote: "En la era digital, la identidad es un caleidoscopio."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Bored Button",
+        url: "https://www.boredbutton.com/",
+        description: "Un botón mágico que te lleva a un rincón curioso de la web cada vez que lo presionas. Perfecto para aquellos momentos en los que el tedio se hace intolerable.",
+        quote: "Recuerda, en el aburrimiento se encuentra la chispa de lo inesperado."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Caitlind r.c. Brown's Light Installations",
+        url: "https://incandescentcloud.com/",
+        description: "Esta artista canadiense transforma materiales comunes, como bombillas y neón, en deslumbrantes instalaciones de luz que desafían las percepciones del espacio.",
+        quote: "La luz es un lenguaje universal; susurros luminosos en la oscuridad."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Weird Box",
+        url: "http://weirdbox.tv/",
+        description: "Una experiencia interactiva que convierte tus fotos de Instagram en un episodio surrealista sobre una caja misteriosa. Un viaje visual divertido e inesperado.",
+        quote: "Tu realidad social convertida en una narrativa digital desconcertante."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Neko Atsume: Kitty Collector",
+        url: "https://www.nekoatsume.com/en/",
+        description: "Un juego simple y encantador donde el objetivo es atraer gatos virtuales a tu jardín. La tranquilidad hecha juego.",
+        quote: "A veces, esperar es el juego más satisfactorio de todos."
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "The Backrooms",
+        url: "https://backrooms-wiki.wikidot.com/",
+        description: "Un espacio colaborativo que explora la leyenda urbana de los Backrooms, un interminable laberinto de salas vacías y paredes beige. Un fenómeno de horror liminal.",
+        quote: "Perdido en las esquinas olvidadas de la realidad."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Digital Drip",
+        url: "https://digitaldrip.tumblr.com/",
+        description: "Un blog que reúne imágenes de net.art, glitch y vaporwave, celebrando la estética de un internet nostálgico y descompuesto.",
+        quote: "En el caos digital, encontramos nueva belleza."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "Hikikomori Nation",
+        url: "https://www.hikikomori-nation.com/",
+        description: "Un blog dedicado a explorar la vida de los hikikomori, personas que eligen el aislamiento extremo, y cómo esto refleja la sociedad moderna.",
+        quote: "Agnoscia la soledad como un espejo de la cultura."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "PostSecret",
+        url: "https://postsecret.com/",
+        description: "Un proyecto comunitario donde personas de todo el mundo envían secretos anónimos en postales. Un mosaico emocional de confesiones humanas.",
+        quote: "Cada secreto susurrado se convierte en un eco resonante de humanidad."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Silent Room",
+        url: "https://www.kasselerdokfest.de/",
+        description: "Parte del festival Kasseler Dokfest, esta instalación invita a la audiencia a experimentar el peso del silencio total en una habitación especialmente diseñada.",
+        quote: "El silencio es el lienzo donde pintamos nuestros pensamientos más profundos."
+    },
+    {
+        category: "Música experimental",
+        title: "People Like Us",
+        url: "https://peoplelikeus.org/",
+        description: "Una artista que mezcla música experimental con collages sonoros, produciendo experiencias auditivas que desafían las normas musicales.",
+        quote: "Corta, pega y escucha cómo la realidad se recompone en sonido."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
