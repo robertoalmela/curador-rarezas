@@ -5416,6 +5416,76 @@ async function fetchFromHackerNews() {
         url: "https://peoplelikeus.org/",
         description: "Una artista que mezcla música experimental con collages sonoros, produciendo experiencias auditivas que desafían las normas musicales.",
         quote: "Corta, pega y escucha cómo la realidad se recompone en sonido."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Falling Sand Game",
+        url: "https://sandspiel.club/",
+        description: "Una simulación fascinante de arena y otros elementos que se comportan según las leyes físicas. Juega con el fuego, el agua y la vegetación para crear tus propios paisajes efímeros.",
+        quote: "La gravedad es el pincel de la naturaleza."
+    },
+    {
+        category: "Arte marginal",
+        title: "The Secret Museum of Mankind",
+        url: "http://www.secrethumanmuseum.co.uk/",
+        description: "Una colección digital de fotografías etnográficas del siglo XX que documenta culturas y personas de todo el mundo. Un paseo visual por un mundo diverso y enigmático.",
+        quote: "La humanidad es un caleidoscopio de historias."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Hash2Ash",
+        url: "https://paweljanicki.jp/projects/hash2ash/",
+        description: "Explora cómo los medios digitales desaparecen con el tiempo a través de la degradación visual de tus propios archivos. Cada imagen es efímera y evidencia la fragilidad de lo digital.",
+        quote: "Lo que es digital también se desmorona."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Pipong",
+        url: "https://www.pipong.net/",
+        description: "Un juego ridículo de ping pong donde la pelota es casi imposible de controlar. Se necesita pura paciencia y humor para seguir adelante en este universo de rebotes impredecibles.",
+        quote: "El caos es el árbitro del juego."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "The Glitch Artists Collective",
+        url: "https://www.glitchartistscollective.com/",
+        description: "Una comunidad de artistas dedicados a explorar el error y el glitch como formas de expresión estética. Un colectivo que celebra los fallos del sistema como arte.",
+        quote: "El error es el nuevo arte."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Aether",
+        url: "http://aether.raskincenter.org/",
+        description: "Una exploración visual que invita a los usuarios a interactuar con una serie de paisajes virtuales generados por computadora, cada uno con su propia mecánica enigmática.",
+        quote: "El ether digital respira con cada pulso de la red."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Museum of Broken Relationships",
+        url: "https://brokenships.com/",
+        description: "Un museo que recoge objetos, relatos y memorias de relaciones que ya no existen. Una reflexión conmovedora sobre la fragilidad, la pérdida y el amor.",
+        quote: "Cada objeto cuenta una despedida silenciosa."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Anomalist",
+        url: "http://www.anomalist.com/",
+        description: "Un blog dedicado a lo paranormal, lo inexplicable y lo extraño que recopila noticias y relatos sobre los fenómenos más desconcertantes del planeta.",
+        quote: "El misterio es el motor de la curiosidad."
+    },
+    {
+        category: "Performances raras",
+        title: "The Quiet Ensemble",
+        url: "http://www.quietensemble.com/",
+        description: "Un grupo artístico que realiza performances que involucran el uso de la tecnología y la naturaleza, cuestionando los límites entre lo humano y lo no humano.",
+        quote: "La tecnología es nuestra voz en el coro del mundo."
+    },
+    {
+        category: "Música experimental",
+        title: "Disquiet Junto",
+        url: "https://disquiet.com/",
+        description: "Un proyecto de música experimental que desafía a los músicos a crear piezas de sonido sobre temas específicos cada semana. Un espacio donde se cultiva lo imprevisible en el arte del sonido.",
+        quote: "La disonancia puede ser la armonía del futuro."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
