@@ -5486,6 +5486,76 @@ async function fetchFromHackerNews() {
         url: "https://disquiet.com/",
         description: "Un proyecto de música experimental que desafía a los músicos a crear piezas de sonido sobre temas específicos cada semana. Un espacio donde se cultiva lo imprevisible en el arte del sonido.",
         quote: "La disonancia puede ser la armonía del futuro."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://www.staggeringbeauty.com/",
+        description: "Un gusano negro que reacciona de manera impredecible al movimiento del cursor. La web juega con animaciones que pueden marear, sorprendiendo al usuario con un estallido de color y sonido.",
+        quote: "A veces, lo simple trastoca lo cotidiano."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Ionel Talpazan's UFO Art",
+        url: "https://www.artsy.net/artist/ionel-talpazan",
+        description: "Ionel Talpazan, un artista marginal que afirmaba haber tenido contacto con ovnis, creó obras vibrantes centradas en el tema espacial. Sus pinturas expresan una mezcla de asombro y misterio cósmico.",
+        quote: "La verdad está ahí fuera, y también dentro del lienzo."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Museum of Broken Relationships",
+        url: "https://brokenships.com/",
+        description: "Este museo recopila objetos donados por personas de todo el mundo que simbolizan el final de una relación, cada uno con su historia de amor y desamor.",
+        quote: "Las cicatrices de amor hablan el idioma de los objetos."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Unicorn Parade",
+        url: "http://www.unicornparade.com/",
+        description: "Un simple desfile de unicornios pixelados al ritmo de una pegajosa melodía. Un pequeño escape a un mundo de fantasía absurdo y colorido.",
+        quote: "La locura nunca fue tan mágica."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Gothic Charm School",
+        url: "http://www.gothic-charm-school.com/",
+        description: "Un blog dedicado a la etiqueta y las inquietudes de la comunidad gótica. Aquí, la oscuridad y el encanto se entrelazan con consejos prácticos y reflexiones profundas.",
+        quote: "Ser gótico es ver la luz en la oscuridad."
+    },
+    {
+        category: "Estéticas raras",
+        title: "The Weird Wide Web",
+        url: "http://weirdwideweb.org/",
+        description: "Un proyecto dedicado al net.art y la estética de Internet, explorando lo extraño y lo poco convencional en el diseño digital.",
+        quote: "En la red, lo raro es la nueva norma."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Society of the Spectacle Online",
+        url: "https://www.marxists.org/reference/archive/debord/society.htm",
+        description: "Una versión en línea del influyente libro de Guy Debord que analiza cómo el espectáculo mediático impacta la percepción del mundo.",
+        quote: "El espectáculo no es un conjunto de imágenes, sino una relación social entre personas mediada por imágenes."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Sleep No More",
+        url: "http://sleepnomorenyc.com/",
+        description: "Un espectáculo inmersivo que reimagina 'Macbeth' en un hotel en Nueva York. Los visitantes deambulan por escenarios interactivos y deciden a cuál historia seguir.",
+        quote: "El teatro es un sueño que despierta a los sentidos."
+    },
+    {
+        category: "Música experimental",
+        title: "Disquiet Junto",
+        url: "https://disquiet.com/",
+        description: "Una comunidad en línea de músicos experimentales que semanalmente exploran nuevos desafíos sonoros. La creatividad se reinventa en cada encuentro.",
+        quote: "La música no tiene que tener sentido, solo debe ser sentida."
+    },
+    {
+        category: "Filosofía digital",
+        title: "Speculative Everything",
+        url: "http://www.speculativeeverything.com/",
+        description: "Un proyecto que desafía la normalidad proyectando futuros alternativos. Aquí habita la intersección entre la filosofía, el diseño y la tecnología.",
+        quote: "Imagina futuros imposibles para entender el presente."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
