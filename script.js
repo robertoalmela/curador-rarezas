@@ -5556,6 +5556,76 @@ async function fetchFromHackerNews() {
         url: "http://www.speculativeeverything.com/",
         description: "Un proyecto que desafía la normalidad proyectando futuros alternativos. Aquí habita la intersección entre la filosofía, el diseño y la tecnología.",
         quote: "Imagina futuros imposibles para entender el presente."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Patience is a Virtue",
+        url: "http://www.patience-is-a-virtue.org/",
+        description: "Esta página te recuerda el arte de esperar. Al acceder, te enfrenta a una pantalla en blanco que gradualmente muestra un mensaje inspirador sobre la virtud de la paciencia.",
+        quote: "La paciencia no es la capacidad de esperar, sino cómo nos comportamos mientras esperamos."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Justin Bower",
+        url: "https://www.justinbower.com/",
+        description: "Las pinturas de Justin Bower son un desafío psicodélico a la percepción humana, combinando retratos dinámicos con una estética glitch que descompone la identidad en la era digital.",
+        quote: "¿Quién eres cuando tu cara se desintegra en bits electrónicos?"
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Teletext Art Page",
+        url: "https://teletextart.co.uk/",
+        description: "Revive el arte del servicio de teletexto, transformando un medio obsoleto en un vibrante lienzo digital. Una colección de arte contemporáneo creado con esta tecnología olvidada.",
+        quote: "En un mundo de alta definición, el arte en baja resolución encuentra su voz."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Sort the Court!",
+        url: "https://graemeblackwood.itch.io/sort-the-court",
+        description: "Un juego simple pero adictivo donde tomas decisiones reales y surrealistas como un monarca tratando de mantener contentos a sus súbditos, o al menos entretenido.",
+        quote: "Gobernar es solo decir 'sí' o 'no,' pero la verdadera pregunta es, ¿a qué?"
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "Dark Side of the ASCII",
+        url: "https://ascii.co.uk/",
+        description: "Una comunidad underground dedicada a la creación y celebración del arte ASCII. Desde los 90s hasta hoy, este rincón digital mantiene viva esta forma de expresión de manera transgresora.",
+        quote: "A veces, el arte más impactante se esconde entre los dígitos."
+    },
+    {
+        category: "Estéticas raras",
+        title: "GIPHY Arcade",
+        url: "https://giphy.com/arcade",
+        description: "Crea y juega en un universo de microjuegos basados en GIFs. Donde el diseño más absurdo y vibrante cobra vida en una frenética explosión de color y movimiento.",
+        quote: "¿Y si cada GIF pudiera ser un juego?"
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "We Feel Fine",
+        url: "http://wefeelfine.org/",
+        description: "Una exploración emocional a través de la recolección de sentimientos de blogs alrededor del mundo. Un mapa interactivo de la condición humana, uniendo emociones en un tapiz digital.",
+        quote: "Cada emoción es un latido en el vasto torrente de la humanidad."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Last Post",
+        url: "https://www.thelastpost.io/",
+        description: "Un espacio que reúne los últimos mensajes de blogs abandonados, una especie de cementerio digital donde cada post es una cápsula del tiempo esperando ser leída.",
+        quote: "En el silencio de una web olvidada, las palabras aún resuenan."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Museum of Broken Relationships",
+        url: "https://brokenships.com/",
+        description: "Una exposición dedicada a los vestigios de amores perdidos. Los objetos donados cuentan historias únicas, transformando el dolor personal en arte compartido.",
+        quote: "Cada objeto es un recuerdo, cada recuerdo una historia de amor interrumpido."
+    },
+    {
+        category: "Música experimental",
+        title: "Radiooooo",
+        url: "http://radiooooo.com/",
+        description: "Un viaje musical a través del tiempo y el espacio. Selecciona un país y una década para descubrir las melodías que definieron épocas y culturas, ofreciendo un remix auditivo infinito.",
+        quote: "Cuando las ondas de la historia te transportan en su baile sonoro."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
