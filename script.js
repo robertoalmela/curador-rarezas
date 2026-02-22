@@ -5626,6 +5626,76 @@ async function fetchFromHackerNews() {
         url: "http://radiooooo.com/",
         description: "Un viaje musical a través del tiempo y el espacio. Selecciona un país y una década para descubrir las melodías que definieron épocas y culturas, ofreciendo un remix auditivo infinito.",
         quote: "Cuando las ondas de la historia te transportan en su baile sonoro."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://www.staggeringbeauty.com/",
+        description: "Una criatura serpenteante sigue el movimiento de tu ratón mientras luces estroboscópicas inundan la pantalla, creando una experiencia sensorial caótica y casi hipnótica.",
+        quote: "La belleza tambaleante de lo absurdo."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "La Galería de Paula Duró",
+        url: "https://www.pauladuro.com/",
+        description: "Con obras vibrantes que atraviesan el cosmos de lo espiritual, Paula Duró teje una narrativa visual que une mundos y culturas en sueños coloridos y etéreos.",
+        quote: "Aquí, se revela el lenguaje oculto del universo."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Weird Box",
+        url: "https://weirdbox.tv/",
+        description: "Un experimento artístico que convierte tus fotos de Instagram en una surrealista película hecha a medida, donde la intimidad se transforma en ficción extraña.",
+        quote: "Todo arte es una ventana a lo inesperado."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Burrito Bison: Launcha Libre",
+        url: "https://burritobison.com/",
+        description: "Ambientado en un mundo de gomitas vivientes, Burrito Bison te lanza a las dulces arenas del absurdo, rebotando y luchando por la libertad en la confitería.",
+        quote: "En el combate entre lo dulce y lo extraño, el rebote es victoria."
+    },
+    {
+        category: "Subculturas",
+        title: "Uncyclopedia",
+        url: "https://uncyclopedia.ca/",
+        description: "La parodia más hilarante de Wikipedia, donde el humor surrealista reina y los artículos son guiños descarados a nuestra obsesión por el conocimiento.",
+        quote: "El conocimiento es poder, la risa es aún más poderosa."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Glitche",
+        url: "https://glitche.com/",
+        description: "Una aplicación que convierte fotos y videos en arte glitch a través de un juego de distorsiones y efectos visuales que celebran la imperfección digital.",
+        quote: "En la falla, encontramos la belleza inesperada."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "PostSecret",
+        url: "http://postsecret.com/",
+        description: "Un proyecto de arte anónimo donde personas de todo el mundo escriben secretos en postales y los envían para ser compartidos, mostrando la belleza y el dolor de la verdad oculta.",
+        quote: "Nuestros secretos son los susurros de nuestra alma compartida."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Ballardian",
+        url: "http://www.ballardian.com/",
+        description: "Un blog dedicado al análisis de la obra y el impacto de J.G. Ballard, explorando su mundo de distopías urbanas y psicogeografías.",
+        quote: "Las ciudades son el espejo de nuestros sueños más oscuros."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Museum of Broken Relationships",
+        url: "https://brokenships.com/",
+        description: "Un museo dedicado a objetos que narran historias de amor perdido, uniendo anónimamente a personas a través de recuerdos íntimos y compartidos.",
+        quote: "Cada objeto roto guarda un fragmento del corazón humano."
+    },
+    {
+        category: "Filosofía digital",
+        title: "The New Aesthetic",
+        url: "http://new-aesthetic.tumblr.com/",
+        description: "Un proyecto que documenta la estética emergente de la era digital, donde la realidad y lo virtual convergen en imágenes y objetos que desafían nuestra percepción.",
+        quote: "En la intersección de bits y átomos, nace una nueva belleza."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
