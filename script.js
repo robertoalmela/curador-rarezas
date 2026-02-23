@@ -5696,6 +5696,76 @@ async function fetchFromHackerNews() {
         url: "http://new-aesthetic.tumblr.com/",
         description: "Un proyecto que documenta la estética emergente de la era digital, donde la realidad y lo virtual convergen en imágenes y objetos que desafían nuestra percepción.",
         quote: "En la intersección de bits y átomos, nace una nueva belleza."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "The Quiet Place Project",
+        url: "https://thequietplaceproject.com/",
+        description: "Un refugio digital que te invita a desconectarte del ruido ensordecedor de la vida moderna. Es un espacio silencioso y contemplativo diseñado para fomentar la paz mental.",
+        quote: "Silencio ensordecedor que invita a la introspección."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "The Art of Ian Strange",
+        url: "https://www.iantstrange.com/",
+        description: "Ian Strange transforma casas suburbanas en instalaciones del arte que exploran la arquitectura y el espacio urbano. Su trabajo revela la fragilidad y el significado de nuestros hogares.",
+        quote: "Desmantelar lo familiar para encontrar lo sublime."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Infinite Conversation",
+        url: "https://infiniteconversation.com/",
+        description: "Un proyecto de inteligencia artificial donde las voces de Werner Herzog y Slavoj Žižek conversan infinitamente, explorando ideas filosóficas y absurdas más allá de lo imaginable.",
+        quote: "Diálogos sin fin en un bucle de brillantez."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Everything is Going to Be OK",
+        url: "https://alienmelon.itch.io/everything-is-going-to-be-ok",
+        description: "Una colección interactiva de mini-juegos y experiencias que lidian con la desesperación y la resiliencia. Es un refugio digital para reír y llorar al mismo tiempo.",
+        quote: "La vulnerabilidad transformada en arte digital."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "The Church of the SubGenius",
+        url: "https://www.subgenius.com/",
+        description: "Un movimiento paródico de culto religioso que satiriza la religión, el consumismo y la cultura de masas, invitando a sus seguidores a cuestionar lo absurdo del mundo.",
+        quote: "Encuentra la verdad en la irreverencia."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Glitch Artists Collective",
+        url: "https://www.facebook.com/groups/GlitchArtistsCollective/",
+        description: "Una comunidad de artistas que transforma errores digitales en magníficas obras de arte. El glitch se eleva a un nuevo nivel de estética y significado.",
+        quote: "La imperfección se convierte en belleza cruda."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Negativity Store",
+        url: "https://negativitystore.com/",
+        description: "Este sitio vende objetos completamente inútiles, reflejando la futilidad del consumismo. Es una crítica provocadora y humorística a la cultura comercial.",
+        quote: "Comprar lo que nunca necesitarás en un mundo que nunca entenderás."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Museum of Internet",
+        url: "https://museumofinternet.tumblr.com/",
+        description: "Un espacio en Tumblr preservando los restos de la web del pasado. Un viaje nostálgico por las maravillas y rarezas de Internet que podrían haberse perdido en el tiempo.",
+        quote: "Explora las ruinas digitales de nuestra era."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "UbuWeb Sound",
+        url: "http://www.ubu.com/sound/",
+        description: "Una vasta colección de grabaciones sonoras experimentales y raras, que van desde poesía sonora hasta piezas conceptuales que desafían la percepción auditiva.",
+        quote: "El sonido como arte en su forma más pura y desafiante."
+    },
+    {
+        category: "Música experimental",
+        title: "PAN Label",
+        url: "https://p-a-n.org/",
+        description: "Un sello discográfico que empuja los límites de la música experimental, produciendo sonidos que desafían la categorización y amplían los horizontes auditivos.",
+        quote: "Sonidos que rompen la barrera del tiempo y la convención."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
