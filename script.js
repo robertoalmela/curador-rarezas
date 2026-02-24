@@ -5766,6 +5766,76 @@ async function fetchFromHackerNews() {
         url: "https://p-a-n.org/",
         description: "Un sello discográfico que empuja los límites de la música experimental, produciendo sonidos que desafían la categorización y amplían los horizontes auditivos.",
         quote: "Sonidos que rompen la barrera del tiempo y la convención."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "BORED Button",
+        url: "http://www.boredbutton.com/",
+        description: "Un botón que te ofrece actividades aleatorias para combatir el aburrimiento. Al presionarlo, te ofrece un recurso inesperado de la web.",
+        quote: "La curiosidad es la cura para el aburrimiento."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "MOMO the Monster",
+        url: "https://www.momothemonster.com/",
+        description: "MOMO crea arte callejero que se fusiona con su entorno, usando técnicas únicas como dibujos a gran escala con cuerdas y herramientas hechas a medida.",
+        quote: "El arte es un diálogo con el espacio que habita."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Listening Post",
+        url: "http://listeningpost.com/",
+        description: "Una instalación que transmite fragmentos de conversaciones en línea en tiempo real, sumergiendo a los espectadores en un flujo constante de voces digitales.",
+        quote: "La cacofonía del mundo digital, unida en un coro efímero."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "QWOP",
+        url: "http://www.foddy.net/Athletics.html",
+        description: "Un juego ridículamente difícil donde debes controlar a un corredor utilizando solo cuatro teclas, desafiando la coordinación y la paciencia.",
+        quote: "El triunfo está en intentarlo, no necesariamente en llegar a la meta."
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "Randonautica",
+        url: "https://www.randonautica.com/",
+        description: "Una aplicación que lleva a los usuarios a explorar lugares aleatorios, fomentando la conexión con entornos desconocidos y el descubrimiento del azar.",
+        quote: "La aventura está a la vuelta de una coordenada al azar."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Glitch Art Collective",
+        url: "https://glitchartistscollective.tumblr.com/",
+        description: "Un colectivo de artistas que exploran el arte del glitch, transformando errores digitales en piezas visuales hipnóticas e inesperadas.",
+        quote: "La belleza está en la imperfección de los ceros y unos."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "Uncomfortable",
+        url: "http://uncomfortable.website/",
+        description: "Una recopilación de objetos cotidianos rediseñados para ser incómodos, cuestionando nuestra relación con el diseño ergonómico.",
+        quote: "La funcionalidad es un estado de confort que a veces necesita ser desafiado."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Cory Doctorow's Craphound.com",
+        url: "https://craphound.com/",
+        description: "El blog de Cory Doctorow, lleno de reflexiones y enlaces sobre cultura digital, derechos de autor y la intersección entre tecnología y sociedad.",
+        quote: "En la maraña digital, las ideas necesitan espacios para germinar."
+    },
+    {
+        category: "Música experimental",
+        title: "Weird Canada",
+        url: "http://weirdcanada.com/",
+        description: "Un portal para descubrir música experimental y artistas subterráneos de Canadá, celebrando lo extraño y lo inexplorado en el mundo sonoro.",
+        quote: "El sonido es el eco del alma de una nación."
+    },
+    {
+        category: "Filosofía digital",
+        title: "The STACK",
+        url: "https://th_stack.s3.amazonaws.com/",
+        description: "Un libro digital que estudia cómo el ciberespacio se estructura como una pila, analizando las capas de infraestructura que sostienen el internet.",
+        quote: "El ciberespacio, capa sobre capa, erigiendo una nueva realidad."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
