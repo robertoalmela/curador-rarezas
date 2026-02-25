@@ -5836,6 +5836,76 @@ async function fetchFromHackerNews() {
         url: "https://th_stack.s3.amazonaws.com/",
         description: "Un libro digital que estudia cómo el ciberespacio se estructura como una pila, analizando las capas de infraestructura que sostienen el internet.",
         quote: "El ciberespacio, capa sobre capa, erigiendo una nueva realidad."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Endless Horse",
+        url: "http://endless.horse/",
+        description: "Entra en un internet donde un caballo se extiende infinitamente hacia abajo. Un ejemplo perfecto del humor y la trivialidad que caracteriza las esquinas más extrañas de la web.",
+        quote: "¿Qué tan largo es el infinito? Sigue desplazándote para descubrir."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Anna Zemánková",
+        url: "https://www.oscarhumphries.com/anna-zemankova",
+        description: "Anna Zemánková, artista autodidacta, creó un universo de formas orgánicas y delicadas utilizando lápices de colores y papeles perforados. Su obra desafía convenios artísticos y desvela una mente profundamente creativa.",
+        quote: "La belleza florece en los detalles que el mundo convencional olvida."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Quiet Place Project",
+        url: "http://thequietplaceproject.com/",
+        description: "Una colección de espacios interactivos en línea diseñados para proporcionar momentos de calma y reflexión en un mundo ruidoso. Aquí, la pausa es un arte y la atención es un regalo.",
+        quote: "En el silencio, las respuestas se revelan."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "QWOP",
+        url: "http://www.foddy.net/Athletics.html",
+        description: "Un juego de atletismo online donde controlar un corredor se convierte en un acto de hilaridad y frustración. La física del personaje es tan absurda que el simple acto de correr se siente como un logro.",
+        quote: "Para avanzar, primero hay que caer."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "The Vapor Memory Archive",
+        url: "https://vapormemory.com/",
+        description: "Un vasto archivo digital dedicado a preservar la herencia del vaporwave, una subcultura musical y estética que juega con la nostalgia y el anacronismo de la era digital.",
+        quote: "En los ecos del pasado, el futuro reimagina su sonido."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Net Art Anthology",
+        url: "https://anthology.rhizome.org/",
+        description: "Un archivo extenso de obras de net.art que documenta la evolución de la creatividad digital. Desde lo conceptual hasta lo caótico, es un testimonio de la innovación y la disidencia en línea.",
+        quote: "El arte es un virus informático que infecta nuestra percepción."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Infinite Conversation",
+        url: "https://infiniteconversation.com/",
+        description: "Un experimento AI que genera una conversación interminable entre los filósofos Slavoj Žižek y Michel Foucault. El diálogo nunca se repite, desafiando nociones de autoría y coherencia.",
+        quote: "La eternidad es una conversación sin fin."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "PostSecret",
+        url: "https://postsecret.com/",
+        description: "Un proyecto donde personas de todo el mundo envían sus secretos en tarjetas postales anónimas. Es un viaje voyeurista hacia el alma humana, revelando vulnerabilidades y confesiones.",
+        quote: "En los secretos, la verdad se desnuda."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Museum of Non-Visible Art",
+        url: "https://www.seancarusov.com/museum/",
+        description: "Un museo curado de obras de arte que existen únicamente en la imaginación. Aquí, la percepción y la interpretación son las verdaderas obras de arte.",
+        quote: "El arte no necesita ser visto para ser sentido."
+    },
+    {
+        category: "Música experimental",
+        title: "Disquiet Junto",
+        url: "https://disquiet.com/",
+        description: "Una comunidad global de músicos que acepta desafíos creativos semanales, explorando el impacto del sonido y la tecnología en la música. Cada composición es una nueva conversación con el mundo.",
+        quote: "La verdadera música empieza donde las palabras no alcanzan."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
