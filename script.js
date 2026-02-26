@@ -5906,6 +5906,76 @@ async function fetchFromHackerNews() {
         url: "https://disquiet.com/",
         description: "Una comunidad global de músicos que acepta desafíos creativos semanales, explorando el impacto del sonido y la tecnología en la música. Cada composición es una nueva conversación con el mundo.",
         quote: "La verdadera música empieza donde las palabras no alcanzan."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Endless Horse",
+        url: "http://endless.horse/",
+        description: "Un caballo que se despliega infinitamente hacia abajo. Es la esencia de la inutilidad convertida en arte digital.",
+        quote: "Algunos viajes realmente no tienen fin."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Zdzisław Beksiński",
+        url: "https://www.dmochowskigallery.net/beksinski-gallery",
+        description: "Artista polaco conocido por sus pinturas surrealistas y distópicas, Beksiński crea mundos que desbordan misterio y desolación.",
+        quote: "La belleza del caos se forja en el dolor."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Quiet Place",
+        url: "http://thequietplaceproject.com/",
+        description: "Una web que te invita a dejar tus preocupaciones y encontrar un respiro en el caos del mundo digital. Un pequeño refugio de serenidad.",
+        quote: "En el silencio, hallamos la paz."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Universal Paperclips",
+        url: "https://www.decisionproblem.com/paperclips/",
+        description: "Transforma el mundo en clips de papel y reflexiona sobre las nociones de consumo y producción en este juego de clicker aparente y absurdamente simple.",
+        quote: "La grandeza del universo, reducida a un clip."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "The SCP Foundation",
+        url: "http://www.scpwiki.com/",
+        description: "Una comunidad de escritores que crea en colaboración una mitología moderna de 'objetos seguros, contenidos y protegidos', ofreciendo una exploración de lo extraño y lo imposible.",
+        quote: "Entre lo real y lo imaginario, yace el misterio."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Internet Archaeology",
+        url: "http://www.internetarchaeology.org/",
+        description: "Explora el pasado digital desenterrando websites olvidados y reliquias online, revelando la evolución de la estética web.",
+        quote: "Navegar el pasado para entender el presente."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Death Clock",
+        url: "http://deathclock.com/",
+        description: "Ofrece una cuenta regresiva de tu vida, recordándonos la fugacidad del tiempo y lo precioso de cada momento.",
+        quote: "Cada segundo es una eternidad en potencia."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Things Organized Neatly",
+        url: "http://thingsorganizedneatly.tumblr.com/",
+        description: "Un blog visual donde el orden y la organización se transforman en arte. Un deleite para los amantes del orden perfecto.",
+        quote: "El caos encuentra su belleza en la simetría."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Institute of Things to Come",
+        url: "https://www.theinstituteofthingstocome.com/",
+        description: "Un experimento en línea que explora el futuro de las exposiciones, cuestionando qué significa exhibir en la era del confinamiento digital.",
+        quote: "El futuro de las ideas no tiene límites."
+    },
+    {
+        category: "Música experimental",
+        title: "Radio Garden",
+        url: "http://radio.garden/",
+        description: "Permite escuchar estaciones de radio de todo el mundo en tiempo real. Una sinfonía global donde la diversidad se convierte en armonía.",
+        quote: "El mundo entero resuena al mismo tiempo."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
