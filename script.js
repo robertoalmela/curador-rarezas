@@ -5976,6 +5976,76 @@ async function fetchFromHackerNews() {
         url: "http://radio.garden/",
         description: "Permite escuchar estaciones de radio de todo el mundo en tiempo real. Una sinfonía global donde la diversidad se convierte en armonía.",
         quote: "El mundo entero resuena al mismo tiempo."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Mayo Thompson",
+        url: "https://www.furious.com/perfect/redkrayola.html",
+        description: "Mayo Thompson, fundador de The Red Krayola, es un pionero del rock experimental y arte sonoro marginal. Su música histriónica y abstracta desafía las normas del género convencional.",
+        quote: "El arte no es un espejo para reflejar el mundo, sino un martillo para darle forma."
+    },
+    {
+        category: "Experimentos sociales",
+        title: "We Feel Fine",
+        url: "http://wefeelfine.org/",
+        description: "We Feel Fine es un proyecto que explora las emociones humanas recogidas al azar de blogs en línea. Captura una imagen única de la psicogeografía emocional en tiempo real.",
+        quote: "Las emociones no tienen sentido, pero les damos sentido."
+    },
+    {
+        category: "Filosofía digital",
+        title: "The Last Question",
+        url: "https://multivax.com/last_question.html",
+        description: "The Last Question es un relato corto de Isaac Asimov que aborda el significado del universo y el destino final de la inteligencia artificial. Una reflexión sobre la inevitabilidad del tiempo.",
+        quote: "La pregunta más íntima siempre regresa, esperando una respuesta."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Somewhere",
+        url: "https://somewhere.fyi/",
+        description: "Somewhere te lleva a navegar por un intrigante paisaje de textos. Es un espacio de constante transformación que mezcla literatura interactiva y exploración digital.",
+        quote: "El viaje es el destino, y las palabras son el mapa."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Digital Rain",
+        url: "https://www.onemotion.com/flash/rain/",
+        description: "Digital Rain crea una experiencia visual y auditiva de lluvia abstracta. Un portal meditativo que mezcla elementos de glitch art con paisajes sonoros relajantes.",
+        quote: "Bajo la lluvia digital, los pensamientos fluyen como ríos de píxeles."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Cat Bounce",
+        url: "http://cat-bounce.com/",
+        description: "Cat Bounce es un sitio web donde puedes ver gatos animados rebotar sobre tu pantalla. Un tributo a lo absurdo y alegre sin propósito aparente.",
+        quote: "La vida es mejor con gatos rebotantes."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Virtual Flâneur",
+        url: "https://flaneur2020.web.app/",
+        description: "Virtual Flâneur invita a los usuarios a deambular por calles virtuales de ciudades recreadas. La experiencia mezcla la tradición del flâneur con la modernidad del espacio digital.",
+        quote: "Cada paso virtual es una historia por contar."
+    },
+    {
+        category: "Música experimental",
+        title: "Environments",
+        url: "https://www.sonicatelier.com/environments/",
+        description: "Environments es una colección de paisajes sonoros que transforman tu entorno en un collage auditivo y experimental. Diseñado para cambiar la percepción del sonido ambiente.",
+        quote: "Un ecosistema sonoro donde el silencio es el lienzo."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Pink Tentacle",
+        url: "http://pinktentacle.com/",
+        description: "The Pink Tentacle es un blog que explora el lado más extraño de la cultura japonesa, desde arte bizarro hasta criaturas mitológicas. Un archivo de maravillas exóticas y futurismo retro.",
+        quote: "En lo extraño reside el alma de la maravilla."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "No Fun",
+        url: "https://www.evahesse.com/research/no-fun-2013/",
+        description: "No Fun es una video performance que recrea la trivialidad de las redes sociales mientras aborda la indiferencia en tiempo real. Una experiencia entre lo chocante y la realidad virtual.",
+        quote: "La apatía es el nuevo espectáculo."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
