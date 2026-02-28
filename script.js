@@ -6046,6 +6046,76 @@ async function fetchFromHackerNews() {
         url: "https://www.evahesse.com/research/no-fun-2013/",
         description: "No Fun es una video performance que recrea la trivialidad de las redes sociales mientras aborda la indiferencia en tiempo real. Una experiencia entre lo chocante y la realidad virtual.",
         quote: "La apatía es el nuevo espectáculo."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://staggeringbeauty.com/",
+        description: "Una simple página donde una criatura negra responde a tu movimiento del ratón con un fenómeno visual y sonoro. Es una experiencia hipnótica y ligeramente perturbadora.",
+        quote: "A veces, lo simple es simplemente extraño."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "George Widener",
+        url: "https://www.artbrut.ch/en_GB/author/widener-george",
+        description: "George Widener crea intrincados dibujos que mezclan matemáticas, calendarios y un mundo interior complejo. Sus obras parecen diagramas de mundos alternativos.",
+        quote: "El arte de cifrar el caos del tiempo."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "You Are Listening To",
+        url: "http://youarelistening.to/",
+        description: "Un sitio que mezcla transmisiones de radio de la policía en directo con música ambiental relajante, generando una experiencia paradójica y envolvente.",
+        quote: "La calma detrás del caos urbano."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Neko Atsume",
+        url: "https://www.nekoatsume.com/",
+        description: "Un juego simple y adictivo donde colocas juguetes y comida para atraer adorables gatos al patio trasero digital. No hay objetivo más allá de coleccionar ternura.",
+        quote: "La felicidad está en el esperar."
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "Darknet Diaries",
+        url: "https://darknetdiaries.com/",
+        description: "Una serie de podcasts que exploran el oscuro y fascinante mundo de los hackers, cibercriminales y la ciberseguridad, revelando historias ocultas de la red profunda.",
+        quote: "Las sombras digitales tienen mucho que decir."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Glitch Artists Collective",
+        url: "https://www.facebook.com/groups/GlitchArtistsCollective/",
+        description: "Una comunidad vibrante donde artistas comparten obras de arte digital que celebran errores, rompimientos y la belleza del deterioro digital.",
+        quote: "El error es el nuevo arte."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "This is Sand",
+        url: "https://thisissand.com/",
+        description: "Un lienzo digital donde puedes crear increíbles paisajes de arena pixelada. Una actividad tan relajante como cuestionadora sobre los límites del arte digital.",
+        quote: "El control del caos en granos de arena."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "The Last Psychiatrist",
+        url: "http://thelastpsychiatrist.com/",
+        description: "Un blog provocador que explora la psique humana, la cultura pop y la alienación moderna, escrito con un tono tan mordaz como brillante.",
+        quote: "El verdadero misterio eres tú mismo."
+    },
+    {
+        category: "Experimentos sociales",
+        title: "We Feel Fine",
+        url: "http://wefeelfine.org/",
+        description: "Un proyecto que rastrea los sentimientos de la gente en tiempo real basándose en declaraciones emocionales en blogs, creando paisajes emocionales globales.",
+        quote: "Los sentimientos no tienen fronteras."
+    },
+    {
+        category: "Música experimental",
+        title: "The Caretaker",
+        url: "https://thecaretaker.bandcamp.com/",
+        description: "El proyecto musical de Leyland Kirby que explora la memoria y el deterioro mental a través de distorsionadas composiciones de música ambiental.",
+        quote: "Recordar lo que nunca existió."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
