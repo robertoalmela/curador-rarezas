@@ -6116,6 +6116,76 @@ async function fetchFromHackerNews() {
         url: "https://thecaretaker.bandcamp.com/",
         description: "El proyecto musical de Leyland Kirby que explora la memoria y el deterioro mental a través de distorsionadas composiciones de música ambiental.",
         quote: "Recordar lo que nunca existió."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Falling Sand Game",
+        url: "https://fallingsandgame.com/",
+        description: "Un pequeño universo en tu navegador donde física y creatividad se fusionan al dejar caer partículas de arena y observar cómo reaccionan con otros elementos.",
+        quote: "La arena nunca cae dos veces de la misma manera."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Jillian Evelyn",
+        url: "https://www.jillianevelyn.com/",
+        description: "Explora las provocativas ilustraciones de cuerpos femeninos en espacios imposibles, reflejando las complejidades de la identidad y la autoimagen.",
+        quote: "El cuerpo es un lienzo donde la emoción navega en silenciosos movimientos."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Human Clock",
+        url: "http://humanclock.com/",
+        description: "Este proyecto combina la creatividad de miles de contribuciones fotográficas que muestran cada minuto del día con imágenes cotidianas.",
+        quote: "Cada minuto es una foto; cada foto, una historia del tiempo."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Nippon Marathon",
+        url: "https://www.nipponmarathon.com/",
+        description: "Un juego de carreras multijugador donde lo absurdo reina, con personajes extraños y obstáculos hilarantes en un Japón caricaturesco.",
+        quote: "Correr hacia el sinsentido puede ser la única forma de llegar a la meta."
+    },
+    {
+        category: "Mundos "under", subculturas",
+        title: "Cyberdelic Culture",
+        url: "https://cyberdelic.net/",
+        description: "Un homenaje digital a la cultura cyberdelic de los años 90s que mezcla psicodelia con tecnología, explorando los límites del arte y la percepción.",
+        quote: "Entre el pixel y el trance, el futuro se distorsiona."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Art of Glitch",
+        url: "https://artoftheglitch.com/",
+        description: "Un portal dedicado a la belleza inesperada de la corrupción digital, donde los errores se convierten en arte cautivador.",
+        quote: "En cada error, el universo se revela un poco más."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "Oblique Strategies",
+        url: "https://stoney.sb.org/eno/oblique.html",
+        description: "Un conjunto de tarjetas creado por Brian Eno y Peter Schmidt diseñado para desbloquear la creatividad con instrucciones enigmáticas.",
+        quote: "Confía en el azar, pues el caos es el maestro de todas las artes."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Post Secret",
+        url: "https://postsecret.com/",
+        description: "Un fenómeno de internet donde personas anónimas envían sus secretos más íntimos en forma de postales, revelando una humanidad compartida.",
+        quote: "En cada secreto se esconde una verdad universal."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "The Museum of Broken Relationships",
+        url: "https://brokenships.com/",
+        description: "Esta exposición itinerante recolecta objetos de relaciones fallidas de todo el mundo, convirtiendo el dolor en arte conmovedor.",
+        quote: "En el corazón roto florece la historia."
+    },
+    {
+        category: "Música experimental",
+        title: "Patatap",
+        url: "https://patatap.com/",
+        description: "Una experiencia audiovisual donde cada presión de tecla crea sonidos y formas, invitándote a componer en tiempo real con el teclado.",
+        quote: "Entre sonidos y colores, el caos encuentra su ritmo."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
