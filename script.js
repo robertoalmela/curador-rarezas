@@ -6186,6 +6186,76 @@ async function fetchFromHackerNews() {
         url: "https://patatap.com/",
         description: "Una experiencia audiovisual donde cada presión de tecla crea sonidos y formas, invitándote a componer en tiempo real con el teclado.",
         quote: "Entre sonidos y colores, el caos encuentra su ritmo."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Howard Finster's Paradise Garden",
+        url: "https://www.paradisegardenfoundation.org/",
+        description: "Un jardín surrealista creado por el artista outsider Howard Finster, lleno de esculturas coloridas y mensajes religiosos. Es un microcosmos de creatividad desbordante que desafía las normas del arte convencional.",
+        quote: "La imaginación es el mundo futuro, invisible para todos menos para el visionario."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://www.staggeringbeauty.com/",
+        description: "Un sitio web ominosamente sencillo que presenta una criatura serpenteante que se comporta de forma impredecible cuando la sacudes. Es la representación digital de un juguete incontrolable.",
+        quote: "Inestabilidad en su forma más atractiva."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "Monochrome Day",
+        url: "https://monochromeday.com/",
+        description: "Un proyecto visual que invita a las personas a observar el mundo en tonos de gris por un día completo. Es una invitación a replantear la percepción visual y apreciar los matices del minimalismo.",
+        quote: "El color es un lujo; la luz, una necesidad."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "QWOP",
+        url: "http://www.foddy.net/Athletics.html",
+        description: "Un juego infame donde controlas las piernas de un atleta de una manera hilarantemente complicada e impráctica. Es un reto de coordinación que deleita en su absurda dificultad.",
+        quote: "En el caos motor reside la verdadera habilidad."
+    },
+    {
+        category: "Filosofía digital",
+        title: "The Society for the Philosophical Study of the Contemporary Visual Arts",
+        url: "https://www.sps-cva.org/",
+        description: "Una comunidad dedicada a la exploración filosófica de las artes visuales contemporáneas, desafiando nuestra comprensión del arte en la era digital.",
+        quote: "El arte es el prisma filosófico del alma digital."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "GLI.TC/H",
+        url: "http://gli.tc/h/",
+        description: "Un festival que celebra el arte glitch, donde la belleza radica en los errores y fallos digitales. Es un espacio para la apreciación de la imperfección dentro de la tecnología.",
+        quote: "La imperfección es el nuevo estándar de belleza."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Presurfer",
+        url: "http://presurfer.blogspot.com/",
+        description: "Un blog que recopila curiosidades y rarezas de Internet creado por Gerrit Bijl. Aunque ya no se actualiza, su archivo es un tesoro de la era dorada de los blogs.",
+        quote: "El pasado digital es un eco del asombro humano."
+    },
+    {
+        category: "Música experimental",
+        title: "WEFT Radio",
+        url: "https://weft.org/",
+        description: "Una estación de radio comunitaria que ofrece una selección de sonidos experimentales y programación alternativa. Es un refugio para el explorador auditivo en búsqueda de lo inesperado.",
+        quote: "El arte de escuchar es ante todo un acto revolucionario."
+    },
+    {
+        category: "Experimentos sociales",
+        title: "Chatroulette",
+        url: "https://chatroulette.com/",
+        description: "Una plataforma de videochat que conecta aleatoriamente a usuarios de todo el mundo. Es un experimento social continuo donde los encuentros humanos son tan efímeros como sorprendentes.",
+        quote: "El azar es una invitación al encuentro inesperado."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "UbuWeb's Film & Video",
+        url: "https://www.ubu.com/film/",
+        description: "Una vasta colección de películas y videos experimentales que retan las normas de la narrativa tradicional. Aquí, el cine es un lienzo en blanco para la imaginación sin restricciones.",
+        quote: "El cine experimental es un diálogo entre el ojo y el alma."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
