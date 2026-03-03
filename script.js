@@ -6256,6 +6256,76 @@ async function fetchFromHackerNews() {
         url: "https://www.ubu.com/film/",
         description: "Una vasta colección de películas y videos experimentales que retan las normas de la narrativa tradicional. Aquí, el cine es un lienzo en blanco para la imaginación sin restricciones.",
         quote: "El cine experimental es un diálogo entre el ojo y el alma."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Staggering Beauty",
+        url: "http://www.staggeringbeauty.com/",
+        description: "Una página web que te ofrece una simple criatura ondulante que responde a los movimientos del cursor, invitando a una danza hipnótica y absurda.",
+        quote: "El asombro se esconde en lo inesperado."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Emil Ferris",
+        url: "https://www.artstation.com/emilferris",
+        description: "Conocida por su gran novela gráfica 'My Favorite Thing is Monsters', Ferris crea mundos oscuros y conmovedores explorando la infancia, el horror y la belleza.",
+        quote: "Los monstruos son una parte deliciosa de nuestra imaginación."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "We Feel Fine",
+        url: "http://wefeelfine.org/",
+        description: "Un explorador de emociones humanas contruidas a partir de blogs, visualizando sentimientos en un caleidoscopio digital de colores y palabras.",
+        quote: "En la vastedad del ciberespacio, todas las emociones encuentran voz."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "QWOP",
+        url: "http://www.foddy.net/Athletics.html",
+        description: "En este juego, las teclas Q, W, O y P son tus únicas armas para controlar a un corredor digital, transformando un simple sprint en un ballet cómico.",
+        quote: "El caos es el verdadero atleta del teclado."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "The SCP Foundation",
+        url: "http://www.scpwiki.com/",
+        description: "Un vasto mundo colaborativo donde la ficción de ciencia y horror se mezcla para tratar de documentar criaturas y artefactos misteriosos.",
+        quote: "En lo desconocido, encontramos nuestras historias más fascinantes."
+    },
+    {
+        category: "Estéticas raras (net.art, glitch, vaporwave)",
+        title: "Glitch Artists Collective",
+        url: "https://www.glitchartistscollective.com/",
+        description: "Un hogar para artistas aficionados a los errores digitales, donde lo distorsionado se convierte en arte visual impresionante.",
+        quote: "La belleza a menudo surge de lo imperfecto."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "I Write Like",
+        url: "https://iwl.me/",
+        description: "Una herramienta que analiza tus textos y te revela al escritor famoso al que te asemejas, un desafío a tu percepción de estilo.",
+        quote: "¿Te atreves a descubrir a quién evocas con tus palabras?"
+    },
+    {
+        category: "Blogs olvidados",
+        title: "Things Organized Neatly",
+        url: "http://thingsorganizedneatly.tumblr.com/",
+        description: "Un blog que celebra el arte sereno de la organización, donde objetos cotidianos se transforman en composiciones cautivantes.",
+        quote: "El arte del orden revela la armonía escondida."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "Rain Room",
+        url: "https://studiostudio.in/work/rain-room/",
+        description: "Una instalación donde la lluvia cae de manera equitativa, pero nunca te toca, creando una experiencia sensorial única.",
+        quote: "Caminar seco bajo la lluvia redefine lo imposible."
+    },
+    {
+        category: "Música experimental",
+        title: "The Caretaker",
+        url: "https://thecaretaker.bandcamp.com/",
+        description: "Un proyecto musical que explora la decadencia de la memoria a través de sonidos nostálgicos y envolventes, inspirados en los salones de baile de antaño.",
+        quote: "En el eco del pasado, la música reverbera eternamente."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
