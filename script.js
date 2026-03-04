@@ -6326,6 +6326,76 @@ async function fetchFromHackerNews() {
         url: "https://thecaretaker.bandcamp.com/",
         description: "Un proyecto musical que explora la decadencia de la memoria a través de sonidos nostálgicos y envolventes, inspirados en los salones de baile de antaño.",
         quote: "En el eco del pasado, la música reverbera eternamente."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Zoomquilt",
+        url: "http://zoomquilt.org/",
+        description: "Un portal infinito en el que las ilustraciones surrealistas se combinan en un viaje sin fin. Es un arte colaborativo y una experiencia visual que hipnotiza.",
+        quote: "La percepción es el arte de seguir viendo."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Bob Verschueren",
+        url: "https://www.bobverschueren.net/",
+        description: "Este artista belga crea 'Música de las Plantas', instalaciones sonoras elaboradas sólo con elementos naturales, donde hojas y piedras se convierten en instrumentos de una sinfonía de la naturaleza.",
+        quote: "La naturaleza también tiene su propia música."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Quiet Place Project",
+        url: "http://thequietplaceproject.com/",
+        description: "Una minimalista y meditativa web que proporciona un respiro del mundo digital, invitándote a encontrar calma en la simplicidad y en el silencio.",
+        quote: "A veces, el silencio es el ruido más elocuente."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Sandspiel",
+        url: "https://sandspiel.club/",
+        description: "Un simple pero adictivo juego de simulación de física en el que puedes crear y destruir mundos de arena, fuego, agua y más, combinando elementos y observando sus interacciones.",
+        quote: "El caos bien puede ser el mejor de los ordenadores."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Deep Dream Generator",
+        url: "https://deepdreamgenerator.com/",
+        description: "Un intrigante proyecto que utiliza inteligencia artificial para convertir tus fotos en psicodélicos sueños visuales, explorando el subconsciente de las máquinas.",
+        quote: "Sueña un poco más profundo."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Pixel Thoughts",
+        url: "http://www.pixelthoughts.co/",
+        description: "Una sencilla web que ayuda a poner en perspectiva tus preocupaciones, disminuyendo su tamaño hasta ser una estrella en el vasto universo.",
+        quote: "El universo es vasto; tus pensamientos, pasajeros."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "This Person Does Not Exist",
+        url: "https://thispersondoesnotexist.com/",
+        description: "Mystifying site that generates realistic photos of people who don't exist, crafted by AI. Provokes reflection on identity and reality in the digital age.",
+        quote: "La realidad está a un clic de distancia."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "PostSecret",
+        url: "https://postsecret.com/",
+        description: "Un proyecto comunitario online donde desconocidos de todo el mundo comparten secretos anonimamente en postales artísticas. Un archivo de lo oculto y lo confesional.",
+        quote: "Cada secreto es una puerta abierta al alma."
+    },
+    {
+        category: "Performances o exposiciones raras",
+        title: "No Show Museum",
+        url: "http://nshow.org/",
+        description: "El primer museo en el mundo dedicado al arte de la ausencia, presentando obras de arte inexistentes o invisibles, desafiando la percepción del arte físico.",
+        quote: "La ausencia es una forma poderosa de presencia."
+    },
+    {
+        category: "Música experimental",
+        title: "Radiooooo",
+        url: "https://radiooooo.com/",
+        description: "Un impresionante viaje musical a través del tiempo y el espacio, donde puedes explorar pistas de diferentes décadas de cualquier parte del mundo.",
+        quote: "La música es el viaje más corto entre dos puntos."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
