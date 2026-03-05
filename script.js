@@ -6466,6 +6466,76 @@ async function fetchFromHackerNews() {
         url: "https://new-aesthetic.tumblr.com/",
         description: "Un blog que examina y documenta cómo la tecnología digital influye en la percepción visual y cultural, desafiando las fronteras entre lo físico y lo virtual.",
         quote: "La realidad está en el ojo del espectador digital."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Incredeum",
+        url: "https://www.incredeum.com",
+        description: "Una app que te permite mapear sonidos a tus bocetos. Como si pudieras escuchar tus ilustraciones, cambiando la forma en que tus ojos perciben el sonido.",
+        quote: "Bocetos que también puedes escuchar, como un DJ visual."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Avery Singer",
+        url: "https://www.instagram.com/avery__singer/",
+        description: "Avery Singer juega con la línea entre lo digital y lo físico en sus pinturas de gran tamaño. Un scroll por su feed es un paseo por un museo que mezcla bits y pigmento.",
+        quote: "Realidad aumentada en pinceladas gigantes."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Squiggle Safari",
+        url: "https://www.squigglesafari.com",
+        description: "Dibuja una forma cualquiera y esta web te lleva a un safari inesperado de imágenes relacionadas. Perfecto para perderte en la jungla del internet por un rato.",
+        quote: "Dibuja, dispara y descubre imágenes en un safari online."
+    },
+    {
+        category: "lectura que pica",
+        title: "Hypernormalization",
+        url: "https://www.bbc.co.uk/iplayer/episode/p04b183c",
+        description: "El documental de Adam Curtis sobre cómo hemos llegado a un estado de irrealidad en la política y el arte actual. Una bofetada visual y narrativa.",
+        quote: "Cuando lo normal es una fantasía cuidadosamente construida."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Kogonada's Video Essays",
+        url: "https://www.kogonada.com/",
+        description: "Perdido en las sutilezas del cine, Kogonada disecciona películas como quien realiza una autopsia amorosa. Te hace ver el cine con nuevos ojos.",
+        quote: "Cineclería: el arte de reconstruir películas."
+    },
+    {
+        category: "música y sonido",
+        title: "NTS Radio",
+        url: "https://www.nts.live/",
+        description: "Una radio online con programas eclécticos que van del ambient japonés a ritmos africanos oscuros. Es como viajar por el mundo desde tus auriculares.",
+        quote: "Más estaciones de radio que países en el mundo."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "The Baffler",
+        url: "https://thebaffler.com/",
+        description: "Una revista que mezcla humor, cultura crítica y diseño subversivo. Tan mordaz que escuece al leerlo.",
+        quote: "Sátira como una necesidad de primer orden."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Memory Atlas",
+        url: "https://www.memoryatlas.com",
+        description: "Un mapa interactivo donde la gente deja recuerdos personales de lugares importantes. Hay historias que rompen el corazón y otras que lo restauran.",
+        quote: "Un atlas de recuerdos compartidos, punto por punto."
+    },
+    {
+        category: "IA experimental",
+        title: "Doodle Dreams",
+        url: "https://www.doodledreams.ai",
+        description: "Dibuja un garabato y esta IA lo convierte en una pintura maestra. Como si Picasso y un robot tuvieran un hijo colaborativo.",
+        quote: "Convierte garabatos en obras maestras pixeladas."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.amazon.com/Codex-Seraphinianus-Luigi-Serafini/dp/0847842134",
+        description: "Un libro ilustrado por Luigi Serafini que es un catálogo de un mundo imaginario, escrito en un alfabeto indecifrable. Leerlo es como intentar entender un sueño.",
+        quote: "El manual de instrucciones de un universo que solo existe en papel."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
