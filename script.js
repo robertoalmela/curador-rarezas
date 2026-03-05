@@ -6396,6 +6396,76 @@ async function fetchFromHackerNews() {
         url: "https://radiooooo.com/",
         description: "Un impresionante viaje musical a través del tiempo y el espacio, donde puedes explorar pistas de diferentes décadas de cualquier parte del mundo.",
         quote: "La música es el viaje más corto entre dos puntos."
+    },
+    {
+        category: "Webs extrañas o inútiles",
+        title: "Tiny Breaktime",
+        url: "https://tinybreaktime.com/",
+        description: "Esta página ofrece un espacio digital en el que puedes disfrutar de breves descansos visuales a través de animaciones sencillas y poéticas. Perfecto para momentos en los que necesitas desconectarte por un instante.",
+        quote: "Como un soplo de aire fresco en el vasto desierto digital."
+    },
+    {
+        category: "Artistas desconocidos o marginales",
+        title: "Charles Dellschau",
+        url: "https://www.dellschau.com/",
+        description: "Descubre el mundo de un artista outsider que dejó un legado de dibujos sobre aeronaves imaginarias, combinando arte y misterio en sus cuadernos que parecían vislumbrar entre los secretos del cielo.",
+        quote: "Los sueños no tienen límites, ni siquiera en el papel."
+    },
+    {
+        category: "Proyectos raros y experimentales",
+        title: "The Night Message",
+        url: "https://thenightmessage.com/",
+        description: "Un proyecto participativo donde los usuarios envían mensajes anónimos que se proyectan en calles por la noche, creando una conexión efímera y poética entre la intimidad digital y el espacio público.",
+        quote: "Por la noche, los secretos cobran vida."
+    },
+    {
+        category: "Juegos absurdos o interactivos",
+        title: "Frog Fractions",
+        url: "https://twinbeard.com/frog-fractions/",
+        description: "A simple vista, un juego educativo de matemáticas protagonizado por una rana, pero que rápidamente se convierte en una travesía surrealista de lo absurdo y lo inesperado.",
+        quote: "A veces, los números no son lo que parecen."
+    },
+    {
+        category: "Mundos 'under', subculturas",
+        title: "Deep Listening Institute",
+        url: "https://www.deeplistening.org/",
+        description: "Fundado por la compositora Pauline Oliveros, este sitio explora la práctica de la escucha profunda como un viaje hacia la conciencia sonora y la experiencia sensorial prolongada.",
+        quote: "Escuchar es expandir el alma."
+    },
+    {
+        category: "Estéticas raras",
+        title: "Digital Decay",
+        url: "https://digitaldecay.art/",
+        description: "Explora una colección de obras digitales que se centran en la degradación y el deterioro, transformando el glitch en una expresión de belleza y transitoriedad.",
+        quote: "Lo roto también cuenta historias."
+    },
+    {
+        category: "Ideas provocadoras",
+        title: "The Last Message Received",
+        url: "https://thelastmessagereceived.tumblr.com/",
+        description: "Un poderoso blog que recopila las últimas comunicaciones enviadas antes de rupturas, pérdidas o cambios drásticos, ofreciendo un conmovedor vistazo a los finales inesperados.",
+        quote: "Últimas palabras, eternas memorias."
+    },
+    {
+        category: "Blogs olvidados",
+        title: "PostSecret",
+        url: "https://postsecret.com/",
+        description: "Este blog invita a las personas a enviar sus secretos más profundos en forma de postales, revelando las verdades ocultas de extraños de todo el mundo, una confesión digital y anónima.",
+        quote: "Todos llevamos secretos, algunos más pesados que otros."
+    },
+    {
+        category: "Música experimental",
+        title: "Disquiet Junto",
+        url: "https://disquiet.com/junto/",
+        description: "Un proyecto colaborativo en el que músicos de todo el mundo participan en desafíos sonoros semanales, explorando la creación sonora colectiva y experimental.",
+        quote: "La música como diálogo perpetuo."
+    },
+    {
+        category: "Filosofía digital",
+        title: "The New Aesthetic",
+        url: "https://new-aesthetic.tumblr.com/",
+        description: "Un blog que examina y documenta cómo la tecnología digital influye en la percepción visual y cultural, desafiando las fronteras entre lo físico y lo virtual.",
+        quote: "La realidad está en el ojo del espectador digital."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
