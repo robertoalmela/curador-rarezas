@@ -6536,6 +6536,76 @@ async function fetchFromHackerNews() {
         url: "https://www.amazon.com/Codex-Seraphinianus-Luigi-Serafini/dp/0847842134",
         description: "Un libro ilustrado por Luigi Serafini que es un catálogo de un mundo imaginario, escrito en un alfabeto indecifrable. Leerlo es como intentar entender un sueño.",
         quote: "El manual de instrucciones de un universo que solo existe en papel."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Spline 3D",
+        url: "https://spline.design/",
+        description: "Imagina poder diseñar en 3D directamente desde tu navegador como un juego. Spline te deja crear experiencias interactivas sin sudar líneas de código. Es apto para cualquier diseñador que quiera flirtear con el diseño tridimensional.",
+        quote: "Es como pintar en el aire, pero sin mancharte los dedos."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Lucy Hardcastle",
+        url: "https://lucyhardcastle.com/",
+        description: "Lucy es una artista y diseñadora que convierte las texturas digitales en magia tangible. Sus instalaciones y piezas digitales parecen respirarnos en la cara con cada pixel, llevando la sensibilidad digital a un nuevo nivel.",
+        quote: "Tocar lo intangible nunca fue tan posible."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Paper Planes",
+        url: "https://paperplanes.world/",
+        description: "Construye tu propio avión de papel y lánzalo al mundo, literalmente. Ve cómo vuela de pantalla en pantalla, tocando vidas digitales de otros soñadores en su camino. Cada vuelo es una historia.",
+        quote: "Vuela, vuela avión de papel, conquista lo digital."
+    },
+    {
+        category: "lectura que pica",
+        title: "Future Now: Virtual Creatures",
+        url: "https://www.aiga.org/future-now-virtual-creatures",
+        description: "Este artículo explora el nacimiento de inteligencias virtuales como herramientas creativas. Redefiniendo la creatividad, nos hace preguntarnos quién realmente crea: nosotros o estas nuevas entidades?",
+        quote: "¿Estamos codificando la musa del siglo XXI?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "The Beauty of 8-Bit Art",
+        url: "https://www.youtube.com/watch?v=2GuX-F08fwI",
+        description: "Un viaje a los días dorados del pixel art. Este videoensayo desentierra la estética pixelada que dio forma a toda una generación de videojuegos. Es un grito de amor retro que te deja con nostalgia de bits.",
+        quote: "Cada pixel cuenta una historia en miniatura."
+    },
+    {
+        category: "música y sonido",
+        title: "Lo-Fi Girl",
+        url: "https://lofigirl.com/",
+        description: "Perfecto para sumergirse en el trabajo o simplemente relajarse, este canal de música ofrece una selección continua de beats lo-fi que acarician el alma. Ideal para los que buscan un rincón sonoro de serenidad.",
+        quote: "La banda sonora perfecta para un día nublado."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "The Visual Dome",
+        url: "https://www.instagram.com/thevisualdome/",
+        description: "Este Instagram es un vertedero de inspiración visual. No es solo otro feed estético; cada post es un manifiesto de lo bellamente extraño y lo extrañamente bello.",
+        quote: "Del caos al orden en un swipe."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Sound of Colleagues",
+        url: "https://soundofcolleagues.com/",
+        description: "¿Extrañas el ruido de oficina mientras trabajas desde casa? En esta web puedes recrear el sonido de un entorno laboral, desde el murmullo de cierres de laptops hasta la cafetera susurrante.",
+        quote: "El murmullo de oficina en tu sala de estar."
+    },
+    {
+        category: "IA experimental",
+        title: "Deep Dream Generator",
+        url: "https://deepdreamgenerator.com/",
+        description: "Juega a ser Dalí con inteligencia artificial, creando imágenes que transforman lo cotidiano en surrealismo puro. Feed a la IA con tus fotos y observa cómo las convierte en alucinaciones visuales.",
+        quote: "Sueños digitales con un toque de locura creativa."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.rizzoliusa.com/book/9780847842131/",
+        description: "Este libro es una enciclopedia de un mundo que solo existe en la mente del artista Luigi Serafini. Textos ilegibles acompañan ilustraciones fantásticas y llenas de color que no necesitan palabras para atraparte.",
+        quote: "Un sueño lúcido en forma de libro."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
