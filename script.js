@@ -6606,6 +6606,76 @@ async function fetchFromHackerNews() {
         url: "https://www.rizzoliusa.com/book/9780847842131/",
         description: "Este libro es una enciclopedia de un mundo que solo existe en la mente del artista Luigi Serafini. Textos ilegibles acompañan ilustraciones fantásticas y llenas de color que no necesitan palabras para atraparte.",
         quote: "Un sueño lúcido en forma de libro."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Womp3D",
+        url: "https://womp.com/",
+        description: "¿Cansado de modelar en 3D y que todo parezca salido de un videojuego de los 90? Womp3D es el nuevo juguete interactivo para esculpir lo que te dé la gana en 3D, todo desde el navegador y con una interfaz que parece de un sueño de Dalí.",
+        quote: "Modelar en 3D esculpiendo aire, sin software pesado."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol",
+        url: "https://refikanadol.com/",
+        description: "Refik Anadol está combinando IA con medioambientes inmersivos para crear arte digital que parece sacado de un sueño futurista. No es solo visual; es como tener un mundo entero dentro de una pantalla.",
+        quote: "Tu pantalla nunca había sido tan profunda."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Patatap",
+        url: "http://www.patatap.com/",
+        description: "Haz música tocando tu teclado, y de paso, crea un espectáculo visual. Es uno de esos lugares donde te preguntas cómo la simple pulsación de una tecla puede producir tanta belleza.",
+        quote: "Siente el tecleteo del arte."
+    },
+    {
+        category: "lectura que pica",
+        title: "Substack de Craig Mod",
+        url: "https://craigmod.com/",
+        description: "Craig Mod hace que caminar sea fascinante. Su Substack está lleno de reflexiones profundas sobre el andar, la naturaleza, y cómo todo esto interactúa con nuestra modernidad tecnológica.",
+        quote: "Caminar y escribir, un acto revolucionario."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Lindsay Ellis",
+        url: "https://www.youtube.com/user/chezapoctube",
+        description: "Vídeo-ensayos en YouTube que convierten películas que viste un millón de veces en nuevos cuentos filosóficos. Con ella, el análisis crítico está a un clic de distancia.",
+        quote: "Películas familiares, en otras dimensiones críticas."
+    },
+    {
+        category: "música y sonido",
+        title: "Nuages",
+        url: "https://soundcloud.com/nuagesuk",
+        description: "Nuages, un productor británico que mezcla lo etéreo con beats que hipnotizan. Ideal para esos momentos en los que quieres volar mientras te quedas en el mismo sitio.",
+        quote: "Música del cielo, aterrizada en tus oídos."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "The Privacy Enthusiast",
+        url: "https://www.instagram.com/the.privacy.enthusiast/",
+        description: "Entre memes y reflexiones, esta cuenta de Instagram te hace reconsiderar cada clic y cada dato que compartes. Porque la privacidad es lo nuevo cool.",
+        quote: "Tu rastro digital nunca estuvo tan de moda."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Internet Archive of Inequality",
+        url: "https://inequalityarchive.org/",
+        description: "Un archivo digital que documenta gráficamente la desigualdad en todo el mundo. Es un golpe visual que te deja pensando en lo que realmente importa.",
+        quote: "Visualizando la desigualdad, un pixel a la vez."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Poet",
+        url: "https://www.aipoet.com/",
+        description: "Personas y máquinas, juntas para escribir poesía. En AI Poet, la IA no solo genera versos, sino que los reimagina con una sensibilidad que desafía lo sintético.",
+        quote: "Poesía mecánica hecha con alma."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://en.wikipedia.org/wiki/Codex_Seraphinianus",
+        description: "Este libro es lo que sucede cuando un genio decide escribir una enciclopedia de un mundo que no existe, en un idioma que nadie entiende. Es hermoso, extraño, y completamente fascinante.",
+        quote: "Un testimonio de un universo paralelo, encuadernado."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
