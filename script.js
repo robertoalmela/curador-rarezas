@@ -6676,6 +6676,76 @@ async function fetchFromHackerNews() {
         url: "https://en.wikipedia.org/wiki/Codex_Seraphinianus",
         description: "Este libro es lo que sucede cuando un genio decide escribir una enciclopedia de un mundo que no existe, en un idioma que nadie entiende. Es hermoso, extraño, y completamente fascinante.",
         quote: "Un testimonio de un universo paralelo, encuadernado."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Glitch Image Generator",
+        url: "https://glitch.com/create",
+        description: "Destruye tus fotos y conviértelas en maravillas pixeladas con esta herramienta que te deja ir full glitch sin romper la computadora.",
+        quote: "¿Qué pasa si tu foto de vacaciones se encuentra con un bug en la Matrix?"
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol - Data Poet",
+        url: "https://refikanadol.com/",
+        description: "Este artista transforma datos en puestas en escena visuales que parecen haber sido arrancadas de un sueño futurista. Su Instagram es una galería de ciencia ficción viva.",
+        quote: "Cuando el big data se convierte en paisajes fantásticos."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Patatap - Experimenta el Ritmo",
+        url: "https://www.patatap.com/",
+        description: "Un sitio donde cada tecla se convierte en música y arte. Terminas creando una mezcla visual y auditiva que hace que tus vecinos te llamen compositor.",
+        quote: "¿Teclado o sintetizador? ¿Arte o música? ¿Por qué no todo?"
+    },
+    {
+        category: "lectura que pica",
+        title: "Sinofuturismo",
+        url: "https://sinofuturism.org/",
+        description: "Un viaje sorprendente por las ideas que plantean un futuro regido por el software, la autocensura y la innovación china. Te hará replantearte muchas cosas.",
+        quote: "¿Qué ocurre cuando combinamos el futuro con el acceso restringido?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "ContraPoints - Filosofía Visual",
+        url: "https://www.youtube.com/user/ContraPoints",
+        description: "Natalie Wynn crea ensayos visuales donde el arte y la política se cruzan con un sentido estético sublime y teatrales toques de humor. Imposible de olvidar.",
+        quote: "Cuidado: Puede provocar existencialismo con estilo."
+    },
+    {
+        category: "música y sonido",
+        title: "Lofi Beats Radio - Chill in Loop",
+        url: "https://www.youtube.com/watch?v=jfKfPfyJRdk",
+        description: "La legendaria transmisión de 'lofi hip hop radio' para estudiar o relajarse, sigue siendo un rincón zen inigualable del internet. A veces, menos es más.",
+        quote: "Cuando la música y el tiempo se deslizan como un río tranquilo."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Everest Pipkin - Bug Enthusiast",
+        url: "https://www.instagram.com/everestpipkin/",
+        description: "Artista digital y amante de las pequeñas criaturas que documenta lo extraño y convincente del mundo natural y digital. Su feed es pura poesía visual.",
+        quote: "Píxeles y bichos: los mejores compañeros digitales."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Internet Archive Scholar",
+        url: "https://scholar.archive.org/",
+        description: "Un poderoso archivo en línea que preserva publicaciones académicas de acceso abierto. Porque la información es poder, y este sitio lo sabe.",
+        quote: "La biblioteca de Alejandría digital que soñábamos."
+    },
+    {
+        category: "IA experimental",
+        title: "Runway ML - Future Creativity",
+        url: "https://runwayml.com/",
+        description: "Un espacio donde la inteligencia artificial se convierte en herramienta creativa, permitiéndote editar videos como si estuvieras jugando con plastilina digital.",
+        quote: "Dame IA y moveré creativamente el mundo."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.codexseraphinianus.com/",
+        description: "Este libro es un sueño lúcido hecho papel, una enciclopedia de un mundo que no existe pero que probablemente debería. Imaginación sin límites.",
+        quote: "El libro que el surrealismo siempre quiso escribir."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
