@@ -6746,6 +6746,76 @@ async function fetchFromHackerNews() {
         url: "https://www.codexseraphinianus.com/",
         description: "Este libro es un sueño lúcido hecho papel, una enciclopedia de un mundo que no existe pero que probablemente debería. Imaginación sin límites.",
         quote: "El libro que el surrealismo siempre quiso escribir."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Blender Sushi",
+        url: "https://blendersushi.blogspot.com/",
+        description: "Un blog fascinante que explora cómo llevar Blender a sus límites más creativos, con scripts y experimentos visuales casi hechos a diario.",
+        quote: "Un buffet visual que no sabías que necesitabas en tu dieta digital."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Lauren Mccarthy",
+        url: "http://lauren-mccarthy.com/",
+        description: "Artista que explora la intersección entre la tecnología, la privacidad y las relaciones sociales, con proyectos que te hacen cuestionar lo humano.",
+        quote: "Algo así como Black Mirror, pero con más alma."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Fallen London",
+        url: "https://www.fallenlondon.com/",
+        description: "Un juego de narrativa interactiva donde Londres ha caído bajo tierra tras un evento misterioso. Cada click es una decisión que te sumerge más en su mundo sombrío.",
+        quote: "Cuando Londres cae, sólo queda storytelling."
+    },
+    {
+        category: "lectura que pica",
+        title: "Notes from Nature",
+        url: "https://www.notesfromnature.org/",
+        description: "Una plataforma que involucra a ciudadanos para transcribir y etiquetar datos de biodiversidad, haciendo que cada página sea un viaje literal a la naturaleza.",
+        quote: "Cuando el típex digital te convierte en Indiana Jones."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Nuggets - Animation by Andreas Hykade",
+        url: "https://www.youtube.com/watch?v=HUngLgGRJpo",
+        description: "Un cortometraje de animación que en menos de cinco minutos te lleva a un viaje profundo por la adicción y la búsqueda de más.",
+        quote: "Cinco minutos que duran toda una vida."
+    },
+    {
+        category: "música y sonido",
+        title: "Colors Studio",
+        url: "https://colorsxstudios.com/",
+        description: "Una plataforma que da visibilidad a artistas musicales emergentes con vídeos minimalistas cuyas performances te atrapan.",
+        quote: "Donde los colores suenan mejor que nunca."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Weird Secondhand Finds That Just Need To Be Shared",
+        url: "https://www.facebook.com/WeirdSecondhandFinds/",
+        description: "Un rincón en Facebook donde las extrañezas de objetos de segunda mano se transforman en un viaje a lo inesperado.",
+        quote: "Cuando el minimalismo no es una opción."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Out of Eden Walk",
+        url: "https://www.nationalgeographic.org/projects/out-of-eden-walk/",
+        description: "Paul Salopek camina desde África hasta la punta de Sudamérica contando historias humanas, una crónica fotográfica en continua evolución.",
+        quote: "Paso a paso, desenredando la madeja de la humanidad."
+    },
+    {
+        category: "IA experimental",
+        title: "Playform.io",
+        url: "https://www.playform.io/",
+        description: "Plataforma que permite a artistas crear su propia inteligencia artificial para generar arte, desde pinturas hasta vídeos.",
+        quote: "Tu musa AI está a un clic de distancia."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.amazon.com/dp/0847842134",
+        description: "Un libro ilustrado como ningún otro, un catálogo donde lo surrealista y lo lingüísticamente imposible se dan la mano.",
+        quote: "Cuando el mirar es más importante que el entender."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
