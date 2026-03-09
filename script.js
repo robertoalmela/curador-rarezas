@@ -6816,6 +6816,76 @@ async function fetchFromHackerNews() {
         url: "https://www.amazon.com/dp/0847842134",
         description: "Un libro ilustrado como ningún otro, un catálogo donde lo surrealista y lo lingüísticamente imposible se dan la mano.",
         quote: "Cuando el mirar es más importante que el entender."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Spline - Diseño 3D en el navegador",
+        url: "https://spline.design/",
+        description: "Esto es como un juguete de diseñador 3D en tu navegador. Permite crear gráficos 3D interactivos y animaciones con una interfaz amigable. Muy jugoso para generar un impacto visual sin dolores de cabeza.",
+        quote: "Dibujar en el aire nunca fue tan fácil."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "María Sánchez - Tejiendo bits",
+        url: "https://www.instagram.com/maria_sanchez_art/",
+        description: "María mezcla lo analógico y lo digital como si fueran la misma cosa. Sus obras te hacen sentir que los bits pueden tener textura. Síguele la pista si te gusta lo inesperado en cada pixel.",
+        quote: "Tocar un GIF se siente así."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Silk - Diseña con seda digital",
+        url: "http://weavesilk.com/",
+        description: "Dibuja en tu pantalla como si estuvieras tejiendo en seda. Lo hipnótico es quedarse un rato ajustando los colores y viendo cómo todo toma forma ante tus ojos, casi como si la pantalla respirara.",
+        quote: "Cuando la seda y el código bailan."
+    },
+    {
+        category: "lectura que pica",
+        title: "Futuro quinquenal - IA y creatividat",
+        url: "https://fiveyearlump.com/",
+        description: "Un ensayo que te reta a pensar en cómo la creatividad y la inteligencia artificial tienen una cita a ciegas cada día. Para quienes se atreven a cuestionarse qué significa realmente ser creativo en 2023.",
+        quote: "Quién lleva a quién en esta cita tecnológica."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Polyphonic - El análisis musical profundo",
+        url: "https://www.youtube.com/channel/UCXkNod_JcH7PleOjwK_8rYQ",
+        description: "Polyphonic desmantela canciones y bandas icónicas con una narrativa visual que hace que vuelvas a escuchar música con oídos nuevos. Ya no escucharás tus discos igual.",
+        quote: "Escuchar música con rayos X."
+    },
+    {
+        category: "música y sonido",
+        title: "Nicolás Jaar - Experimentación sonora",
+        url: "https://www.residentadvisor.net/dj/nicolasjaar",
+        description: "Nicolás Jaar no teme romper esquemas. Sus sets son artísticos y llenos de paisajes sonoros que van de lo desconcertante a lo bello. Oídos curiosos requeridos.",
+        quote: "Cuando la música se convierte en un lienzo."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "El Club del Folio Blanco",
+        url: "https://www.instagram.com/elclubdelfolioblanco/",
+        description: "Una comunidad de instagramers que se dedican a rendir culto al papel en blanco, compartiendo sus propias creaciones, retos y ejercicios para vencer la página en blanco.",
+        quote: "El club donde el papel y la imaginación se unen."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Histoires de Paris",
+        url: "https://histoiresdeparis.fr/",
+        description: "Una colección digital que captura historias de París, preservando la memoria de una ciudad que nunca deja de cambiar. Es como perderse en sus calles desde tu sofá.",
+        quote: "París cambia, pero sus historias persisten."
+    },
+    {
+        category: "IA experimental",
+        title: "DeepArt - Arte neuronal",
+        url: "https://deepart.io/",
+        description: "Convierte tus fotos en obras de arte estilo Van Gogh o Klimt gracias a la magia de redes neuronales. Juega a ser artista sin ensuciarte las manos de pintura.",
+        quote: "Que tu selfie se convierta en un cuadro de museo."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Una Vida en Paradojas - Colección de un zine",
+        url: "https://www.instagram.com/unavidaenparadojas/",
+        description: "Un zine que parece fuera de este mundo, lleno de reflexiones y contradicciones ilustradas que te harán sonreír, pensar y repensar. Una revolución tranquila en papel.",
+        quote: "El papel nunca fue tan revolucionario."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
