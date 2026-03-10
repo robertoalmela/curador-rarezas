@@ -6886,6 +6886,76 @@ async function fetchFromHackerNews() {
         url: "https://www.instagram.com/unavidaenparadojas/",
         description: "Un zine que parece fuera de este mundo, lleno de reflexiones y contradicciones ilustradas que te harán sonreír, pensar y repensar. Una revolución tranquila en papel.",
         quote: "El papel nunca fue tan revolucionario."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Scribble Diffusion",
+        url: "https://scribblediffusion.com/",
+        description: "Dibuja un garabato, cualquier garabato, y observa cómo esta herramienta lo transforma en una obra de arte más detallada. Es como darle esteroides a tu pizarra blanca.",
+        quote: "Del garabato al glamour."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Ameilya Wang",
+        url: "https://www.instagram.com/ameilyawang/",
+        description: "Surrealismo pop que mezcla colores pastel con oscuridad emocional. Ameilya Wang pinta un mundo de sueños, donde cada obra es un portal a universos internos.",
+        quote: "Colores dulces, sueños profundos."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Sandspiel",
+        url: "https://sandspiel.club/",
+        description: "Un simulador de partículas en línea que te permite jugar con elementos básicos como arena, agua, fuego y plantas. Ideal para perderse construyendo y destruyendo micro ecosistemas.",
+        quote: "La física desordenada nunca fue tan divertida."
+    },
+    {
+        category: "lectura que pica",
+        title: "Hyperwellbeing",
+        url: "https://www.hyperwellbeing.com/",
+        description: "Explora cómo la tecnología está rediseñando lo que significa estar bien. Este blog desafía tus ideas preconcebidas sobre el bienestar en la era digital.",
+        quote: "Más allá del paso de Fitbit, hacia el bienestar ciborg."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Kaptainkristian",
+        url: "https://www.youtube.com/c/kaptainkristian",
+        description: "Este canal de YouTube ofrece videoensayos visualmente impresionantes, explorando desde la cultura pop hasta el arte de contar historias. Bien producido y con una narrativa cautivante.",
+        quote: "Visuales que hacen pensar tanto como asombran."
+    },
+    {
+        category: "música y sonido",
+        title: "Noumen",
+        url: "https://noumen.bandcamp.com/",
+        description: "Este productor británico crea un paisaje sonoro digital con una mezcla de glitch, hip-hop y electrónica. Perfecto para quienes buscan un escape musical al más allá.",
+        quote: "Glitch-hop para los sueños lúcidos."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Indiependent Culture",
+        url: "https://www.instagram.com/indiependentculture/",
+        description: "Una cuenta de Instagram que destaca a creativos independientes de todo el mundo. Desde arte hasta moda, cada publicación es un devaneo cultural diverso.",
+        quote: "Donde la creatividad indie encuentra su escaparate."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Chronotext",
+        url: "https://chronotext.org/",
+        description: "Un archivo digital que explora el tiempo y el texto a través de la programación creativa. Es un viaje reflexivo por el significado del tiempo en nuestras vidas.",
+        quote: "Textos que te llevan a viajar en el tiempo."
+    },
+    {
+        category: "IA experimental",
+        title: "This Person Does Not Exist",
+        url: "https://thispersondoesnotexist.com/",
+        description: "Imágenes generadas por IA de personas que parecen reales pero no existen. Cada actualización es un viaje a lo que podría ser, retando nuestra percepción de lo real.",
+        quote: "Rostros de un multiverso de nadie."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.amazon.com/Codex-Seraphinianus/dp/0847842134/",
+        description: "Un libro ilustrado tan enigmático como bello, creado por Luigi Serafini. Llena de escritura indescifrable e ilustraciones de mundos imaginarios, es un misterio que invita a soñar.",
+        quote: "La biblia de un mundo que nunca existió."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
