@@ -6956,6 +6956,76 @@ async function fetchFromHackerNews() {
         url: "https://www.amazon.com/Codex-Seraphinianus/dp/0847842134/",
         description: "Un libro ilustrado tan enigmático como bello, creado por Luigi Serafini. Llena de escritura indescifrable e ilustraciones de mundos imaginarios, es un misterio que invita a soñar.",
         quote: "La biblia de un mundo que nunca existió."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Muzli Colors: Generador de paletas",
+        url: "https://colors.muz.li/",
+        description: "Descubrí este generador de paletas en Muzli que te lanza infinitas combinaciones de colores con un solo clic. Es como tener un consultor de moda digital, pero para tus diseños.",
+        quote: "Tantos colores, tan poco tiempo."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol: Data Poetics",
+        url: "https://refikanadol.com/",
+        description: "Este turco está sacudiendo el mundo del arte digital con instalaciones que parecen sacadas de un sueño lúcido. Usa datos y IA para crear experiencias visuales que son pura poesía para los ojos.",
+        quote: "Datos con alma de artista."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Recomendo: Experimento de Conexión Humana",
+        url: "https://recomendocta.com/",
+        description: "Un experimento en el que te conectas anónimamente con una persona al azar y compartes recomendaciones de libros, películas, música, o lo que se te ocurra. Una conversación de café virtual.",
+        quote: "¿Recomendarías esto a un extraño?"
+    },
+    {
+        category: "lectura que pica",
+        title: "The Pudding: Visual Essays",
+        url: "https://pudding.cool/",
+        description: "Ensayos visuales interactivos que profundizan en temas culturales contemporáneos de una manera tan atractiva que te olvidarás del scroll infinito de Instagram.",
+        quote: "Cuando los datos cuentan historias."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Jacob Geller: Video Essays",
+        url: "https://www.youtube.com/channel/UCXpD3qrOlP1wWyguGrmT4bQ",
+        description: "Este tipo hace videoensayos sobre temas que ni sabías que te interesaban, desde videojuegos hasta arquitectura. Cada video es una ventana a un mundo que no sabías que existía.",
+        quote: "Un agujero de conejo en forma de pantalla."
+    },
+    {
+        category: "música y sonido",
+        title: "NTS Radio: Eclectic Soundtracking",
+        url: "https://www.nts.live/",
+        description: "Una estación de radio online que te hará querer descubrir nuevos géneros musicales cada día. Olvídate de Spotify y sumérgete en esta corriente de sonido ecléctico.",
+        quote: "Donde el zapping se convierte en arte."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "WePresent: Platform for Creativity",
+        url: "https://wepresent.wetransfer.com/",
+        description: "La plataforma creativa de WeTransfer que destaca artistas, músicos y creativos emergentes de todo el mundo. Es como un museo virtual de lo que está pasando ahora.",
+        quote: "Descubre artistas antes de que sean mainstream."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Nation of Language: NYC Sound Archive",
+        url: "https://nationoflanguage.com/",
+        description: "Encuentras esta web y es como abrir un baúl de recuerdos sonoros de Nueva York. Historias y sonidos que conservan la esencia de una ciudad que nunca duerme.",
+        quote: "La banda sonora de la Gran Manzana."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Dungeon: Choose Your Own Adventure",
+        url: "https://play.aidungeon.io/",
+        description: "Un juego de rol interactivo impulsado por IA donde creas tus propias historias. La IA responde de formas tan imprevisibles que te preguntarás quién está guiando a quién.",
+        quote: "La aventura nunca termina... ¿o sí?"
+    },
+    {
+        category: "libro u objeto raro",
+        title: "S, de J.J. Abrams y Doug Dorst",
+        url: "https://www.goodreads.com/book/show/18774964-s",
+        description: "Un libro dentro de un libro que juega con tus sentidos y rompe la cuarta pared. Es como si Borges hubiera conocido a Abrams en un café y decidieran escribir juntos.",
+        quote: "Cuando la narrativa se convierte en artefacto."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
