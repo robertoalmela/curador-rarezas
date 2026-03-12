@@ -7026,6 +7026,76 @@ async function fetchFromHackerNews() {
         url: "https://www.goodreads.com/book/show/18774964-s",
         description: "Un libro dentro de un libro que juega con tus sentidos y rompe la cuarta pared. Es como si Borges hubiera conocido a Abrams en un café y decidieran escribir juntos.",
         quote: "Cuando la narrativa se convierte en artefacto."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Blobmaker",
+        url: "https://www.blobmaker.app/",
+        description: "Si alguna vez has querido dibujar formas abstractas y orgánicas para tus proyectos, Blobmaker es puro jamón. Genera blobs SVG aleatorios que puedes personalizar y descargar más rápido de lo que alguien dice 'blob'.",
+        quote: "Forma líquida, arte sólido."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol's Data Sculptures",
+        url: "https://refikanadol.com/",
+        description: "Refik transforma datos opacos en paisajes digitales que parecen respirar. Es como si el código tuviera sueños visuales. Sus instalaciones son una mezcla de ciencia ficción y poesía.",
+        quote: "Donde los datos se vuelven lírica."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Patatap",
+        url: "https://www.patatap.com/",
+        description: "Una fiesta audiovisual para tus dedos. Clickeas y sueltas un universo de sonidos y visuales. Perfecta solución para cuando necesitas que la hora del café dure más.",
+        quote: "Toca y deja que el ritmo te lleve."
+    },
+    {
+        category: "lectura que pica",
+        title: "Culture Digitally",
+        url: "http://culturedigitally.org/",
+        description: "Un blog colectivo donde académicos y creativos debaten sobre la cultura en la era digital. Aquí vas a encontrar ensayos que te harán ver lo cotidiano con lentes de ciborg.",
+        quote: "¿Estamos viviendo en un algoritmo masivo?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Nostalgia Nerd",
+        url: "https://www.youtube.com/c/NostalgiaNerd/",
+        description: "Este canal de YouTube es como un museo digital vintage, desvanece el polvo de tecnología olvidada y 'software del pasado' que define nuestro presente.",
+        quote: "Hambriento de píxeles del pasado."
+    },
+    {
+        category: "música y sonido",
+        title: "Radiooooo",
+        url: "https://radiooooo.com/",
+        description: "Una máquina del tiempo musical donde puedes escuchar la música de cualquier década y lugar en el mundo. Perfecto para tardes de domingo viajando con tus oídos.",
+        quote: "Sintoniza el mundo en cada década."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Strange Sounds",
+        url: "http://strangesounds.org/",
+        description: "Blog dedicado a esos sonidos inexplicables y misteriosos de nuestro mundo. Una comunidad para los curiosos del fenómeno acústico raro.",
+        quote: "Cuando la tierra habla en susurros extraños."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Colored Museum",
+        url: "https://thecoloredmuseum.com/",
+        description: "Un archivo digital que celebra la cultura afroamericana a través de múltiples colecciones temáticas. Es un espacio de preservación, resistencia y belleza.",
+        quote: "Memorias en technicolor para el futuro."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Dungeon",
+        url: "https://play.aidungeon.io/",
+        description: "Un juego de aventuras de texto donde la historia se genera en tiempo real con IA. Es elige tu propia aventura, pero con un co-escritor futurista que nunca duerme.",
+        quote: "Agrégale un cerebro artificial a tu imaginación."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "The Electric State",
+        url: "https://www.artstation.com/artwork/nRGr4",
+        description: "Un libro visual de Simon Stålenhag que combina el arte retrofuturista con una narrativa envolvente sobre la América distópica. Una mezcla entre Mad Max y un relato intimista.",
+        quote: "Un viaje visual que se siente como un recuerdo."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
