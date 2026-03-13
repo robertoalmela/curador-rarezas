@@ -7096,6 +7096,76 @@ async function fetchFromHackerNews() {
         url: "https://www.artstation.com/artwork/nRGr4",
         description: "Un libro visual de Simon Stålenhag que combina el arte retrofuturista con una narrativa envolvente sobre la América distópica. Una mezcla entre Mad Max y un relato intimista.",
         quote: "Un viaje visual que se siente como un recuerdo."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Image Super-Resolution",
+        url: "https://letsenhance.io/boost",
+        description: "Eleva la calidad de tus imágenes a un nivel asombroso con este AI que mejora la resolución. Mis fotos pixeladas nunca se vieron tan bien.",
+        quote: "Como pasar de VHS a 4K en un clic."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol Studio",
+        url: "https://refikanadol.com/",
+        description: "Refik Anadol se dedica a tomar datos y convertirlos en asombrosas piezas de arte visual. Su Instagram es pura magia digital.",
+        quote: "Donde los números se convierten en luz."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Neonflames",
+        url: "https://29a.ch/sandbox/2011/neonflames/",
+        description: "Crea tu propia nebulosa en el navegador, todo se ve tan cósmico que podrías engañar a la NASA.",
+        quote: "Tu universo en un lienzo."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Ethics of AI Art",
+        url: "https://www.futurism.com/the-byte/the-ethics-of-ai-art",
+        description: "Este ensayo te hará cuestionar si el arte creado por inteligencia artificial puede tener alma o si es solo un nuevo juguete brillante.",
+        quote: "¿Es arte si no hay un humano detrás del pincel?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Nerdwriter1 - Video Essays",
+        url: "https://www.youtube.com/user/Nerdwriter1",
+        description: "Este canal de YouTube desmenuza películas y arte en pequeños bocados de genialidad. Prepárate para ver lo que siempre estuvo ahí pero nunca notaste.",
+        quote: "Ver sin ser visto."
+    },
+    {
+        category: "música y sonido",
+        title: "Hainbach",
+        url: "https://hainbach.bandcamp.com/",
+        description: "Hainbach crea paisajes sonoros extraños y bellos utilizando viejos equipos de prueba científicos. Es como escuchar las frecuencias del universo.",
+        quote: "La música que los osciloscopios soñaban crear."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Illustoria - Instagram",
+        url: "https://www.instagram.com/illustoria_mag/",
+        description: "Un rincón en Instagram que celebra la creatividad infantil a través de ilustraciones y cuentos. Parece simple, pero despierta al niño interior.",
+        quote: "La imaginación nunca pasa de moda."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Internet Archive: VHS Vault",
+        url: "https://archive.org/details/vhsvault",
+        description: "El Archive’s VHS Vault es un tesoro de cintas viejas que captura la esencia de los 80s y 90s, desde anuncios ridículos hasta joyas olvidadas.",
+        quote: "Nostalgia en rebobinado perpetuo."
+    },
+    {
+        category: "IA experimental",
+        title: "Botnik Studios",
+        url: "https://botnik.org/",
+        description: "Botnik utiliza inteligencia artificial para co-crear contenido humorístico y literario. Es como si una máquina aprendiera a tener sentido del humor.",
+        quote: "Cuando las máquinas cuentan chistes."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.amazon.com/Codex-Seraphinianus-Luigi-Serafini/dp/0847842134",
+        description: "Un libro que parece ser escrito por un alienígena con un texto y dibujos incomprensibles. Es la enciclopedia de un mundo que nunca existió.",
+        quote: "El libro que Da Vinci podría haber dejado atrás."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
