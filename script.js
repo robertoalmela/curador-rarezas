@@ -7166,6 +7166,76 @@ async function fetchFromHackerNews() {
         url: "https://www.amazon.com/Codex-Seraphinianus-Luigi-Serafini/dp/0847842134",
         description: "Un libro que parece ser escrito por un alienígena con un texto y dibujos incomprensibles. Es la enciclopedia de un mundo que nunca existió.",
         quote: "El libro que Da Vinci podría haber dejado atrás."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Nobe Color Remap",
+        url: "https://timeinpixels.com/nobe-color-remap/",
+        description: "Una extensión para DaVinci Resolve que te permite cambiar los colores en tus videos de formas que ni te imaginabas. Ideal para cuando quieres que los cielos sean rosas y el césped morado.",
+        quote: "Cuando ni el arcoíris te limita."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Jonathan Monaghan",
+        url: "https://www.jonmonaghan.com/",
+        description: "Artista que mezcla lo digital con lo barroco, creando esculturas 3D que parecen salidas de un sueño espacial. Sus obras te hipnotizan hasta que te preguntas qué bichos tan elegantes tomaron tu cerebro.",
+        quote: "Un soplo del barroco en la era digital."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Paper Planes",
+        url: "https://paperplanes.world/",
+        description: "Envía aviones de papel virtuales alrededor del mundo y recolecta los de otros usuarios. Un juego donde la nostalgia y la tecnología se dan la mano para darte un respiro del inbox.",
+        quote: "Porque todos necesitamos lanzar un avión de papel al mundo."
+    },
+    {
+        category: "lectura que pica",
+        title: "Gaming the Metrics",
+        url: "https://reallifemag.com/gaming-the-metrics/",
+        description: "Un artículo que explora cómo los sistemas de métrica y analítica están alterando industrias enteras, desde los videojuegos hasta las redes sociales. Te hará replantearte cada like que das.",
+        quote: "¿Quién juega realmente, tú o el algoritmo?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Channel 2020",
+        url: "https://www.youtube.com/channel/UCSh2dS0QhExGfIQxTdK2RRA",
+        description: "Un canal de YouTube que recopila imágenes retrofuturistas con música de fondo inquietante. Perfecto para perderse y sentir que estás viendo la TV en una dimensión paralela.",
+        quote: "La nostalgia del futuro que no llegó."
+    },
+    {
+        category: "música y sonido",
+        title: "Dazed Digital Mixes",
+        url: "https://www.dazeddigital.com/music/article/51370/1/the-six-best-mix-from-dazed-in-2020",
+        description: "Explora una colección de mezclas musicales que no encontrarás en las listas de Spotify, desde ambient hasta ritmos rompederos. Hechas para abrir esas noches donde buscas lo inesperado.",
+        quote: "Cuando tu oído pide un viaje raro y desconocido."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Post Aesthetics",
+        url: "https://www.instagram.com/postaesthetics/",
+        description: "Cuenta de Instagram que recopila lo más raro y estéticamente explosivo del mundo digital. Aquí lo kitsch y lo sublime se mezclan sin pedir permiso.",
+        quote: "El arte pop del scroll eterno."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Endangered Languages Project",
+        url: "http://www.endangeredlanguages.com/",
+        description: "Un lugar donde voces de todo el mundo se unen para preservar idiomas en peligro de extinción. Una mezcla de academia y corazón que te conecta con la diversidad cultural.",
+        quote: "Las últimas palabras que importan."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Weirdness",
+        url: "http://aiweirdness.com/",
+        description: "Blog de Janelle Shane que documenta cómo redes neuronales hacen cosas extrañas e inesperadas. Si nunca te has cuestionado cómo una IA interpretaría una receta de pastel, este es tu espacio.",
+        quote: "Cuando la IA se comporta más humano que los humanos."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.codexseraphinianus.com/",
+        description: "Un extraño manuscrito que actúa como enciclopedia de un universo alternativo. Con dibujos y textos incomprensibles que despiertan tu imaginación en cada página.",
+        quote: "El libro que te hará soñar con mundos que no existen."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
