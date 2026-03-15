@@ -7236,6 +7236,76 @@ async function fetchFromHackerNews() {
         url: "https://www.codexseraphinianus.com/",
         description: "Un extraño manuscrito que actúa como enciclopedia de un universo alternativo. Con dibujos y textos incomprensibles que despiertan tu imaginación en cada página.",
         quote: "El libro que te hará soñar con mundos que no existen."
+    },
+    {
+        category: "herramienta creativa",
+        title: "SculptGL: Clínica de Esculturas",
+        url: "https://stephaneginier.com/sculptgl/",
+        description: "Si alguna vez has querido moldear arcilla sin ensuciarte las manos, SculptGL es tu lugar seguro. Este pequeño pero poderoso modelador 3D te deja experimentar con formas y volúmenes como si fueras un Michelangelo digital.",
+        quote: "Esculpe a David, pero más pixelado."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol: Dementes de Datos",
+        url: "https://refikanadol.com/",
+        description: "Sumérgete en un mundo donde los datos se transforman en arte que respira y se mueve. Refik Anadol está redefiniendo cómo vemos la tecnología al conectar lo físico con lo virtual de formas que casi te hacen olvidar que no es magia.",
+        quote: "La memoria digital nunca se vio tan embriagante."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Neonflamingo: Rewire Your Brain",
+        url: "https://neonflamingo.me/",
+        description: "Es un sandbox para el alma, una web donde tus clics generan algoritmos visuales hipnóticos. Vas a preferir perderte aquí que en Instagram durante tus descansos.",
+        quote: "Un gimnasio pixelado para tu cerebro."
+    },
+    {
+        category: "lectura que pica",
+        title: "El Dilema del Intersticio",
+        url: "https://restofworld.org/2023/the-digital-gap/",
+        description: "Un reportaje que te hace replantearte la brecha digital y su relación impactante con la cultura global. Una reflexión sobre cómo la tecnología lejos de unirnos, en ocasiones, puede ser un muro de cristal.",
+        quote: "¿El problema del siglo XXI? Conectar sin conexión."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Noclip: Documentales Ingrávidos",
+        url: "https://www.youtube.com/c/Noclip",
+        description: "El canal de YouTube que se mete en las entrañas del desarrollo de videojuegos. Con menos ruido que los grandes nombres, te hará preguntarte si deberías cambiar tu carrera para diseñar mundos.",
+        quote: "Detrás de cada píxel, hay una historia inaudita."
+    },
+    {
+        category: "música y sonido",
+        title: "The Caretaker: El Olvido Sonoro",
+        url: "https://thecaretaker.bandcamp.com/",
+        description: "Explora la música ambiente hecha a partir de loops de viejos discos de salón, diseñada para que experimentes el deterioro mental a través de sonidos. Es perturbador y fascinante al mismo tiempo.",
+        quote: "La nostalgia convertida en arte sonoro."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Post Real: Más Allá del Hype",
+        url: "https://instagram.com/postreal_/",
+        description: "Este Instagram está siempre un paso adelante del Zeitgeist, anticipando las modas que ni sabías que necesitabas. Un pastiche visual de tendencia vanguardista muy reciente.",
+        quote: "¿De moda? No, de metaverso."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Acceso Latino: Narrativas Invisibles",
+        url: "https://accesolatino.org/",
+        description: "Un portal digital con recursos para la comunidad latina en EE.UU., diseñado no solo para informar, sino para empoderar y conectar. Es un abrazo cálido en la vastedad de la red.",
+        quote: "La tierra prometida está a un clic."
+    },
+    {
+        category: "IA experimental",
+        title: "Runway: El Tomate de Turing",
+        url: "https://runwayml.com/",
+        description: "No es solo otro editor de video. Runway usa IA para transformar la creación audiovisual, permitiéndote editar con texto y explorar efectos impensables. Prepárate para revolucionar el storytelling visual.",
+        quote: "Hacer cine con un par de palabras."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Ship of Theseus: Puzzle Literario",
+        url: "https://www.sshipoftheseus.com/",
+        description: "Una novela dentro de una novela, creada por el famoso autor J.J. Abrams. Con notas personales en los márgenes, mapas y pistas, este libro es una experiencia interactiva que va mucho más allá de simplemente leer.",
+        quote: "Lee entre las líneas, y entre las palabras."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
