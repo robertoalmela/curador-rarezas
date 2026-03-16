@@ -7306,6 +7306,76 @@ async function fetchFromHackerNews() {
         url: "https://www.sshipoftheseus.com/",
         description: "Una novela dentro de una novela, creada por el famoso autor J.J. Abrams. Con notas personales en los márgenes, mapas y pistas, este libro es una experiencia interactiva que va mucho más allá de simplemente leer.",
         quote: "Lee entre las líneas, y entre las palabras."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Flow Fields Playground",
+        url: "https://flowfields.org/",
+        description: "Esta web te permite jugar con campos de flujo y alucinar con patrones que parecen un cruce entre psicodelia y matemáticas puras. Perfecto si quieres crear fondos que parecen salir de un sueño fractal.",
+        quote: "La geometría no es aburrida cuando se mueve como en un rave."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Letícia Ramos - Exploraciones de Ciencia Ficción",
+        url: "https://www.instagram.com/letramos/",
+        description: "Letícia Ramos crea instalaciones y series fotográficas que parecen sacadas de futuros distantes, combinando ciencia ficción con técnicas analógicas. Su feed es un visado a otro mundo.",
+        quote: "Cuando la fotografía se encuentra con el espacio-tiempo."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Pixelsynth",
+        url: "https://keijiro.github.io/Pixelsynth/",
+        description: "En Pixelsynth, las imágenes cobran vida como sonidos. Sube una foto y escucha cómo se transforma en música, ofreciendo una experiencia sensorial completa.",
+        quote: "Una sinfonía visual en cada pixel."
+    },
+    {
+        category: "lectura que pica",
+        title: "Culture Digitally - Perspectivas de Innovación Cultural",
+        url: "https://culturedigitally.org/",
+        description: "Con ensayos de académicos y creativos, este sitio ofrece reflexiones sobre tecnología, cultura e innovación. Un rincón perfecto para perderse pensando en el futuro del diseño y más.",
+        quote: "Donde el culture shock es digital y nutritivo."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "The Wong Kar-Wai Look",
+        url: "https://www.youtube.com/watch?v=2YmXLdxKRmg",
+        description: "Un videoensayo que destripa la estética visual de Wong Kar-Wai. Si eres un obseso del color y la composición, esta pieza te guiará como una cátedra de cine.",
+        quote: "Entender a Wong es ver a través de un caleidoscopio emocional."
+    },
+    {
+        category: "música y sonido",
+        title: "Radiooooo - El Viaje Musical en el Tiempo",
+        url: "https://radiooooo.com/",
+        description: "Viaja musicalmente por décadas y países con Radiooooo. Elige un año y un lugar, y deja que el destino sonoro haga el resto. Perfecto para desarrollar una paleta musical diversa.",
+        quote: "Navegar en el tiempo suena mejor de lo que imaginas."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Ted's Little Dream",
+        url: "https://www.instagram.com/teds_little_dream/",
+        description: "Sigue a Ted en sus mini aventuras llenas de surrealismo y narrativas inesperadas. Cada publicación es como encontrar una pequeña joya visual y narrativa.",
+        quote: "El surrealismo nunca ha sido tan entrañable."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Internet Archive Wayback Machine",
+        url: "https://web.archive.org/",
+        description: "No es una web cualquiera; The Wayback Machine preserva la historia digital del mundo. Un recurso interminable para quienes buscan recordar o investigar el internet tal como era.",
+        quote: "Navegar el pasado nunca fue tan accesible."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Weirdness",
+        url: "https://www.aiweirdness.com/",
+        description: "Janelle Shane explora la IA de formas inesperadas, generando cosas tan divertidas como bizarras. Sus experimentos muestran que la inteligencia artificial aún puede sorprendernos y hacernos reír.",
+        quote: "Cuando las máquinas sueñan, lo hacen de manera extraña."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.rizzoliusa.com/book/9780847864699/",
+        description: "Un libro que parece sacado de otro mundo, escrito en un idioma inventado con ilustraciones que retan nuestra percepción. Si buscas el surrealismo en su máxima expresión, este tomo lo es.",
+        quote: "Un manual del universo imposible que cobra vida en cada página."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
