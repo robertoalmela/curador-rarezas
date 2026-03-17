@@ -7376,6 +7376,76 @@ async function fetchFromHackerNews() {
         url: "https://www.rizzoliusa.com/book/9780847864699/",
         description: "Un libro que parece sacado de otro mundo, escrito en un idioma inventado con ilustraciones que retan nuestra percepción. Si buscas el surrealismo en su máxima expresión, este tomo lo es.",
         quote: "Un manual del universo imposible que cobra vida en cada página."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Satin Stitch Studio",
+        url: "https://www.satinstitchstudio.com",
+        description: "Esta app te deja bordar digitalmente tus diseños, simulando texturas de hilo real. Tus bocetos cobran vida con cada puntada, sin necesidad de aguja.",
+        quote: "Digital needlework for the restless creative mind."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Dan Lam - Blob Art",
+        url: "https://www.instagram.com/sopopomo",
+        description: "Dan Lam crea esculturas de colores fluorescentes y texturas extrañas que parecen alienígenas derretidos. Tienen algo hipnótico que te hace querer tocarlos con los ojos.",
+        quote: "Extraterrestrial blobs invading your aesthetic senses!"
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Gleamscape",
+        url: "https://gleamscape.com",
+        description: "Explora un paisaje virtual que responde a tus movimientos y clics. Cada interacción genera un universo sonoro y visual único, un playground para los sentidos.",
+        quote: "A digital world where your clicks compose the cosmos."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Uninhabitable Earth",
+        url: "https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html",
+        description: "Este artículo te da una bofetada de realidad sobre el futuro que nos espera si no hacemos algo. Una lectura que te quita el sueño, pero en el buen sentido.",
+        quote: "A wake-up call ringing from the edge of tomorrow."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Channel Criswell - Visual Essays",
+        url: "https://www.youtube.com/user/criswell129",
+        description: "Vídeoensayos que desmenuzan la estética y narrativa visual de diferentes directores de cine. Cada video es un curso intensivo en amor por el séptimo arte.",
+        quote: "Peeling back the cinematic layers one essay at a time."
+    },
+    {
+        category: "música y sonido",
+        title: "Lullatone - Music for everyday adventures",
+        url: "https://www.lullatone.com",
+        description: "Dúo musical japonés que crea melodías minimalistas inspiradas en pequeños momentos de la vida diaria. Una banda sonora para tus pausas entre mundos.",
+        quote: "Soundtrack your coffee with whimsical charm."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Weird Dystopias - Instagram Art Showcase",
+        url: "https://www.instagram.com/weirddystopias",
+        description: "Exposición de artistas visuales que exploran mundos distópicos y futuristas. Cada post es una ventana a un universo que te hace rescatar la esperanza.",
+        quote: "When dystopias become eye candy."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Hopper in the Hood",
+        url: "https://hopperinthehood.com",
+        description: "Proyecto que reúne fotografías del renombrado Edward Hopper con escenas urbanas actuales. Un diálogo silencioso con el pasado que te invita al cambio.",
+        quote: "Hopper's ghosts whispering through modern streets."
+    },
+    {
+        category: "IA experimental",
+        title: "DeepArt.io",
+        url: "https://deepart.io",
+        description: "Convierte tus fotos en obras de arte inspiradas en estilos de famosos pintores. Tus selfies nunca pidieron ser Van Gogh hasta ahora.",
+        quote: "Transform selfies into masterpieces, one pixel at a time."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://seraphinianus.com",
+        description: "Un libro ilustrado que documenta mundos imaginarios con un alfabeto inventado. Es lo que obtendrías si Borges y Dalí escribieran un enciclopedia.",
+        quote: "The encyclopedia of dreamlike dimensions."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
