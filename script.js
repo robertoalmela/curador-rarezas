@@ -7446,6 +7446,76 @@ async function fetchFromHackerNews() {
         url: "https://seraphinianus.com",
         description: "Un libro ilustrado que documenta mundos imaginarios con un alfabeto inventado. Es lo que obtendrías si Borges y Dalí escribieran un enciclopedia.",
         quote: "The encyclopedia of dreamlike dimensions."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Blender's Fireside",
+        url: "https://blender.community/c/fireside",
+        description: "Un rincón del internet donde las mentes creativas se juntan para compartir sus proyectos de Blender. Desde renders astronómicos hasta locuras arquitectónicas, hay para todos los gustos.",
+        quote: "Es como si Pinterest y ArtStation tuvieran un hijo, y lo nombraran Blender."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Giulia Galimberti en Instagram",
+        url: "https://www.instagram.com/giuliagalimberti_/",
+        description: "Los colores y formas que Galimberti explora en sus obras digitales te atrapan como un caleidoscopio infinito. Su arte es una explosión visual que desafía lo cotidiano.",
+        quote: "Cada post es un festival de color y abstracción que no te puedes perder."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Pond",
+        url: "https://pond.im/",
+        description: "Imagina lanzar pensamientos al aire para ver cómo cambian con el tiempo. Este experimento web es un océano de ideas donde tus palabras adquieren vida propia.",
+        quote: "Escribir y ver cómo se alejan tus ideas... literalmente."
+    },
+    {
+        category: "lectura que pica",
+        title: "Substack: Rabbit Holes",
+        url: "https://rabbitholes.substack.com/",
+        description: "Ensayos que te llevan de la mano por los rincones oscuros del internet. Es una serie de cuentos modernos que escarban en el alma de lo digital.",
+        quote: "Cuando la curiosidad mató al gato, el gato estaba leyendo esto."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Accented Cinema",
+        url: "https://www.youtube.com/channel/UCGzbF6nNUEAnchY22jZynMw",
+        description: "Videoensayos sobre películas internacionales que te hacen replantearte cada escena. Más que una crítica, es un viaje a través del lente cultural.",
+        quote: "Cine con acento, pero sin subtítulos necesarios."
+    },
+    {
+        category: "música y sonido",
+        title: "Khotin",
+        url: "https://khotin.bandcamp.com/",
+        description: "Sonidos que parecen sacados de una cabina espacial vintage en una tarde lluviosa. Khotin es el tipo de música que transforma el ruido blanco en poesía musical.",
+        quote: "Música que es un soplo de aire fresco en un día nublado."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Ethereal Threads en Discord",
+        url: "https://discord.gg/etherealthreads",
+        description: "Un espacio donde los fantasmas de los textiles se encuentran con almas creativas. Aquí se habla de moda conceptual y textiles de lo etéreo.",
+        quote: "¿Moda y fantasmas? Sí, y hacen un desfile."
+    },
+    {
+        category: "proyecto con alma",
+        title: "StoryCorps Archive",
+        url: "https://archive.storycorps.org/",
+        description: "Personas comunes compartiendo el poder de sus historias extraordinarias. Una cápsula del tiempo que captura la voz humana y sus matices.",
+        quote: "Voces de quienes no sabías que necesitabas escuchar."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Dungeon",
+        url: "https://play.aidungeon.io/",
+        description: "Crea y aventúrate en relatos generados por inteligencia artificial. Cada historia es única y solo se detiene cuando tú decides pasar la página.",
+        quote: "Un libro de relatos que nunca termina de escribirse."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.rizzoliusa.com/book/9780847842131/",
+        description: "Un libro que no se puede leer pero se puede sentir. Una enciclopedia ilustrada de un mundo que te hará replantear qué es real.",
+        quote: "El libro de un mundo que aún no has visitado."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
