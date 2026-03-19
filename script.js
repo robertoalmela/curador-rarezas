@@ -7516,6 +7516,76 @@ async function fetchFromHackerNews() {
         url: "https://www.rizzoliusa.com/book/9780847842131/",
         description: "Un libro que no se puede leer pero se puede sentir. Una enciclopedia ilustrada de un mundo que te hará replantear qué es real.",
         quote: "El libro de un mundo que aún no has visitado."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Doodlr - Generador de Garabatos",
+        url: "https://doodlr.app",
+        description: "Esta app te permite crear garabatos colaborativos en tiempo real. Ideal para break creativos o brainstorming en equipo.",
+        quote: "Tu próximo Picasso podría empezar con un simple garabato."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Beeple - Arte Diablo de lo Digital",
+        url: "https://www.instagram.com/beeple_crap",
+        description: "Mike Winkelmann, alias Beeple, muestra con una creatividad desbordante cómo el arte digital puede explotar cabezas y pantallas.",
+        quote: "Deja que Beeple te lleve de viaje psicodélico... todos los días."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Fluid Simulation",
+        url: "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
+        description: "Juega con esta simulación de fluidos en WebGL que es totalmente adictiva y casi hipnótica. Serás maestro del caos líquido.",
+        quote: "Cuidado, mojarse los ojos con colores puede ser adictivo."
+    },
+    {
+        category: "lectura que pica",
+        title: "Future Shock Rescuers",
+        url: "https://www.futurecrunch.com/future-shock-rescuers/",
+        description: "Un ensayo brillante sobre cómo enfrentar el futuro sin perder la cabeza en el intento, explorando el choque cultural ante el cambio tecnológico.",
+        quote: "¿Estás preparado para el impacto del futuro?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "LIMINAL - Video Ensayo",
+        url: "https://www.youtube.com/watch?v=Dp1dfCc5N0A",
+        description: "Un videoensayo que explora los espacios liminales y cómo estos paisajes transitorios afectan nuestra percepción del tiempo y la memoria.",
+        quote: "Entre lo conocido y lo incierto, ahí yace la magia."
+    },
+    {
+        category: "música y sonido",
+        title: "Disco eos - Explorador Sonoro",
+        url: "https://naviarrecords.com/disco-eos/",
+        description: "Una plataforma dedicada a proyectos de música experimental y colaborativa, donde los límites del sonido se estiran como un chicle auditivo.",
+        quote: "Donde el silencio se transforma en sonido y viceversa."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Obscure Podcast Club",
+        url: "https://www.instagram.com/obscurepodcastclub",
+        description: "Una comunidad en Instagram que desentierra podcasts menos conocidos, ideales para aquellos que se aburren de lo mainstream.",
+        quote: "Podcasts que te quitarán el sueño (de la siesta)."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Memory Map",
+        url: "https://memorymap.io",
+        description: "Una web en la que la gente comparte lugares que han marcado su vida, creando un mapa interactivo emocional del mundo.",
+        quote: "Cada punto en el mapa es una historia que palpita."
+    },
+    {
+        category: "IA experimental",
+        title: "DeepDream Textures",
+        url: "https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html",
+        description: "Google DeepDream transforma fotos comunes en visiones alucinógenas. Experimenta cargando tus imágenes y ve cómo se convierten en sueños surrealistas.",
+        quote: "Las máquinas también sueñan... y es un viaje."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus - Enciclopedia Bizarra",
+        url: "https://www.amazon.com/Codex-Seraphinianus/dp/0847838737",
+        description: "Considerado uno de los libros más extraños jamás creados, es una enciclopedia ficticia de un mundo surrealista con ilustraciones indescriptibles.",
+        quote: "Entra al libro que desafía incluso la lógica del sueño."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
