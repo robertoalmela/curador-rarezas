@@ -7586,6 +7586,76 @@ async function fetchFromHackerNews() {
         url: "https://www.amazon.com/Codex-Seraphinianus/dp/0847838737",
         description: "Considerado uno de los libros más extraños jamás creados, es una enciclopedia ficticia de un mundo surrealista con ilustraciones indescriptibles.",
         quote: "Entra al libro que desafía incluso la lógica del sueño."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Artbreeder",
+        url: "https://www.artbreeder.com/",
+        description: "Imagínate mezclar rostros como si fueran ingredientes de una receta secreta. Artbreeder es una plataforma que te permite fusionar imágenes y crear retratos únicos con IA. Te pasarás horas experimentando.",
+        quote: "El Photoshop del futuro está aquí y se llama Artbreeder."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Simon Stålenhag",
+        url: "https://www.simonstalenhag.se/",
+        description: "Este artista sueco pinta lo que parece un segundo universo paralelo donde robots y criaturas extrañas coexisten con la vida rural. Cada imagen es una historia de ciencia ficción esperando ser escrita.",
+        quote: "Es un futuro que ya está oxidándose."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Sortie En Mer",
+        url: "https://sortieenmer.com/",
+        description: "Una experiencia inmersiva que te pone en las aguas del mar, y no de la forma romántica. Prepárate para sentir la presión del agua y la urgencia de sobrevivir. Ponte los auriculares para una experiencia total.",
+        quote: "Te hará reconsiderar tus próximas vacaciones en yate."
+    },
+    {
+        category: "lectura que pica",
+        title: "Palladium Magazine",
+        url: "https://palladiummag.com/",
+        description: "Ensayos profundos sobre política, tecnología y cultura global. No esperes las noticias de siempre; aquí encontrarás reflexiones que traspasan la superficie.",
+        quote: "Para los que saben que saber es poder, pero a veces también confusión."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Primitive Technology",
+        url: "https://www.youtube.com/user/PrimitiveTechnology",
+        description: "Un canal de YouTube donde un hombre construye herramientas antiguas desde cero. Sin música, sin comentarios, solo naturaleza y habilidad pura. Verlo es sorprendentemente relajante.",
+        quote: "Cuando un video del paleolítico supera a tu serie favorita."
+    },
+    {
+        category: "música y sonido",
+        title: "NTS Radio",
+        url: "https://www.nts.live/",
+        description: "Esta emisora de radio online en vivo presenta sonidos de todo el mundo, desde underground hasta rarezas experimentales. Descubre música que desafía etiquetas.",
+        quote: "El soundtrack del mundo subterráneo."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Cheap Old Houses",
+        url: "https://www.instagram.com/cheapoldhouses/",
+        description: "Un Instagram que muestra casas antiguas baratas que son joyas arquitectónicas escondidas. Un paseo visual que te hará soñar con mudarte a un lugar más simple.",
+        quote: "Porque todos necesitamos una mansión por el precio de un café."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Missing Maps Project",
+        url: "https://www.missingmaps.org/",
+        description: "Un proyecto para mapear áreas vulnerables en el mundo usando la colaboración de voluntarios. Actualizan datos que pueden salvar vidas en caso de desastres.",
+        quote: "Trazando líneas que podrían ser la diferencia entre la vida y la muerte."
+    },
+    {
+        category: "IA experimental",
+        title: "This Waifu Does Not Exist",
+        url: "https://www.thiswaifudoesnotexist.net/",
+        description: "Por si el meme de waifus necesitaba algo más, esta IA crea retratos de personajes anime que no existen en ningún otro lado. Es una mezcla de lo adorable y lo inquietante.",
+        quote: "Dale un vistazo a las waifus de un futuro post-apocalíptico digital."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://en.wikipedia.org/wiki/Codex_Seraphinianus",
+        description: "Esta enciclopedia ilustrada de mundos imaginarios es como si el Dr. Seuss y Miró se juntaran para escribir el manual de un universo paralelo. Completamente surrealista y un deleite visual.",
+        quote: "La enciclopedia de un planeta en una dimensión desconocida."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
