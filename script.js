@@ -7656,6 +7656,76 @@ async function fetchFromHackerNews() {
         url: "https://en.wikipedia.org/wiki/Codex_Seraphinianus",
         description: "Esta enciclopedia ilustrada de mundos imaginarios es como si el Dr. Seuss y Miró se juntaran para escribir el manual de un universo paralelo. Completamente surrealista y un deleite visual.",
         quote: "La enciclopedia de un planeta en una dimensión desconocida."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Colordot by Hailpixel",
+        url: "https://color.hailpixel.com/",
+        description: "Una herramienta minimalista que te permite crear paletas de colores simplemente moviendo el ratón. Perfecta para esos días que quieres simplificar la elección de colores sin complicarte demasiado.",
+        quote: "El arco iris en la punta de tu mouse."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Brendan Dawes' Data Art",
+        url: "https://brendandawes.com/",
+        description: "Artista que fusiona diseño, arte y tecnología para crear obras que parecen sacadas del futuro. Su uso del código como medio artístico redefine lo que creemos es el arte digital.",
+        quote: "Cuando el código se convierte en pincel."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Neal Agarwal's Deep Sea",
+        url: "https://neal.fun/deep-sea/",
+        description: "Sumérgete en el océano sin mojarte siguiendo una línea infinita que te muestra criaturas marinas cada vez más misteriosas. Perfecto para una pausa en el día.",
+        quote: "Exploración oceánica virtual. Sin escafandra."
+    },
+    {
+        category: "lectura que pica",
+        title: "Mesh: The End of Information Silos",
+        url: "https://www.forbes.com/sites/nicolemartin1/2022/06/29/mesh-the-end-of-information-silos-in-businesses/",
+        description: "Un artículo fascinante sobre cómo la revolución del 'mesh' está rompiendo los silos de información en los negocios, y cómo esto está transformando el mundo empresarial.",
+        quote: "El poder de la conexión en tiempos de desconexión."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Kogonada's Video Essays",
+        url: "https://vimeo.com/kogonada",
+        description: "Increíbles videoensayos sobre cine que te harán ver películas clásicas con ojos nuevos. Cada frame, un poema visual.",
+        quote: "El arte de narrar sin palabras."
+    },
+    {
+        category: "música y sonido",
+        title: "The Caretaker's Everywhere at the End of Time",
+        url: "https://thecaretaker.bandcamp.com/",
+        description: "Un proyecto sonoro que explora el deterioro de la memoria a través de música ambient. Te sentirás como si estuvieras atrapado en un sueño borroso.",
+        quote: "La nostalgia convertida en sonido."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Venkatesh Rao's Ribbonfarm",
+        url: "https://www.ribbonfarm.com/",
+        description: "Un blog de ensayos largos sobre temas como la economía informal y el futuro del trabajo. La comunidad de comentarios es igual de apasionada.",
+        quote: "Para los que aún aman perderse en un buen texto."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Endangered Languages Archive",
+        url: "https://elararchive.org/",
+        description: "Una inmensa biblioteca digital dedicada a preservar las lenguas en peligro de extinción del mundo. Un canto a la diversidad cultural.",
+        quote: "Cuando las palabras son tesoros."
+    },
+    {
+        category: "IA experimental",
+        title: "Playform.io: AI Art Board",
+        url: "https://www.playform.io/",
+        description: "Plataforma que permite a artistas experimentar con inteligencia artificial para crear obras únicas. Un lienzo digital para el nuevo renacimiento.",
+        quote: "La musa es una máquina."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Bibliotheca Universalis",
+        url: "https://www.taschen.com/pages/en/catalogue/bibliotheca_universalis/index.htm",
+        description: "Una colección de libros impresionantes que abarcan arte, arquitectura, diseño y cultura. Ideal para las estanterías de cualquier curioso.",
+        quote: "Enciclopedias de asombro encuadernado."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
