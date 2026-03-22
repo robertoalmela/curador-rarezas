@@ -7726,6 +7726,76 @@ async function fetchFromHackerNews() {
         url: "https://www.taschen.com/pages/en/catalogue/bibliotheca_universalis/index.htm",
         description: "Una colección de libros impresionantes que abarcan arte, arquitectura, diseño y cultura. Ideal para las estanterías de cualquier curioso.",
         quote: "Enciclopedias de asombro encuadernado."
+    },
+    {
+        category: "herramienta creativa",
+        title: "BlobMaker - Crea Blobs aleatorios",
+        url: "https://www.blobmaker.app/",
+        description: "Esos días en los que te atascas buscando formas orgánicas, esta app te genera blobs para que juegues con ellos, como plastilina digital.",
+        quote: "Porque la vida es mejor con un poco de caos geométrico."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol - Datos convertidos en sueños",
+        url: "https://refikanadol.com/",
+        description: "Refik Anadol transforma conjuntos de datos en experiencias visuales y sensoriales. Es arte hecho con números, y a veces sueñas con ellos.",
+        quote: "¿Quién dijo que los datos son aburridos?"
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Neon Flames - Juega a ser Dios del cielo",
+        url: "https://29a.ch/sandbox/2020/neonflames/",
+        description: "Dibuja nebulosas y galaxias enteras en tu navegador, un universo a lo Van Gogh mientras haces la digestión.",
+        quote: "Van Gogh meets cosmos, desde tu pantalla."
+    },
+    {
+        category: "lectura que pica",
+        title: "Future Architecture Platform - Repensando ciudades",
+        url: "http://futurearchitectureplatform.org/",
+        description: "Ensayos y discusiones profundas sobre la arquitectura del futuro. Ábrelo y descubre por qué tu cuidad aún vive en el paleolítico.",
+        quote: "Edificios que hablan el idioma del mañana."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "The Egg - Ideas cósmicas en 7 minutos",
+        url: "https://www.youtube.com/watch?v=h6fcK_fRYaI",
+        description: "Un corto animado que trata la vida, el universo y todo lo demás en menos tiempo de lo que tarda tu café en enfriarse.",
+        quote: "La vida, el universo y un huevo."
+    },
+    {
+        category: "música y sonido",
+        title: "Yosi Horikawa - Música para viajeros espaciales",
+        url: "https://yosihorikawa.com/",
+        description: "Este productor japonés crea sonidos que te hacen sentir como si estuvieras en un videojuego con auriculares de alta definición.",
+        quote: "Escuchar es viajar, sin despegar los pies del suelo."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Weird Art Club - Círculo de creativos",
+        url: "https://www.instagram.com/weirdartclub/",
+        description: "Una comunidad de artistas que comparten y celebran la creación más rara y audaz. Perfecto para desconectar del mainstream.",
+        quote: "Porque lo raro es el nuevo cool."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Memory Maps - Reinscribiendo la historia",
+        url: "https://memorymaps.net/",
+        description: "Un proyecto que mapea lugares con historias personales. ¿Quién necesita Google Maps cuando tienes mapas del corazón?",
+        quote: "Cartografía empática para el alma curiosa."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Dungeon - Aventuras sin fin",
+        url: "https://play.aidungeon.io/",
+        description: "Una IA que genera juegos de rol basados en texto, donde el único límite es tu imaginación. Prepárate para perderte en mundos inventados.",
+        quote: "Elige tu propia aventura, versión 3.0."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus - Enciclopedia de lo imposible",
+        url: "https://www.luigi-serafini-lab.com/codex",
+        description: "Este libro es tan enigmático que lo leerás como quien observa arte abstracto. Se dice que es la mejor guía a un mundo que no existe.",
+        quote: "Un libro que despierta más preguntas que secretos."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
