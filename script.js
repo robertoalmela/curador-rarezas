@@ -7796,6 +7796,76 @@ async function fetchFromHackerNews() {
         url: "https://www.luigi-serafini-lab.com/codex",
         description: "Este libro es tan enigmático que lo leerás como quien observa arte abstracto. Se dice que es la mejor guía a un mundo que no existe.",
         quote: "Un libro que despierta más preguntas que secretos."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Generative Artistry",
+        url: "https://generativeartistry.com/",
+        description: "Talleres interactivos que te enseñan a crear arte generativo desde cero. Sumérgete y deja que el azar tome el control.",
+        quote: "Arte que no controlas, pero que te entiende."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol - Tech Dreams",
+        url: "https://refikanadol.com/",
+        description: "Este artista se especializa en transformar grandes cantidades de datos en experiencias visuales inmersivas, como si M.C. Escher se hubiera encontrado con Big Data.",
+        quote: "Cuando los datos se convierten en sueños lúcidos."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "The Tone Matrix",
+        url: "https://tonematrix.audiotool.com/",
+        description: "Un sencillo secuenciador web que te convierte en DJ por un día. Cada clic agrega un tono a una sinfonía hipnótica.",
+        quote: "La simplicidad hecha sinfonía."
+    },
+    {
+        category: "lectura que pica",
+        title: "The New Aesthetic",
+        url: "https://new-aesthetic.tumblr.com/",
+        description: "Un archivo visual de cómo lo digital infiltra la vida cotidiana. Desde drones hasta glitches, este espacio explora la estética digital emergente.",
+        quote: "Cuando la realidad comienza a pixelarse."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "ContraPoints - Visual Essays",
+        url: "https://www.youtube.com/user/ContraPoints",
+        description: "Natalie Wynn ofrece videoensayos estéticamente hermosos y filosóficamente profundos sobre temas contemporáneos que te dejarán con preguntas.",
+        quote: "Un cóctel visual de filosofía moderna."
+    },
+    {
+        category: "música y sonido",
+        title: "Boiler Room - Isolation Booth",
+        url: "https://boilerroom.tv/tag/isolation-booth",
+        description: "En la serie Isolation Booth, artistas de música electrónica desvelan sets íntimos desde sus espacios personales. Un viaje sonoro sin necesidad de salir de casa.",
+        quote: "La fiesta privada que siempre quisiste."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Design Twitter Gems",
+        url: "https://twitter.com/DesignGemsIO",
+        description: "Una cuenta de Twitter que desentierra herramientas, técnicas y tutoriales de diseño poco conocidos. Ideal para quien busca tesoros escondidos.",
+        quote: "El cofre del tesoro de los creativos."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Creative Independent",
+        url: "https://thecreativeindependent.com/",
+        description: "Un archivo de sabiduría creativa que abarca entrevistas, ensayos y guías de artistas que comparten sus experiencias e inspiraciones.",
+        quote: "La brújula para navegantes creativos."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Dungeon",
+        url: "https://play.aidungeon.io/",
+        description: "Una aventura textual infinita generada por inteligencia artificial. Aquí, tus decisiones llevan la narrativa a lugares impensables.",
+        quote: "Elige tu aventura, y déjala correr libre."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://en.wikipedia.org/wiki/Codex_Seraphinianus",
+        description: "Considerado el libro más extraño jamás publicado, este compendio surrealista es un enigma ilustrado al estilo de un manuscrito medieval.",
+        quote: "El libro que Dali y Da Vinci nunca escribieron juntos."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
