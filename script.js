@@ -7866,6 +7866,76 @@ async function fetchFromHackerNews() {
         url: "https://en.wikipedia.org/wiki/Codex_Seraphinianus",
         description: "Considerado el libro más extraño jamás publicado, este compendio surrealista es un enigma ilustrado al estilo de un manuscrito medieval.",
         quote: "El libro que Dali y Da Vinci nunca escribieron juntos."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Vectornator",
+        url: "https://www.vectornator.io/",
+        description: "Si alguna vez has querido experimentar con diseño vectorial sin limitarte, esta app es lo tuyo. Un editor potente y gratis que corre tanto en iPads como en Mac. Te vas a sentir un profesional.",
+        quote: "Dibuja un futuro vectorizado, gratis y sin remordimientos."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Joshua Davis Studios",
+        url: "https://joshuadavis.com/",
+        description: "Joshua Davis crea arte generativo que te va a volar la cabeza. Su obra mezcla programación, audacia y un estilo que parece sacado de un sueño digital.",
+        quote: "Arte que no programaste soñar, pero aquí está."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Touch Pianist",
+        url: "https://touchpianist.com/",
+        description: "Transforma tus clicks en una performance musical. Cada toque es una nota, y tú diriges la orquesta. Momentos de Mozart en tu navegador.",
+        quote: "Conviértete en pianista sin saber tocar ni un acorde."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Pudding",
+        url: "https://pudding.cool/",
+        description: "The Pudding convierte datos en historias visuales. Cada artículo es un viaje a través de gráficos que te cuentan el porqué de los pequeños misterios de la vida moderna.",
+        quote: "Historias que saben tanto como una buena taza de café."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "The Nerdwriter",
+        url: "https://www.youtube.com/user/Nerdwriter1",
+        description: "Cada video de The Nerdwriter te sumerge en un análisis profundo de cultura pop y arte. Es como si un crítico de cine te hablara directamente al oído.",
+        quote: "Ver más allá de la pantalla con cada análisis."
+    },
+    {
+        category: "música y sonido",
+        title: "Nils Frahm's Spaces",
+        url: "https://www.erasedtapes.com/release/eratp055-nils-frahm-spaces",
+        description: "Explora las texturas sonoras de Nils Frahm en su álbum 'Spaces'. Un viaje musical donde cada nota es como un espacio seguro para el oido.",
+        quote: "Un espacio sonoro que se siente como hogar."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Unearthed Notes",
+        url: "https://unearthednotes.substack.com/",
+        description: "Esta newsletter es como una excavación arqueológica semanal. Descubre áreas impensadas del conocimiento, desde canciones escondidas hasta teorías interesantes.",
+        quote: "Descubre tesoros ocultos sin mover un grano de arena."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Refugee Project",
+        url: "http://www.therefugeeproject.org/",
+        description: "Este mapa interactivo revela la historia de los movimientos de refugiados desde 1975 hasta ahora. Te atrapará con datos, historias reales y un diseño envolvente.",
+        quote: "Mapa que narra historias de búsqueda y esperanza."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Dungeon",
+        url: "https://play.aidungeon.io/",
+        description: "Crea y vive tus propias aventuras con AI Dungeon. Una IA genera cuentos fantásticos donde tú decides el rumbo de la historia.",
+        quote: "Tu aventura, sus límites no existen."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.rizzoliusa.com/book/9780847842131/",
+        description: "Este libro es un artefacto visual de otro siglo, como un zoológico de plantas e inventos por descubrir. Es lo que pasaría si Alicia explorara un país de las maravillas sin lógica.",
+        quote: "Un portal a un universo paralelo en forma de libro."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
