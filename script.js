@@ -7936,6 +7936,69 @@ async function fetchFromHackerNews() {
         url: "https://www.rizzoliusa.com/book/9780847842131/",
         description: "Este libro es un artefacto visual de otro siglo, como un zoológico de plantas e inventos por descubrir. Es lo que pasaría si Alicia explorara un país de las maravillas sin lógica.",
         quote: "Un portal a un universo paralelo en forma de libro."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Colormind",
+        url: "http://colormind.io/",
+        description: "Una IA que genera paletas de colores inspiradas en películas, naturaleza, y todo lo visual bajo el cielo. Perfecta para esos momentos en los que tu cerebro es un pantone en blanco.",
+        quote: "La IA que le ganó a Pantone con estilo de cine."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Beeple",
+        url: "https://www.instagram.com/beeple_crap/",
+        description: "Mike Winkelmann, alias Beeple, crea obsesivamente una imagen digital cada día. Sus piezas de ciencia ficción distópica son como un viaje de ácido en el mundo de los NFT.",
+        quote: "Notas de ciencia ficción para un desayuno visual."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Neonflames",
+        url: "https://weavesilk.com/",
+        description: "Un lugar donde tus aburridas líneas se transforman en coloridos fuegos artificiales. El lienzo digital para cualquiera que quiera sentirse un artista pirotécnico en la oficina.",
+        quote: "Juega a ser el Da Vinci de las auroras boreales."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Pudding",
+        url: "https://pudding.cool/",
+        description: "Artículos que desmenuzan datos en narrativas visuales. Desde pizza a política, estos ensayos son para quienes prefieren pensar con los ojos.",
+        quote: "Porque los graficomaníacos también necesitan literatura."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Nerdwriter1",
+        url: "https://www.youtube.com/user/Nerdwriter1",
+        description: "Ensayos visuales que te hacen cuestionar todo, desde el arte del cine hasta la sopa de letras de la política. Un paseo por el cerebro de un nerd creativo.",
+        quote: "Los videoclips que siempre quisiste leer."
+    },
+    {
+        category: "música y sonido",
+        title: "NTS Radio",
+        url: "https://www.nts.live/",
+        description: "Estación de radio online donde cada show es una joya oculta curada por DJs que saben lo que hacen. Desde jazz bajo tierra hasta ritmos efervescentes.",
+        quote: "Para aquellos que buscan la banda sonora de un universo paralelo."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Daily Overview",
+        url: "https://www.dailyoverview.com/",
+        description: "Imágenes satelitales diarias del planeta que te hacen ver el mundo de manera diferente. Transforman lo mundano en maravillosos laberintos visuales.",
+        quote: "Así se ve la fascinación desde arriba."
+    },
+    {
+        category: "IA experimental",
+        title: "This Person Does Not Exist",
+        url: "https://thispersondoesnotexist.com/",
+        description: "Retratos hiperrealistas creados por IA en cada refresco de la página. Personas que no conocen crisis existenciales porque simplemente... no existen.",
+        quote: "La realidad virtual ahora tiene cara."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "S, el libro enigma",
+        url: "https://en.wikipedia.org/wiki/S._(Dorst_novel)",
+        description: "Escrito por J.J. Abrams y Doug Dorst. Una novela dentro de un libro misterioso lleno de notas, recortes y pistas. Un rompecabezas literario en un packaging digno de película.",
+        quote: "El único libro que traiciona el 'solo lectura'."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
