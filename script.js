@@ -7999,6 +7999,76 @@ async function fetchFromHackerNews() {
         url: "https://en.wikipedia.org/wiki/S._(Dorst_novel)",
         description: "Escrito por J.J. Abrams y Doug Dorst. Una novela dentro de un libro misterioso lleno de notas, recortes y pistas. Un rompecabezas literario en un packaging digno de película.",
         quote: "El único libro que traiciona el 'solo lectura'."
+    },
+    {
+        category: "herramienta creativa",
+        title: "MagicaVoxel",
+        url: "https://ephtracy.github.io/",
+        description: "¿Te imaginas crear mundos en 3D con voxels y que sean tan coloridos como un caleidoscopio? MagicaVoxel es un editor gratuito que te permite hacer justo eso, y lo mejor es que es amigable y poderoso al mismo tiempo.",
+        quote: "Como Lego, pero con píxeles. Y sin pisotazos dolorosos."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Chloe Wise",
+        url: "https://www.instagram.com/chloewise_/",
+        description: "Chloe Wise desafía las nociones de consumismo y moda con su sátira visual. Sus pinturas que imitan comida de manera absurdamente realista te harán cuestionar el lujo cotidiano.",
+        quote: "Convierto baguettes en obras de arte, ¿y tú qué has hecho hoy?"
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Silk – Interactive Generative Art",
+        url: "http://weavesilk.com/",
+        description: "Dibuja líneas hipnóticas de colores etéreos que se multiplican simétricamente por la pantalla. Silk convierte tu ratón en una varita mágica de telarañas digitales.",
+        quote: "Como ver bailar seda al viento, pero más digital."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Future of Work",
+        url: "https://www.weforum.org/agenda/2022/05/future-of-work-2023/",
+        description: "Un informe del World Economic Forum que explora las tendencias laborales emergentes. Prepárate para un futuro lleno de robots compañeros de trabajo y habilidades que suenan a ciencia ficción.",
+        quote: "¿Cuánto falta para que mi jefe sea un robot?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Briefcase Joe: Eminem's Secret Freestyle",
+        url: "https://www.youtube.com/watch?v=DPfbC4Oj7mU",
+        description: "Descubre a Eminem en su faceta más hilarante con James Corden en un sketch que mezcla lo inesperado y lo absurdamente divertido. Es Eminem, pero como nunca lo has visto.",
+        quote: "Mi nombre es Joe y esto es un freestyle, ninga-nunga-nadie me aguanta el flow."
+    },
+    {
+        category: "música y sonido",
+        title: "Nardwuar: The Human Serviette",
+        url: "https://www.nardwuar.com/",
+        description: "Con sus entrevistas musicales que son auténticos espectáculos de investigación, Nardwuar te hace sonreír y asombrarte con cada pregunta que formula. Imprescindible para cualquier fan de la música.",
+        quote: "La Wikipedia andante de las entrevistas musicales."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Weird Second-Hand Finds",
+        url: "https://www.facebook.com/groups/weirdsecondhandfinds",
+        description: "Una comunidad de Facebook donde la gente comparte sus hallazgos de segunda mano más extraños y maravillosos. Desde artefactos retro hasta lo inexplicable, cada post es una aventura.",
+        quote: "El tesoro de un hombre es la rareza de otro."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Map of Real Places",
+        url: "https://www.mapoftherealworld.com/",
+        description: "Un mapa colaborativo que recalca lugares que no encontrarás en guías turísticas. Cada punto es una historia personal, un rincón del mundo que tiene un valor único para alguien.",
+        quote: "La geografía del corazón humano."
+    },
+    {
+        category: "IA experimental",
+        title: "Botnik Studios",
+        url: "https://botnik.org/",
+        description: "Utilizando modelos predictivos y un toque de humor, Botnik crea guiones, canciones y más contenido que oscila entre lo absurdo y lo brillantemente ingenioso. Es la IA con sentido del humor.",
+        quote: "Cuando las máquinas hacen comedia, el mundo se ríe."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "The Voynich Manuscript",
+        url: "https://beinecke.library.yale.edu/collections/highlights/voynich-manuscript",
+        description: "Este manuscrito medieval es un enigma sin descifrar, lleno de ilustraciones botánicas de plantas que no existen. Es como si Da Vinci hubiera reinventado la botánica alienígena.",
+        quote: "El libro que ni el más experto en idiomas puede leer."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
