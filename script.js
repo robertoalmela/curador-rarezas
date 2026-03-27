@@ -8069,6 +8069,76 @@ async function fetchFromHackerNews() {
         url: "https://beinecke.library.yale.edu/collections/highlights/voynich-manuscript",
         description: "Este manuscrito medieval es un enigma sin descifrar, lleno de ilustraciones botánicas de plantas que no existen. Es como si Da Vinci hubiera reinventado la botánica alienígena.",
         quote: "El libro que ni el más experto en idiomas puede leer."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Patatap",
+        url: "https://www.patatap.com/",
+        description: "Patatap es una herramienta donde cada tecla es un sonido y una animación diferente. Pruébalo, y verás cómo un teclado se transforma en un instrumento audiovisual hipnótico.",
+        quote: "Cuando tu teclado se convierte en una rave portátil."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "LaTurbo Avedon",
+        url: "https://www.instagram.com/laturboavedon/",
+        description: "LaTurbo Avedon es un artista digital que solo existe en línea, desdibujando las fronteras entre el avatar y el creador. Su arte es una exploración fascinante del mundo virtual.",
+        quote: "El arte de existir, pero no realmente."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Silk - Interactive Generative Art",
+        url: "http://weavesilk.com/",
+        description: "Silk te permite crear arte generativo basado en simetrías y colores brillantes. Es casi terapéutico ver cómo tus movimientos crean algo tan delicado y vibrante.",
+        quote: "Medita mientras creas un universo de hilos de luz."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Last Bookstore - Newsletter",
+        url: "https://www.lastbookstorela.com/newsletter/",
+        description: "La newsletter de The Last Bookstore en Los Ángeles ofrece artículos y ensayos sobre el papel de los libros y el futuro de las librerías en la era digital. Una lectura que te hará cuestionar el futuro del papel.",
+        quote: "Porque los libros no solo son para leer, sino para imaginar su futuro."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "In Praise of Shadows",
+        url: "https://www.youtube.com/channel/UCmQisrVAY9vMxUgNRbS-SZw",
+        description: "En este canal de YouTube, encontrarás análisis profundos de cine oscuro, estéticas melancólicas y narrativas literarias. Perfecto para una tarde de reflexión visual.",
+        quote: "Explora la belleza donde la luz se encuentra con la oscuridad."
+    },
+    {
+        category: "música y sonido",
+        title: "Accidental Tech Podcast - Music Episode",
+        url: "https://atp.fm/episodes",
+        description: "En ocasiones, estos tecnólogos se desvían hacia la música, recomendando piezas raras que te harán reconsiderar lo que creías saber sobre el sonido.",
+        quote: "Descubre una banda sonora para el futuro de la tecnología."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Obscure Sorrows",
+        url: "https://www.instagram.com/obscuresorrows/",
+        description: "Esta cuenta de Instagram imagina palabras para las emociones que todos sentimos pero no podemos describir. Es el diccionario de nuestras almas perdidas.",
+        quote: "Palabras para esos sentimientos que apenas puedes nombrar."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Map of Online Communities",
+        url: "https://anvaka.github.io/map-of-reddit/",
+        description: "Este mapa interactivo te muestra cómo subreddits se conectan como galaxias en el universo del internet. ¡Ideal para perderse y descubrir nuevos intereses!",
+        quote: "Naviga por las constelaciones de la comunidad digital."
+    },
+    {
+        category: "IA experimental",
+        title: "Deep Dream Generator",
+        url: "https://deepdreamgenerator.com/",
+        description: "Con Deep Dream Generator, puedes transformar tus imágenes en extraños y alucinantes paisajes de sueños, cortesía de la IA de Google.",
+        quote: "Convierte la realidad en un sueño psicodélico."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Moleskine Smart Writing Set",
+        url: "https://www.moleskine.com/en-us/smart-writing-set-ellipsis_p1089523",
+        description: "Este set de Moleskine transforma las notas en papel en archivos digitales listos para compartir. Como si tu bloc de notas y tu nube se terminaran de conocer.",
+        quote: "El futuro del papel está en tus manos."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
