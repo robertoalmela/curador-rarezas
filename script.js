@@ -8139,6 +8139,76 @@ async function fetchFromHackerNews() {
         url: "https://www.moleskine.com/en-us/smart-writing-set-ellipsis_p1089523",
         description: "Este set de Moleskine transforma las notas en papel en archivos digitales listos para compartir. Como si tu bloc de notas y tu nube se terminaran de conocer.",
         quote: "El futuro del papel está en tus manos."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Spline - Crea en 3D sin drama",
+        url: "https://spline.design/",
+        description: "¿Listo para reavivar tu amor por el 3D? Spline es la herramienta donde cualquiera puede diseñar y colaborar en modelos 3D directamente desde el navegador. Sin descargas incómodas, todo es intuitivo y co-op.",
+        quote: "Diseñar en 3D ya no es un dolor de cabeza, es un café de sobremesa."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Noah Kalina - Fotografía diaria",
+        url: "https://instagram.com/noahkalina",
+        description: "Noah Kalina, el tipo detrás del famoso 'Everyday', sigue capturando momentos que te hacen sentir como si el tiempo se detuviera. Su Instagram es un museo de quietud y belleza cotidiana.",
+        quote: "El arte de congelar el tiempo, un día a la vez."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Neon Flames",
+        url: "https://weavesilk.com/",
+        description: "Descubre el placer de 'pintar' con sedas de colores mientras dejas que tu lado zen trace intrincadas y vibrantes formas. Una pequeña terapia en forma de arte digital.",
+        quote: "El arte de dejar que las sedas hablen."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Creative Independent",
+        url: "https://thecreativeindependent.com/",
+        description: "Un compendio de entrevistas y ensayos sobre el viaje de ser creativo en un mundo que a menudo se siente como si estuviera en tu contra. Reflexiones que dan que pensar.",
+        quote: "Una brújula para creativos perdidos en altamar."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Nerdwriter1 - Desenredando el cine",
+        url: "https://www.youtube.com/user/Nerdwriter1",
+        description: "Estos videoensayos no son sólo lecciones de cine; son una oda a la belleza de cómo las pequeñas cosas cuentan grandes historias. Prepárate para ver películas con nuevos ojos.",
+        quote: "El arte de ver lo ordinario extraordinariamente."
+    },
+    {
+        category: "música y sonido",
+        title: "Bandcamp Daily - Joyas ocultas del audio",
+        url: "https://daily.bandcamp.com/",
+        description: "Explora sonidos que tus oídos desconocían, con recomendaciones de música indie, experimental y underground. Un oasis para audiófilos intrépidos.",
+        quote: "Cuando las ondas sonoras son un mundo por descubrir."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Savee.it - Moodboards para tu inspiración",
+        url: "https://savee.it/",
+        description: "Una comunidad visual donde los diseñadores se enamoran y comparten imágenes en colecciones. Piérdete en un mar de estética cuidadosamente curada.",
+        quote: "Donde el ojo nunca se cansa de ver."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Native Land Digital - Mapa de territorios indígenas",
+        url: "https://native-land.ca/",
+        description: "Un mapa interactivo que te invita a ver el mundo a través de los territorios indígenas que habitaban (y habitan) nuestro planeta. Un recordatorio de la historia que sostiene nuestro suelo.",
+        quote: "Porque la tierra cuenta historias mucho antes de nosotros."
+    },
+    {
+        category: "IA experimental",
+        title: "DALL-E 2 - Imágenes generativas",
+        url: "https://openai.com/dall-e-2/",
+        description: "DALL-E es la IA que toma tus palabras y las convierte en imágenes que nunca pensaste posibles. Un juego de imaginación llevado al lienzo digital.",
+        quote: "Cuando darle a la lengua tiene nuevos resultados visuales."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "The Clarion Call - Libros de arte en miniatura",
+        url: "https://www.theclarioncall.co/",
+        description: "Ediciones limitadas de libros de arte que caben en la palma de tu mano. Perfectos para coleccionistas con una inclinación por lo extraordinario.",
+        quote: "Las grandes ideas caben en las publicaciones más pequeñas."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
