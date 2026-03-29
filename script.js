@@ -8209,6 +8209,76 @@ async function fetchFromHackerNews() {
         url: "https://www.theclarioncall.co/",
         description: "Ediciones limitadas de libros de arte que caben en la palma de tu mano. Perfectos para coleccionistas con una inclinación por lo extraordinario.",
         quote: "Las grandes ideas caben en las publicaciones más pequeñas."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Doodlr",
+        url: "https://doodlr.fun",
+        description: "Un editor de ilustraciones colaborativo donde ves cómo los bocetos de otros cobran vida junto a los tuyos. Es como dibujar en una pared con gente de todo el mundo.",
+        quote: "¡Dibuja, comparte, diviértete!"
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Loop Dreams by Anna Lucia",
+        url: "https://www.instagram.com/annalucia.art",
+        description: "Anna Lucia te hipnotiza con sus loops animados infinitos, cada frame parece un susurro de colores que nunca deja de bailar.",
+        quote: "Cuando el loop se convierte en una danza visual."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Generative Gears",
+        url: "https://generativegears.com",
+        description: "Un experimento WebGPU donde estructuras mecánicas simuladas cambian según los movimientos de tu ratón. Adictivo y un poco hipnótico.",
+        quote: "Mueve un poco el ratón y construye el universo mecánico."
+    },
+    {
+        category: "lectura que pica",
+        title: "Post-Humanism Manifesto",
+        url: "https://posthumanmanifesto.com",
+        description: "Un ensayo contundente sobre cómo la tecnología está rediseñando nuestra humanidad. Prepárate para cuestionar dónde termina el ser humano y empieza la máquina.",
+        quote: "¿Qué nos hace humanos cuando las máquinas sienten?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Visual Poetry by Futuro Estudio",
+        url: "https://www.youtube.com/channel/UCFuturoEstudio",
+        description: "Un canal de cortos visuales que mezcla poesía con imágenes oníricas. Cada video es una pequeña cápsula de sueños en streaming.",
+        quote: "Visiones que susurran versos."
+    },
+    {
+        category: "música y sonido",
+        title: "Sonic Finders",
+        url: "https://www.instagram.com/sonicfinders",
+        description: "Una cuenta que descubre música electrónica experimental con sonidos que parecen sacados de otro planeta. Oídos abiertos.",
+        quote: "El sonido de lo no descubierto."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Fragmented Futures",
+        url: "https://substack.com/fragmented-futures",
+        description: "Un Substack que te lleva por los caminos menos transitados de la cultura digital. Fragmentos de lo que podría ser el futuro.",
+        quote: "Colectando destellos del mañana."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Memories in Pixels",
+        url: "https://memoriesinpixels.org",
+        description: "Este archive digital preserva fotografías de momentos olvidados y les da vida nueva, te hace reflexionar sobre el poder del pasado en el presente.",
+        quote: "Donde los recuerdos encuentran un nuevo hogar."
+    },
+    {
+        category: "IA experimental",
+        title: "AImpressions",
+        url: "https://aimpressions.art",
+        description: "Un proyecto que utiliza IA para recrear obras maestras del arte a partir de descripciones textuales. Lo clásico renace digitalmente.",
+        quote: "Cuando las palabras pintan."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.rizzoliusa.com/book/codex-seraphinianus/",
+        description: "Una enciclopedia visual y surrealista del mundo imaginario, sin sentido lógico pero con un diseño que impresiona. Una obra maestra para perderse.",
+        quote: "El libro que te hará dudar de tu propia realidad."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
