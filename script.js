@@ -8279,6 +8279,76 @@ async function fetchFromHackerNews() {
         url: "https://www.rizzoliusa.com/book/codex-seraphinianus/",
         description: "Una enciclopedia visual y surrealista del mundo imaginario, sin sentido lógico pero con un diseño que impresiona. Una obra maestra para perderse.",
         quote: "El libro que te hará dudar de tu propia realidad."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Colormind",
+        url: "http://colormind.io/",
+        description: "¡No más horas perdidas eligiendo paletas de colores! Colormind usa inteligencia artificial para sugerir combinaciones de colores que antes solo existían en tus sueños más salvajes.",
+        quote: "Colores que maridan mejor que queso y vino."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Natalia Stuyk",
+        url: "https://www.instagram.com/nataliastuyk/",
+        description: "Una artista que convierte la alucinación en realidad digital. Animaciones hipnóticas, ilusiones ópticas y paletas vibrantes que te dejarán boquiabierto.",
+        quote: "Entra, pero cuidado — podrías no volver a salir."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Neal.fun - Draw Logos from Memory",
+        url: "https://neal.fun/draw-logos-from-memory/",
+        description: "¿Cuánta confianza tienes en tu memoria visual? Prueba este experimento y averigua lo diferentes que son las marcas en tu cabeza versus la realidad.",
+        quote: "Tu cerebro te juega malas pasadas... pero al menos te ríes."
+    },
+    {
+        category: "lectura que pica",
+        title: "Future Shock - AI's Cultural Whiplash",
+        url: "https://www.notion.so/Future-Shock-AI-s-Cultural-Whiplash-0bf6d95b01c0493f8219149fcb8dd5c1",
+        description: "Una reflexión sobre cómo la aceleración tecnológica está reformulando la cultura antes de que podamos decir 'futuro'. Lectura obligada si no quieres perder el tren.",
+        quote: "Blink y te lo pierdes... culturalmente hablando."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "In Praise of Shadows",
+        url: "https://www.youtube.com/watch?v=IRGG4sK3nPM",
+        description: "Un videoensayo sobre la sombra en el cine: esa heroína olvidada que define la luz. Te cambiará la forma de ver una película.",
+        quote: "Donde hay sombra, hay historia."
+    },
+    {
+        category: "música y sonido",
+        title: "Boomkat's Unexplored Grooves",
+        url: "https://boomkat.com/",
+        description: "Un portal para descubrir sonidos que desafían cualquier etiqueta. De ritmos alienígenas a melodías nostálgicas, música para los valientes.",
+        quote: "Para los exploradores sonoros con oídos sin mapa."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "The Weird Sounds Club",
+        url: "https://discord.gg/WeirdSoundsClub",
+        description: "Una comunidad de Discord para quienes tienen un amor poco convencional por los sonidos raros. Intercambian grabaciones que van desde lo evocador a lo inquietante.",
+        quote: "Donde lo raro enriquece los sentidos."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Hiroshima Archive",
+        url: "http://hiroshima.mapping.jp/",
+        description: "Un mapa interactivo que preserva memoria, reuniendo historias personales de los sobrevivientes de Hiroshima. Profundamente conmovedor y educativo.",
+        quote: "Voces del pasado que resuenan en el presente."
+    },
+    {
+        category: "IA experimental",
+        title: "DeepDream Generator",
+        url: "https://deepdreamgenerator.com/",
+        description: "Convierte tus fotos en alucinantes obras de arte con ayuda de redes neuronales. Es como ver tus recuerdos a través de los ojos de un robot que soñó con Dalí.",
+        quote: "Sueños en código binario."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.amazon.com/dp/0847842134",
+        description: "Un libro visual en un lenguaje que no existe. Es un viaje psicodélico que desafía la lógica y deleita la imaginación.",
+        quote: "Para mentes que disfrutan perderse en lo inefable."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
