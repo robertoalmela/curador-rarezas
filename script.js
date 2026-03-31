@@ -8349,6 +8349,76 @@ async function fetchFromHackerNews() {
         url: "https://www.amazon.com/dp/0847842134",
         description: "Un libro visual en un lenguaje que no existe. Es un viaje psicodélico que desafía la lógica y deleita la imaginación.",
         quote: "Para mentes que disfrutan perderse en lo inefable."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Scribble Diffusion",
+        url: "https://scribblediffusion.com/",
+        description: "Imagina un lienzo donde tus garabatos cobran vida y se transforman en ilustraciones impresionantes. Simplemente dibuja tu idea, y deja que la IA se encargue del resto.",
+        quote: "Convierte tus garabatos en magia visual."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol - Data Sculptor",
+        url: "https://refikanadol.com/",
+        description: "Explora las obras de Refik Anadol, un visionario que convierte datos en esculturas digitales alucinantes. Sus instalaciones te harán ver el mundo digital con nuevos ojos.",
+        quote: "Cuando los datos se vuelven arte."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "The Endless Acid Banger",
+        url: "https://acidbanger.com/",
+        description: "¿Te gusta la música electrónica? Este juguete web genera acid house infinitamente. Cada beat es único y no puedes evitar mover la cabeza al ritmo.",
+        quote: "El rave que nunca termina en tu navegador."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Last Time the Internet Was Fun",
+        url: "https://onezero.medium.com/the-last-time-the-internet-was-fun-2b08dce5f76f",
+        description: "Un artículo nostálgico que te hará replantearte el estado actual de la web y desear haber vivido esa era de bulliciosos blogs y foros.",
+        quote: "Recordando la internet como un parque de atracciones."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "The Conet Project",
+        url: "https://www.youtube.com/watch?v=D6g58XnhBQo",
+        description: "Un documental sobre las misteriosas estaciones de números, emisoras de radio que, desde la Guerra Fría, parecen susurrar secretos al viento.",
+        quote: "Susurros que cruzan la noche solitaria."
+    },
+    {
+        category: "música y sonido",
+        title: "NTS Radio",
+        url: "https://www.nts.live/",
+        description: "Una plataforma de radio en línea con una programación variada y siempre intrigante. Desde rarezas sonoras hasta géneros que nunca supiste que existían.",
+        quote: "La banda sonora de lo inesperado."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Weird Walk",
+        url: "https://www.instagram.com/weird_walk/",
+        description: "Una comunidad de Instagram que combina el folklore británico y la cultura psicodélica. Únete a sus paseos virtuales con un toque de misterio antiguo.",
+        quote: "Senderismo folk con un toque místico."
+    },
+    {
+        category: "proyecto con alma",
+        title: "River Runner",
+        url: "https://river-runner.samlearner.com/",
+        description: "Un mapa interactivo que muestra el recorrido del agua desde cualquier punto de Estados Unidos hasta su destino en el océano. Una reflexión sobre la interconexión de nuestras aguas.",
+        quote: "Sigue el río de tus pensamientos."
+    },
+    {
+        category: "IA experimental",
+        title: "Deep Dream Generator",
+        url: "https://deepdreamgenerator.com/",
+        description: "Crea arte surrealista usando redes neuronales. Deja que tu imagen sea transformada por los sueños de una máquina.",
+        quote: "Cuando la máquina sueña, el arte emerge."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.codexseraphinianus.com/",
+        description: "Una enciclopedia ilustrada de un mundo imaginario, creada por Luigi Serafini. Sus páginas llenas de ilustraciones imposibles son un auténtico viaje visual.",
+        quote: "Un atlas de lo desconocido."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
