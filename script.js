@@ -8419,6 +8419,76 @@ async function fetchFromHackerNews() {
         url: "https://www.codexseraphinianus.com/",
         description: "Una enciclopedia ilustrada de un mundo imaginario, creada por Luigi Serafini. Sus páginas llenas de ilustraciones imposibles son un auténtico viaje visual.",
         quote: "Un atlas de lo desconocido."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Shader Park",
+        url: "https://shaderpark.com/",
+        description: "Aquí puedes crear arte generativo en tiempo real utilizando shaders sin tener que ser un matemático de otro mundo. Perfecto para esas noches de insomnio creativo.",
+        quote: "La rave visual que no sabías que necesitabas en tu navegador."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol",
+        url: "https://www.instagram.com/refikanadol/",
+        description: "Este artista fusiona la data con el espacio físico, creando instalaciones hipnóticas a base de inteligencia artificial que redefinen el concepto de realidad.",
+        quote: "Surrealismo digital al siguiente nivel."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "This is Sand",
+        url: "https://thisissand.com/",
+        description: "Convierte tu pantalla en un lienzo de arenas de colores. Un lugar para meditar mientras ves caer cada grano que compone tu creación digital.",
+        quote: "Cuando el estrés te desgasta, ponlo en arena."
+    },
+    {
+        category: "lectura que pica",
+        title: "Digital Bodies",
+        url: "https://sophiegunnolympia.substack.com/",
+        description: "Una serie de ensayos que exploran nuestra relación con los cuerpos digitales. ¿Son extensiones de nosotros o algo completamente diferente?",
+        quote: "¿Qué tanto de ti es carne y qué tanto es píxel?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Channel Criswell",
+        url: "https://www.youtube.com/user/eyestrings",
+        description: "Profundos videoensayos sobre el arte del cine, diseccionando escenas hasta comprender su magia visual. Pidas una película al azar y hay un análisis esperando.",
+        quote: "El making-of que te volará la cabeza."
+    },
+    {
+        category: "música y sonido",
+        title: "Haunter Records",
+        url: "https://haunterrecords.bandcamp.com/",
+        description: "Si te gusta explorar los límites de la música electrónica y experimentar con sonidos que parecen venir de otro universo, este sello es un portal a lo desconocido.",
+        quote: "La banda sonora de los sueños de un cyborg punk."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Creative Coders Monthly",
+        url: "https://creativecodersmonthly.substack.com/",
+        description: "Un boletín para aquellos obsesionados con el código creativo y el arte generativo. Cada edición es como un mini museo digital en tu bandeja de entrada.",
+        quote: "Alimenta tu inbox con arte que se programa solo."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Climate Visuals",
+        url: "https://climatevisuals.org/",
+        description: "Un archivo visual que reta nuestra percepción sobre el cambio climático, mostrando imágenes que inspiran y, a la vez, hacen reflexionar profundamente.",
+        quote: "Míralo directo a los ojos, el planeta te está hablando."
+    },
+    {
+        category: "IA experimental",
+        title: "RUNWAY ML",
+        url: "https://runwayml.com/",
+        description: "Una plataforma que lleva el poder de la IA al terreno creativo, permitiendo crear desde imágenes a vídeos surrealistas con unos pocos clics.",
+        quote: "Donde la IA y la imaginación chocan y explotan en color."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.amazon.com/Codex-Seraphinianus/dp/0847842134",
+        description: "Un enigmático libro ilustrado por Luigi Serafini que parece extraído de una realidad paralela. Es como leer un libro de biología escrito por Dalí.",
+        quote: "La enciclopedia de un mundo que nunca existió, pero debería."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
