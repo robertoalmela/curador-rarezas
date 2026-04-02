@@ -8489,6 +8489,76 @@ async function fetchFromHackerNews() {
         url: "https://www.amazon.com/Codex-Seraphinianus/dp/0847842134",
         description: "Un enigmático libro ilustrado por Luigi Serafini que parece extraído de una realidad paralela. Es como leer un libro de biología escrito por Dalí.",
         quote: "La enciclopedia de un mundo que nunca existió, pero debería."
+    },
+    {
+        category: "herramienta creativa",
+        title: "VisBug - El inspector visual para todos",
+        url: "https://github.com/GoogleChromeLabs/ProjectVisBug",
+        description: "VisBug es como las herramientas de desarrolladores del navegador, pero para la gente creativa. Puedes ajustar colores, tipografías y más, sin perderte en un mar de código.",
+        quote: "Haz del navegador tu lienzo, sin que te explote la cabeza."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Sasha Stiles - Poeta cyborg",
+        url: "https://sashastiles.com/",
+        description: "Sasha Stiles fusiona poesía, inteligencia artificial y arte visual en un cóctel futurista. Sus obras te harán replantearte qué es realmente la creatividad.",
+        quote: "Donde los versos son impulsos eléctricos en un poema digital."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Radio Garden - Una vuelta al mundo en frecuencias",
+        url: "http://radio.garden",
+        description: "Con Radio Garden puedes escuchar emisoras de radio de casi cualquier rincón del mundo. Da la vuelta al mapa y salta de Sídney a Reykjavik en segundos.",
+        quote: "Sintoniza el planeta con un giro del ratón."
+    },
+    {
+        category: "lectura que pica",
+        title: "El Informe New Media Art",
+        url: "https://www.newmediaartreport.com/",
+        description: "Este informe desgaja las tendencias más frescas del arte multimedia. Artículos que te dejan con la sensación de que apenas estamos arañando la superficie del potencial digital.",
+        quote: "Para cuando necesitas un ‘eureka’ digital en la sobremesa."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Tony Zhou - Every Frame a Painting",
+        url: "https://vimeo.com/everyframeapainting",
+        description: "Sus videoensayos diseccionan el cine de una forma magistral. Aunque ya no actualizan, el archivo sigue siendo un tesoro de análisis visual.",
+        quote: "El cine es más que lo que ves, es cómo lo ves."
+    },
+    {
+        category: "música y sonido",
+        title: "NTS Radio - Transmisiones del subsuelo",
+        url: "https://www.nts.live/",
+        description: "NTS Radio es la joya de la música independiente, con DJs de todo el mundo compartiendo mezclas que nunca oirás en la radio mainstream.",
+        quote: "La banda sonora de universos paralelos, transmitida en vivo."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "The Slowdown - Email que inspira",
+        url: "https://www.slowdown.tv/",
+        description: "Un boletín que captura la esencia de la creatividad contemporánea y te la sirve en dosis que revitalizan las neuronas.",
+        quote: "Café instantáneo para la mente cultural."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Memory of the World Registry",
+        url: "https://www.memoryoftheworld.org/",
+        description: "Un intento de preservar artefactos digitales antes de que desaparezcan en la vorágine de bytes. Ideal para nostálgicos del futuro.",
+        quote: "Porque algunos bits merecen ser eternos."
+    },
+    {
+        category: "IA experimental",
+        title: "Botnik Studios - La IA más absurda",
+        url: "https://botnik.org/",
+        description: "Botnik usa inteligencia artificial para generar contenido que es mitad humano, mitad máquina, y cien por cien delirante. ¿Alguna vez has querido leer un guion de Harry Potter escrito por un bot?",
+        quote: "Cuando las máquinas aprenden el humor humano, lo que sale es Botnik."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "S, de J.J. Abrams y Doug Dorst",
+        url: "https://abrams.velvetfork.com/",
+        description: "Una novela dentro de una novela, llena de notas al margen, post-its y otros externos, ‘S’ es todo un universo literario para perderse durante horas.",
+        quote: "Un libro que palpita con múltiples latidos misteriosos."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
