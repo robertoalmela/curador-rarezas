@@ -8559,6 +8559,76 @@ async function fetchFromHackerNews() {
         url: "https://abrams.velvetfork.com/",
         description: "Una novela dentro de una novela, llena de notas al margen, post-its y otros externos, ‘S’ es todo un universo literario para perderse durante horas.",
         quote: "Un libro que palpita con múltiples latidos misteriosos."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Scribble Diffusion",
+        url: "https://scribblediffusion.com/",
+        description: "Dibuja algo sencillo y mira como esta herramienta lo transforma en una imagen casi profesional. Ideal para cuando estás solo con un mouse o en el móvil.",
+        quote: "De garabatos a obras maestras, ¡ni tu cuaderno de bocetos se lo esperaba!"
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol - Data Aesthetics",
+        url: "https://refikanadol.com/works/",
+        description: "Sumérgete en un mundo donde los datos cobran vida. Refik Anadol utiliza algoritmos para crear obras de arte que son tan alucinantes como el código que las respalda.",
+        quote: "Cuando los algoritmos pintan, las pantallas se convierten en lienzos."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Silk - Interactive Generative Art",
+        url: "https://weavesilk.com/",
+        description: "Mueve el cursor y deja que la seda virtual teje patrones hipnóticos. Perfecto para esos minutos de procrastinación productiva.",
+        quote: "Hilando arte con un clic; dejarás de ver los hilos de la misma forma."
+    },
+    {
+        category: "lectura que pica",
+        title: "New Models - Cultural Digest",
+        url: "https://newmodels.io/",
+        description: "Un desglose de tendencias y fenómenos culturales que no verás en el scroll de tu feed. Actualizaciones frescas para el creativo curioso.",
+        quote: "Un antídoto a los algoritmos, ¡dale sabor a tus pensamientos!"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Jacob Geller - Video Essays",
+        url: "https://www.youtube.com/c/JacobGeller",
+        description: "Este canal de YouTube explora videojuegos, cultura y filosofía con una narrativa envolvente. Ya no verás un joystick de la misma manera.",
+        quote: "Presiona play, que tu cerebro se va de viaje."
+    },
+    {
+        category: "música y sonido",
+        title: "Sounds of the Dawn",
+        url: "https://soundsofthedawn.com/",
+        description: "Explora un archivo de cassettes de meditación de los años 70 y 80. Lo vintage nunca sonó tan contemporáneo.",
+        quote: "Retro-vibraciones para meditar o simplemente dejarse llevar."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "WePresent - Creative Platform",
+        url: "https://wepresent.wetransfer.com/",
+        description: "La 'otra cara' de WeTransfer que presenta entrevistas con artistas, fotógrafos, músicos y más. Un rincón inesperado de inspiración.",
+        quote: "Transfiere creatividad, no solo archivos."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Notable Women",
+        url: "https://notablewomen.com/",
+        description: "Usa realidad aumentada para ver a mujeres influyentes en los billetes de dólar. Un recordatorio de quién también merece un lugar en la historia.",
+        quote: "Dale una vuelta a tus billetes, y a tus héroes."
+    },
+    {
+        category: "IA experimental",
+        title: "This AI Does Not Exist",
+        url: "https://thisxdoesnotexist.com/",
+        description: "Explora una serie de páginas generadas por IA que crean desde rostros hasta gato-ficiones. Por momentos, el universo se siente ilimitado.",
+        quote: "Oooops, estas caras no vinieron para quedarse."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.phaidon.com/store/art-photography/luigi-serafini-the-codex-seraphinianus-9781584230879/",
+        description: "Este libro es un caleidoscopio de ilustraciones de un mundo que no existe. Ideal para abrirlo en cualquier página y no tener ni idea de qué está sucediendo.",
+        quote: "Abrirlo es perderse en un universo aún por imaginar."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
