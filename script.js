@@ -8629,6 +8629,76 @@ async function fetchFromHackerNews() {
         url: "https://www.phaidon.com/store/art-photography/luigi-serafini-the-codex-seraphinianus-9781584230879/",
         description: "Este libro es un caleidoscopio de ilustraciones de un mundo que no existe. Ideal para abrirlo en cualquier página y no tener ni idea de qué está sucediendo.",
         quote: "Abrirlo es perderse en un universo aún por imaginar."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Vectornator: El arte de los vectores",
+        url: "https://www.vectornator.io/",
+        description: "Una app de diseño vectorial que parece salida del futuro. Funciona en iPad, iPhone y Mac, y es lo suficientemente poderosa para hacer increíbles ilustraciones, pero lo suficientemente intuitiva para no romperte la cabeza.",
+        quote: "Es como llevar un estudio de diseño completo en el bolsillo."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol: Data Meditation",
+        url: "https://refikanadol.com/",
+        description: "Este tipo transforma datos en obras de arte que parecen sacadas de un sueño futurista. Refik Anadol utiliza la Inteligencia Artificial para crear experiencias visuales que redefinen el arte digital.",
+        quote: "Mirar sus obras es como abrir una ventana al inconsciente de una IA."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Neal.fun/Drawb",
+        url: "https://neal.fun/drawb/",
+        description: "Dibuja lo que quieras y la IA intentará reconocerlo... o no. Tan divertido como echarle un pulso a un robot en una exposición de arte.",
+        quote: "Como Pictionary, pero para mentes curiosas y dedos rápidos."
+    },
+    {
+        category: "lectura que pica",
+        title: "Substack: The Pudding's Visual Essays",
+        url: "https://pudding.cool/",
+        description: "Alimenta tu cerebro con estos ensayos visuales que exploran fenómenos culturales de forma interactiva. Es el tipo de lectura que te hace sentir brillante después de cerrar el navegador.",
+        quote: "Cuando los gráficos te cuentan mejores historias que las palabras."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Polyphonic YouTube Channel",
+        url: "https://www.youtube.com/channel/UCXkNod_JcH7PleOjwK_8rYQ",
+        description: "Análisis musicales que desentrañan las capas ocultas detrás de tus canciones favoritas. Es como una clase de música, sin el aburrimiento.",
+        quote: "Donde la música revela sus secretos mejor guardados."
+    },
+    {
+        category: "música y sonido",
+        title: "NTS Radio",
+        url: "https://www.nts.live/",
+        description: "Una emisora de radio en línea que transmite desde Londres, Los Ángeles y más allá. Cada programa es un viaje sonoro que desafía las etiquetas genéricas.",
+        quote: "La banda sonora del futuro suena así."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Creative App Community Discord",
+        url: "https://discord.gg/TgNTuzrB",
+        description: "Un rincón en Discord lleno de gente creativa compartiendo procesos, consejos y retos. Es como un café virtual donde siempre hay alguien trabajando en algo genial.",
+        quote: "Un soplo de aire fresco para cualquier mente creativa."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Silent History",
+        url: "https://silenthistory.com/",
+        description: "Una novela interactiva y serial que se desarrolla en apps, ofreciendo fragmentos de historias que exploran un mundo donde los niños nacen sin capacidad de hablar.",
+        quote: "Una historia fragmentada, tan adictiva como silenciosa."
+    },
+    {
+        category: "IA experimental",
+        title: "DALL-E: Arte de otra dimensión",
+        url: "https://openai.com/dall-e/",
+        description: "Juega a ser un creador loco con esta herramienta de OpenAI que genera imágenes a partir de texto. Tan divertido que podrías pasar horas creando mundos de fantasía.",
+        quote: "Lo que imaginas, ahora puede existir."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.cassiopeiabooks.com/blog/codex-seraphinianus",
+        description: "Un libro ilustrado que es como un alucinante viaje a un mundo paralelo. Sus extrañas ilustraciones y texto ilegible despiertan más incógnitas que respuestas.",
+        quote: "El libro más raro que no puedes leer, pero que aún quieres poseer."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
