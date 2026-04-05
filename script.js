@@ -8699,6 +8699,76 @@ async function fetchFromHackerNews() {
         url: "https://www.cassiopeiabooks.com/blog/codex-seraphinianus",
         description: "Un libro ilustrado que es como un alucinante viaje a un mundo paralelo. Sus extrañas ilustraciones y texto ilegible despiertan más incógnitas que respuestas.",
         quote: "El libro más raro que no puedes leer, pero que aún quieres poseer."
+    },
+    {
+        category: "herramienta creativa",
+        title: "ArtBreeder - evoluciona tu arte",
+        url: "https://www.artbreeder.com/",
+        description: "¿Y si te dijera que puedes mezclar imágenes como si fueran cócteles? Bienvenido a ArtBreeder, donde las caras, los paisajes y las cosas raras se mezclan para crear arte generativo alucinante.",
+        quote: "Una galería sin paredes, donde los sueños se fusionan."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol - poeta de los datos",
+        url: "https://refikanadol.com/",
+        description: "Refik toca los datos como si fueran sinfonías visuales. Sus instalaciones te harán repensar el concepto de memoria y espacio. Es como un DJ, pero de bits, píxeles y espacios.",
+        quote: "Pintar con el viento digital."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Silk - pintura generativa",
+        url: "https://weavesilk.com/",
+        description: "Haz un movimiento y mira cómo el lienzo cobra vida. Silk convierte tus garabatos en patrones hipnotizantes, perfectos para perderte mientras tomas tu café mañanero.",
+        quote: "Dibujar no es necesario, solo déjate llevar."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Exponential View - visión del futuro",
+        url: "https://exponentialview.co/",
+        description: "Azeem Azhar te lleva de paseo por la tecnología de mañana con análisis que te reprograman el cerebro. Ideal para los que les pica la curiosidad del futuro.",
+        quote: "Un mapa para navegantes del futuro cercano."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "NerdWriter1 - desmenuzando la cultura pop",
+        url: "https://www.youtube.com/channel/UCJkMlOu7faDgqh4PfzbpLdg",
+        description: "Evan Puschak te lleva de la mano por el cine, la música y el arte con una profundidad que solo los que miran más allá de la superficie pueden ofrecer. Cada video es una joya inesperada.",
+        quote: "Cultura pop con una lupa filosófica."
+    },
+    {
+        category: "música y sonido",
+        title: "NTS Radio - transmitiendo rarezas",
+        url: "https://www.nts.live/",
+        description: "Desde Londres, NTS emite sets de DJ que son viajes audibles a lo desconocido. Música que no sabías que existía, pero que ahora no puedes dejar de escuchar.",
+        quote: "Cuando el cielo de Londres se escucha a sí mismo."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Freaking Art - arte al borde",
+        url: "https://www.instagram.com/freakingart/",
+        description: "Esta cuenta de Instagram te ofrece una dosis regular de arte contemporáneo tan raro que te preguntarás si no te dejaste el sentido común en casa.",
+        quote: "El arte que hace que te rasques la cabeza."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Dark Patterns - conciencia UX",
+        url: "https://www.darkpatterns.org/",
+        description: "Ilustra esas pequeñas trampas de diseño que nos hacen decir '¡ay!' desde 2010, pero su relevancia crece. Un archivo donde aprendes a reconocer los trucos de diseño que juegan con el usuario.",
+        quote: "Cuando el diseño se convierte en un truco."
+    },
+    {
+        category: "IA experimental",
+        title: "RunwayML - el estudio que piensa",
+        url: "https://runwayml.com/",
+        description: "RunwayML es como Photoshop, pero con superpoderes de IA. Da vida a tus ideas creativas con herramientas que aprenden mientras tú creas.",
+        quote: "Tu lienzo nunca se había sentido tan vivo."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus - una mirada alucinante",
+        url: "https://en.wikipedia.org/wiki/Codex_Seraphinianus",
+        description: "Escrito por Luigi Serafini, este tomo parece salido de los sueños de un biólogo extraterrestre. No entenderás nada, pero querrás entenderlo todo.",
+        quote: "Un libro que describe un mundo paralelo, o tal vez cómo gira tu imaginación cuando no te ve."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
