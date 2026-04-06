@@ -8769,6 +8769,76 @@ async function fetchFromHackerNews() {
         url: "https://en.wikipedia.org/wiki/Codex_Seraphinianus",
         description: "Escrito por Luigi Serafini, este tomo parece salido de los sueños de un biólogo extraterrestre. No entenderás nada, pero querrás entenderlo todo.",
         quote: "Un libro que describe un mundo paralelo, o tal vez cómo gira tu imaginación cuando no te ve."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Palette Ninja",
+        url: "https://palette.ninja/",
+        description: "Un generador de paletas de colores basado en IA que te sugiere combinaciones de colores locas que probablemente no habrías pensado. Perfecto para cuando el gris no te sirve más.",
+        quote: "Cuando el arcoiris te guía el pincel."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Lia Halloran",
+        url: "https://www.liahalloran.com/",
+        description: "Artista que mezcla astrofísica y arte, creando obras que son un viaje espacial en acrílico y luz, sacando nuestro amante intergaláctico interno.",
+        quote: "Startup de universos paralelos en cada lienzo."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Weavesilk",
+        url: "http://weavesilk.com/",
+        description: "Dibuja con seda digital y crea patrones hipnóticos que te dejarán queriendo más. Un lugar donde la mente y los colores se funden.",
+        quote: "Una telaraña de sueños donde perderse."
+    },
+    {
+        category: "lectura que pica",
+        title: "Substack de Subversive Culture",
+        url: "https://subversive.classic.blog/",
+        description: "Ensayos sobre cultura y tecnología que te harán cuestionarte el tejido de la realidad digital. Perfecto para una dosis de rebeldía mental.",
+        quote: "La chispa que incendia paradigmas."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Nostalgia Nerd",
+        url: "https://www.youtube.com/channel/UC13mWATJYCd7LGMcp36IH5g",
+        description: "Canal de YouTube que se zambulle en lo extraño, lo antiguo y lo olvidado del mundo de la tecnología, con un toque de humor británico.",
+        quote: "El polvo en tus gadgets vintage ahora cuenta historia."
+    },
+    {
+        category: "música y sonido",
+        title: "NTS Radio",
+        url: "https://www.nts.live/",
+        description: "Radio en línea que ofrece una curaduría de música independiente y experimental. Desde sonidos underground hasta gemas perdidas de los 70.",
+        quote: "El lugar donde los discos olvidados susurran secretos."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Internet Explorers Club",
+        url: "https://discord.com/invite/internetexplorers",
+        description: "Un Discord lleno de gente hambrienta por los rincones oscuros y maravillosos de Internet, donde cada enlace es una puerta a lo desconocido.",
+        quote: "Tu pasaporte al submundo digital."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Dawn of Everything",
+        url: "https://dawnofeverything.com/",
+        description: "Un proyecto que explora el origen de la civilización humana. Una mezcla de mapa interactivo y archivo digital, que busca replantear nuestra historia.",
+        quote: "Cuando la historia deja de ser lineal y empieza a rimar."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Dungeon",
+        url: "https://play.aidungeon.io/",
+        description: "Un juego de rol narrativo donde una IA genera escenarios reaccionando a tus decisiones. Prepárate para adentrarte en las historias más impredecibles.",
+        quote: "Un maestro de mazmorras virtual que nunca duerme."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.colemanowen.com/codex-seraphinianus",
+        description: "Un libro ilustrado surrealista, una especie de enciclopedia de un mundo paralelo que desafía cualquier explicación lógica.",
+        quote: "El libro que ni Borges se atrevió a imaginar."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
