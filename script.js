@@ -8839,6 +8839,76 @@ async function fetchFromHackerNews() {
         url: "https://www.colemanowen.com/codex-seraphinianus",
         description: "Un libro ilustrado surrealista, una especie de enciclopedia de un mundo paralelo que desafía cualquier explicación lógica.",
         quote: "El libro que ni Borges se atrevió a imaginar."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Hexa Tiles",
+        url: "https://hexa-tiles.com",
+        description: "¿Alguna vez has querido crear patrones geométricos complejos pero no sabes por dónde empezar? Hexa Tiles te permite jugar con hexágonos como si fueran piezas de un rompecabezas. Prepárate para horas de adicción.",
+        quote: "Es como el Tetris del diseño, pero sin la presión del reloj."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Krista Kim - Mars House",
+        url: "https://www.kristakim.com/mars-house",
+        description: "Krista Kim ha creado la primera casa digital del mundo, Mars House. Es un espacio hipnotizante en un mundo virtual donde la luz y el color son los verdaderos residentes.",
+        quote: "Donde la arquitectura y el surrealismo digital van de la mano."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Symmetry Lab",
+        url: "https://symmetrylab.com",
+        description: "Este sitio es prácticamente un caleidoscopio geek. Dibuja cualquier cosa y verás cómo se multiplica en formas simétricas alucinantes. Ideal para perderse un rato.",
+        quote: "El arte de perder el tiempo nunca fue tan bello."
+    },
+    {
+        category: "lectura que pica",
+        title: "Los Nombres Invisibles",
+        url: "https://losnombresinvisibles.com",
+        description: "Un ensayo sobre las palabras y nombres que usamos a diario pero que jamás vemos. Te hará repensar tu relación con el lenguaje.",
+        quote: "Cada palabra tiene una historia oculta."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Ant Sounds - The Hidden Noise",
+        url: "https://youtube.com/antsounds",
+        description: "Un corto documental en YouTube que explora los intrincados sonidos de las hormigas en su hábitat. Es sonoro y visualmente fascinante.",
+        quote: "El zumbido del hormiguero como nunca lo habías escuchado."
+    },
+    {
+        category: "música y sonido",
+        title: "Sounds from the Echosystem",
+        url: "https://echoesystem.bandcamp.com",
+        description: "Este proyecto sonoro captura los ecos del mundo natural y los traduce en composiciones envolventes. Cada pista es un viaje a través de paisajes sonoros.",
+        quote: "Descubre el eco de la Tierra en tus auriculares."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Quiet Rooms Collective",
+        url: "https://instagram.com/quietroomscollective",
+        description: "Una comunidad en Instagram que explora espacios silenciosos y serenos. Cada publicación es un recordatorio de la belleza de la tranquilidad.",
+        quote: "Porque a veces el silencio también tiene algo que decir."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Lost Places Map",
+        url: "https://lostplacesmap.com",
+        description: "Este mapa interactivo documenta lugares abandonados a lo largo del mundo. Un proyecto que invita a reflexionar sobre el paso del tiempo y el olvido.",
+        quote: "Explora el rincón olvidado del mundo sin moverte de casa."
+    },
+    {
+        category: "IA experimental",
+        title: "Neural Doodles",
+        url: "https://neuraldoodles.com",
+        description: "Una IA que transforma tus dibujos más garabateados en obras de arte estilo Kandinsky. Experimenta la magia de la creatividad aumentada.",
+        quote: "Garabatos que se vuelven arte con un toque de IA."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "The Atlas of Unusual Curiosities",
+        url: "https://unusualcuriositiesbook.com",
+        description: "Este libro es un viaje visual a través de los objetos más extraños jamás encontrados. Es como un museo de lo raro en tus manos.",
+        quote: "Un muestrario de lo raro, lo curioso y lo completamente asombroso."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
