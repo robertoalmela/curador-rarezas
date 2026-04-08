@@ -8909,6 +8909,76 @@ async function fetchFromHackerNews() {
         url: "https://unusualcuriositiesbook.com",
         description: "Este libro es un viaje visual a través de los objetos más extraños jamás encontrados. Es como un museo de lo raro en tus manos.",
         quote: "Un muestrario de lo raro, lo curioso y lo completamente asombroso."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Artbreeder - Mezcla genética de imágenes",
+        url: "https://www.artbreeder.com/",
+        description: "Imagínate cruzando fotos como si fueran cromosomas para crear algo totalmente nuevo. Aquí puedes mezclar retratos, paisajes, lo que sea, y ver qué mutación surrealista sale.",
+        quote: "Cruza un gato con un atardecer y sorpréndete con el resultado."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Olafur Eliasson on Instagram",
+        url: "https://www.instagram.com/olafureliasson/",
+        description: "Este artista islandés-danés crea instalaciones que parecen de otro planeta, pero están muy ligadas a las preocupaciones terrestres como el clima. Su feed es un viaje sensorial.",
+        quote: "Es como si tus ojos tocaran un arcoíris."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Line Rider - Dibujando tu propia montaña rusa",
+        url: "https://www.linerider.com/",
+        description: "Aquí puedes dibujar un derrotero infinito y ver cómo un pequeño trineo se lanza a la aventura por tus líneas imaginarias. Adictivo y de verdad gratificante.",
+        quote: "Crea, destroza y repite; porque las montañas rusas en pausas son más emocionantes."
+    },
+    {
+        category: "lectura que pica",
+        title: "90's NetArt: A Constant State of Flux",
+        url: "https://www.academia.edu/45074522/90s_Net_Art_A_Constant_State_of_Flux",
+        description: "Un ensayo que te transporta a los inicios del arte digital, cuando todo era experimentación salvaje y GIFs interminables. Prepárate para una dosis de nostalgia crítica.",
+        quote: "Cuando navegar era un acto de rebeldía."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Nerdwriter1 - Videoensayos alucinantes",
+        url: "https://www.youtube.com/user/Nerdwriter1",
+        description: "Este canal de YouTube analiza desde películas a obras de arte con una perspectiva que hace que parezcan obras maestras meticulosamente construidas.",
+        quote: "Deconstruir la realidad, un frame a la vez."
+    },
+    {
+        category: "música y sonido",
+        title: "The Caretaker - Travesuras sonoras nostálgicas",
+        url: "https://thecaretaker.bandcamp.com/",
+        description: "Ambientación musical que evoca recuerdos de balnearios abandonados y salones de baile en ruinas. Una experiencia envolvente en un universo sonoro peculiar.",
+        quote: "El eco de un recuerdo que no viviste, pero extrañas."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Strange Sounds - Twitter de cosas que tal vez no deberías oír",
+        url: "https://twitter.com/strangesoundsorg",
+        description: "Un rincón de Twitter donde se comparten sonidos aterradores y paisajes sonoros inexplicables de todo el mundo. No escucharás nada igual.",
+        quote: "Cuando el silencio deja de serlo, y empieza lo insólito."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Digital Archive of Japan's 2011 Disasters",
+        url: "https://jdarchive.org/",
+        description: "Un archivo digital que recoge las historias y objetos de la catástrofe de 2011 en Japón. Es un lugar virtual que recuerda y honra la resiliencia humana.",
+        quote: "Memoria digital para no olvidar la fragilidad del ahora."
+    },
+    {
+        category: "IA experimental",
+        title: "RunwayML - La IA poniéndose creativa",
+        url: "https://runwayml.com/",
+        description: "Una plataforma que permite a cualquier creativo jugar con modelos de IA para crear videos, imágenes, y más sin complicarse la vida.",
+        quote: "Diseña con IA sin parecer un científico loco."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "BibliOdyssey - Puertas a papel de mundos alternos",
+        url: "https://www.bibliodyssey.blogspot.com/",
+        description: "Un blog que recopila y explora ilustraciones, diagramas y mapas antiguos que parecen venidos de un universo paralelo. Rarezas encantadoras para devorar visualmente.",
+        quote: "Una mina de oro para ojos aventureros en papel."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
