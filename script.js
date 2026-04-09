@@ -8979,6 +8979,76 @@ async function fetchFromHackerNews() {
         url: "https://www.bibliodyssey.blogspot.com/",
         description: "Un blog que recopila y explora ilustraciones, diagramas y mapas antiguos que parecen venidos de un universo paralelo. Rarezas encantadoras para devorar visualmente.",
         quote: "Una mina de oro para ojos aventureros en papel."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Excalidraw — Dibuja tus ideas, literalmente",
+        url: "https://excalidraw.com/",
+        description: "Olvídate del diseño vectorial preciso y disfruta de la imperfección de un boceto a mano alzada. Excalidraw es la pizarra de colaboraciones que te saca una sonrisa mientras dejas fluir tus ideas.",
+        quote: "Como charlar sobre un servilleta... pero global."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Sophie Kahn — Esculturas de lo efímero digital",
+        url: "https://www.instagram.com/sophiekahn/",
+        description: "Sophie Kahn combina escultura con escaneo 3D y video, creando piezas pixeladamente tangibles que exploran el tiempo y la memoria. Su Instagram es una galería futurista donde el presente se descompone.",
+        quote: "Lo que ves es lo que olvidamos."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Weavesilk — Dibuja con seda digital",
+        url: "http://weavesilk.com/",
+        description: "Con cada trazo, este sitio teje hilos de color en un lienzo digital, creando obras de arte tan únicas como un copo de nieve. ¿Sobrecarga sensorial? Probablemente.",
+        quote: "Te prometo que tu mouse nunca fue tan artístico."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Pudding — Data visual con corazón",
+        url: "https://pudding.cool/",
+        description: "Este no es el típico artículo. The Pudding transforma datos culturales en visualizaciones interactivas que te hacen repensar lo que creías saber sobre, bueno, todo.",
+        quote: "Datos que se sienten como una charla intrigante."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Dissect Podcast — Abriendo el arte canción por canción",
+        url: "https://dissectpodcast.com/",
+        description: "En lugar de una crítica superficial, Dissect toma canciones y las desarma nota por nota y letra por letra, como si cada episodio fuera un curso completo de apreciación musical.",
+        quote: "Una cirugía sonora."
+    },
+    {
+        category: "música y sonido",
+        title: "Eternal Engine — Mezclas de hipnóticas texturas sonoras",
+        url: "https://soundcloud.com/eternalengine",
+        description: "Eternal Engine construye paisajes sonoros que mezclan lo ambiental con lo electrónico, creando pistas que te transportan a otro tiempo y lugar, si cierras los ojos.",
+        quote: "Minimalismo acústico con un toque cósmico."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Visions of Space — Explorando lo arquitectónicamente raro",
+        url: "https://www.instagram.com/visions_of_space/",
+        description: "Ángulos imposibles, líneas perfectas y perspectivas insólitas: este Instagram recoge piezas arquitectónicas que desafían la lógica.",
+        quote: "Donde las esquinas se encuentran en dimensiones alternas."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Cowbird — Cuentos breves del mundo real",
+        url: "https://cowbird.com/",
+        description: "Cowbird es un archivo de historias humanas, contado en textos cortos y fotos. Cada cuento es una postal del alma, capturando momentos tan íntimos que los sientes tuyos.",
+        quote: "La humanidad en píldoras narrativas."
+    },
+    {
+        category: "IA experimental",
+        title: "Artbreeder — Fusiona y crea arte con IA",
+        url: "https://www.artbreeder.com/",
+        description: "Si Rembrandt y un algoritmo tuvieran un hijo, sería Artbreeder. Mezcla imágenes en infinitas variaciones de creatividad generativa. Todo está a un clic de distancia.",
+        quote: "Un cruce entre un museo digital y un laboratorio loco."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Object Lessons — Serie de libros sobre lo mundano",
+        url: "https://www.bloomsbury.com/us/series/object-lessons/",
+        description: "Cada libro en la serie \"Object Lessons\" agarra un objeto cotidiano y lo examina hasta el cansancio. Desde semáforos hasta patinetas, cada uno es una reflexión profunda envuelta en prosa.",
+        quote: "El arte de encontrar lo extraordinario en lo ordinario."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
