@@ -9049,6 +9049,76 @@ async function fetchFromHackerNews() {
         url: "https://www.bloomsbury.com/us/series/object-lessons/",
         description: "Cada libro en la serie \"Object Lessons\" agarra un objeto cotidiano y lo examina hasta el cansancio. Desde semáforos hasta patinetas, cada uno es una reflexión profunda envuelta en prosa.",
         quote: "El arte de encontrar lo extraordinario en lo ordinario."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Squiggle - Doodling in 3D",
+        url: "https://squiggle.run/",
+        description: "Una herramienta que te permite transformar tus doodles 2D en esculturas 3D. Es como jugar a ser Da Vinci en el mundo digital.",
+        quote: "Tu garabato de la última reunión ahora puede ser una escultura."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Fikret Atay - Internet Is an Orgasm",
+        url: "https://www.instagram.com/fikret.atay.art/",
+        description: "Fikret mezcla lo digital y lo humano en collages que parecen ventanas a otros mundos. Su arte es un viaje visual que no dejarás de mirar.",
+        quote: "La realidad nunca fue tan surrealista."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "The Infinite Drum Machine",
+        url: "https://experiments.withgoogle.com/drum-machine",
+        description: "Elige sonidos de una colección infinita y crea ritmos únicos con esta máquina de tambores online. Es un viaje musical de descubrimiento.",
+        quote: "Toca, arrastra, escucha. La música se convierte en un juego."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Dark Forest Theory & Online Culture",
+        url: "https://onezero.medium.com/the-dark-forest-theory-of-the-internet-6fdc8e6d242c",
+        description: "Un ensayo que relaciona la teoría del bosque oscuro de la ciencia ficción con la cultura online. Te hará reconsiderar cómo interactuamos en la red.",
+        quote: "Navegar en línea es como perderse entre las sombras de un bosque."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "How a TV Works in Slow Motion",
+        url: "https://www.youtube.com/watch?v=3BJU2drrtCM",
+        description: "Este video revela la magia detrás de la tecnología de la televisión, descomponiéndola en cámara lenta. Verás la pantalla cobrar vida de una forma que nunca imaginaste.",
+        quote: "Los píxeles bailan como un espectáculo de luces propio."
+    },
+    {
+        category: "música y sonido",
+        title: "Forgotify",
+        url: "https://forgotify.com/",
+        description: "Descubre música que nadie ha escuchado en Spotify. Cada play es una primera vez, perfecto para amantes de lo desconocido.",
+        quote: "La banda sonora oculta del mundo, a solo un play de distancia."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Concrete Matter - The Institute of Things",
+        url: "https://www.instagram.com/concrete_matter/",
+        description: "Una curaduría de objetos raros y curiosidades históricas. Cada post es una cápsula del tiempo visual.",
+        quote: "Un museo de lo insólito en la palma de tu mano."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Localingual",
+        url: "https://localingual.com/",
+        description: "Un mapa interactivo para escuchar cómo suenan los idiomas y acentos del mundo. Una celebración de la diversidad lingüística global.",
+        quote: "Viaja con el oído, desde tu pantalla."
+    },
+    {
+        category: "IA experimental",
+        title: "Deep Nostalgia",
+        url: "https://www.myheritage.es/deep-nostalgia",
+        description: "Convierte fotos antiguas en animaciones realistas. Verás a tus ancestros parpadear y sonreír como si fueran recuerdos vivos.",
+        quote: "Traer el pasado al presente nunca fue tan fascinante."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "S, de J.J. Abrams y Doug Dorst",
+        url: "https://www.goodreads.com/book/show/18774943-s",
+        description: "Un libro dentro de otro libro, lleno de notas a mano y extras. Una experiencia literaria que desafía las normas de la lectura.",
+        quote: "Un libro es un laberinto, y éste tiene mapa y brújula."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
