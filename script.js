@@ -9119,6 +9119,76 @@ async function fetchFromHackerNews() {
         url: "https://www.goodreads.com/book/show/18774943-s",
         description: "Un libro dentro de otro libro, lleno de notas a mano y extras. Una experiencia literaria que desafía las normas de la lectura.",
         quote: "Un libro es un laberinto, y éste tiene mapa y brújula."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Blobmaker",
+        url: "https://www.blobmaker.app/",
+        description: "¿Alguna vez necesitaste un blob perfecto para tu diseño? Esta web genera formas blobs alucinantes. Parece simple, pero te puedes quedar ajustando curvas más de lo que planeabas.",
+        quote: "La vida es mejor con blobs generados."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Gab Bois - Artista de la cotidianidad",
+        url: "https://www.instagram.com/gabbois/",
+        description: "Gab Bois convierte objetos ordinarios en arte surreal a través de la fotografía. Lo cotidiano nunca había sido tan extraño y fascinante.",
+        quote: "Cuando tu feed se convierte en un museo del absurdo cotidiano."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Pixel Thoughts",
+        url: "http://pixelthoughts.co/",
+        description: "Una meditación guiada de 60 segundos en tu navegador. Es minimalista, pero increíblemente eficaz para poner las cosas en perspectiva.",
+        quote: "Un minuto para olvidar que el mundo está loco."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Ethics of Algorithms",
+        url: "https://www.nature.com/articles/d41586-020-00509-0",
+        description: "Una mirada profunda a cómo los algoritmos están moldeando nuestra sociedad y la necesidad urgente de una ética al respecto. Una llamada a despertar la conciencia del siglo XXI.",
+        quote: "Los números dirigen el mundo, pero ¿quién dirige los números?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Cruel Optimism - Análisis de la distopía",
+        url: "https://vimeo.com/291124000",
+        description: "Un videoensayo que te lleva a través del concepto de optimismo cruel en un mundo distópico. Visualmente impresionante y temática perturbadora.",
+        quote: "Ver optimismo a través del ojo distópico."
+    },
+    {
+        category: "música y sonido",
+        title: "Lullatone - Música de siesta",
+        url: "https://www.lullatone.com/",
+        description: "Este dúo japonés crea melodías minimalistas perfectas para un día de descanso. Sus conciertos caseros son un oasis sonoro.",
+        quote: "Cuando el jazz para bebés es un género, y es hermoso."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Nowness - Historias visuales",
+        url: "https://www.nowness.com/",
+        description: "Con un enfoque en la creatividad, Nowness ofrece diariamente videos fascinantes que desafían los límites entre arte y publicidad.",
+        quote: "El lugar donde el arte y la moda se dan la mano."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Traveling Museum of the Paranormal",
+        url: "https://www.paramuseum.com/",
+        description: "Un museo virtual que documenta y preserva la historia de lo paranormal. Desde objetos embrujados hasta leyendas urbanas.",
+        quote: "Los fantasmas digitales también tienen su hogar."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Dungeon",
+        url: "https://play.aidungeon.io/",
+        description: "Un juego de rol que genera historias en tiempo real con IA. La línea entre jugador y creador se difumina en cada sesión.",
+        quote: "Donde tu imaginación es la única frontera digital."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.amazon.com/Codex-Seraphinianus/dp/0847842134",
+        description: "Este libro ilustrado por Luigi Serafini es un enigma visual. Un lenguaje fantástico y un mundo ficticio que desafía la lógica y el entendimiento.",
+        quote: "La enciclopedia de lo indescriptiblemente extraño."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
