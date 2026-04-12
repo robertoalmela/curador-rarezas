@@ -9189,6 +9189,69 @@ async function fetchFromHackerNews() {
         url: "https://www.amazon.com/Codex-Seraphinianus/dp/0847842134",
         description: "Este libro ilustrado por Luigi Serafini es un enigma visual. Un lenguaje fantástico y un mundo ficticio que desafía la lógica y el entendimiento.",
         quote: "La enciclopedia de lo indescriptiblemente extraño."
+    },
+    {
+        category: "herramienta creativa",
+        title: "DoodleLens",
+        url: "https://doodlelens.app/",
+        description: "DoodleLens te permite convertir tus garabatos y dibujos en realidad aumentada, proyectándolos en el mundo que te rodea. Es perfecto para aquellos 'momentos de inspiración en servilletas'.",
+        quote: "Dale vida a tus garabatos antes de que el café enfríe."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol",
+        url: "https://refikanadol.com/",
+        description: "Este artista transforma datos en arte visual impresionante. Usando IA y algoritmos, sus instalaciones alteran la percepción de la realidad con belleza alucinante.",
+        quote: "Cuando los datos se vuelven una sinfonía visual."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Silk",
+        url: "http://weavesilk.com/",
+        description: "Crea patrones increíbles y etéreos con solo unos trazos del mouse. Es un lienzo digital que te quita el aliento con cada curva dibujada.",
+        quote: "Tejiendo sueños en la tela digital."
+    },
+    {
+        category: "lectura que pica",
+        title: "Una espiral infinita",
+        url: "https://placesjournal.org/article/the-infinite-spiral/",
+        description: "Un fascinante ensayo sobre la arquitectura y la eternidad en las construcciones humanas. Te hará replantear cómo vemos el espacio y el tiempo alrededor de nosotros.",
+        quote: "Las paredes también cuentan historias."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Night Mind",
+        url: "https://www.youtube.com/user/NightMind",
+        description: "Con análisis de terror y ficción interactiva, este canal te hace sentir que cada vídeo es un paseo por el lado oscuro de la narrativa digital.",
+        quote: "Cuando las historias digitales susurran en la noche."
+    },
+    {
+        category: "música y sonido",
+        title: "Lullatone",
+        url: "https://lullatone.com/",
+        description: "Este dúo japonés crea música encantadora que evoca la simplicidad de la infancia. Es como si la nostalgia tocara el xilófono.",
+        quote: "Una sonrisa musical en cada nota."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Forgotten NY",
+        url: "https://forgotten-ny.com/",
+        description: "Un archivo extraordinario de la Nueva York olvidada, desde edificios abandonados hasta líneas de ferrocarril extintas, este sitio es un viaje a una ciudad que ya no existe.",
+        quote: "Explora las historias susurradas por el concreto."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Dungeon",
+        url: "https://play.aidungeon.io/",
+        description: "Una aventura de texto infinita alimentada por IA que te coloca en el corazón de la historia. Tú eliges el destino y la inteligencia artificial te sigue el juego.",
+        quote: "La aventura teje el cuento según tus palabras."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.goodreads.com/book/show/103073.Codex_Seraphinianus",
+        description: "Un libro surrealista que parece de otro mundo, lleno de ilustraciones de lo inexplicable. Es más un artefacto que una lectura, una exploración de mundos imposibles.",
+        quote: "El manuscrito de un universo paralelo."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
