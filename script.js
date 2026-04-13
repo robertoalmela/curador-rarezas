@@ -6466,6 +6466,2792 @@ async function fetchFromHackerNews() {
         url: "https://new-aesthetic.tumblr.com/",
         description: "Un blog que examina y documenta cómo la tecnología digital influye en la percepción visual y cultural, desafiando las fronteras entre lo físico y lo virtual.",
         quote: "La realidad está en el ojo del espectador digital."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Incredeum",
+        url: "https://www.incredeum.com",
+        description: "Una app que te permite mapear sonidos a tus bocetos. Como si pudieras escuchar tus ilustraciones, cambiando la forma en que tus ojos perciben el sonido.",
+        quote: "Bocetos que también puedes escuchar, como un DJ visual."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Avery Singer",
+        url: "https://www.instagram.com/avery__singer/",
+        description: "Avery Singer juega con la línea entre lo digital y lo físico en sus pinturas de gran tamaño. Un scroll por su feed es un paseo por un museo que mezcla bits y pigmento.",
+        quote: "Realidad aumentada en pinceladas gigantes."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Squiggle Safari",
+        url: "https://www.squigglesafari.com",
+        description: "Dibuja una forma cualquiera y esta web te lleva a un safari inesperado de imágenes relacionadas. Perfecto para perderte en la jungla del internet por un rato.",
+        quote: "Dibuja, dispara y descubre imágenes en un safari online."
+    },
+    {
+        category: "lectura que pica",
+        title: "Hypernormalization",
+        url: "https://www.bbc.co.uk/iplayer/episode/p04b183c",
+        description: "El documental de Adam Curtis sobre cómo hemos llegado a un estado de irrealidad en la política y el arte actual. Una bofetada visual y narrativa.",
+        quote: "Cuando lo normal es una fantasía cuidadosamente construida."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Kogonada's Video Essays",
+        url: "https://www.kogonada.com/",
+        description: "Perdido en las sutilezas del cine, Kogonada disecciona películas como quien realiza una autopsia amorosa. Te hace ver el cine con nuevos ojos.",
+        quote: "Cineclería: el arte de reconstruir películas."
+    },
+    {
+        category: "música y sonido",
+        title: "NTS Radio",
+        url: "https://www.nts.live/",
+        description: "Una radio online con programas eclécticos que van del ambient japonés a ritmos africanos oscuros. Es como viajar por el mundo desde tus auriculares.",
+        quote: "Más estaciones de radio que países en el mundo."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "The Baffler",
+        url: "https://thebaffler.com/",
+        description: "Una revista que mezcla humor, cultura crítica y diseño subversivo. Tan mordaz que escuece al leerlo.",
+        quote: "Sátira como una necesidad de primer orden."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Memory Atlas",
+        url: "https://www.memoryatlas.com",
+        description: "Un mapa interactivo donde la gente deja recuerdos personales de lugares importantes. Hay historias que rompen el corazón y otras que lo restauran.",
+        quote: "Un atlas de recuerdos compartidos, punto por punto."
+    },
+    {
+        category: "IA experimental",
+        title: "Doodle Dreams",
+        url: "https://www.doodledreams.ai",
+        description: "Dibuja un garabato y esta IA lo convierte en una pintura maestra. Como si Picasso y un robot tuvieran un hijo colaborativo.",
+        quote: "Convierte garabatos en obras maestras pixeladas."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.amazon.com/Codex-Seraphinianus-Luigi-Serafini/dp/0847842134",
+        description: "Un libro ilustrado por Luigi Serafini que es un catálogo de un mundo imaginario, escrito en un alfabeto indecifrable. Leerlo es como intentar entender un sueño.",
+        quote: "El manual de instrucciones de un universo que solo existe en papel."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Spline 3D",
+        url: "https://spline.design/",
+        description: "Imagina poder diseñar en 3D directamente desde tu navegador como un juego. Spline te deja crear experiencias interactivas sin sudar líneas de código. Es apto para cualquier diseñador que quiera flirtear con el diseño tridimensional.",
+        quote: "Es como pintar en el aire, pero sin mancharte los dedos."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Lucy Hardcastle",
+        url: "https://lucyhardcastle.com/",
+        description: "Lucy es una artista y diseñadora que convierte las texturas digitales en magia tangible. Sus instalaciones y piezas digitales parecen respirarnos en la cara con cada pixel, llevando la sensibilidad digital a un nuevo nivel.",
+        quote: "Tocar lo intangible nunca fue tan posible."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Paper Planes",
+        url: "https://paperplanes.world/",
+        description: "Construye tu propio avión de papel y lánzalo al mundo, literalmente. Ve cómo vuela de pantalla en pantalla, tocando vidas digitales de otros soñadores en su camino. Cada vuelo es una historia.",
+        quote: "Vuela, vuela avión de papel, conquista lo digital."
+    },
+    {
+        category: "lectura que pica",
+        title: "Future Now: Virtual Creatures",
+        url: "https://www.aiga.org/future-now-virtual-creatures",
+        description: "Este artículo explora el nacimiento de inteligencias virtuales como herramientas creativas. Redefiniendo la creatividad, nos hace preguntarnos quién realmente crea: nosotros o estas nuevas entidades?",
+        quote: "¿Estamos codificando la musa del siglo XXI?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "The Beauty of 8-Bit Art",
+        url: "https://www.youtube.com/watch?v=2GuX-F08fwI",
+        description: "Un viaje a los días dorados del pixel art. Este videoensayo desentierra la estética pixelada que dio forma a toda una generación de videojuegos. Es un grito de amor retro que te deja con nostalgia de bits.",
+        quote: "Cada pixel cuenta una historia en miniatura."
+    },
+    {
+        category: "música y sonido",
+        title: "Lo-Fi Girl",
+        url: "https://lofigirl.com/",
+        description: "Perfecto para sumergirse en el trabajo o simplemente relajarse, este canal de música ofrece una selección continua de beats lo-fi que acarician el alma. Ideal para los que buscan un rincón sonoro de serenidad.",
+        quote: "La banda sonora perfecta para un día nublado."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "The Visual Dome",
+        url: "https://www.instagram.com/thevisualdome/",
+        description: "Este Instagram es un vertedero de inspiración visual. No es solo otro feed estético; cada post es un manifiesto de lo bellamente extraño y lo extrañamente bello.",
+        quote: "Del caos al orden en un swipe."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Sound of Colleagues",
+        url: "https://soundofcolleagues.com/",
+        description: "¿Extrañas el ruido de oficina mientras trabajas desde casa? En esta web puedes recrear el sonido de un entorno laboral, desde el murmullo de cierres de laptops hasta la cafetera susurrante.",
+        quote: "El murmullo de oficina en tu sala de estar."
+    },
+    {
+        category: "IA experimental",
+        title: "Deep Dream Generator",
+        url: "https://deepdreamgenerator.com/",
+        description: "Juega a ser Dalí con inteligencia artificial, creando imágenes que transforman lo cotidiano en surrealismo puro. Feed a la IA con tus fotos y observa cómo las convierte en alucinaciones visuales.",
+        quote: "Sueños digitales con un toque de locura creativa."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.rizzoliusa.com/book/9780847842131/",
+        description: "Este libro es una enciclopedia de un mundo que solo existe en la mente del artista Luigi Serafini. Textos ilegibles acompañan ilustraciones fantásticas y llenas de color que no necesitan palabras para atraparte.",
+        quote: "Un sueño lúcido en forma de libro."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Womp3D",
+        url: "https://womp.com/",
+        description: "¿Cansado de modelar en 3D y que todo parezca salido de un videojuego de los 90? Womp3D es el nuevo juguete interactivo para esculpir lo que te dé la gana en 3D, todo desde el navegador y con una interfaz que parece de un sueño de Dalí.",
+        quote: "Modelar en 3D esculpiendo aire, sin software pesado."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol",
+        url: "https://refikanadol.com/",
+        description: "Refik Anadol está combinando IA con medioambientes inmersivos para crear arte digital que parece sacado de un sueño futurista. No es solo visual; es como tener un mundo entero dentro de una pantalla.",
+        quote: "Tu pantalla nunca había sido tan profunda."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Patatap",
+        url: "http://www.patatap.com/",
+        description: "Haz música tocando tu teclado, y de paso, crea un espectáculo visual. Es uno de esos lugares donde te preguntas cómo la simple pulsación de una tecla puede producir tanta belleza.",
+        quote: "Siente el tecleteo del arte."
+    },
+    {
+        category: "lectura que pica",
+        title: "Substack de Craig Mod",
+        url: "https://craigmod.com/",
+        description: "Craig Mod hace que caminar sea fascinante. Su Substack está lleno de reflexiones profundas sobre el andar, la naturaleza, y cómo todo esto interactúa con nuestra modernidad tecnológica.",
+        quote: "Caminar y escribir, un acto revolucionario."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Lindsay Ellis",
+        url: "https://www.youtube.com/user/chezapoctube",
+        description: "Vídeo-ensayos en YouTube que convierten películas que viste un millón de veces en nuevos cuentos filosóficos. Con ella, el análisis crítico está a un clic de distancia.",
+        quote: "Películas familiares, en otras dimensiones críticas."
+    },
+    {
+        category: "música y sonido",
+        title: "Nuages",
+        url: "https://soundcloud.com/nuagesuk",
+        description: "Nuages, un productor británico que mezcla lo etéreo con beats que hipnotizan. Ideal para esos momentos en los que quieres volar mientras te quedas en el mismo sitio.",
+        quote: "Música del cielo, aterrizada en tus oídos."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "The Privacy Enthusiast",
+        url: "https://www.instagram.com/the.privacy.enthusiast/",
+        description: "Entre memes y reflexiones, esta cuenta de Instagram te hace reconsiderar cada clic y cada dato que compartes. Porque la privacidad es lo nuevo cool.",
+        quote: "Tu rastro digital nunca estuvo tan de moda."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Internet Archive of Inequality",
+        url: "https://inequalityarchive.org/",
+        description: "Un archivo digital que documenta gráficamente la desigualdad en todo el mundo. Es un golpe visual que te deja pensando en lo que realmente importa.",
+        quote: "Visualizando la desigualdad, un pixel a la vez."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Poet",
+        url: "https://www.aipoet.com/",
+        description: "Personas y máquinas, juntas para escribir poesía. En AI Poet, la IA no solo genera versos, sino que los reimagina con una sensibilidad que desafía lo sintético.",
+        quote: "Poesía mecánica hecha con alma."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://en.wikipedia.org/wiki/Codex_Seraphinianus",
+        description: "Este libro es lo que sucede cuando un genio decide escribir una enciclopedia de un mundo que no existe, en un idioma que nadie entiende. Es hermoso, extraño, y completamente fascinante.",
+        quote: "Un testimonio de un universo paralelo, encuadernado."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Glitch Image Generator",
+        url: "https://glitch.com/create",
+        description: "Destruye tus fotos y conviértelas en maravillas pixeladas con esta herramienta que te deja ir full glitch sin romper la computadora.",
+        quote: "¿Qué pasa si tu foto de vacaciones se encuentra con un bug en la Matrix?"
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol - Data Poet",
+        url: "https://refikanadol.com/",
+        description: "Este artista transforma datos en puestas en escena visuales que parecen haber sido arrancadas de un sueño futurista. Su Instagram es una galería de ciencia ficción viva.",
+        quote: "Cuando el big data se convierte en paisajes fantásticos."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Patatap - Experimenta el Ritmo",
+        url: "https://www.patatap.com/",
+        description: "Un sitio donde cada tecla se convierte en música y arte. Terminas creando una mezcla visual y auditiva que hace que tus vecinos te llamen compositor.",
+        quote: "¿Teclado o sintetizador? ¿Arte o música? ¿Por qué no todo?"
+    },
+    {
+        category: "lectura que pica",
+        title: "Sinofuturismo",
+        url: "https://sinofuturism.org/",
+        description: "Un viaje sorprendente por las ideas que plantean un futuro regido por el software, la autocensura y la innovación china. Te hará replantearte muchas cosas.",
+        quote: "¿Qué ocurre cuando combinamos el futuro con el acceso restringido?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "ContraPoints - Filosofía Visual",
+        url: "https://www.youtube.com/user/ContraPoints",
+        description: "Natalie Wynn crea ensayos visuales donde el arte y la política se cruzan con un sentido estético sublime y teatrales toques de humor. Imposible de olvidar.",
+        quote: "Cuidado: Puede provocar existencialismo con estilo."
+    },
+    {
+        category: "música y sonido",
+        title: "Lofi Beats Radio - Chill in Loop",
+        url: "https://www.youtube.com/watch?v=jfKfPfyJRdk",
+        description: "La legendaria transmisión de 'lofi hip hop radio' para estudiar o relajarse, sigue siendo un rincón zen inigualable del internet. A veces, menos es más.",
+        quote: "Cuando la música y el tiempo se deslizan como un río tranquilo."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Everest Pipkin - Bug Enthusiast",
+        url: "https://www.instagram.com/everestpipkin/",
+        description: "Artista digital y amante de las pequeñas criaturas que documenta lo extraño y convincente del mundo natural y digital. Su feed es pura poesía visual.",
+        quote: "Píxeles y bichos: los mejores compañeros digitales."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Internet Archive Scholar",
+        url: "https://scholar.archive.org/",
+        description: "Un poderoso archivo en línea que preserva publicaciones académicas de acceso abierto. Porque la información es poder, y este sitio lo sabe.",
+        quote: "La biblioteca de Alejandría digital que soñábamos."
+    },
+    {
+        category: "IA experimental",
+        title: "Runway ML - Future Creativity",
+        url: "https://runwayml.com/",
+        description: "Un espacio donde la inteligencia artificial se convierte en herramienta creativa, permitiéndote editar videos como si estuvieras jugando con plastilina digital.",
+        quote: "Dame IA y moveré creativamente el mundo."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.codexseraphinianus.com/",
+        description: "Este libro es un sueño lúcido hecho papel, una enciclopedia de un mundo que no existe pero que probablemente debería. Imaginación sin límites.",
+        quote: "El libro que el surrealismo siempre quiso escribir."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Blender Sushi",
+        url: "https://blendersushi.blogspot.com/",
+        description: "Un blog fascinante que explora cómo llevar Blender a sus límites más creativos, con scripts y experimentos visuales casi hechos a diario.",
+        quote: "Un buffet visual que no sabías que necesitabas en tu dieta digital."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Lauren Mccarthy",
+        url: "http://lauren-mccarthy.com/",
+        description: "Artista que explora la intersección entre la tecnología, la privacidad y las relaciones sociales, con proyectos que te hacen cuestionar lo humano.",
+        quote: "Algo así como Black Mirror, pero con más alma."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Fallen London",
+        url: "https://www.fallenlondon.com/",
+        description: "Un juego de narrativa interactiva donde Londres ha caído bajo tierra tras un evento misterioso. Cada click es una decisión que te sumerge más en su mundo sombrío.",
+        quote: "Cuando Londres cae, sólo queda storytelling."
+    },
+    {
+        category: "lectura que pica",
+        title: "Notes from Nature",
+        url: "https://www.notesfromnature.org/",
+        description: "Una plataforma que involucra a ciudadanos para transcribir y etiquetar datos de biodiversidad, haciendo que cada página sea un viaje literal a la naturaleza.",
+        quote: "Cuando el típex digital te convierte en Indiana Jones."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Nuggets - Animation by Andreas Hykade",
+        url: "https://www.youtube.com/watch?v=HUngLgGRJpo",
+        description: "Un cortometraje de animación que en menos de cinco minutos te lleva a un viaje profundo por la adicción y la búsqueda de más.",
+        quote: "Cinco minutos que duran toda una vida."
+    },
+    {
+        category: "música y sonido",
+        title: "Colors Studio",
+        url: "https://colorsxstudios.com/",
+        description: "Una plataforma que da visibilidad a artistas musicales emergentes con vídeos minimalistas cuyas performances te atrapan.",
+        quote: "Donde los colores suenan mejor que nunca."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Weird Secondhand Finds That Just Need To Be Shared",
+        url: "https://www.facebook.com/WeirdSecondhandFinds/",
+        description: "Un rincón en Facebook donde las extrañezas de objetos de segunda mano se transforman en un viaje a lo inesperado.",
+        quote: "Cuando el minimalismo no es una opción."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Out of Eden Walk",
+        url: "https://www.nationalgeographic.org/projects/out-of-eden-walk/",
+        description: "Paul Salopek camina desde África hasta la punta de Sudamérica contando historias humanas, una crónica fotográfica en continua evolución.",
+        quote: "Paso a paso, desenredando la madeja de la humanidad."
+    },
+    {
+        category: "IA experimental",
+        title: "Playform.io",
+        url: "https://www.playform.io/",
+        description: "Plataforma que permite a artistas crear su propia inteligencia artificial para generar arte, desde pinturas hasta vídeos.",
+        quote: "Tu musa AI está a un clic de distancia."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.amazon.com/dp/0847842134",
+        description: "Un libro ilustrado como ningún otro, un catálogo donde lo surrealista y lo lingüísticamente imposible se dan la mano.",
+        quote: "Cuando el mirar es más importante que el entender."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Spline - Diseño 3D en el navegador",
+        url: "https://spline.design/",
+        description: "Esto es como un juguete de diseñador 3D en tu navegador. Permite crear gráficos 3D interactivos y animaciones con una interfaz amigable. Muy jugoso para generar un impacto visual sin dolores de cabeza.",
+        quote: "Dibujar en el aire nunca fue tan fácil."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "María Sánchez - Tejiendo bits",
+        url: "https://www.instagram.com/maria_sanchez_art/",
+        description: "María mezcla lo analógico y lo digital como si fueran la misma cosa. Sus obras te hacen sentir que los bits pueden tener textura. Síguele la pista si te gusta lo inesperado en cada pixel.",
+        quote: "Tocar un GIF se siente así."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Silk - Diseña con seda digital",
+        url: "http://weavesilk.com/",
+        description: "Dibuja en tu pantalla como si estuvieras tejiendo en seda. Lo hipnótico es quedarse un rato ajustando los colores y viendo cómo todo toma forma ante tus ojos, casi como si la pantalla respirara.",
+        quote: "Cuando la seda y el código bailan."
+    },
+    {
+        category: "lectura que pica",
+        title: "Futuro quinquenal - IA y creatividat",
+        url: "https://fiveyearlump.com/",
+        description: "Un ensayo que te reta a pensar en cómo la creatividad y la inteligencia artificial tienen una cita a ciegas cada día. Para quienes se atreven a cuestionarse qué significa realmente ser creativo en 2023.",
+        quote: "Quién lleva a quién en esta cita tecnológica."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Polyphonic - El análisis musical profundo",
+        url: "https://www.youtube.com/channel/UCXkNod_JcH7PleOjwK_8rYQ",
+        description: "Polyphonic desmantela canciones y bandas icónicas con una narrativa visual que hace que vuelvas a escuchar música con oídos nuevos. Ya no escucharás tus discos igual.",
+        quote: "Escuchar música con rayos X."
+    },
+    {
+        category: "música y sonido",
+        title: "Nicolás Jaar - Experimentación sonora",
+        url: "https://www.residentadvisor.net/dj/nicolasjaar",
+        description: "Nicolás Jaar no teme romper esquemas. Sus sets son artísticos y llenos de paisajes sonoros que van de lo desconcertante a lo bello. Oídos curiosos requeridos.",
+        quote: "Cuando la música se convierte en un lienzo."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "El Club del Folio Blanco",
+        url: "https://www.instagram.com/elclubdelfolioblanco/",
+        description: "Una comunidad de instagramers que se dedican a rendir culto al papel en blanco, compartiendo sus propias creaciones, retos y ejercicios para vencer la página en blanco.",
+        quote: "El club donde el papel y la imaginación se unen."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Histoires de Paris",
+        url: "https://histoiresdeparis.fr/",
+        description: "Una colección digital que captura historias de París, preservando la memoria de una ciudad que nunca deja de cambiar. Es como perderse en sus calles desde tu sofá.",
+        quote: "París cambia, pero sus historias persisten."
+    },
+    {
+        category: "IA experimental",
+        title: "DeepArt - Arte neuronal",
+        url: "https://deepart.io/",
+        description: "Convierte tus fotos en obras de arte estilo Van Gogh o Klimt gracias a la magia de redes neuronales. Juega a ser artista sin ensuciarte las manos de pintura.",
+        quote: "Que tu selfie se convierta en un cuadro de museo."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Una Vida en Paradojas - Colección de un zine",
+        url: "https://www.instagram.com/unavidaenparadojas/",
+        description: "Un zine que parece fuera de este mundo, lleno de reflexiones y contradicciones ilustradas que te harán sonreír, pensar y repensar. Una revolución tranquila en papel.",
+        quote: "El papel nunca fue tan revolucionario."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Scribble Diffusion",
+        url: "https://scribblediffusion.com/",
+        description: "Dibuja un garabato, cualquier garabato, y observa cómo esta herramienta lo transforma en una obra de arte más detallada. Es como darle esteroides a tu pizarra blanca.",
+        quote: "Del garabato al glamour."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Ameilya Wang",
+        url: "https://www.instagram.com/ameilyawang/",
+        description: "Surrealismo pop que mezcla colores pastel con oscuridad emocional. Ameilya Wang pinta un mundo de sueños, donde cada obra es un portal a universos internos.",
+        quote: "Colores dulces, sueños profundos."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Sandspiel",
+        url: "https://sandspiel.club/",
+        description: "Un simulador de partículas en línea que te permite jugar con elementos básicos como arena, agua, fuego y plantas. Ideal para perderse construyendo y destruyendo micro ecosistemas.",
+        quote: "La física desordenada nunca fue tan divertida."
+    },
+    {
+        category: "lectura que pica",
+        title: "Hyperwellbeing",
+        url: "https://www.hyperwellbeing.com/",
+        description: "Explora cómo la tecnología está rediseñando lo que significa estar bien. Este blog desafía tus ideas preconcebidas sobre el bienestar en la era digital.",
+        quote: "Más allá del paso de Fitbit, hacia el bienestar ciborg."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Kaptainkristian",
+        url: "https://www.youtube.com/c/kaptainkristian",
+        description: "Este canal de YouTube ofrece videoensayos visualmente impresionantes, explorando desde la cultura pop hasta el arte de contar historias. Bien producido y con una narrativa cautivante.",
+        quote: "Visuales que hacen pensar tanto como asombran."
+    },
+    {
+        category: "música y sonido",
+        title: "Noumen",
+        url: "https://noumen.bandcamp.com/",
+        description: "Este productor británico crea un paisaje sonoro digital con una mezcla de glitch, hip-hop y electrónica. Perfecto para quienes buscan un escape musical al más allá.",
+        quote: "Glitch-hop para los sueños lúcidos."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Indiependent Culture",
+        url: "https://www.instagram.com/indiependentculture/",
+        description: "Una cuenta de Instagram que destaca a creativos independientes de todo el mundo. Desde arte hasta moda, cada publicación es un devaneo cultural diverso.",
+        quote: "Donde la creatividad indie encuentra su escaparate."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Chronotext",
+        url: "https://chronotext.org/",
+        description: "Un archivo digital que explora el tiempo y el texto a través de la programación creativa. Es un viaje reflexivo por el significado del tiempo en nuestras vidas.",
+        quote: "Textos que te llevan a viajar en el tiempo."
+    },
+    {
+        category: "IA experimental",
+        title: "This Person Does Not Exist",
+        url: "https://thispersondoesnotexist.com/",
+        description: "Imágenes generadas por IA de personas que parecen reales pero no existen. Cada actualización es un viaje a lo que podría ser, retando nuestra percepción de lo real.",
+        quote: "Rostros de un multiverso de nadie."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.amazon.com/Codex-Seraphinianus/dp/0847842134/",
+        description: "Un libro ilustrado tan enigmático como bello, creado por Luigi Serafini. Llena de escritura indescifrable e ilustraciones de mundos imaginarios, es un misterio que invita a soñar.",
+        quote: "La biblia de un mundo que nunca existió."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Muzli Colors: Generador de paletas",
+        url: "https://colors.muz.li/",
+        description: "Descubrí este generador de paletas en Muzli que te lanza infinitas combinaciones de colores con un solo clic. Es como tener un consultor de moda digital, pero para tus diseños.",
+        quote: "Tantos colores, tan poco tiempo."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol: Data Poetics",
+        url: "https://refikanadol.com/",
+        description: "Este turco está sacudiendo el mundo del arte digital con instalaciones que parecen sacadas de un sueño lúcido. Usa datos y IA para crear experiencias visuales que son pura poesía para los ojos.",
+        quote: "Datos con alma de artista."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Recomendo: Experimento de Conexión Humana",
+        url: "https://recomendocta.com/",
+        description: "Un experimento en el que te conectas anónimamente con una persona al azar y compartes recomendaciones de libros, películas, música, o lo que se te ocurra. Una conversación de café virtual.",
+        quote: "¿Recomendarías esto a un extraño?"
+    },
+    {
+        category: "lectura que pica",
+        title: "The Pudding: Visual Essays",
+        url: "https://pudding.cool/",
+        description: "Ensayos visuales interactivos que profundizan en temas culturales contemporáneos de una manera tan atractiva que te olvidarás del scroll infinito de Instagram.",
+        quote: "Cuando los datos cuentan historias."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Jacob Geller: Video Essays",
+        url: "https://www.youtube.com/channel/UCXpD3qrOlP1wWyguGrmT4bQ",
+        description: "Este tipo hace videoensayos sobre temas que ni sabías que te interesaban, desde videojuegos hasta arquitectura. Cada video es una ventana a un mundo que no sabías que existía.",
+        quote: "Un agujero de conejo en forma de pantalla."
+    },
+    {
+        category: "música y sonido",
+        title: "NTS Radio: Eclectic Soundtracking",
+        url: "https://www.nts.live/",
+        description: "Una estación de radio online que te hará querer descubrir nuevos géneros musicales cada día. Olvídate de Spotify y sumérgete en esta corriente de sonido ecléctico.",
+        quote: "Donde el zapping se convierte en arte."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "WePresent: Platform for Creativity",
+        url: "https://wepresent.wetransfer.com/",
+        description: "La plataforma creativa de WeTransfer que destaca artistas, músicos y creativos emergentes de todo el mundo. Es como un museo virtual de lo que está pasando ahora.",
+        quote: "Descubre artistas antes de que sean mainstream."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Nation of Language: NYC Sound Archive",
+        url: "https://nationoflanguage.com/",
+        description: "Encuentras esta web y es como abrir un baúl de recuerdos sonoros de Nueva York. Historias y sonidos que conservan la esencia de una ciudad que nunca duerme.",
+        quote: "La banda sonora de la Gran Manzana."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Dungeon: Choose Your Own Adventure",
+        url: "https://play.aidungeon.io/",
+        description: "Un juego de rol interactivo impulsado por IA donde creas tus propias historias. La IA responde de formas tan imprevisibles que te preguntarás quién está guiando a quién.",
+        quote: "La aventura nunca termina... ¿o sí?"
+    },
+    {
+        category: "libro u objeto raro",
+        title: "S, de J.J. Abrams y Doug Dorst",
+        url: "https://www.goodreads.com/book/show/18774964-s",
+        description: "Un libro dentro de un libro que juega con tus sentidos y rompe la cuarta pared. Es como si Borges hubiera conocido a Abrams en un café y decidieran escribir juntos.",
+        quote: "Cuando la narrativa se convierte en artefacto."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Blobmaker",
+        url: "https://www.blobmaker.app/",
+        description: "Si alguna vez has querido dibujar formas abstractas y orgánicas para tus proyectos, Blobmaker es puro jamón. Genera blobs SVG aleatorios que puedes personalizar y descargar más rápido de lo que alguien dice 'blob'.",
+        quote: "Forma líquida, arte sólido."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol's Data Sculptures",
+        url: "https://refikanadol.com/",
+        description: "Refik transforma datos opacos en paisajes digitales que parecen respirar. Es como si el código tuviera sueños visuales. Sus instalaciones son una mezcla de ciencia ficción y poesía.",
+        quote: "Donde los datos se vuelven lírica."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Patatap",
+        url: "https://www.patatap.com/",
+        description: "Una fiesta audiovisual para tus dedos. Clickeas y sueltas un universo de sonidos y visuales. Perfecta solución para cuando necesitas que la hora del café dure más.",
+        quote: "Toca y deja que el ritmo te lleve."
+    },
+    {
+        category: "lectura que pica",
+        title: "Culture Digitally",
+        url: "http://culturedigitally.org/",
+        description: "Un blog colectivo donde académicos y creativos debaten sobre la cultura en la era digital. Aquí vas a encontrar ensayos que te harán ver lo cotidiano con lentes de ciborg.",
+        quote: "¿Estamos viviendo en un algoritmo masivo?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Nostalgia Nerd",
+        url: "https://www.youtube.com/c/NostalgiaNerd/",
+        description: "Este canal de YouTube es como un museo digital vintage, desvanece el polvo de tecnología olvidada y 'software del pasado' que define nuestro presente.",
+        quote: "Hambriento de píxeles del pasado."
+    },
+    {
+        category: "música y sonido",
+        title: "Radiooooo",
+        url: "https://radiooooo.com/",
+        description: "Una máquina del tiempo musical donde puedes escuchar la música de cualquier década y lugar en el mundo. Perfecto para tardes de domingo viajando con tus oídos.",
+        quote: "Sintoniza el mundo en cada década."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Strange Sounds",
+        url: "http://strangesounds.org/",
+        description: "Blog dedicado a esos sonidos inexplicables y misteriosos de nuestro mundo. Una comunidad para los curiosos del fenómeno acústico raro.",
+        quote: "Cuando la tierra habla en susurros extraños."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Colored Museum",
+        url: "https://thecoloredmuseum.com/",
+        description: "Un archivo digital que celebra la cultura afroamericana a través de múltiples colecciones temáticas. Es un espacio de preservación, resistencia y belleza.",
+        quote: "Memorias en technicolor para el futuro."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Dungeon",
+        url: "https://play.aidungeon.io/",
+        description: "Un juego de aventuras de texto donde la historia se genera en tiempo real con IA. Es elige tu propia aventura, pero con un co-escritor futurista que nunca duerme.",
+        quote: "Agrégale un cerebro artificial a tu imaginación."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "The Electric State",
+        url: "https://www.artstation.com/artwork/nRGr4",
+        description: "Un libro visual de Simon Stålenhag que combina el arte retrofuturista con una narrativa envolvente sobre la América distópica. Una mezcla entre Mad Max y un relato intimista.",
+        quote: "Un viaje visual que se siente como un recuerdo."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Image Super-Resolution",
+        url: "https://letsenhance.io/boost",
+        description: "Eleva la calidad de tus imágenes a un nivel asombroso con este AI que mejora la resolución. Mis fotos pixeladas nunca se vieron tan bien.",
+        quote: "Como pasar de VHS a 4K en un clic."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol Studio",
+        url: "https://refikanadol.com/",
+        description: "Refik Anadol se dedica a tomar datos y convertirlos en asombrosas piezas de arte visual. Su Instagram es pura magia digital.",
+        quote: "Donde los números se convierten en luz."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Neonflames",
+        url: "https://29a.ch/sandbox/2011/neonflames/",
+        description: "Crea tu propia nebulosa en el navegador, todo se ve tan cósmico que podrías engañar a la NASA.",
+        quote: "Tu universo en un lienzo."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Ethics of AI Art",
+        url: "https://www.futurism.com/the-byte/the-ethics-of-ai-art",
+        description: "Este ensayo te hará cuestionar si el arte creado por inteligencia artificial puede tener alma o si es solo un nuevo juguete brillante.",
+        quote: "¿Es arte si no hay un humano detrás del pincel?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Nerdwriter1 - Video Essays",
+        url: "https://www.youtube.com/user/Nerdwriter1",
+        description: "Este canal de YouTube desmenuza películas y arte en pequeños bocados de genialidad. Prepárate para ver lo que siempre estuvo ahí pero nunca notaste.",
+        quote: "Ver sin ser visto."
+    },
+    {
+        category: "música y sonido",
+        title: "Hainbach",
+        url: "https://hainbach.bandcamp.com/",
+        description: "Hainbach crea paisajes sonoros extraños y bellos utilizando viejos equipos de prueba científicos. Es como escuchar las frecuencias del universo.",
+        quote: "La música que los osciloscopios soñaban crear."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Illustoria - Instagram",
+        url: "https://www.instagram.com/illustoria_mag/",
+        description: "Un rincón en Instagram que celebra la creatividad infantil a través de ilustraciones y cuentos. Parece simple, pero despierta al niño interior.",
+        quote: "La imaginación nunca pasa de moda."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Internet Archive: VHS Vault",
+        url: "https://archive.org/details/vhsvault",
+        description: "El Archive’s VHS Vault es un tesoro de cintas viejas que captura la esencia de los 80s y 90s, desde anuncios ridículos hasta joyas olvidadas.",
+        quote: "Nostalgia en rebobinado perpetuo."
+    },
+    {
+        category: "IA experimental",
+        title: "Botnik Studios",
+        url: "https://botnik.org/",
+        description: "Botnik utiliza inteligencia artificial para co-crear contenido humorístico y literario. Es como si una máquina aprendiera a tener sentido del humor.",
+        quote: "Cuando las máquinas cuentan chistes."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.amazon.com/Codex-Seraphinianus-Luigi-Serafini/dp/0847842134",
+        description: "Un libro que parece ser escrito por un alienígena con un texto y dibujos incomprensibles. Es la enciclopedia de un mundo que nunca existió.",
+        quote: "El libro que Da Vinci podría haber dejado atrás."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Nobe Color Remap",
+        url: "https://timeinpixels.com/nobe-color-remap/",
+        description: "Una extensión para DaVinci Resolve que te permite cambiar los colores en tus videos de formas que ni te imaginabas. Ideal para cuando quieres que los cielos sean rosas y el césped morado.",
+        quote: "Cuando ni el arcoíris te limita."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Jonathan Monaghan",
+        url: "https://www.jonmonaghan.com/",
+        description: "Artista que mezcla lo digital con lo barroco, creando esculturas 3D que parecen salidas de un sueño espacial. Sus obras te hipnotizan hasta que te preguntas qué bichos tan elegantes tomaron tu cerebro.",
+        quote: "Un soplo del barroco en la era digital."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Paper Planes",
+        url: "https://paperplanes.world/",
+        description: "Envía aviones de papel virtuales alrededor del mundo y recolecta los de otros usuarios. Un juego donde la nostalgia y la tecnología se dan la mano para darte un respiro del inbox.",
+        quote: "Porque todos necesitamos lanzar un avión de papel al mundo."
+    },
+    {
+        category: "lectura que pica",
+        title: "Gaming the Metrics",
+        url: "https://reallifemag.com/gaming-the-metrics/",
+        description: "Un artículo que explora cómo los sistemas de métrica y analítica están alterando industrias enteras, desde los videojuegos hasta las redes sociales. Te hará replantearte cada like que das.",
+        quote: "¿Quién juega realmente, tú o el algoritmo?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Channel 2020",
+        url: "https://www.youtube.com/channel/UCSh2dS0QhExGfIQxTdK2RRA",
+        description: "Un canal de YouTube que recopila imágenes retrofuturistas con música de fondo inquietante. Perfecto para perderse y sentir que estás viendo la TV en una dimensión paralela.",
+        quote: "La nostalgia del futuro que no llegó."
+    },
+    {
+        category: "música y sonido",
+        title: "Dazed Digital Mixes",
+        url: "https://www.dazeddigital.com/music/article/51370/1/the-six-best-mix-from-dazed-in-2020",
+        description: "Explora una colección de mezclas musicales que no encontrarás en las listas de Spotify, desde ambient hasta ritmos rompederos. Hechas para abrir esas noches donde buscas lo inesperado.",
+        quote: "Cuando tu oído pide un viaje raro y desconocido."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Post Aesthetics",
+        url: "https://www.instagram.com/postaesthetics/",
+        description: "Cuenta de Instagram que recopila lo más raro y estéticamente explosivo del mundo digital. Aquí lo kitsch y lo sublime se mezclan sin pedir permiso.",
+        quote: "El arte pop del scroll eterno."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Endangered Languages Project",
+        url: "http://www.endangeredlanguages.com/",
+        description: "Un lugar donde voces de todo el mundo se unen para preservar idiomas en peligro de extinción. Una mezcla de academia y corazón que te conecta con la diversidad cultural.",
+        quote: "Las últimas palabras que importan."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Weirdness",
+        url: "http://aiweirdness.com/",
+        description: "Blog de Janelle Shane que documenta cómo redes neuronales hacen cosas extrañas e inesperadas. Si nunca te has cuestionado cómo una IA interpretaría una receta de pastel, este es tu espacio.",
+        quote: "Cuando la IA se comporta más humano que los humanos."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.codexseraphinianus.com/",
+        description: "Un extraño manuscrito que actúa como enciclopedia de un universo alternativo. Con dibujos y textos incomprensibles que despiertan tu imaginación en cada página.",
+        quote: "El libro que te hará soñar con mundos que no existen."
+    },
+    {
+        category: "herramienta creativa",
+        title: "SculptGL: Clínica de Esculturas",
+        url: "https://stephaneginier.com/sculptgl/",
+        description: "Si alguna vez has querido moldear arcilla sin ensuciarte las manos, SculptGL es tu lugar seguro. Este pequeño pero poderoso modelador 3D te deja experimentar con formas y volúmenes como si fueras un Michelangelo digital.",
+        quote: "Esculpe a David, pero más pixelado."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol: Dementes de Datos",
+        url: "https://refikanadol.com/",
+        description: "Sumérgete en un mundo donde los datos se transforman en arte que respira y se mueve. Refik Anadol está redefiniendo cómo vemos la tecnología al conectar lo físico con lo virtual de formas que casi te hacen olvidar que no es magia.",
+        quote: "La memoria digital nunca se vio tan embriagante."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Neonflamingo: Rewire Your Brain",
+        url: "https://neonflamingo.me/",
+        description: "Es un sandbox para el alma, una web donde tus clics generan algoritmos visuales hipnóticos. Vas a preferir perderte aquí que en Instagram durante tus descansos.",
+        quote: "Un gimnasio pixelado para tu cerebro."
+    },
+    {
+        category: "lectura que pica",
+        title: "El Dilema del Intersticio",
+        url: "https://restofworld.org/2023/the-digital-gap/",
+        description: "Un reportaje que te hace replantearte la brecha digital y su relación impactante con la cultura global. Una reflexión sobre cómo la tecnología lejos de unirnos, en ocasiones, puede ser un muro de cristal.",
+        quote: "¿El problema del siglo XXI? Conectar sin conexión."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Noclip: Documentales Ingrávidos",
+        url: "https://www.youtube.com/c/Noclip",
+        description: "El canal de YouTube que se mete en las entrañas del desarrollo de videojuegos. Con menos ruido que los grandes nombres, te hará preguntarte si deberías cambiar tu carrera para diseñar mundos.",
+        quote: "Detrás de cada píxel, hay una historia inaudita."
+    },
+    {
+        category: "música y sonido",
+        title: "The Caretaker: El Olvido Sonoro",
+        url: "https://thecaretaker.bandcamp.com/",
+        description: "Explora la música ambiente hecha a partir de loops de viejos discos de salón, diseñada para que experimentes el deterioro mental a través de sonidos. Es perturbador y fascinante al mismo tiempo.",
+        quote: "La nostalgia convertida en arte sonoro."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Post Real: Más Allá del Hype",
+        url: "https://instagram.com/postreal_/",
+        description: "Este Instagram está siempre un paso adelante del Zeitgeist, anticipando las modas que ni sabías que necesitabas. Un pastiche visual de tendencia vanguardista muy reciente.",
+        quote: "¿De moda? No, de metaverso."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Acceso Latino: Narrativas Invisibles",
+        url: "https://accesolatino.org/",
+        description: "Un portal digital con recursos para la comunidad latina en EE.UU., diseñado no solo para informar, sino para empoderar y conectar. Es un abrazo cálido en la vastedad de la red.",
+        quote: "La tierra prometida está a un clic."
+    },
+    {
+        category: "IA experimental",
+        title: "Runway: El Tomate de Turing",
+        url: "https://runwayml.com/",
+        description: "No es solo otro editor de video. Runway usa IA para transformar la creación audiovisual, permitiéndote editar con texto y explorar efectos impensables. Prepárate para revolucionar el storytelling visual.",
+        quote: "Hacer cine con un par de palabras."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Ship of Theseus: Puzzle Literario",
+        url: "https://www.sshipoftheseus.com/",
+        description: "Una novela dentro de una novela, creada por el famoso autor J.J. Abrams. Con notas personales en los márgenes, mapas y pistas, este libro es una experiencia interactiva que va mucho más allá de simplemente leer.",
+        quote: "Lee entre las líneas, y entre las palabras."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Flow Fields Playground",
+        url: "https://flowfields.org/",
+        description: "Esta web te permite jugar con campos de flujo y alucinar con patrones que parecen un cruce entre psicodelia y matemáticas puras. Perfecto si quieres crear fondos que parecen salir de un sueño fractal.",
+        quote: "La geometría no es aburrida cuando se mueve como en un rave."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Letícia Ramos - Exploraciones de Ciencia Ficción",
+        url: "https://www.instagram.com/letramos/",
+        description: "Letícia Ramos crea instalaciones y series fotográficas que parecen sacadas de futuros distantes, combinando ciencia ficción con técnicas analógicas. Su feed es un visado a otro mundo.",
+        quote: "Cuando la fotografía se encuentra con el espacio-tiempo."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Pixelsynth",
+        url: "https://keijiro.github.io/Pixelsynth/",
+        description: "En Pixelsynth, las imágenes cobran vida como sonidos. Sube una foto y escucha cómo se transforma en música, ofreciendo una experiencia sensorial completa.",
+        quote: "Una sinfonía visual en cada pixel."
+    },
+    {
+        category: "lectura que pica",
+        title: "Culture Digitally - Perspectivas de Innovación Cultural",
+        url: "https://culturedigitally.org/",
+        description: "Con ensayos de académicos y creativos, este sitio ofrece reflexiones sobre tecnología, cultura e innovación. Un rincón perfecto para perderse pensando en el futuro del diseño y más.",
+        quote: "Donde el culture shock es digital y nutritivo."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "The Wong Kar-Wai Look",
+        url: "https://www.youtube.com/watch?v=2YmXLdxKRmg",
+        description: "Un videoensayo que destripa la estética visual de Wong Kar-Wai. Si eres un obseso del color y la composición, esta pieza te guiará como una cátedra de cine.",
+        quote: "Entender a Wong es ver a través de un caleidoscopio emocional."
+    },
+    {
+        category: "música y sonido",
+        title: "Radiooooo - El Viaje Musical en el Tiempo",
+        url: "https://radiooooo.com/",
+        description: "Viaja musicalmente por décadas y países con Radiooooo. Elige un año y un lugar, y deja que el destino sonoro haga el resto. Perfecto para desarrollar una paleta musical diversa.",
+        quote: "Navegar en el tiempo suena mejor de lo que imaginas."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Ted's Little Dream",
+        url: "https://www.instagram.com/teds_little_dream/",
+        description: "Sigue a Ted en sus mini aventuras llenas de surrealismo y narrativas inesperadas. Cada publicación es como encontrar una pequeña joya visual y narrativa.",
+        quote: "El surrealismo nunca ha sido tan entrañable."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Internet Archive Wayback Machine",
+        url: "https://web.archive.org/",
+        description: "No es una web cualquiera; The Wayback Machine preserva la historia digital del mundo. Un recurso interminable para quienes buscan recordar o investigar el internet tal como era.",
+        quote: "Navegar el pasado nunca fue tan accesible."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Weirdness",
+        url: "https://www.aiweirdness.com/",
+        description: "Janelle Shane explora la IA de formas inesperadas, generando cosas tan divertidas como bizarras. Sus experimentos muestran que la inteligencia artificial aún puede sorprendernos y hacernos reír.",
+        quote: "Cuando las máquinas sueñan, lo hacen de manera extraña."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.rizzoliusa.com/book/9780847864699/",
+        description: "Un libro que parece sacado de otro mundo, escrito en un idioma inventado con ilustraciones que retan nuestra percepción. Si buscas el surrealismo en su máxima expresión, este tomo lo es.",
+        quote: "Un manual del universo imposible que cobra vida en cada página."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Satin Stitch Studio",
+        url: "https://www.satinstitchstudio.com",
+        description: "Esta app te deja bordar digitalmente tus diseños, simulando texturas de hilo real. Tus bocetos cobran vida con cada puntada, sin necesidad de aguja.",
+        quote: "Digital needlework for the restless creative mind."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Dan Lam - Blob Art",
+        url: "https://www.instagram.com/sopopomo",
+        description: "Dan Lam crea esculturas de colores fluorescentes y texturas extrañas que parecen alienígenas derretidos. Tienen algo hipnótico que te hace querer tocarlos con los ojos.",
+        quote: "Extraterrestrial blobs invading your aesthetic senses!"
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Gleamscape",
+        url: "https://gleamscape.com",
+        description: "Explora un paisaje virtual que responde a tus movimientos y clics. Cada interacción genera un universo sonoro y visual único, un playground para los sentidos.",
+        quote: "A digital world where your clicks compose the cosmos."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Uninhabitable Earth",
+        url: "https://nymag.com/intelligencer/2017/07/climate-change-earth-too-hot-for-humans.html",
+        description: "Este artículo te da una bofetada de realidad sobre el futuro que nos espera si no hacemos algo. Una lectura que te quita el sueño, pero en el buen sentido.",
+        quote: "A wake-up call ringing from the edge of tomorrow."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Channel Criswell - Visual Essays",
+        url: "https://www.youtube.com/user/criswell129",
+        description: "Vídeoensayos que desmenuzan la estética y narrativa visual de diferentes directores de cine. Cada video es un curso intensivo en amor por el séptimo arte.",
+        quote: "Peeling back the cinematic layers one essay at a time."
+    },
+    {
+        category: "música y sonido",
+        title: "Lullatone - Music for everyday adventures",
+        url: "https://www.lullatone.com",
+        description: "Dúo musical japonés que crea melodías minimalistas inspiradas en pequeños momentos de la vida diaria. Una banda sonora para tus pausas entre mundos.",
+        quote: "Soundtrack your coffee with whimsical charm."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Weird Dystopias - Instagram Art Showcase",
+        url: "https://www.instagram.com/weirddystopias",
+        description: "Exposición de artistas visuales que exploran mundos distópicos y futuristas. Cada post es una ventana a un universo que te hace rescatar la esperanza.",
+        quote: "When dystopias become eye candy."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Hopper in the Hood",
+        url: "https://hopperinthehood.com",
+        description: "Proyecto que reúne fotografías del renombrado Edward Hopper con escenas urbanas actuales. Un diálogo silencioso con el pasado que te invita al cambio.",
+        quote: "Hopper's ghosts whispering through modern streets."
+    },
+    {
+        category: "IA experimental",
+        title: "DeepArt.io",
+        url: "https://deepart.io",
+        description: "Convierte tus fotos en obras de arte inspiradas en estilos de famosos pintores. Tus selfies nunca pidieron ser Van Gogh hasta ahora.",
+        quote: "Transform selfies into masterpieces, one pixel at a time."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://seraphinianus.com",
+        description: "Un libro ilustrado que documenta mundos imaginarios con un alfabeto inventado. Es lo que obtendrías si Borges y Dalí escribieran un enciclopedia.",
+        quote: "The encyclopedia of dreamlike dimensions."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Blender's Fireside",
+        url: "https://blender.community/c/fireside",
+        description: "Un rincón del internet donde las mentes creativas se juntan para compartir sus proyectos de Blender. Desde renders astronómicos hasta locuras arquitectónicas, hay para todos los gustos.",
+        quote: "Es como si Pinterest y ArtStation tuvieran un hijo, y lo nombraran Blender."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Giulia Galimberti en Instagram",
+        url: "https://www.instagram.com/giuliagalimberti_/",
+        description: "Los colores y formas que Galimberti explora en sus obras digitales te atrapan como un caleidoscopio infinito. Su arte es una explosión visual que desafía lo cotidiano.",
+        quote: "Cada post es un festival de color y abstracción que no te puedes perder."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Pond",
+        url: "https://pond.im/",
+        description: "Imagina lanzar pensamientos al aire para ver cómo cambian con el tiempo. Este experimento web es un océano de ideas donde tus palabras adquieren vida propia.",
+        quote: "Escribir y ver cómo se alejan tus ideas... literalmente."
+    },
+    {
+        category: "lectura que pica",
+        title: "Substack: Rabbit Holes",
+        url: "https://rabbitholes.substack.com/",
+        description: "Ensayos que te llevan de la mano por los rincones oscuros del internet. Es una serie de cuentos modernos que escarban en el alma de lo digital.",
+        quote: "Cuando la curiosidad mató al gato, el gato estaba leyendo esto."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Accented Cinema",
+        url: "https://www.youtube.com/channel/UCGzbF6nNUEAnchY22jZynMw",
+        description: "Videoensayos sobre películas internacionales que te hacen replantearte cada escena. Más que una crítica, es un viaje a través del lente cultural.",
+        quote: "Cine con acento, pero sin subtítulos necesarios."
+    },
+    {
+        category: "música y sonido",
+        title: "Khotin",
+        url: "https://khotin.bandcamp.com/",
+        description: "Sonidos que parecen sacados de una cabina espacial vintage en una tarde lluviosa. Khotin es el tipo de música que transforma el ruido blanco en poesía musical.",
+        quote: "Música que es un soplo de aire fresco en un día nublado."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Ethereal Threads en Discord",
+        url: "https://discord.gg/etherealthreads",
+        description: "Un espacio donde los fantasmas de los textiles se encuentran con almas creativas. Aquí se habla de moda conceptual y textiles de lo etéreo.",
+        quote: "¿Moda y fantasmas? Sí, y hacen un desfile."
+    },
+    {
+        category: "proyecto con alma",
+        title: "StoryCorps Archive",
+        url: "https://archive.storycorps.org/",
+        description: "Personas comunes compartiendo el poder de sus historias extraordinarias. Una cápsula del tiempo que captura la voz humana y sus matices.",
+        quote: "Voces de quienes no sabías que necesitabas escuchar."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Dungeon",
+        url: "https://play.aidungeon.io/",
+        description: "Crea y aventúrate en relatos generados por inteligencia artificial. Cada historia es única y solo se detiene cuando tú decides pasar la página.",
+        quote: "Un libro de relatos que nunca termina de escribirse."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.rizzoliusa.com/book/9780847842131/",
+        description: "Un libro que no se puede leer pero se puede sentir. Una enciclopedia ilustrada de un mundo que te hará replantear qué es real.",
+        quote: "El libro de un mundo que aún no has visitado."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Doodlr - Generador de Garabatos",
+        url: "https://doodlr.app",
+        description: "Esta app te permite crear garabatos colaborativos en tiempo real. Ideal para break creativos o brainstorming en equipo.",
+        quote: "Tu próximo Picasso podría empezar con un simple garabato."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Beeple - Arte Diablo de lo Digital",
+        url: "https://www.instagram.com/beeple_crap",
+        description: "Mike Winkelmann, alias Beeple, muestra con una creatividad desbordante cómo el arte digital puede explotar cabezas y pantallas.",
+        quote: "Deja que Beeple te lleve de viaje psicodélico... todos los días."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Fluid Simulation",
+        url: "https://paveldogreat.github.io/WebGL-Fluid-Simulation/",
+        description: "Juega con esta simulación de fluidos en WebGL que es totalmente adictiva y casi hipnótica. Serás maestro del caos líquido.",
+        quote: "Cuidado, mojarse los ojos con colores puede ser adictivo."
+    },
+    {
+        category: "lectura que pica",
+        title: "Future Shock Rescuers",
+        url: "https://www.futurecrunch.com/future-shock-rescuers/",
+        description: "Un ensayo brillante sobre cómo enfrentar el futuro sin perder la cabeza en el intento, explorando el choque cultural ante el cambio tecnológico.",
+        quote: "¿Estás preparado para el impacto del futuro?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "LIMINAL - Video Ensayo",
+        url: "https://www.youtube.com/watch?v=Dp1dfCc5N0A",
+        description: "Un videoensayo que explora los espacios liminales y cómo estos paisajes transitorios afectan nuestra percepción del tiempo y la memoria.",
+        quote: "Entre lo conocido y lo incierto, ahí yace la magia."
+    },
+    {
+        category: "música y sonido",
+        title: "Disco eos - Explorador Sonoro",
+        url: "https://naviarrecords.com/disco-eos/",
+        description: "Una plataforma dedicada a proyectos de música experimental y colaborativa, donde los límites del sonido se estiran como un chicle auditivo.",
+        quote: "Donde el silencio se transforma en sonido y viceversa."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Obscure Podcast Club",
+        url: "https://www.instagram.com/obscurepodcastclub",
+        description: "Una comunidad en Instagram que desentierra podcasts menos conocidos, ideales para aquellos que se aburren de lo mainstream.",
+        quote: "Podcasts que te quitarán el sueño (de la siesta)."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Memory Map",
+        url: "https://memorymap.io",
+        description: "Una web en la que la gente comparte lugares que han marcado su vida, creando un mapa interactivo emocional del mundo.",
+        quote: "Cada punto en el mapa es una historia que palpita."
+    },
+    {
+        category: "IA experimental",
+        title: "DeepDream Textures",
+        url: "https://ai.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html",
+        description: "Google DeepDream transforma fotos comunes en visiones alucinógenas. Experimenta cargando tus imágenes y ve cómo se convierten en sueños surrealistas.",
+        quote: "Las máquinas también sueñan... y es un viaje."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus - Enciclopedia Bizarra",
+        url: "https://www.amazon.com/Codex-Seraphinianus/dp/0847838737",
+        description: "Considerado uno de los libros más extraños jamás creados, es una enciclopedia ficticia de un mundo surrealista con ilustraciones indescriptibles.",
+        quote: "Entra al libro que desafía incluso la lógica del sueño."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Artbreeder",
+        url: "https://www.artbreeder.com/",
+        description: "Imagínate mezclar rostros como si fueran ingredientes de una receta secreta. Artbreeder es una plataforma que te permite fusionar imágenes y crear retratos únicos con IA. Te pasarás horas experimentando.",
+        quote: "El Photoshop del futuro está aquí y se llama Artbreeder."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Simon Stålenhag",
+        url: "https://www.simonstalenhag.se/",
+        description: "Este artista sueco pinta lo que parece un segundo universo paralelo donde robots y criaturas extrañas coexisten con la vida rural. Cada imagen es una historia de ciencia ficción esperando ser escrita.",
+        quote: "Es un futuro que ya está oxidándose."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Sortie En Mer",
+        url: "https://sortieenmer.com/",
+        description: "Una experiencia inmersiva que te pone en las aguas del mar, y no de la forma romántica. Prepárate para sentir la presión del agua y la urgencia de sobrevivir. Ponte los auriculares para una experiencia total.",
+        quote: "Te hará reconsiderar tus próximas vacaciones en yate."
+    },
+    {
+        category: "lectura que pica",
+        title: "Palladium Magazine",
+        url: "https://palladiummag.com/",
+        description: "Ensayos profundos sobre política, tecnología y cultura global. No esperes las noticias de siempre; aquí encontrarás reflexiones que traspasan la superficie.",
+        quote: "Para los que saben que saber es poder, pero a veces también confusión."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Primitive Technology",
+        url: "https://www.youtube.com/user/PrimitiveTechnology",
+        description: "Un canal de YouTube donde un hombre construye herramientas antiguas desde cero. Sin música, sin comentarios, solo naturaleza y habilidad pura. Verlo es sorprendentemente relajante.",
+        quote: "Cuando un video del paleolítico supera a tu serie favorita."
+    },
+    {
+        category: "música y sonido",
+        title: "NTS Radio",
+        url: "https://www.nts.live/",
+        description: "Esta emisora de radio online en vivo presenta sonidos de todo el mundo, desde underground hasta rarezas experimentales. Descubre música que desafía etiquetas.",
+        quote: "El soundtrack del mundo subterráneo."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Cheap Old Houses",
+        url: "https://www.instagram.com/cheapoldhouses/",
+        description: "Un Instagram que muestra casas antiguas baratas que son joyas arquitectónicas escondidas. Un paseo visual que te hará soñar con mudarte a un lugar más simple.",
+        quote: "Porque todos necesitamos una mansión por el precio de un café."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Missing Maps Project",
+        url: "https://www.missingmaps.org/",
+        description: "Un proyecto para mapear áreas vulnerables en el mundo usando la colaboración de voluntarios. Actualizan datos que pueden salvar vidas en caso de desastres.",
+        quote: "Trazando líneas que podrían ser la diferencia entre la vida y la muerte."
+    },
+    {
+        category: "IA experimental",
+        title: "This Waifu Does Not Exist",
+        url: "https://www.thiswaifudoesnotexist.net/",
+        description: "Por si el meme de waifus necesitaba algo más, esta IA crea retratos de personajes anime que no existen en ningún otro lado. Es una mezcla de lo adorable y lo inquietante.",
+        quote: "Dale un vistazo a las waifus de un futuro post-apocalíptico digital."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://en.wikipedia.org/wiki/Codex_Seraphinianus",
+        description: "Esta enciclopedia ilustrada de mundos imaginarios es como si el Dr. Seuss y Miró se juntaran para escribir el manual de un universo paralelo. Completamente surrealista y un deleite visual.",
+        quote: "La enciclopedia de un planeta en una dimensión desconocida."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Colordot by Hailpixel",
+        url: "https://color.hailpixel.com/",
+        description: "Una herramienta minimalista que te permite crear paletas de colores simplemente moviendo el ratón. Perfecta para esos días que quieres simplificar la elección de colores sin complicarte demasiado.",
+        quote: "El arco iris en la punta de tu mouse."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Brendan Dawes' Data Art",
+        url: "https://brendandawes.com/",
+        description: "Artista que fusiona diseño, arte y tecnología para crear obras que parecen sacadas del futuro. Su uso del código como medio artístico redefine lo que creemos es el arte digital.",
+        quote: "Cuando el código se convierte en pincel."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Neal Agarwal's Deep Sea",
+        url: "https://neal.fun/deep-sea/",
+        description: "Sumérgete en el océano sin mojarte siguiendo una línea infinita que te muestra criaturas marinas cada vez más misteriosas. Perfecto para una pausa en el día.",
+        quote: "Exploración oceánica virtual. Sin escafandra."
+    },
+    {
+        category: "lectura que pica",
+        title: "Mesh: The End of Information Silos",
+        url: "https://www.forbes.com/sites/nicolemartin1/2022/06/29/mesh-the-end-of-information-silos-in-businesses/",
+        description: "Un artículo fascinante sobre cómo la revolución del 'mesh' está rompiendo los silos de información en los negocios, y cómo esto está transformando el mundo empresarial.",
+        quote: "El poder de la conexión en tiempos de desconexión."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Kogonada's Video Essays",
+        url: "https://vimeo.com/kogonada",
+        description: "Increíbles videoensayos sobre cine que te harán ver películas clásicas con ojos nuevos. Cada frame, un poema visual.",
+        quote: "El arte de narrar sin palabras."
+    },
+    {
+        category: "música y sonido",
+        title: "The Caretaker's Everywhere at the End of Time",
+        url: "https://thecaretaker.bandcamp.com/",
+        description: "Un proyecto sonoro que explora el deterioro de la memoria a través de música ambient. Te sentirás como si estuvieras atrapado en un sueño borroso.",
+        quote: "La nostalgia convertida en sonido."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Venkatesh Rao's Ribbonfarm",
+        url: "https://www.ribbonfarm.com/",
+        description: "Un blog de ensayos largos sobre temas como la economía informal y el futuro del trabajo. La comunidad de comentarios es igual de apasionada.",
+        quote: "Para los que aún aman perderse en un buen texto."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Endangered Languages Archive",
+        url: "https://elararchive.org/",
+        description: "Una inmensa biblioteca digital dedicada a preservar las lenguas en peligro de extinción del mundo. Un canto a la diversidad cultural.",
+        quote: "Cuando las palabras son tesoros."
+    },
+    {
+        category: "IA experimental",
+        title: "Playform.io: AI Art Board",
+        url: "https://www.playform.io/",
+        description: "Plataforma que permite a artistas experimentar con inteligencia artificial para crear obras únicas. Un lienzo digital para el nuevo renacimiento.",
+        quote: "La musa es una máquina."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Bibliotheca Universalis",
+        url: "https://www.taschen.com/pages/en/catalogue/bibliotheca_universalis/index.htm",
+        description: "Una colección de libros impresionantes que abarcan arte, arquitectura, diseño y cultura. Ideal para las estanterías de cualquier curioso.",
+        quote: "Enciclopedias de asombro encuadernado."
+    },
+    {
+        category: "herramienta creativa",
+        title: "BlobMaker - Crea Blobs aleatorios",
+        url: "https://www.blobmaker.app/",
+        description: "Esos días en los que te atascas buscando formas orgánicas, esta app te genera blobs para que juegues con ellos, como plastilina digital.",
+        quote: "Porque la vida es mejor con un poco de caos geométrico."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol - Datos convertidos en sueños",
+        url: "https://refikanadol.com/",
+        description: "Refik Anadol transforma conjuntos de datos en experiencias visuales y sensoriales. Es arte hecho con números, y a veces sueñas con ellos.",
+        quote: "¿Quién dijo que los datos son aburridos?"
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Neon Flames - Juega a ser Dios del cielo",
+        url: "https://29a.ch/sandbox/2020/neonflames/",
+        description: "Dibuja nebulosas y galaxias enteras en tu navegador, un universo a lo Van Gogh mientras haces la digestión.",
+        quote: "Van Gogh meets cosmos, desde tu pantalla."
+    },
+    {
+        category: "lectura que pica",
+        title: "Future Architecture Platform - Repensando ciudades",
+        url: "http://futurearchitectureplatform.org/",
+        description: "Ensayos y discusiones profundas sobre la arquitectura del futuro. Ábrelo y descubre por qué tu cuidad aún vive en el paleolítico.",
+        quote: "Edificios que hablan el idioma del mañana."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "The Egg - Ideas cósmicas en 7 minutos",
+        url: "https://www.youtube.com/watch?v=h6fcK_fRYaI",
+        description: "Un corto animado que trata la vida, el universo y todo lo demás en menos tiempo de lo que tarda tu café en enfriarse.",
+        quote: "La vida, el universo y un huevo."
+    },
+    {
+        category: "música y sonido",
+        title: "Yosi Horikawa - Música para viajeros espaciales",
+        url: "https://yosihorikawa.com/",
+        description: "Este productor japonés crea sonidos que te hacen sentir como si estuvieras en un videojuego con auriculares de alta definición.",
+        quote: "Escuchar es viajar, sin despegar los pies del suelo."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Weird Art Club - Círculo de creativos",
+        url: "https://www.instagram.com/weirdartclub/",
+        description: "Una comunidad de artistas que comparten y celebran la creación más rara y audaz. Perfecto para desconectar del mainstream.",
+        quote: "Porque lo raro es el nuevo cool."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Memory Maps - Reinscribiendo la historia",
+        url: "https://memorymaps.net/",
+        description: "Un proyecto que mapea lugares con historias personales. ¿Quién necesita Google Maps cuando tienes mapas del corazón?",
+        quote: "Cartografía empática para el alma curiosa."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Dungeon - Aventuras sin fin",
+        url: "https://play.aidungeon.io/",
+        description: "Una IA que genera juegos de rol basados en texto, donde el único límite es tu imaginación. Prepárate para perderte en mundos inventados.",
+        quote: "Elige tu propia aventura, versión 3.0."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus - Enciclopedia de lo imposible",
+        url: "https://www.luigi-serafini-lab.com/codex",
+        description: "Este libro es tan enigmático que lo leerás como quien observa arte abstracto. Se dice que es la mejor guía a un mundo que no existe.",
+        quote: "Un libro que despierta más preguntas que secretos."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Generative Artistry",
+        url: "https://generativeartistry.com/",
+        description: "Talleres interactivos que te enseñan a crear arte generativo desde cero. Sumérgete y deja que el azar tome el control.",
+        quote: "Arte que no controlas, pero que te entiende."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol - Tech Dreams",
+        url: "https://refikanadol.com/",
+        description: "Este artista se especializa en transformar grandes cantidades de datos en experiencias visuales inmersivas, como si M.C. Escher se hubiera encontrado con Big Data.",
+        quote: "Cuando los datos se convierten en sueños lúcidos."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "The Tone Matrix",
+        url: "https://tonematrix.audiotool.com/",
+        description: "Un sencillo secuenciador web que te convierte en DJ por un día. Cada clic agrega un tono a una sinfonía hipnótica.",
+        quote: "La simplicidad hecha sinfonía."
+    },
+    {
+        category: "lectura que pica",
+        title: "The New Aesthetic",
+        url: "https://new-aesthetic.tumblr.com/",
+        description: "Un archivo visual de cómo lo digital infiltra la vida cotidiana. Desde drones hasta glitches, este espacio explora la estética digital emergente.",
+        quote: "Cuando la realidad comienza a pixelarse."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "ContraPoints - Visual Essays",
+        url: "https://www.youtube.com/user/ContraPoints",
+        description: "Natalie Wynn ofrece videoensayos estéticamente hermosos y filosóficamente profundos sobre temas contemporáneos que te dejarán con preguntas.",
+        quote: "Un cóctel visual de filosofía moderna."
+    },
+    {
+        category: "música y sonido",
+        title: "Boiler Room - Isolation Booth",
+        url: "https://boilerroom.tv/tag/isolation-booth",
+        description: "En la serie Isolation Booth, artistas de música electrónica desvelan sets íntimos desde sus espacios personales. Un viaje sonoro sin necesidad de salir de casa.",
+        quote: "La fiesta privada que siempre quisiste."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Design Twitter Gems",
+        url: "https://twitter.com/DesignGemsIO",
+        description: "Una cuenta de Twitter que desentierra herramientas, técnicas y tutoriales de diseño poco conocidos. Ideal para quien busca tesoros escondidos.",
+        quote: "El cofre del tesoro de los creativos."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Creative Independent",
+        url: "https://thecreativeindependent.com/",
+        description: "Un archivo de sabiduría creativa que abarca entrevistas, ensayos y guías de artistas que comparten sus experiencias e inspiraciones.",
+        quote: "La brújula para navegantes creativos."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Dungeon",
+        url: "https://play.aidungeon.io/",
+        description: "Una aventura textual infinita generada por inteligencia artificial. Aquí, tus decisiones llevan la narrativa a lugares impensables.",
+        quote: "Elige tu aventura, y déjala correr libre."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://en.wikipedia.org/wiki/Codex_Seraphinianus",
+        description: "Considerado el libro más extraño jamás publicado, este compendio surrealista es un enigma ilustrado al estilo de un manuscrito medieval.",
+        quote: "El libro que Dali y Da Vinci nunca escribieron juntos."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Vectornator",
+        url: "https://www.vectornator.io/",
+        description: "Si alguna vez has querido experimentar con diseño vectorial sin limitarte, esta app es lo tuyo. Un editor potente y gratis que corre tanto en iPads como en Mac. Te vas a sentir un profesional.",
+        quote: "Dibuja un futuro vectorizado, gratis y sin remordimientos."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Joshua Davis Studios",
+        url: "https://joshuadavis.com/",
+        description: "Joshua Davis crea arte generativo que te va a volar la cabeza. Su obra mezcla programación, audacia y un estilo que parece sacado de un sueño digital.",
+        quote: "Arte que no programaste soñar, pero aquí está."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Touch Pianist",
+        url: "https://touchpianist.com/",
+        description: "Transforma tus clicks en una performance musical. Cada toque es una nota, y tú diriges la orquesta. Momentos de Mozart en tu navegador.",
+        quote: "Conviértete en pianista sin saber tocar ni un acorde."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Pudding",
+        url: "https://pudding.cool/",
+        description: "The Pudding convierte datos en historias visuales. Cada artículo es un viaje a través de gráficos que te cuentan el porqué de los pequeños misterios de la vida moderna.",
+        quote: "Historias que saben tanto como una buena taza de café."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "The Nerdwriter",
+        url: "https://www.youtube.com/user/Nerdwriter1",
+        description: "Cada video de The Nerdwriter te sumerge en un análisis profundo de cultura pop y arte. Es como si un crítico de cine te hablara directamente al oído.",
+        quote: "Ver más allá de la pantalla con cada análisis."
+    },
+    {
+        category: "música y sonido",
+        title: "Nils Frahm's Spaces",
+        url: "https://www.erasedtapes.com/release/eratp055-nils-frahm-spaces",
+        description: "Explora las texturas sonoras de Nils Frahm en su álbum 'Spaces'. Un viaje musical donde cada nota es como un espacio seguro para el oido.",
+        quote: "Un espacio sonoro que se siente como hogar."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Unearthed Notes",
+        url: "https://unearthednotes.substack.com/",
+        description: "Esta newsletter es como una excavación arqueológica semanal. Descubre áreas impensadas del conocimiento, desde canciones escondidas hasta teorías interesantes.",
+        quote: "Descubre tesoros ocultos sin mover un grano de arena."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Refugee Project",
+        url: "http://www.therefugeeproject.org/",
+        description: "Este mapa interactivo revela la historia de los movimientos de refugiados desde 1975 hasta ahora. Te atrapará con datos, historias reales y un diseño envolvente.",
+        quote: "Mapa que narra historias de búsqueda y esperanza."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Dungeon",
+        url: "https://play.aidungeon.io/",
+        description: "Crea y vive tus propias aventuras con AI Dungeon. Una IA genera cuentos fantásticos donde tú decides el rumbo de la historia.",
+        quote: "Tu aventura, sus límites no existen."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.rizzoliusa.com/book/9780847842131/",
+        description: "Este libro es un artefacto visual de otro siglo, como un zoológico de plantas e inventos por descubrir. Es lo que pasaría si Alicia explorara un país de las maravillas sin lógica.",
+        quote: "Un portal a un universo paralelo en forma de libro."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Colormind",
+        url: "http://colormind.io/",
+        description: "Una IA que genera paletas de colores inspiradas en películas, naturaleza, y todo lo visual bajo el cielo. Perfecta para esos momentos en los que tu cerebro es un pantone en blanco.",
+        quote: "La IA que le ganó a Pantone con estilo de cine."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Beeple",
+        url: "https://www.instagram.com/beeple_crap/",
+        description: "Mike Winkelmann, alias Beeple, crea obsesivamente una imagen digital cada día. Sus piezas de ciencia ficción distópica son como un viaje de ácido en el mundo de los NFT.",
+        quote: "Notas de ciencia ficción para un desayuno visual."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Neonflames",
+        url: "https://weavesilk.com/",
+        description: "Un lugar donde tus aburridas líneas se transforman en coloridos fuegos artificiales. El lienzo digital para cualquiera que quiera sentirse un artista pirotécnico en la oficina.",
+        quote: "Juega a ser el Da Vinci de las auroras boreales."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Pudding",
+        url: "https://pudding.cool/",
+        description: "Artículos que desmenuzan datos en narrativas visuales. Desde pizza a política, estos ensayos son para quienes prefieren pensar con los ojos.",
+        quote: "Porque los graficomaníacos también necesitan literatura."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Nerdwriter1",
+        url: "https://www.youtube.com/user/Nerdwriter1",
+        description: "Ensayos visuales que te hacen cuestionar todo, desde el arte del cine hasta la sopa de letras de la política. Un paseo por el cerebro de un nerd creativo.",
+        quote: "Los videoclips que siempre quisiste leer."
+    },
+    {
+        category: "música y sonido",
+        title: "NTS Radio",
+        url: "https://www.nts.live/",
+        description: "Estación de radio online donde cada show es una joya oculta curada por DJs que saben lo que hacen. Desde jazz bajo tierra hasta ritmos efervescentes.",
+        quote: "Para aquellos que buscan la banda sonora de un universo paralelo."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Daily Overview",
+        url: "https://www.dailyoverview.com/",
+        description: "Imágenes satelitales diarias del planeta que te hacen ver el mundo de manera diferente. Transforman lo mundano en maravillosos laberintos visuales.",
+        quote: "Así se ve la fascinación desde arriba."
+    },
+    {
+        category: "IA experimental",
+        title: "This Person Does Not Exist",
+        url: "https://thispersondoesnotexist.com/",
+        description: "Retratos hiperrealistas creados por IA en cada refresco de la página. Personas que no conocen crisis existenciales porque simplemente... no existen.",
+        quote: "La realidad virtual ahora tiene cara."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "S, el libro enigma",
+        url: "https://en.wikipedia.org/wiki/S._(Dorst_novel)",
+        description: "Escrito por J.J. Abrams y Doug Dorst. Una novela dentro de un libro misterioso lleno de notas, recortes y pistas. Un rompecabezas literario en un packaging digno de película.",
+        quote: "El único libro que traiciona el 'solo lectura'."
+    },
+    {
+        category: "herramienta creativa",
+        title: "MagicaVoxel",
+        url: "https://ephtracy.github.io/",
+        description: "¿Te imaginas crear mundos en 3D con voxels y que sean tan coloridos como un caleidoscopio? MagicaVoxel es un editor gratuito que te permite hacer justo eso, y lo mejor es que es amigable y poderoso al mismo tiempo.",
+        quote: "Como Lego, pero con píxeles. Y sin pisotazos dolorosos."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Chloe Wise",
+        url: "https://www.instagram.com/chloewise_/",
+        description: "Chloe Wise desafía las nociones de consumismo y moda con su sátira visual. Sus pinturas que imitan comida de manera absurdamente realista te harán cuestionar el lujo cotidiano.",
+        quote: "Convierto baguettes en obras de arte, ¿y tú qué has hecho hoy?"
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Silk – Interactive Generative Art",
+        url: "http://weavesilk.com/",
+        description: "Dibuja líneas hipnóticas de colores etéreos que se multiplican simétricamente por la pantalla. Silk convierte tu ratón en una varita mágica de telarañas digitales.",
+        quote: "Como ver bailar seda al viento, pero más digital."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Future of Work",
+        url: "https://www.weforum.org/agenda/2022/05/future-of-work-2023/",
+        description: "Un informe del World Economic Forum que explora las tendencias laborales emergentes. Prepárate para un futuro lleno de robots compañeros de trabajo y habilidades que suenan a ciencia ficción.",
+        quote: "¿Cuánto falta para que mi jefe sea un robot?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Briefcase Joe: Eminem's Secret Freestyle",
+        url: "https://www.youtube.com/watch?v=DPfbC4Oj7mU",
+        description: "Descubre a Eminem en su faceta más hilarante con James Corden en un sketch que mezcla lo inesperado y lo absurdamente divertido. Es Eminem, pero como nunca lo has visto.",
+        quote: "Mi nombre es Joe y esto es un freestyle, ninga-nunga-nadie me aguanta el flow."
+    },
+    {
+        category: "música y sonido",
+        title: "Nardwuar: The Human Serviette",
+        url: "https://www.nardwuar.com/",
+        description: "Con sus entrevistas musicales que son auténticos espectáculos de investigación, Nardwuar te hace sonreír y asombrarte con cada pregunta que formula. Imprescindible para cualquier fan de la música.",
+        quote: "La Wikipedia andante de las entrevistas musicales."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Weird Second-Hand Finds",
+        url: "https://www.facebook.com/groups/weirdsecondhandfinds",
+        description: "Una comunidad de Facebook donde la gente comparte sus hallazgos de segunda mano más extraños y maravillosos. Desde artefactos retro hasta lo inexplicable, cada post es una aventura.",
+        quote: "El tesoro de un hombre es la rareza de otro."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Map of Real Places",
+        url: "https://www.mapoftherealworld.com/",
+        description: "Un mapa colaborativo que recalca lugares que no encontrarás en guías turísticas. Cada punto es una historia personal, un rincón del mundo que tiene un valor único para alguien.",
+        quote: "La geografía del corazón humano."
+    },
+    {
+        category: "IA experimental",
+        title: "Botnik Studios",
+        url: "https://botnik.org/",
+        description: "Utilizando modelos predictivos y un toque de humor, Botnik crea guiones, canciones y más contenido que oscila entre lo absurdo y lo brillantemente ingenioso. Es la IA con sentido del humor.",
+        quote: "Cuando las máquinas hacen comedia, el mundo se ríe."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "The Voynich Manuscript",
+        url: "https://beinecke.library.yale.edu/collections/highlights/voynich-manuscript",
+        description: "Este manuscrito medieval es un enigma sin descifrar, lleno de ilustraciones botánicas de plantas que no existen. Es como si Da Vinci hubiera reinventado la botánica alienígena.",
+        quote: "El libro que ni el más experto en idiomas puede leer."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Patatap",
+        url: "https://www.patatap.com/",
+        description: "Patatap es una herramienta donde cada tecla es un sonido y una animación diferente. Pruébalo, y verás cómo un teclado se transforma en un instrumento audiovisual hipnótico.",
+        quote: "Cuando tu teclado se convierte en una rave portátil."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "LaTurbo Avedon",
+        url: "https://www.instagram.com/laturboavedon/",
+        description: "LaTurbo Avedon es un artista digital que solo existe en línea, desdibujando las fronteras entre el avatar y el creador. Su arte es una exploración fascinante del mundo virtual.",
+        quote: "El arte de existir, pero no realmente."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Silk - Interactive Generative Art",
+        url: "http://weavesilk.com/",
+        description: "Silk te permite crear arte generativo basado en simetrías y colores brillantes. Es casi terapéutico ver cómo tus movimientos crean algo tan delicado y vibrante.",
+        quote: "Medita mientras creas un universo de hilos de luz."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Last Bookstore - Newsletter",
+        url: "https://www.lastbookstorela.com/newsletter/",
+        description: "La newsletter de The Last Bookstore en Los Ángeles ofrece artículos y ensayos sobre el papel de los libros y el futuro de las librerías en la era digital. Una lectura que te hará cuestionar el futuro del papel.",
+        quote: "Porque los libros no solo son para leer, sino para imaginar su futuro."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "In Praise of Shadows",
+        url: "https://www.youtube.com/channel/UCmQisrVAY9vMxUgNRbS-SZw",
+        description: "En este canal de YouTube, encontrarás análisis profundos de cine oscuro, estéticas melancólicas y narrativas literarias. Perfecto para una tarde de reflexión visual.",
+        quote: "Explora la belleza donde la luz se encuentra con la oscuridad."
+    },
+    {
+        category: "música y sonido",
+        title: "Accidental Tech Podcast - Music Episode",
+        url: "https://atp.fm/episodes",
+        description: "En ocasiones, estos tecnólogos se desvían hacia la música, recomendando piezas raras que te harán reconsiderar lo que creías saber sobre el sonido.",
+        quote: "Descubre una banda sonora para el futuro de la tecnología."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Obscure Sorrows",
+        url: "https://www.instagram.com/obscuresorrows/",
+        description: "Esta cuenta de Instagram imagina palabras para las emociones que todos sentimos pero no podemos describir. Es el diccionario de nuestras almas perdidas.",
+        quote: "Palabras para esos sentimientos que apenas puedes nombrar."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Map of Online Communities",
+        url: "https://anvaka.github.io/map-of-reddit/",
+        description: "Este mapa interactivo te muestra cómo subreddits se conectan como galaxias en el universo del internet. ¡Ideal para perderse y descubrir nuevos intereses!",
+        quote: "Naviga por las constelaciones de la comunidad digital."
+    },
+    {
+        category: "IA experimental",
+        title: "Deep Dream Generator",
+        url: "https://deepdreamgenerator.com/",
+        description: "Con Deep Dream Generator, puedes transformar tus imágenes en extraños y alucinantes paisajes de sueños, cortesía de la IA de Google.",
+        quote: "Convierte la realidad en un sueño psicodélico."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Moleskine Smart Writing Set",
+        url: "https://www.moleskine.com/en-us/smart-writing-set-ellipsis_p1089523",
+        description: "Este set de Moleskine transforma las notas en papel en archivos digitales listos para compartir. Como si tu bloc de notas y tu nube se terminaran de conocer.",
+        quote: "El futuro del papel está en tus manos."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Spline - Crea en 3D sin drama",
+        url: "https://spline.design/",
+        description: "¿Listo para reavivar tu amor por el 3D? Spline es la herramienta donde cualquiera puede diseñar y colaborar en modelos 3D directamente desde el navegador. Sin descargas incómodas, todo es intuitivo y co-op.",
+        quote: "Diseñar en 3D ya no es un dolor de cabeza, es un café de sobremesa."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Noah Kalina - Fotografía diaria",
+        url: "https://instagram.com/noahkalina",
+        description: "Noah Kalina, el tipo detrás del famoso 'Everyday', sigue capturando momentos que te hacen sentir como si el tiempo se detuviera. Su Instagram es un museo de quietud y belleza cotidiana.",
+        quote: "El arte de congelar el tiempo, un día a la vez."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Neon Flames",
+        url: "https://weavesilk.com/",
+        description: "Descubre el placer de 'pintar' con sedas de colores mientras dejas que tu lado zen trace intrincadas y vibrantes formas. Una pequeña terapia en forma de arte digital.",
+        quote: "El arte de dejar que las sedas hablen."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Creative Independent",
+        url: "https://thecreativeindependent.com/",
+        description: "Un compendio de entrevistas y ensayos sobre el viaje de ser creativo en un mundo que a menudo se siente como si estuviera en tu contra. Reflexiones que dan que pensar.",
+        quote: "Una brújula para creativos perdidos en altamar."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Nerdwriter1 - Desenredando el cine",
+        url: "https://www.youtube.com/user/Nerdwriter1",
+        description: "Estos videoensayos no son sólo lecciones de cine; son una oda a la belleza de cómo las pequeñas cosas cuentan grandes historias. Prepárate para ver películas con nuevos ojos.",
+        quote: "El arte de ver lo ordinario extraordinariamente."
+    },
+    {
+        category: "música y sonido",
+        title: "Bandcamp Daily - Joyas ocultas del audio",
+        url: "https://daily.bandcamp.com/",
+        description: "Explora sonidos que tus oídos desconocían, con recomendaciones de música indie, experimental y underground. Un oasis para audiófilos intrépidos.",
+        quote: "Cuando las ondas sonoras son un mundo por descubrir."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Savee.it - Moodboards para tu inspiración",
+        url: "https://savee.it/",
+        description: "Una comunidad visual donde los diseñadores se enamoran y comparten imágenes en colecciones. Piérdete en un mar de estética cuidadosamente curada.",
+        quote: "Donde el ojo nunca se cansa de ver."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Native Land Digital - Mapa de territorios indígenas",
+        url: "https://native-land.ca/",
+        description: "Un mapa interactivo que te invita a ver el mundo a través de los territorios indígenas que habitaban (y habitan) nuestro planeta. Un recordatorio de la historia que sostiene nuestro suelo.",
+        quote: "Porque la tierra cuenta historias mucho antes de nosotros."
+    },
+    {
+        category: "IA experimental",
+        title: "DALL-E 2 - Imágenes generativas",
+        url: "https://openai.com/dall-e-2/",
+        description: "DALL-E es la IA que toma tus palabras y las convierte en imágenes que nunca pensaste posibles. Un juego de imaginación llevado al lienzo digital.",
+        quote: "Cuando darle a la lengua tiene nuevos resultados visuales."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "The Clarion Call - Libros de arte en miniatura",
+        url: "https://www.theclarioncall.co/",
+        description: "Ediciones limitadas de libros de arte que caben en la palma de tu mano. Perfectos para coleccionistas con una inclinación por lo extraordinario.",
+        quote: "Las grandes ideas caben en las publicaciones más pequeñas."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Doodlr",
+        url: "https://doodlr.fun",
+        description: "Un editor de ilustraciones colaborativo donde ves cómo los bocetos de otros cobran vida junto a los tuyos. Es como dibujar en una pared con gente de todo el mundo.",
+        quote: "¡Dibuja, comparte, diviértete!"
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Loop Dreams by Anna Lucia",
+        url: "https://www.instagram.com/annalucia.art",
+        description: "Anna Lucia te hipnotiza con sus loops animados infinitos, cada frame parece un susurro de colores que nunca deja de bailar.",
+        quote: "Cuando el loop se convierte en una danza visual."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Generative Gears",
+        url: "https://generativegears.com",
+        description: "Un experimento WebGPU donde estructuras mecánicas simuladas cambian según los movimientos de tu ratón. Adictivo y un poco hipnótico.",
+        quote: "Mueve un poco el ratón y construye el universo mecánico."
+    },
+    {
+        category: "lectura que pica",
+        title: "Post-Humanism Manifesto",
+        url: "https://posthumanmanifesto.com",
+        description: "Un ensayo contundente sobre cómo la tecnología está rediseñando nuestra humanidad. Prepárate para cuestionar dónde termina el ser humano y empieza la máquina.",
+        quote: "¿Qué nos hace humanos cuando las máquinas sienten?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Visual Poetry by Futuro Estudio",
+        url: "https://www.youtube.com/channel/UCFuturoEstudio",
+        description: "Un canal de cortos visuales que mezcla poesía con imágenes oníricas. Cada video es una pequeña cápsula de sueños en streaming.",
+        quote: "Visiones que susurran versos."
+    },
+    {
+        category: "música y sonido",
+        title: "Sonic Finders",
+        url: "https://www.instagram.com/sonicfinders",
+        description: "Una cuenta que descubre música electrónica experimental con sonidos que parecen sacados de otro planeta. Oídos abiertos.",
+        quote: "El sonido de lo no descubierto."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Fragmented Futures",
+        url: "https://substack.com/fragmented-futures",
+        description: "Un Substack que te lleva por los caminos menos transitados de la cultura digital. Fragmentos de lo que podría ser el futuro.",
+        quote: "Colectando destellos del mañana."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Memories in Pixels",
+        url: "https://memoriesinpixels.org",
+        description: "Este archive digital preserva fotografías de momentos olvidados y les da vida nueva, te hace reflexionar sobre el poder del pasado en el presente.",
+        quote: "Donde los recuerdos encuentran un nuevo hogar."
+    },
+    {
+        category: "IA experimental",
+        title: "AImpressions",
+        url: "https://aimpressions.art",
+        description: "Un proyecto que utiliza IA para recrear obras maestras del arte a partir de descripciones textuales. Lo clásico renace digitalmente.",
+        quote: "Cuando las palabras pintan."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.rizzoliusa.com/book/codex-seraphinianus/",
+        description: "Una enciclopedia visual y surrealista del mundo imaginario, sin sentido lógico pero con un diseño que impresiona. Una obra maestra para perderse.",
+        quote: "El libro que te hará dudar de tu propia realidad."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Colormind",
+        url: "http://colormind.io/",
+        description: "¡No más horas perdidas eligiendo paletas de colores! Colormind usa inteligencia artificial para sugerir combinaciones de colores que antes solo existían en tus sueños más salvajes.",
+        quote: "Colores que maridan mejor que queso y vino."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Natalia Stuyk",
+        url: "https://www.instagram.com/nataliastuyk/",
+        description: "Una artista que convierte la alucinación en realidad digital. Animaciones hipnóticas, ilusiones ópticas y paletas vibrantes que te dejarán boquiabierto.",
+        quote: "Entra, pero cuidado — podrías no volver a salir."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Neal.fun - Draw Logos from Memory",
+        url: "https://neal.fun/draw-logos-from-memory/",
+        description: "¿Cuánta confianza tienes en tu memoria visual? Prueba este experimento y averigua lo diferentes que son las marcas en tu cabeza versus la realidad.",
+        quote: "Tu cerebro te juega malas pasadas... pero al menos te ríes."
+    },
+    {
+        category: "lectura que pica",
+        title: "Future Shock - AI's Cultural Whiplash",
+        url: "https://www.notion.so/Future-Shock-AI-s-Cultural-Whiplash-0bf6d95b01c0493f8219149fcb8dd5c1",
+        description: "Una reflexión sobre cómo la aceleración tecnológica está reformulando la cultura antes de que podamos decir 'futuro'. Lectura obligada si no quieres perder el tren.",
+        quote: "Blink y te lo pierdes... culturalmente hablando."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "In Praise of Shadows",
+        url: "https://www.youtube.com/watch?v=IRGG4sK3nPM",
+        description: "Un videoensayo sobre la sombra en el cine: esa heroína olvidada que define la luz. Te cambiará la forma de ver una película.",
+        quote: "Donde hay sombra, hay historia."
+    },
+    {
+        category: "música y sonido",
+        title: "Boomkat's Unexplored Grooves",
+        url: "https://boomkat.com/",
+        description: "Un portal para descubrir sonidos que desafían cualquier etiqueta. De ritmos alienígenas a melodías nostálgicas, música para los valientes.",
+        quote: "Para los exploradores sonoros con oídos sin mapa."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "The Weird Sounds Club",
+        url: "https://discord.gg/WeirdSoundsClub",
+        description: "Una comunidad de Discord para quienes tienen un amor poco convencional por los sonidos raros. Intercambian grabaciones que van desde lo evocador a lo inquietante.",
+        quote: "Donde lo raro enriquece los sentidos."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Hiroshima Archive",
+        url: "http://hiroshima.mapping.jp/",
+        description: "Un mapa interactivo que preserva memoria, reuniendo historias personales de los sobrevivientes de Hiroshima. Profundamente conmovedor y educativo.",
+        quote: "Voces del pasado que resuenan en el presente."
+    },
+    {
+        category: "IA experimental",
+        title: "DeepDream Generator",
+        url: "https://deepdreamgenerator.com/",
+        description: "Convierte tus fotos en alucinantes obras de arte con ayuda de redes neuronales. Es como ver tus recuerdos a través de los ojos de un robot que soñó con Dalí.",
+        quote: "Sueños en código binario."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.amazon.com/dp/0847842134",
+        description: "Un libro visual en un lenguaje que no existe. Es un viaje psicodélico que desafía la lógica y deleita la imaginación.",
+        quote: "Para mentes que disfrutan perderse en lo inefable."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Scribble Diffusion",
+        url: "https://scribblediffusion.com/",
+        description: "Imagina un lienzo donde tus garabatos cobran vida y se transforman en ilustraciones impresionantes. Simplemente dibuja tu idea, y deja que la IA se encargue del resto.",
+        quote: "Convierte tus garabatos en magia visual."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol - Data Sculptor",
+        url: "https://refikanadol.com/",
+        description: "Explora las obras de Refik Anadol, un visionario que convierte datos en esculturas digitales alucinantes. Sus instalaciones te harán ver el mundo digital con nuevos ojos.",
+        quote: "Cuando los datos se vuelven arte."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "The Endless Acid Banger",
+        url: "https://acidbanger.com/",
+        description: "¿Te gusta la música electrónica? Este juguete web genera acid house infinitamente. Cada beat es único y no puedes evitar mover la cabeza al ritmo.",
+        quote: "El rave que nunca termina en tu navegador."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Last Time the Internet Was Fun",
+        url: "https://onezero.medium.com/the-last-time-the-internet-was-fun-2b08dce5f76f",
+        description: "Un artículo nostálgico que te hará replantearte el estado actual de la web y desear haber vivido esa era de bulliciosos blogs y foros.",
+        quote: "Recordando la internet como un parque de atracciones."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "The Conet Project",
+        url: "https://www.youtube.com/watch?v=D6g58XnhBQo",
+        description: "Un documental sobre las misteriosas estaciones de números, emisoras de radio que, desde la Guerra Fría, parecen susurrar secretos al viento.",
+        quote: "Susurros que cruzan la noche solitaria."
+    },
+    {
+        category: "música y sonido",
+        title: "NTS Radio",
+        url: "https://www.nts.live/",
+        description: "Una plataforma de radio en línea con una programación variada y siempre intrigante. Desde rarezas sonoras hasta géneros que nunca supiste que existían.",
+        quote: "La banda sonora de lo inesperado."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Weird Walk",
+        url: "https://www.instagram.com/weird_walk/",
+        description: "Una comunidad de Instagram que combina el folklore británico y la cultura psicodélica. Únete a sus paseos virtuales con un toque de misterio antiguo.",
+        quote: "Senderismo folk con un toque místico."
+    },
+    {
+        category: "proyecto con alma",
+        title: "River Runner",
+        url: "https://river-runner.samlearner.com/",
+        description: "Un mapa interactivo que muestra el recorrido del agua desde cualquier punto de Estados Unidos hasta su destino en el océano. Una reflexión sobre la interconexión de nuestras aguas.",
+        quote: "Sigue el río de tus pensamientos."
+    },
+    {
+        category: "IA experimental",
+        title: "Deep Dream Generator",
+        url: "https://deepdreamgenerator.com/",
+        description: "Crea arte surrealista usando redes neuronales. Deja que tu imagen sea transformada por los sueños de una máquina.",
+        quote: "Cuando la máquina sueña, el arte emerge."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.codexseraphinianus.com/",
+        description: "Una enciclopedia ilustrada de un mundo imaginario, creada por Luigi Serafini. Sus páginas llenas de ilustraciones imposibles son un auténtico viaje visual.",
+        quote: "Un atlas de lo desconocido."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Shader Park",
+        url: "https://shaderpark.com/",
+        description: "Aquí puedes crear arte generativo en tiempo real utilizando shaders sin tener que ser un matemático de otro mundo. Perfecto para esas noches de insomnio creativo.",
+        quote: "La rave visual que no sabías que necesitabas en tu navegador."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol",
+        url: "https://www.instagram.com/refikanadol/",
+        description: "Este artista fusiona la data con el espacio físico, creando instalaciones hipnóticas a base de inteligencia artificial que redefinen el concepto de realidad.",
+        quote: "Surrealismo digital al siguiente nivel."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "This is Sand",
+        url: "https://thisissand.com/",
+        description: "Convierte tu pantalla en un lienzo de arenas de colores. Un lugar para meditar mientras ves caer cada grano que compone tu creación digital.",
+        quote: "Cuando el estrés te desgasta, ponlo en arena."
+    },
+    {
+        category: "lectura que pica",
+        title: "Digital Bodies",
+        url: "https://sophiegunnolympia.substack.com/",
+        description: "Una serie de ensayos que exploran nuestra relación con los cuerpos digitales. ¿Son extensiones de nosotros o algo completamente diferente?",
+        quote: "¿Qué tanto de ti es carne y qué tanto es píxel?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Channel Criswell",
+        url: "https://www.youtube.com/user/eyestrings",
+        description: "Profundos videoensayos sobre el arte del cine, diseccionando escenas hasta comprender su magia visual. Pidas una película al azar y hay un análisis esperando.",
+        quote: "El making-of que te volará la cabeza."
+    },
+    {
+        category: "música y sonido",
+        title: "Haunter Records",
+        url: "https://haunterrecords.bandcamp.com/",
+        description: "Si te gusta explorar los límites de la música electrónica y experimentar con sonidos que parecen venir de otro universo, este sello es un portal a lo desconocido.",
+        quote: "La banda sonora de los sueños de un cyborg punk."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Creative Coders Monthly",
+        url: "https://creativecodersmonthly.substack.com/",
+        description: "Un boletín para aquellos obsesionados con el código creativo y el arte generativo. Cada edición es como un mini museo digital en tu bandeja de entrada.",
+        quote: "Alimenta tu inbox con arte que se programa solo."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Climate Visuals",
+        url: "https://climatevisuals.org/",
+        description: "Un archivo visual que reta nuestra percepción sobre el cambio climático, mostrando imágenes que inspiran y, a la vez, hacen reflexionar profundamente.",
+        quote: "Míralo directo a los ojos, el planeta te está hablando."
+    },
+    {
+        category: "IA experimental",
+        title: "RUNWAY ML",
+        url: "https://runwayml.com/",
+        description: "Una plataforma que lleva el poder de la IA al terreno creativo, permitiendo crear desde imágenes a vídeos surrealistas con unos pocos clics.",
+        quote: "Donde la IA y la imaginación chocan y explotan en color."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.amazon.com/Codex-Seraphinianus/dp/0847842134",
+        description: "Un enigmático libro ilustrado por Luigi Serafini que parece extraído de una realidad paralela. Es como leer un libro de biología escrito por Dalí.",
+        quote: "La enciclopedia de un mundo que nunca existió, pero debería."
+    },
+    {
+        category: "herramienta creativa",
+        title: "VisBug - El inspector visual para todos",
+        url: "https://github.com/GoogleChromeLabs/ProjectVisBug",
+        description: "VisBug es como las herramientas de desarrolladores del navegador, pero para la gente creativa. Puedes ajustar colores, tipografías y más, sin perderte en un mar de código.",
+        quote: "Haz del navegador tu lienzo, sin que te explote la cabeza."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Sasha Stiles - Poeta cyborg",
+        url: "https://sashastiles.com/",
+        description: "Sasha Stiles fusiona poesía, inteligencia artificial y arte visual en un cóctel futurista. Sus obras te harán replantearte qué es realmente la creatividad.",
+        quote: "Donde los versos son impulsos eléctricos en un poema digital."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Radio Garden - Una vuelta al mundo en frecuencias",
+        url: "http://radio.garden",
+        description: "Con Radio Garden puedes escuchar emisoras de radio de casi cualquier rincón del mundo. Da la vuelta al mapa y salta de Sídney a Reykjavik en segundos.",
+        quote: "Sintoniza el planeta con un giro del ratón."
+    },
+    {
+        category: "lectura que pica",
+        title: "El Informe New Media Art",
+        url: "https://www.newmediaartreport.com/",
+        description: "Este informe desgaja las tendencias más frescas del arte multimedia. Artículos que te dejan con la sensación de que apenas estamos arañando la superficie del potencial digital.",
+        quote: "Para cuando necesitas un ‘eureka’ digital en la sobremesa."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Tony Zhou - Every Frame a Painting",
+        url: "https://vimeo.com/everyframeapainting",
+        description: "Sus videoensayos diseccionan el cine de una forma magistral. Aunque ya no actualizan, el archivo sigue siendo un tesoro de análisis visual.",
+        quote: "El cine es más que lo que ves, es cómo lo ves."
+    },
+    {
+        category: "música y sonido",
+        title: "NTS Radio - Transmisiones del subsuelo",
+        url: "https://www.nts.live/",
+        description: "NTS Radio es la joya de la música independiente, con DJs de todo el mundo compartiendo mezclas que nunca oirás en la radio mainstream.",
+        quote: "La banda sonora de universos paralelos, transmitida en vivo."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "The Slowdown - Email que inspira",
+        url: "https://www.slowdown.tv/",
+        description: "Un boletín que captura la esencia de la creatividad contemporánea y te la sirve en dosis que revitalizan las neuronas.",
+        quote: "Café instantáneo para la mente cultural."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Memory of the World Registry",
+        url: "https://www.memoryoftheworld.org/",
+        description: "Un intento de preservar artefactos digitales antes de que desaparezcan en la vorágine de bytes. Ideal para nostálgicos del futuro.",
+        quote: "Porque algunos bits merecen ser eternos."
+    },
+    {
+        category: "IA experimental",
+        title: "Botnik Studios - La IA más absurda",
+        url: "https://botnik.org/",
+        description: "Botnik usa inteligencia artificial para generar contenido que es mitad humano, mitad máquina, y cien por cien delirante. ¿Alguna vez has querido leer un guion de Harry Potter escrito por un bot?",
+        quote: "Cuando las máquinas aprenden el humor humano, lo que sale es Botnik."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "S, de J.J. Abrams y Doug Dorst",
+        url: "https://abrams.velvetfork.com/",
+        description: "Una novela dentro de una novela, llena de notas al margen, post-its y otros externos, ‘S’ es todo un universo literario para perderse durante horas.",
+        quote: "Un libro que palpita con múltiples latidos misteriosos."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Scribble Diffusion",
+        url: "https://scribblediffusion.com/",
+        description: "Dibuja algo sencillo y mira como esta herramienta lo transforma en una imagen casi profesional. Ideal para cuando estás solo con un mouse o en el móvil.",
+        quote: "De garabatos a obras maestras, ¡ni tu cuaderno de bocetos se lo esperaba!"
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol - Data Aesthetics",
+        url: "https://refikanadol.com/works/",
+        description: "Sumérgete en un mundo donde los datos cobran vida. Refik Anadol utiliza algoritmos para crear obras de arte que son tan alucinantes como el código que las respalda.",
+        quote: "Cuando los algoritmos pintan, las pantallas se convierten en lienzos."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Silk - Interactive Generative Art",
+        url: "https://weavesilk.com/",
+        description: "Mueve el cursor y deja que la seda virtual teje patrones hipnóticos. Perfecto para esos minutos de procrastinación productiva.",
+        quote: "Hilando arte con un clic; dejarás de ver los hilos de la misma forma."
+    },
+    {
+        category: "lectura que pica",
+        title: "New Models - Cultural Digest",
+        url: "https://newmodels.io/",
+        description: "Un desglose de tendencias y fenómenos culturales que no verás en el scroll de tu feed. Actualizaciones frescas para el creativo curioso.",
+        quote: "Un antídoto a los algoritmos, ¡dale sabor a tus pensamientos!"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Jacob Geller - Video Essays",
+        url: "https://www.youtube.com/c/JacobGeller",
+        description: "Este canal de YouTube explora videojuegos, cultura y filosofía con una narrativa envolvente. Ya no verás un joystick de la misma manera.",
+        quote: "Presiona play, que tu cerebro se va de viaje."
+    },
+    {
+        category: "música y sonido",
+        title: "Sounds of the Dawn",
+        url: "https://soundsofthedawn.com/",
+        description: "Explora un archivo de cassettes de meditación de los años 70 y 80. Lo vintage nunca sonó tan contemporáneo.",
+        quote: "Retro-vibraciones para meditar o simplemente dejarse llevar."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "WePresent - Creative Platform",
+        url: "https://wepresent.wetransfer.com/",
+        description: "La 'otra cara' de WeTransfer que presenta entrevistas con artistas, fotógrafos, músicos y más. Un rincón inesperado de inspiración.",
+        quote: "Transfiere creatividad, no solo archivos."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Notable Women",
+        url: "https://notablewomen.com/",
+        description: "Usa realidad aumentada para ver a mujeres influyentes en los billetes de dólar. Un recordatorio de quién también merece un lugar en la historia.",
+        quote: "Dale una vuelta a tus billetes, y a tus héroes."
+    },
+    {
+        category: "IA experimental",
+        title: "This AI Does Not Exist",
+        url: "https://thisxdoesnotexist.com/",
+        description: "Explora una serie de páginas generadas por IA que crean desde rostros hasta gato-ficiones. Por momentos, el universo se siente ilimitado.",
+        quote: "Oooops, estas caras no vinieron para quedarse."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.phaidon.com/store/art-photography/luigi-serafini-the-codex-seraphinianus-9781584230879/",
+        description: "Este libro es un caleidoscopio de ilustraciones de un mundo que no existe. Ideal para abrirlo en cualquier página y no tener ni idea de qué está sucediendo.",
+        quote: "Abrirlo es perderse en un universo aún por imaginar."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Vectornator: El arte de los vectores",
+        url: "https://www.vectornator.io/",
+        description: "Una app de diseño vectorial que parece salida del futuro. Funciona en iPad, iPhone y Mac, y es lo suficientemente poderosa para hacer increíbles ilustraciones, pero lo suficientemente intuitiva para no romperte la cabeza.",
+        quote: "Es como llevar un estudio de diseño completo en el bolsillo."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol: Data Meditation",
+        url: "https://refikanadol.com/",
+        description: "Este tipo transforma datos en obras de arte que parecen sacadas de un sueño futurista. Refik Anadol utiliza la Inteligencia Artificial para crear experiencias visuales que redefinen el arte digital.",
+        quote: "Mirar sus obras es como abrir una ventana al inconsciente de una IA."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Neal.fun/Drawb",
+        url: "https://neal.fun/drawb/",
+        description: "Dibuja lo que quieras y la IA intentará reconocerlo... o no. Tan divertido como echarle un pulso a un robot en una exposición de arte.",
+        quote: "Como Pictionary, pero para mentes curiosas y dedos rápidos."
+    },
+    {
+        category: "lectura que pica",
+        title: "Substack: The Pudding's Visual Essays",
+        url: "https://pudding.cool/",
+        description: "Alimenta tu cerebro con estos ensayos visuales que exploran fenómenos culturales de forma interactiva. Es el tipo de lectura que te hace sentir brillante después de cerrar el navegador.",
+        quote: "Cuando los gráficos te cuentan mejores historias que las palabras."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Polyphonic YouTube Channel",
+        url: "https://www.youtube.com/channel/UCXkNod_JcH7PleOjwK_8rYQ",
+        description: "Análisis musicales que desentrañan las capas ocultas detrás de tus canciones favoritas. Es como una clase de música, sin el aburrimiento.",
+        quote: "Donde la música revela sus secretos mejor guardados."
+    },
+    {
+        category: "música y sonido",
+        title: "NTS Radio",
+        url: "https://www.nts.live/",
+        description: "Una emisora de radio en línea que transmite desde Londres, Los Ángeles y más allá. Cada programa es un viaje sonoro que desafía las etiquetas genéricas.",
+        quote: "La banda sonora del futuro suena así."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Creative App Community Discord",
+        url: "https://discord.gg/TgNTuzrB",
+        description: "Un rincón en Discord lleno de gente creativa compartiendo procesos, consejos y retos. Es como un café virtual donde siempre hay alguien trabajando en algo genial.",
+        quote: "Un soplo de aire fresco para cualquier mente creativa."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Silent History",
+        url: "https://silenthistory.com/",
+        description: "Una novela interactiva y serial que se desarrolla en apps, ofreciendo fragmentos de historias que exploran un mundo donde los niños nacen sin capacidad de hablar.",
+        quote: "Una historia fragmentada, tan adictiva como silenciosa."
+    },
+    {
+        category: "IA experimental",
+        title: "DALL-E: Arte de otra dimensión",
+        url: "https://openai.com/dall-e/",
+        description: "Juega a ser un creador loco con esta herramienta de OpenAI que genera imágenes a partir de texto. Tan divertido que podrías pasar horas creando mundos de fantasía.",
+        quote: "Lo que imaginas, ahora puede existir."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.cassiopeiabooks.com/blog/codex-seraphinianus",
+        description: "Un libro ilustrado que es como un alucinante viaje a un mundo paralelo. Sus extrañas ilustraciones y texto ilegible despiertan más incógnitas que respuestas.",
+        quote: "El libro más raro que no puedes leer, pero que aún quieres poseer."
+    },
+    {
+        category: "herramienta creativa",
+        title: "ArtBreeder - evoluciona tu arte",
+        url: "https://www.artbreeder.com/",
+        description: "¿Y si te dijera que puedes mezclar imágenes como si fueran cócteles? Bienvenido a ArtBreeder, donde las caras, los paisajes y las cosas raras se mezclan para crear arte generativo alucinante.",
+        quote: "Una galería sin paredes, donde los sueños se fusionan."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol - poeta de los datos",
+        url: "https://refikanadol.com/",
+        description: "Refik toca los datos como si fueran sinfonías visuales. Sus instalaciones te harán repensar el concepto de memoria y espacio. Es como un DJ, pero de bits, píxeles y espacios.",
+        quote: "Pintar con el viento digital."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Silk - pintura generativa",
+        url: "https://weavesilk.com/",
+        description: "Haz un movimiento y mira cómo el lienzo cobra vida. Silk convierte tus garabatos en patrones hipnotizantes, perfectos para perderte mientras tomas tu café mañanero.",
+        quote: "Dibujar no es necesario, solo déjate llevar."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Exponential View - visión del futuro",
+        url: "https://exponentialview.co/",
+        description: "Azeem Azhar te lleva de paseo por la tecnología de mañana con análisis que te reprograman el cerebro. Ideal para los que les pica la curiosidad del futuro.",
+        quote: "Un mapa para navegantes del futuro cercano."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "NerdWriter1 - desmenuzando la cultura pop",
+        url: "https://www.youtube.com/channel/UCJkMlOu7faDgqh4PfzbpLdg",
+        description: "Evan Puschak te lleva de la mano por el cine, la música y el arte con una profundidad que solo los que miran más allá de la superficie pueden ofrecer. Cada video es una joya inesperada.",
+        quote: "Cultura pop con una lupa filosófica."
+    },
+    {
+        category: "música y sonido",
+        title: "NTS Radio - transmitiendo rarezas",
+        url: "https://www.nts.live/",
+        description: "Desde Londres, NTS emite sets de DJ que son viajes audibles a lo desconocido. Música que no sabías que existía, pero que ahora no puedes dejar de escuchar.",
+        quote: "Cuando el cielo de Londres se escucha a sí mismo."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Freaking Art - arte al borde",
+        url: "https://www.instagram.com/freakingart/",
+        description: "Esta cuenta de Instagram te ofrece una dosis regular de arte contemporáneo tan raro que te preguntarás si no te dejaste el sentido común en casa.",
+        quote: "El arte que hace que te rasques la cabeza."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Dark Patterns - conciencia UX",
+        url: "https://www.darkpatterns.org/",
+        description: "Ilustra esas pequeñas trampas de diseño que nos hacen decir '¡ay!' desde 2010, pero su relevancia crece. Un archivo donde aprendes a reconocer los trucos de diseño que juegan con el usuario.",
+        quote: "Cuando el diseño se convierte en un truco."
+    },
+    {
+        category: "IA experimental",
+        title: "RunwayML - el estudio que piensa",
+        url: "https://runwayml.com/",
+        description: "RunwayML es como Photoshop, pero con superpoderes de IA. Da vida a tus ideas creativas con herramientas que aprenden mientras tú creas.",
+        quote: "Tu lienzo nunca se había sentido tan vivo."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus - una mirada alucinante",
+        url: "https://en.wikipedia.org/wiki/Codex_Seraphinianus",
+        description: "Escrito por Luigi Serafini, este tomo parece salido de los sueños de un biólogo extraterrestre. No entenderás nada, pero querrás entenderlo todo.",
+        quote: "Un libro que describe un mundo paralelo, o tal vez cómo gira tu imaginación cuando no te ve."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Palette Ninja",
+        url: "https://palette.ninja/",
+        description: "Un generador de paletas de colores basado en IA que te sugiere combinaciones de colores locas que probablemente no habrías pensado. Perfecto para cuando el gris no te sirve más.",
+        quote: "Cuando el arcoiris te guía el pincel."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Lia Halloran",
+        url: "https://www.liahalloran.com/",
+        description: "Artista que mezcla astrofísica y arte, creando obras que son un viaje espacial en acrílico y luz, sacando nuestro amante intergaláctico interno.",
+        quote: "Startup de universos paralelos en cada lienzo."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Weavesilk",
+        url: "http://weavesilk.com/",
+        description: "Dibuja con seda digital y crea patrones hipnóticos que te dejarán queriendo más. Un lugar donde la mente y los colores se funden.",
+        quote: "Una telaraña de sueños donde perderse."
+    },
+    {
+        category: "lectura que pica",
+        title: "Substack de Subversive Culture",
+        url: "https://subversive.classic.blog/",
+        description: "Ensayos sobre cultura y tecnología que te harán cuestionarte el tejido de la realidad digital. Perfecto para una dosis de rebeldía mental.",
+        quote: "La chispa que incendia paradigmas."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Nostalgia Nerd",
+        url: "https://www.youtube.com/channel/UC13mWATJYCd7LGMcp36IH5g",
+        description: "Canal de YouTube que se zambulle en lo extraño, lo antiguo y lo olvidado del mundo de la tecnología, con un toque de humor británico.",
+        quote: "El polvo en tus gadgets vintage ahora cuenta historia."
+    },
+    {
+        category: "música y sonido",
+        title: "NTS Radio",
+        url: "https://www.nts.live/",
+        description: "Radio en línea que ofrece una curaduría de música independiente y experimental. Desde sonidos underground hasta gemas perdidas de los 70.",
+        quote: "El lugar donde los discos olvidados susurran secretos."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Internet Explorers Club",
+        url: "https://discord.com/invite/internetexplorers",
+        description: "Un Discord lleno de gente hambrienta por los rincones oscuros y maravillosos de Internet, donde cada enlace es una puerta a lo desconocido.",
+        quote: "Tu pasaporte al submundo digital."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Dawn of Everything",
+        url: "https://dawnofeverything.com/",
+        description: "Un proyecto que explora el origen de la civilización humana. Una mezcla de mapa interactivo y archivo digital, que busca replantear nuestra historia.",
+        quote: "Cuando la historia deja de ser lineal y empieza a rimar."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Dungeon",
+        url: "https://play.aidungeon.io/",
+        description: "Un juego de rol narrativo donde una IA genera escenarios reaccionando a tus decisiones. Prepárate para adentrarte en las historias más impredecibles.",
+        quote: "Un maestro de mazmorras virtual que nunca duerme."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.colemanowen.com/codex-seraphinianus",
+        description: "Un libro ilustrado surrealista, una especie de enciclopedia de un mundo paralelo que desafía cualquier explicación lógica.",
+        quote: "El libro que ni Borges se atrevió a imaginar."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Hexa Tiles",
+        url: "https://hexa-tiles.com",
+        description: "¿Alguna vez has querido crear patrones geométricos complejos pero no sabes por dónde empezar? Hexa Tiles te permite jugar con hexágonos como si fueran piezas de un rompecabezas. Prepárate para horas de adicción.",
+        quote: "Es como el Tetris del diseño, pero sin la presión del reloj."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Krista Kim - Mars House",
+        url: "https://www.kristakim.com/mars-house",
+        description: "Krista Kim ha creado la primera casa digital del mundo, Mars House. Es un espacio hipnotizante en un mundo virtual donde la luz y el color son los verdaderos residentes.",
+        quote: "Donde la arquitectura y el surrealismo digital van de la mano."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Symmetry Lab",
+        url: "https://symmetrylab.com",
+        description: "Este sitio es prácticamente un caleidoscopio geek. Dibuja cualquier cosa y verás cómo se multiplica en formas simétricas alucinantes. Ideal para perderse un rato.",
+        quote: "El arte de perder el tiempo nunca fue tan bello."
+    },
+    {
+        category: "lectura que pica",
+        title: "Los Nombres Invisibles",
+        url: "https://losnombresinvisibles.com",
+        description: "Un ensayo sobre las palabras y nombres que usamos a diario pero que jamás vemos. Te hará repensar tu relación con el lenguaje.",
+        quote: "Cada palabra tiene una historia oculta."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Ant Sounds - The Hidden Noise",
+        url: "https://youtube.com/antsounds",
+        description: "Un corto documental en YouTube que explora los intrincados sonidos de las hormigas en su hábitat. Es sonoro y visualmente fascinante.",
+        quote: "El zumbido del hormiguero como nunca lo habías escuchado."
+    },
+    {
+        category: "música y sonido",
+        title: "Sounds from the Echosystem",
+        url: "https://echoesystem.bandcamp.com",
+        description: "Este proyecto sonoro captura los ecos del mundo natural y los traduce en composiciones envolventes. Cada pista es un viaje a través de paisajes sonoros.",
+        quote: "Descubre el eco de la Tierra en tus auriculares."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Quiet Rooms Collective",
+        url: "https://instagram.com/quietroomscollective",
+        description: "Una comunidad en Instagram que explora espacios silenciosos y serenos. Cada publicación es un recordatorio de la belleza de la tranquilidad.",
+        quote: "Porque a veces el silencio también tiene algo que decir."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Lost Places Map",
+        url: "https://lostplacesmap.com",
+        description: "Este mapa interactivo documenta lugares abandonados a lo largo del mundo. Un proyecto que invita a reflexionar sobre el paso del tiempo y el olvido.",
+        quote: "Explora el rincón olvidado del mundo sin moverte de casa."
+    },
+    {
+        category: "IA experimental",
+        title: "Neural Doodles",
+        url: "https://neuraldoodles.com",
+        description: "Una IA que transforma tus dibujos más garabateados en obras de arte estilo Kandinsky. Experimenta la magia de la creatividad aumentada.",
+        quote: "Garabatos que se vuelven arte con un toque de IA."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "The Atlas of Unusual Curiosities",
+        url: "https://unusualcuriositiesbook.com",
+        description: "Este libro es un viaje visual a través de los objetos más extraños jamás encontrados. Es como un museo de lo raro en tus manos.",
+        quote: "Un muestrario de lo raro, lo curioso y lo completamente asombroso."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Artbreeder - Mezcla genética de imágenes",
+        url: "https://www.artbreeder.com/",
+        description: "Imagínate cruzando fotos como si fueran cromosomas para crear algo totalmente nuevo. Aquí puedes mezclar retratos, paisajes, lo que sea, y ver qué mutación surrealista sale.",
+        quote: "Cruza un gato con un atardecer y sorpréndete con el resultado."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Olafur Eliasson on Instagram",
+        url: "https://www.instagram.com/olafureliasson/",
+        description: "Este artista islandés-danés crea instalaciones que parecen de otro planeta, pero están muy ligadas a las preocupaciones terrestres como el clima. Su feed es un viaje sensorial.",
+        quote: "Es como si tus ojos tocaran un arcoíris."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Line Rider - Dibujando tu propia montaña rusa",
+        url: "https://www.linerider.com/",
+        description: "Aquí puedes dibujar un derrotero infinito y ver cómo un pequeño trineo se lanza a la aventura por tus líneas imaginarias. Adictivo y de verdad gratificante.",
+        quote: "Crea, destroza y repite; porque las montañas rusas en pausas son más emocionantes."
+    },
+    {
+        category: "lectura que pica",
+        title: "90's NetArt: A Constant State of Flux",
+        url: "https://www.academia.edu/45074522/90s_Net_Art_A_Constant_State_of_Flux",
+        description: "Un ensayo que te transporta a los inicios del arte digital, cuando todo era experimentación salvaje y GIFs interminables. Prepárate para una dosis de nostalgia crítica.",
+        quote: "Cuando navegar era un acto de rebeldía."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Nerdwriter1 - Videoensayos alucinantes",
+        url: "https://www.youtube.com/user/Nerdwriter1",
+        description: "Este canal de YouTube analiza desde películas a obras de arte con una perspectiva que hace que parezcan obras maestras meticulosamente construidas.",
+        quote: "Deconstruir la realidad, un frame a la vez."
+    },
+    {
+        category: "música y sonido",
+        title: "The Caretaker - Travesuras sonoras nostálgicas",
+        url: "https://thecaretaker.bandcamp.com/",
+        description: "Ambientación musical que evoca recuerdos de balnearios abandonados y salones de baile en ruinas. Una experiencia envolvente en un universo sonoro peculiar.",
+        quote: "El eco de un recuerdo que no viviste, pero extrañas."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Strange Sounds - Twitter de cosas que tal vez no deberías oír",
+        url: "https://twitter.com/strangesoundsorg",
+        description: "Un rincón de Twitter donde se comparten sonidos aterradores y paisajes sonoros inexplicables de todo el mundo. No escucharás nada igual.",
+        quote: "Cuando el silencio deja de serlo, y empieza lo insólito."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Digital Archive of Japan's 2011 Disasters",
+        url: "https://jdarchive.org/",
+        description: "Un archivo digital que recoge las historias y objetos de la catástrofe de 2011 en Japón. Es un lugar virtual que recuerda y honra la resiliencia humana.",
+        quote: "Memoria digital para no olvidar la fragilidad del ahora."
+    },
+    {
+        category: "IA experimental",
+        title: "RunwayML - La IA poniéndose creativa",
+        url: "https://runwayml.com/",
+        description: "Una plataforma que permite a cualquier creativo jugar con modelos de IA para crear videos, imágenes, y más sin complicarse la vida.",
+        quote: "Diseña con IA sin parecer un científico loco."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "BibliOdyssey - Puertas a papel de mundos alternos",
+        url: "https://www.bibliodyssey.blogspot.com/",
+        description: "Un blog que recopila y explora ilustraciones, diagramas y mapas antiguos que parecen venidos de un universo paralelo. Rarezas encantadoras para devorar visualmente.",
+        quote: "Una mina de oro para ojos aventureros en papel."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Excalidraw — Dibuja tus ideas, literalmente",
+        url: "https://excalidraw.com/",
+        description: "Olvídate del diseño vectorial preciso y disfruta de la imperfección de un boceto a mano alzada. Excalidraw es la pizarra de colaboraciones que te saca una sonrisa mientras dejas fluir tus ideas.",
+        quote: "Como charlar sobre un servilleta... pero global."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Sophie Kahn — Esculturas de lo efímero digital",
+        url: "https://www.instagram.com/sophiekahn/",
+        description: "Sophie Kahn combina escultura con escaneo 3D y video, creando piezas pixeladamente tangibles que exploran el tiempo y la memoria. Su Instagram es una galería futurista donde el presente se descompone.",
+        quote: "Lo que ves es lo que olvidamos."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Weavesilk — Dibuja con seda digital",
+        url: "http://weavesilk.com/",
+        description: "Con cada trazo, este sitio teje hilos de color en un lienzo digital, creando obras de arte tan únicas como un copo de nieve. ¿Sobrecarga sensorial? Probablemente.",
+        quote: "Te prometo que tu mouse nunca fue tan artístico."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Pudding — Data visual con corazón",
+        url: "https://pudding.cool/",
+        description: "Este no es el típico artículo. The Pudding transforma datos culturales en visualizaciones interactivas que te hacen repensar lo que creías saber sobre, bueno, todo.",
+        quote: "Datos que se sienten como una charla intrigante."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Dissect Podcast — Abriendo el arte canción por canción",
+        url: "https://dissectpodcast.com/",
+        description: "En lugar de una crítica superficial, Dissect toma canciones y las desarma nota por nota y letra por letra, como si cada episodio fuera un curso completo de apreciación musical.",
+        quote: "Una cirugía sonora."
+    },
+    {
+        category: "música y sonido",
+        title: "Eternal Engine — Mezclas de hipnóticas texturas sonoras",
+        url: "https://soundcloud.com/eternalengine",
+        description: "Eternal Engine construye paisajes sonoros que mezclan lo ambiental con lo electrónico, creando pistas que te transportan a otro tiempo y lugar, si cierras los ojos.",
+        quote: "Minimalismo acústico con un toque cósmico."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Visions of Space — Explorando lo arquitectónicamente raro",
+        url: "https://www.instagram.com/visions_of_space/",
+        description: "Ángulos imposibles, líneas perfectas y perspectivas insólitas: este Instagram recoge piezas arquitectónicas que desafían la lógica.",
+        quote: "Donde las esquinas se encuentran en dimensiones alternas."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Cowbird — Cuentos breves del mundo real",
+        url: "https://cowbird.com/",
+        description: "Cowbird es un archivo de historias humanas, contado en textos cortos y fotos. Cada cuento es una postal del alma, capturando momentos tan íntimos que los sientes tuyos.",
+        quote: "La humanidad en píldoras narrativas."
+    },
+    {
+        category: "IA experimental",
+        title: "Artbreeder — Fusiona y crea arte con IA",
+        url: "https://www.artbreeder.com/",
+        description: "Si Rembrandt y un algoritmo tuvieran un hijo, sería Artbreeder. Mezcla imágenes en infinitas variaciones de creatividad generativa. Todo está a un clic de distancia.",
+        quote: "Un cruce entre un museo digital y un laboratorio loco."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Object Lessons — Serie de libros sobre lo mundano",
+        url: "https://www.bloomsbury.com/us/series/object-lessons/",
+        description: "Cada libro en la serie \"Object Lessons\" agarra un objeto cotidiano y lo examina hasta el cansancio. Desde semáforos hasta patinetas, cada uno es una reflexión profunda envuelta en prosa.",
+        quote: "El arte de encontrar lo extraordinario en lo ordinario."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Squiggle - Doodling in 3D",
+        url: "https://squiggle.run/",
+        description: "Una herramienta que te permite transformar tus doodles 2D en esculturas 3D. Es como jugar a ser Da Vinci en el mundo digital.",
+        quote: "Tu garabato de la última reunión ahora puede ser una escultura."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Fikret Atay - Internet Is an Orgasm",
+        url: "https://www.instagram.com/fikret.atay.art/",
+        description: "Fikret mezcla lo digital y lo humano en collages que parecen ventanas a otros mundos. Su arte es un viaje visual que no dejarás de mirar.",
+        quote: "La realidad nunca fue tan surrealista."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "The Infinite Drum Machine",
+        url: "https://experiments.withgoogle.com/drum-machine",
+        description: "Elige sonidos de una colección infinita y crea ritmos únicos con esta máquina de tambores online. Es un viaje musical de descubrimiento.",
+        quote: "Toca, arrastra, escucha. La música se convierte en un juego."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Dark Forest Theory & Online Culture",
+        url: "https://onezero.medium.com/the-dark-forest-theory-of-the-internet-6fdc8e6d242c",
+        description: "Un ensayo que relaciona la teoría del bosque oscuro de la ciencia ficción con la cultura online. Te hará reconsiderar cómo interactuamos en la red.",
+        quote: "Navegar en línea es como perderse entre las sombras de un bosque."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "How a TV Works in Slow Motion",
+        url: "https://www.youtube.com/watch?v=3BJU2drrtCM",
+        description: "Este video revela la magia detrás de la tecnología de la televisión, descomponiéndola en cámara lenta. Verás la pantalla cobrar vida de una forma que nunca imaginaste.",
+        quote: "Los píxeles bailan como un espectáculo de luces propio."
+    },
+    {
+        category: "música y sonido",
+        title: "Forgotify",
+        url: "https://forgotify.com/",
+        description: "Descubre música que nadie ha escuchado en Spotify. Cada play es una primera vez, perfecto para amantes de lo desconocido.",
+        quote: "La banda sonora oculta del mundo, a solo un play de distancia."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Concrete Matter - The Institute of Things",
+        url: "https://www.instagram.com/concrete_matter/",
+        description: "Una curaduría de objetos raros y curiosidades históricas. Cada post es una cápsula del tiempo visual.",
+        quote: "Un museo de lo insólito en la palma de tu mano."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Localingual",
+        url: "https://localingual.com/",
+        description: "Un mapa interactivo para escuchar cómo suenan los idiomas y acentos del mundo. Una celebración de la diversidad lingüística global.",
+        quote: "Viaja con el oído, desde tu pantalla."
+    },
+    {
+        category: "IA experimental",
+        title: "Deep Nostalgia",
+        url: "https://www.myheritage.es/deep-nostalgia",
+        description: "Convierte fotos antiguas en animaciones realistas. Verás a tus ancestros parpadear y sonreír como si fueran recuerdos vivos.",
+        quote: "Traer el pasado al presente nunca fue tan fascinante."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "S, de J.J. Abrams y Doug Dorst",
+        url: "https://www.goodreads.com/book/show/18774943-s",
+        description: "Un libro dentro de otro libro, lleno de notas a mano y extras. Una experiencia literaria que desafía las normas de la lectura.",
+        quote: "Un libro es un laberinto, y éste tiene mapa y brújula."
+    },
+    {
+        category: "herramienta creativa",
+        title: "Blobmaker",
+        url: "https://www.blobmaker.app/",
+        description: "¿Alguna vez necesitaste un blob perfecto para tu diseño? Esta web genera formas blobs alucinantes. Parece simple, pero te puedes quedar ajustando curvas más de lo que planeabas.",
+        quote: "La vida es mejor con blobs generados."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Gab Bois - Artista de la cotidianidad",
+        url: "https://www.instagram.com/gabbois/",
+        description: "Gab Bois convierte objetos ordinarios en arte surreal a través de la fotografía. Lo cotidiano nunca había sido tan extraño y fascinante.",
+        quote: "Cuando tu feed se convierte en un museo del absurdo cotidiano."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Pixel Thoughts",
+        url: "http://pixelthoughts.co/",
+        description: "Una meditación guiada de 60 segundos en tu navegador. Es minimalista, pero increíblemente eficaz para poner las cosas en perspectiva.",
+        quote: "Un minuto para olvidar que el mundo está loco."
+    },
+    {
+        category: "lectura que pica",
+        title: "The Ethics of Algorithms",
+        url: "https://www.nature.com/articles/d41586-020-00509-0",
+        description: "Una mirada profunda a cómo los algoritmos están moldeando nuestra sociedad y la necesidad urgente de una ética al respecto. Una llamada a despertar la conciencia del siglo XXI.",
+        quote: "Los números dirigen el mundo, pero ¿quién dirige los números?"
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Cruel Optimism - Análisis de la distopía",
+        url: "https://vimeo.com/291124000",
+        description: "Un videoensayo que te lleva a través del concepto de optimismo cruel en un mundo distópico. Visualmente impresionante y temática perturbadora.",
+        quote: "Ver optimismo a través del ojo distópico."
+    },
+    {
+        category: "música y sonido",
+        title: "Lullatone - Música de siesta",
+        url: "https://www.lullatone.com/",
+        description: "Este dúo japonés crea melodías minimalistas perfectas para un día de descanso. Sus conciertos caseros son un oasis sonoro.",
+        quote: "Cuando el jazz para bebés es un género, y es hermoso."
+    },
+    {
+        category: "cuenta o comunidad",
+        title: "Nowness - Historias visuales",
+        url: "https://www.nowness.com/",
+        description: "Con un enfoque en la creatividad, Nowness ofrece diariamente videos fascinantes que desafían los límites entre arte y publicidad.",
+        quote: "El lugar donde el arte y la moda se dan la mano."
+    },
+    {
+        category: "proyecto con alma",
+        title: "The Traveling Museum of the Paranormal",
+        url: "https://www.paramuseum.com/",
+        description: "Un museo virtual que documenta y preserva la historia de lo paranormal. Desde objetos embrujados hasta leyendas urbanas.",
+        quote: "Los fantasmas digitales también tienen su hogar."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Dungeon",
+        url: "https://play.aidungeon.io/",
+        description: "Un juego de rol que genera historias en tiempo real con IA. La línea entre jugador y creador se difumina en cada sesión.",
+        quote: "Donde tu imaginación es la única frontera digital."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.amazon.com/Codex-Seraphinianus/dp/0847842134",
+        description: "Este libro ilustrado por Luigi Serafini es un enigma visual. Un lenguaje fantástico y un mundo ficticio que desafía la lógica y el entendimiento.",
+        quote: "La enciclopedia de lo indescriptiblemente extraño."
+    },
+    {
+        category: "herramienta creativa",
+        title: "DoodleLens",
+        url: "https://doodlelens.app/",
+        description: "DoodleLens te permite convertir tus garabatos y dibujos en realidad aumentada, proyectándolos en el mundo que te rodea. Es perfecto para aquellos 'momentos de inspiración en servilletas'.",
+        quote: "Dale vida a tus garabatos antes de que el café enfríe."
+    },
+    {
+        category: "arte digital contemporáneo",
+        title: "Refik Anadol",
+        url: "https://refikanadol.com/",
+        description: "Este artista transforma datos en arte visual impresionante. Usando IA y algoritmos, sus instalaciones alteran la percepción de la realidad con belleza alucinante.",
+        quote: "Cuando los datos se vuelven una sinfonía visual."
+    },
+    {
+        category: "experimento web interactivo",
+        title: "Silk",
+        url: "http://weavesilk.com/",
+        description: "Crea patrones increíbles y etéreos con solo unos trazos del mouse. Es un lienzo digital que te quita el aliento con cada curva dibujada.",
+        quote: "Tejiendo sueños en la tela digital."
+    },
+    {
+        category: "lectura que pica",
+        title: "Una espiral infinita",
+        url: "https://placesjournal.org/article/the-infinite-spiral/",
+        description: "Un fascinante ensayo sobre la arquitectura y la eternidad en las construcciones humanas. Te hará replantear cómo vemos el espacio y el tiempo alrededor de nosotros.",
+        quote: "Las paredes también cuentan historias."
+    },
+    {
+        category: "audiovisual inesperado",
+        title: "Night Mind",
+        url: "https://www.youtube.com/user/NightMind",
+        description: "Con análisis de terror y ficción interactiva, este canal te hace sentir que cada vídeo es un paseo por el lado oscuro de la narrativa digital.",
+        quote: "Cuando las historias digitales susurran en la noche."
+    },
+    {
+        category: "música y sonido",
+        title: "Lullatone",
+        url: "https://lullatone.com/",
+        description: "Este dúo japonés crea música encantadora que evoca la simplicidad de la infancia. Es como si la nostalgia tocara el xilófono.",
+        quote: "Una sonrisa musical en cada nota."
+    },
+    {
+        category: "proyecto con alma",
+        title: "Forgotten NY",
+        url: "https://forgotten-ny.com/",
+        description: "Un archivo extraordinario de la Nueva York olvidada, desde edificios abandonados hasta líneas de ferrocarril extintas, este sitio es un viaje a una ciudad que ya no existe.",
+        quote: "Explora las historias susurradas por el concreto."
+    },
+    {
+        category: "IA experimental",
+        title: "AI Dungeon",
+        url: "https://play.aidungeon.io/",
+        description: "Una aventura de texto infinita alimentada por IA que te coloca en el corazón de la historia. Tú eliges el destino y la inteligencia artificial te sigue el juego.",
+        quote: "La aventura teje el cuento según tus palabras."
+    },
+    {
+        category: "libro u objeto raro",
+        title: "Codex Seraphinianus",
+        url: "https://www.goodreads.com/book/show/103073.Codex_Seraphinianus",
+        description: "Un libro surrealista que parece de otro mundo, lleno de ilustraciones de lo inexplicable. Es más un artefacto que una lectura, una exploración de mundos imposibles.",
+        quote: "El manuscrito de un universo paralelo."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
