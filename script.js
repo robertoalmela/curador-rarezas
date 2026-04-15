@@ -9252,6 +9252,76 @@ async function fetchFromHackerNews() {
         url: "https://www.goodreads.com/book/show/103073.Codex_Seraphinianus",
         description: "Un libro surrealista que parece de otro mundo, lleno de ilustraciones de lo inexplicable. Es más un artefacto que una lectura, una exploración de mundos imposibles.",
         quote: "El manuscrito de un universo paralelo."
+    },
+    {
+        category: "herramienta_ai",
+        title: "DeepArt.io - Convertidor avanzado de estilos artísticos en imágenes",
+        url: "https://github.com/lengstrom/fast-style-transfer",
+        description: "DeepArt.io utiliza algoritmos de transferencia de estilo para transformar fotografías en obras de arte estilísticas. A diferencia de otras herramientas, se basa en un modelo de código abierto con bajos requerimientos computacionales.",
+        quote: "Transforma cualquier imagen en un Van Gogh o un Munch con un simple ajuste de parámetros."
+    },
+    {
+        category: "herramienta_ai",
+        title: "RunwayML: Herramienta Visual para Proyectos Creativos de IA",
+        url: "https://github.com/runwayml/RunwayML",
+        description: "Plataforma en constante desarrollo que permite integrar modelos de IA de manera visual para artistas y diseñadores. Ofrece un enfoque modular y visual para jugar con IA sin necesidad programación avanzada.",
+        quote: "Libera a los creativos de las líneas de código, permitiéndoles concentrarse en la carrera artística."
+    },
+    {
+        category: "herramienta_ai",
+        title: "Artbreeder: Remix de Imágenes con IA",
+        url: "https://github.com/artbreeder/artbreeder",
+        description: "Artbreeder permite la creación y modificación de imágenes a través de la 'mezcla genética' de fotografías. Sus usuarios suelen generar imágenes de personajes, paisajes o arte conceptual con un par de clics.",
+        quote: "El futuro del diseño de personajes y paisajes digitales está en hibridar lo mejor de cada imagen."
+    },
+    {
+        category: "herramienta_ai",
+        title: "Deep Dream: Exploración en la Percepción de Redes Neuronales",
+        url: "https://github.com/google/deepdream",
+        description: "Con Deep Dream, puedes visualizar cómo una red neuronal 'imagina' y percibe el mundo, generando imágenes surrealistas y abstractas que revelan los patrones ocultos aprendidos por el modelo.",
+        quote: "Deep Dream te hace cuestionar si una máquina realmente está soñando con ovejas eléctricas."
+    },
+    {
+        category: "herramienta_ai",
+        title: "DALL·E Mini: Generador de Imágenes basado en Texto",
+        url: "https://github.com/borisdayma/dalle-mini",
+        description: "DALL·E Mini es una versión reducida del famoso generador de imágenes de OpenAI, capaz de crear gráficos a partir de descripciones textuales breves, ideal para proyectos que requieren creatividad rápida.",
+        quote: "Imagina un dragón azul comiendo helado, y DALL·E Mini lo convertirá en realidad visual."
+    },
+    {
+        category: "herramienta_ai",
+        title: "NeuralStyler: Animador de Vídeos Artísticos",
+        url: "https://github.com/Spandan-Madan/Neural Styler",
+        description: "Basado en la transferencia de estilo neural, esta herramienta permite aplicar efectos artísticos a videos, dándoles una transformación visual que los convierte en verdaderas obras cinematográficas.",
+        quote: "No solo pinturas, ahora tus videos pueden tener un estilo picassiano o impresionista."
+    },
+    {
+        category: "herramienta_ai",
+        title: "Pix2Pix: Conversión de Bocetos a Imágenes",
+        url: "https://github.com/phillipi/pix2pix",
+        description: "Pix2Pix facilita la transformación de bocetos en imágenes completamente renderizadas usando aprendizaje automático. Su funcionalidad básica permite a cualquier boceto convertirse en una ilustración detallada.",
+        quote: "Desenfunda un simple garabato y observa cómo cobra vida a todo color."
+    },
+    {
+        category: "herramienta_ai",
+        title: "StyleGAN: Generador de Imágenes Realistas",
+        url: "https://github.com/NVlabs/stylegan",
+        description: "StyleGAN es un potente modelo de IA especializado en la creación de imágenes ultrarrealistas desde cero, utilizado principalmente para la generación de rostros que no existen en la realidad.",
+        quote: "La línea entre lo real y lo generado nunca ha sido tan fina como ahora."
+    },
+    {
+        category: "herramienta_ai",
+        title: "GANPaint Studio: Editor de Imágenes con IA",
+        url: "https://github.com/genforce/GANPaintStudio",
+        description: "Esta herramienta permite editar componentes individuales de una imagen, como árboles o ventanas, utilizando IA para ofrecer un nivel de control inusitado en la manipulación de fotos.",
+        quote: "Modifica el paisaje de una foto en segundos; añade y elimina elementos como un pincel mágico digital."
+    },
+    {
+        category: "herramienta_ai",
+        title: "Neural Doodle: Transforma Doodles en Obras de Arte",
+        url: "https://github.com/alexjc/neural-doodle",
+        description: "Convierte simples garabatos en obras de arte completo imitando el estilo de imágenes de referencia. El resultado es un trabajo artístico que combina simplicidad en el diseño con complejidad estilística.",
+        quote: "Dibuja como un niño, crea como un maestro."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
