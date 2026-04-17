@@ -63,6 +63,29 @@ function saveEmailHistory(history) {
     fs.writeFileSync(historyPath, JSON.stringify(history, null, 2), 'utf-8');
 }
 
+// ==================== NUEVO: CARGUE DEL HISTÓRICO DE ENVIADOS ====================
+// Lee el histórico de descubrimientos que han sido ENVIADOS
+function loadSentDiscoveriesArchive() {
+    const archivePath = path.join(__dirname, 'sent-discoveries-archive.json');
+    if (fs.existsSync(archivePath)) {
+        try {
+            return JSON.parse(fs.readFileSync(archivePath, 'utf-8'));
+        } catch (error) {
+            console.error('⚠️  Error al leer sent-discoveries-archive.json:', error.message);
+            return { sent: [] };
+        }
+    }
+    return { sent: [] };
+}
+
+// Guarda el histórico de enviados
+function saveSentDiscoveriesArchive(archive) {
+    const archivePath = path.join(__dirname, 'sent-discoveries-archive.json');
+    archive.lastUpdated = new Date().toISOString();
+    archive.sentCount = (archive.sent || []).filter(d => d.sent === true).length;
+    fs.writeFileSync(archivePath, JSON.stringify(archive, null, 2), 'utf-8');
+}
+
 // Devuelve la clave de día (YYYY-MM-DD) usada también en el frontend
 function getDayKey() {
     const now = new Date();
@@ -88,6 +111,40 @@ function shuffle(array) {
         [arr[i], arr[j]] = [arr[j], arr[i]];
     }
     return arr;
+}
+
+// ==================== VALIDACIÓN SEVERA ANTES DE ENVIAR ====================
+// Valida que los descubrimientos NO estén en el histórico de ENVIADOS
+function validateDiscoveriesBeforeSending(discoveries, sentArchive) {
+    const sent = sentArchive.sent || [];
+    const sentUrls = new Set(sent.map(d => (d.url || '').toLowerCase().trim()));
+    const sentTitles = new Set(sent.map(d => (d.title || '').toLowerCase().trim()));
+
+    const validated = discoveries.filter(d => {
+        const normUrl = (d.url || '').toLowerCase().trim();
+        const normTitle = (d.title || '').toLowerCase().trim();
+
+        // Verifica URL
+        if (sentUrls.has(normUrl)) {
+            console.log(`  ⚠️  RECHAZADO: Ya fue ENVIADO antes → ${d.title}`);
+            return false;
+        }
+
+        // Verifica título exacto
+        if (sentTitles.has(normTitle)) {
+            console.log(`  ⚠️  RECHAZADO: Título idéntico ya ENVIADO → ${d.title}`);
+            return false;
+        }
+
+        console.log(`  ✓ Validado: ${d.title}`);
+        return true;
+    });
+
+    if (validated.length < discoveries.length) {
+        console.log(`\n⚠️  Filtrados ${discoveries.length - validated.length}/${discoveries.length} descubrimientos (ya enviados)`);
+    }
+
+    return validated;
 }
 
 // Selecciona 6 descubrimientos únicos (nunca repetidos)
@@ -242,28 +299,62 @@ async function main() {
     const database = loadDatabase();
     console.log(`📚 Base de datos: ${database.length} items`);
 
-    // 2. Carga historial
+    // 1b. Carga histórico de ENVIADOS (para validación severa)
+    const sentArchive = loadSentDiscoveriesArchive();
+    console.log(`📦 Histórico de enviados: ${sentArchive.sent?.length || 0} items`);
+
+    // 2. Carga historial de índices
     const history = loadEmailHistory();
-    console.log(`📝 Ya enviados: ${history.sent.length} descubrimientos`);
+    console.log(`📝 Ya enviados (por índice): ${history.sent.length} descubrimientos`);
 
     // 3. Selecciona 6 únicos
     const dailyDiscoveries = selectDailyDiscoveries(database, history);
-    console.log('\n🎯 Descubrimientos seleccionados:');
+    console.log('\n🎯 Descubrimientos CANDIDATOS (antes de validación):');
     dailyDiscoveries.forEach((d, i) => {
         console.log(`  ${i + 1}. [${d.category}] ${d.title}`);
     });
 
-    // 4. Guarda selección diaria para sincronizar con la web
-    const dailyIndices = dailyDiscoveries.map(d => d.index);
+    // 4. ⭐⭐⭐ VALIDACIÓN SEVERA contra el histórico de ENVIADOS
+    console.log('\n🔍 Validando contra histórico de ENVIADOS...');
+    const validatedDiscoveries = validateDiscoveriesBeforeSending(dailyDiscoveries, sentArchive);
+
+    if (validatedDiscoveries.length === 0) {
+        console.log('\n⚠️  ERROR: No hay descubrimientos VÁLIDOS para enviar (todos ya fueron enviados)');
+        console.log('Ejecuta "update-database.js" primero para generar nuevos descubrimientos');
+        return;
+    }
+
+    console.log(`\n✅ ${validatedDiscoveries.length} descubrimientos listos para enviar`);
+
+    // 5. Guarda selección diaria para sincronizar con la web
+    const dailyIndices = validatedDiscoveries.map(d => d.index);
     saveDailySelection(dailyIndices);
 
-    // 5. Envía email
+    // 6. Envía email
     console.log('\n📧 Enviando campaña...');
-    await sendCampaign(dailyDiscoveries);
+    const sent = await sendCampaign(validatedDiscoveries);
 
-    // 6. Actualiza historial para no repetir descubrimientos enviados
-    dailyDiscoveries.forEach(d => history.sent.push(d.index));
-    saveEmailHistory(history);
+    if (sent) {
+        // 7. Actualiza histórico de índices
+        validatedDiscoveries.forEach(d => history.sent.push(d.index));
+        saveEmailHistory(history);
+
+        // 8. ⭐⭐⭐ Marca como ENVIADOS en el histórico de descubrimientos
+        console.log('\n📦 Marcando como ENVIADOS en histórico...');
+        for (const discovery of validatedDiscoveries) {
+            // Busca en el archivo histórico y marca como enviado
+            const found = sentArchive.sent.find(
+                d => (d.url || '').toLowerCase().trim() === (discovery.url || '').toLowerCase().trim()
+            );
+            if (found) {
+                found.sent = true;
+                found.sentAt = new Date().toISOString();
+                console.log(`  ✓ ${discovery.title}`);
+            }
+        }
+        saveSentDiscoveriesArchive(sentArchive);
+        console.log(`  (${validatedDiscoveries.length} descubrimientos marcados como ENVIADOS)`);
+    }
 
     console.log('\n✨ Proceso completado!');
 }

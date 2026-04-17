@@ -1,0 +1,7 @@
+{
+  "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
+  "lastUpdated": "2026-04-17T00:00:00Z",
+  "sentCount": 0,
+  "sent": [],
+  "notes": "Cada entrada contiene URL completa, título normalizado, dominio y hash para detectar duplicados incluso con variaciones menores"
+}

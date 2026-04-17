@@ -122,10 +122,17 @@ function extractJsonObject(text) {
         // sigue intentando
     }
 
-    // Fallback: recorta desde el primer "{" hasta el último "}"
-    const start = noFences.indexOf('{');
-    const end = noFences.lastIndexOf('}');
-    if (start === -1 || end === -1 || end <= start) return null;
+    // Fallback: recorta desde el primer "{" o "[" hasta el último "}" o "]"
+    const start = Math.min(
+        noFences.indexOf('{') === -1 ? Infinity : noFences.indexOf('{'),
+        noFences.indexOf('[') === -1 ? Infinity : noFences.indexOf('[')
+    );
+    const end = Math.max(
+        noFences.lastIndexOf('}'),
+        noFences.lastIndexOf(']')
+    );
+    
+    if (start === Infinity || end === -1 || end <= start) return null;
 
     const candidate = noFences.slice(start, end + 1);
     try {
@@ -135,13 +142,71 @@ function extractJsonObject(text) {
     }
 }
 
-// Filtra descubrimientos duplicados comparando URL normalizada, título y dominio
-function filterDuplicates(newDiscoveries, existingUrls, existingTitles) {
+// ==================== NUEVO: ARCHIVO HISTÓRICO DE DESCUBRIMIENTOS ENVIADOS ====================
+// Lee el histórico de descubrimientos que ya han sido ENVIADOS por email
+function loadSentDiscoveriesArchive() {
+    const archivePath = path.join(__dirname, 'sent-discoveries-archive.json');
+    if (fs.existsSync(archivePath)) {
+        try {
+            return JSON.parse(fs.readFileSync(archivePath, 'utf-8'));
+        } catch (error) {
+            console.error('⚠️  Error al leer sent-discoveries-archive.json, usando vacío:', error.message);
+            return { sent: [] };
+        }
+    }
+    return { sent: [] };
+}
+
+// Guarda el histórico
+function saveSentDiscoveriesArchive(archive) {
+    const archivePath = path.join(__dirname, 'sent-discoveries-archive.json');
+    archive.lastUpdated = new Date().toISOString();
+    archive.sentCount = (archive.sent || []).length;
+    fs.writeFileSync(archivePath, JSON.stringify(archive, null, 2), 'utf-8');
+}
+
+// Crea un hash simple de una URL para detectar variaciones
+function hashUrl(url) {
+    if (!url) return '';
+    const normalized = normalizeUrl(url);
+    // Toma los primeros 50 chars normalizados para comparar
+    return normalized.substring(0, 50);
+}
+
+// Calcula similitud simple entre dos strings (Levenshtein distancia simplificada)
+function calculateSimilarity(a, b) {
+    if (!a || !b) return 0;
+    const aLower = a.toLowerCase().trim();
+    const bLower = b.toLowerCase().trim();
+    
+    // Si ya son idénticos
+    if (aLower === bLower) return 1;
+    
+    // Si uno contiene al otro (substring)
+    if (aLower.includes(bLower) || bLower.includes(aLower)) return 0.8;
+    
+    // Conta palabras comunes
+    const aWords = new Set(aLower.split(/\s+/).filter(w => w.length > 3));
+    const bWords = new Set(bLower.split(/\s+/).filter(w => w.length > 3));
+    
+    const commonWords = [...aWords].filter(w => bWords.has(w)).length;
+    const totalWords = new Set([...aWords, ...bWords]).size;
+    
+    return totalWords === 0 ? 0 : commonWords / totalWords;
+}
+
+// ==================== DEDUPLICACIÓN SEVERA ====================
+// Filtra descubrimientos duplicados con comprobación EXHAUSTIVA
+function filterDuplicates(newDiscoveries, existingUrls, existingTitles, sentArchive) {
     const normalizedExistingUrls = new Set(existingUrls.map(normalizeUrl));
     const existingDomains = new Set(existingUrls.map(extractDomain));
     const normalizedExistingTitles = new Set(existingTitles);
+    
+    // Dos nuevas validaciones severas
+    const sentArchiveUrls = new Set((sentArchive.sent || []).map(d => normalizeUrl(d.url || '')));
+    const sentArchiveTitles = new Set((sentArchive.sent || []).map(d => (d.title || '').toLowerCase().trim()));
 
-    // También rastreamos los nuevos para no añadir duplicados dentro del mismo batch
+    // Rastreamos los nuevos para no añadir duplicados dentro del mismo batch
     const seenUrls = new Set();
     const seenTitles = new Set();
 
@@ -155,22 +220,57 @@ function filterDuplicates(newDiscoveries, existingUrls, existingTitles) {
         const normTitle = d.title.toLowerCase().trim();
         const domain = extractDomain(d.url);
 
-        // Comprueba URL exacta normalizada
+        // ===== NIVEL 1: URL exacta normalizada (en BD actual) =====
         if (normalizedExistingUrls.has(normUrl) || seenUrls.has(normUrl)) {
-            console.log(`  ⏭️  Duplicado por URL: ${d.title} → ${d.url}`);
+            console.log(`  ⏭️  Duplicado L1 (URL exacta en BD): ${d.title}`);
             return false;
         }
 
-        // Comprueba título exacto
+        // ===== NIVEL 2: URL exacta normalizada (en histórico de ENVIADOS) =====
+        if (sentArchiveUrls.has(normUrl)) {
+            console.log(`  ⏭️  Duplicado L2 (URL ya ENVIADA): ${d.title} → ${d.url}`);
+            return false;
+        }
+
+        // ===== NIVEL 3: Título exacto (en BD actual) =====
         if (normalizedExistingTitles.has(normTitle) || seenTitles.has(normTitle)) {
-            console.log(`  ⏭️  Duplicado por título: ${d.title}`);
+            console.log(`  ⏭️  Duplicado L3 (Título exacto en BD): ${d.title}`);
             return false;
         }
 
-        // Comprueba dominio (para evitar múltiples entradas del mismo sitio)
-        if (normalizedExistingUrls.has(domain) || existingDomains.has(domain)) {
-            // Solo avisamos pero NO descartamos por dominio — puede haber páginas diferentes del mismo sitio
-            console.log(`  ⚠️  Mismo dominio que una entrada existente: ${d.title} → ${domain} (se añade igualmente)`);
+        // ===== NIVEL 4: Título exacto (en histórico de ENVIADOS) =====
+        if (sentArchiveTitles.has(normTitle)) {
+            console.log(`  ⏭️  Duplicado L4 (Título ya ENVIADO): ${d.title}`);
+            return false;
+        }
+
+        // ===== NIVEL 5: Similitud de título (>85%) =====
+        for (const existingTitle of existingTitles) {
+            const similarity = calculateSimilarity(d.title, existingTitle);
+            if (similarity > 0.85) {
+                console.log(`  ⏭️  Duplicado L5 (Título similar 85%+ en BD): "${d.title}" ≈ "${existingTitle}"`);
+                return false;
+            }
+        }
+
+        // ===== NIVEL 6: Similitud de título contra histórico (>85%) =====
+        for (const sentDiscovery of (sentArchive.sent || [])) {
+            const similarity = calculateSimilarity(d.title, sentDiscovery.title || '');
+            if (similarity > 0.85) {
+                console.log(`  ⏭️  Duplicado L6 (Título similar 85%+ en ENVIADOS): "${d.title}"`);
+                return false;
+            }
+        }
+
+        // ===== NIVEL 7: Mismo dominio + categoría similar (evita múltiples items del mismo site) =====
+        if (normalizedExistingUrls.has(domain)) {
+            console.log(`  ⚠️  Mismo dominio (L7) pero se añade: ${d.title} → ${domain}`);
+        }
+
+        // ===== NIVEL 8: Descripción muy corta o genérica (posible generación falsa) =====
+        if (!d.description || d.description.length < 20) {
+            console.log(`  ⏭️  Descartado L8 (descripción muy corta/vacía): ${d.title}`);
+            return false;
         }
 
         seenUrls.add(normUrl);
@@ -291,6 +391,10 @@ async function main() {
     const currentDb = loadCurrentDatabase();
     console.log(`📚 Base de datos actual: ${currentDb.length} items`);
 
+    // 1b. Carga el histórico de descubrimientos ENVIADOS
+    const sentArchive = loadSentDiscoveriesArchive();
+    console.log(`📦 Histórico de enviados: ${sentArchive.sent?.length || 0} items`);
+
     // 2. Obtiene URLs y títulos existentes
     const existingUrls = getExistingURLs(currentDb);
     const existingTitles = getExistingTitles(currentDb);
@@ -301,9 +405,9 @@ async function main() {
     const rawDiscoveries = await generateDiscoveries(existingUrls, existingTitles);
     console.log(`\n🤖 La IA generó ${rawDiscoveries.length} descubrimientos`);
 
-    // 4. Filtra duplicados programáticamente (por URL normalizada, título y dominio)
-    console.log('\n🔍 Filtrando duplicados...');
-    const newDiscoveries = filterDuplicates(rawDiscoveries, existingUrls, existingTitles);
+    // 4. Filtra duplicados con deduplicación SEVERA (ve contra BD actual + histórico de enviados)
+    console.log('\n🔍 Filtrando duplicados (8 niveles de validación)...');
+    const newDiscoveries = filterDuplicates(rawDiscoveries, existingUrls, existingTitles, sentArchive);
     console.log(`\n✅ ${newDiscoveries.length} descubrimientos únicos después del filtrado`);
 
     if (rawDiscoveries.length !== newDiscoveries.length) {
@@ -312,7 +416,7 @@ async function main() {
 
     if (newDiscoveries.length > 0) {
         // Muestra los nuevos
-        console.log('\n🆕 Nuevos descubrimientos:');
+        console.log('\n🆕 Nuevos descubrimientos (listos para enviar):');
         newDiscoveries.forEach((d, i) => {
             console.log(`  ${i + 1}. [${d.category}] ${d.title}`);
             console.log(`     ${d.url}`);
@@ -320,6 +424,20 @@ async function main() {
 
         // 5. Añade a script.js
         appendToDatabase(newDiscoveries);
+
+        // 6. NUEVO: Registra en el histórico de enviados (marca como "potencial para enviar")
+        console.log('\n📦 Registrando en histórico (para validación en envío)...');
+        for (const discovery of newDiscoveries) {
+            sentArchive.sent.push({
+                title: discovery.title,
+                url: discovery.url,
+                category: discovery.category,
+                addedToDb: new Date().toISOString(),
+                sent: false  // Aún no se ha enviado por email
+            });
+        }
+        saveSentDiscoveriesArchive(sentArchive);
+        console.log(`  ✓ Registrados ${newDiscoveries.length} descubrimientos en histórico`);
 
         console.log('\n✨ Base de datos actualizada exitosamente!');
     } else {
