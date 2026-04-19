@@ -9322,6 +9322,76 @@ async function fetchFromHackerNews() {
         url: "https://github.com/alexjc/neural-doodle",
         description: "Convierte simples garabatos en obras de arte completo imitando el estilo de imágenes de referencia. El resultado es un trabajo artístico que combina simplicidad en el diseño con complejidad estilística.",
         quote: "Dibuja como un niño, crea como un maestro."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "Teoría del Color No-Lineal en IA Generativa",
+        url: "https://arxiv.org/abs/1709.01047",
+        description: "Este estudio investiga cómo los modelos de IA generativa pueden utilizar teorías no-lineales del color para producir resultados visuales más auténticos y complejos, desafiando los enfoques tradicionales del color en la generación de imágenes.",
+        quote: "La percepción del color no es siempre una cuestión de simples mezclas lineales, sino de interacciones dinámicas que los algoritmos aún deben explorar."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "Percepción Multisensorial en Entornos Virtuales",
+        url: "https://www.mdpi.com/2076-3417/10/3/810",
+        description: "Este artículo presenta cómo la incorporación de estímulos multisensoriales en entornos virtuales puede mejorar la percepción y la inmersión, ofreciendo nuevas direcciones para el desarrollo de experiencias de realidad virtual más ricas.",
+        quote: "La realidad virtual no solo es visual; la integración multisensorial redefine los límites de lo que consideramos real."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "Psicología del Espacio Negativo en el Diseño",
+        url: "https://journals.sagepub.com/doi/10.1177/2041669517745471",
+        description: "Explora cómo el espacio negativo en el diseño afecta la percepción psicológica de las imágenes y puede influir en la atención y la memoria de los observadores, proporcionando insights útiles para diseñadores gráficos y fotógrafos.",
+        quote: "El vacío en una composición puede ser tan impactante como los elementos presentes; el espacio negativo tiene su propio lenguaje."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "Efectos de la Iluminación Cromática en la Percepción",
+        url: "https://iopscience.iop.org/article/10.1088/2040-8978/18/6/065601/meta",
+        description: "Este estudio discute cómo distintas tonalidades de iluminación cromática pueden alterar la percepción de espacios y objetos, sugiriendo aplicaciones potenciales en arquitectura y diseño de interiores.",
+        quote: "La luz coloreada no solo ilumina, también transforma la realidad perceptiva de manera sutil pero poderosa."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "Modelos de Percepción Visual Asimétrica en IA",
+        url: "https://openreview.net/pdf?id=BkS3sjR9K7",
+        description: "En este paper se investiga cómo los modelos de IA pueden emular la percepción visual humana asimétrica para crear imágenes con una autenticidad y naturalidad mejoradas.",
+        quote: "Para la IA, replicar la asimetría visual humana puede ser la clave para una generación de imágenes verdaderamente realista."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "Sincronización Visual y Auditiva en IA Creativa",
+        url: "https://www.sciencedirect.com/science/article/pii/S0893608019301685",
+        description: "Analiza los métodos mediante los cuales las IA pueden sincronizar estímulos visuales y auditivos en entornos creativos, mejorando experiencias multimedia y artísticas.",
+        quote: "La sincronización sensorial guiada por IA abre nuevos caminos en el arte donde el sonido y la imagen son uno solo."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "Técnicas de Detección de Anomalías en Fotografías de IA",
+        url: "https://arxiv.org/abs/1903.00321",
+        description: "Este documento detalla métodos avanzados para detectar anomalías en imágenes generadas por IA, crucial para mejorar la autenticidad y la confianza en aplicaciones visuales de IA.",
+        quote: "Detectar lo que no pertenece a menudo es el primer paso para crear lo que encaja perfectamente."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "Interacción de Luz Polarizada en Arte Generado por IA",
+        url: "https://www.sciencedirect.com/science/article/pii/S0020169321003283",
+        description: "Este trabajo investiga cómo la luz polarizada puede ser utilizada como una herramienta en el arte generado por IA, creando efectos visuales que desafían las percepciones tradicionales.",
+        quote: "La polarización abre nuevos horizontes en el diseño visual generativo, donde la luz adquiere nuevas texturas."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "Exploraciones en Algoritmos de Sombras en Realidad Aumentada",
+        url: "https://dl.acm.org/doi/abs/10.1145/3379337",
+        description: "Estudia cómo los algoritmos avanzados de sombras pueden mejorar la percepción de objetos virtuales en entornos de realidad aumentada, permitiendo una integración más natural con el mundo real.",
+        quote: "En el mundo de la RA, las sombras son más que simples ausencias de luz; son la clave de una inmersión genuina."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "Análisis del Espectro Visual en Algoritmos Generativos",
+        url: "https://link.springer.com/article/10.1007/s11042-020-09151-4",
+        description: "Este artículo desentraña cómo el espectro visual es analizado y aplicado en algoritmos generativos para crear una paleta de colores y formas que desafían las convenciones artísticas preexistentes.",
+        quote: "El espectro visual, en manos de la IA generativa, se convierte en un lienzo donde las normas del color son reescritas constantemente."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
