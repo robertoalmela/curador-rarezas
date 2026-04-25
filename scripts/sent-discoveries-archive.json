@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-04-19T09:46:59.275Z",
-  "sentCount": 10,
+  "lastUpdated": "2026-04-25T09:52:27.844Z",
+  "sentCount": 20,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -71,6 +71,76 @@
       "url": "https://link.springer.com/article/10.1007/s11042-020-09151-4",
       "category": "concepto_investigacion",
       "addedToDb": "2026-04-19T09:46:59.275Z",
+      "sent": false
+    },
+    {
+      "title": "DeepArt.io - Transformaciones Artísticas con IA Poco Conocidas",
+      "url": "https://deepart.io/",
+      "category": "herramienta_ai",
+      "addedToDb": "2026-04-25T09:52:27.844Z",
+      "sent": false
+    },
+    {
+      "title": "RunwayML - La Caja de Herramientas Creativas para IA Ocultas",
+      "url": "https://runwayml.com/",
+      "category": "herramienta_ai",
+      "addedToDb": "2026-04-25T09:52:27.844Z",
+      "sent": false
+    },
+    {
+      "title": "Artbreeder - Evoluciona Imágenes con Redes Generativas",
+      "url": "https://www.artbreeder.com/",
+      "category": "herramienta_ai",
+      "addedToDb": "2026-04-25T09:52:27.844Z",
+      "sent": false
+    },
+    {
+      "title": "Runway Research - Platform para Proyectos de Investigación en IA",
+      "url": "https://research.runwayml.com/",
+      "category": "herramienta_ai",
+      "addedToDb": "2026-04-25T09:52:27.844Z",
+      "sent": false
+    },
+    {
+      "title": "Daz 3D - Creación de Personajes Realistas con IA",
+      "url": "https://www.daz3d.com/",
+      "category": "herramienta_ai",
+      "addedToDb": "2026-04-25T09:52:27.844Z",
+      "sent": false
+    },
+    {
+      "title": "DeepDream Generator - Psicodelia Digital Generada por IA",
+      "url": "https://deepdreamgenerator.com/",
+      "category": "herramienta_ai",
+      "addedToDb": "2026-04-25T09:52:27.844Z",
+      "sent": false
+    },
+    {
+      "title": "GANPaint Studio - Edición de Imágenes Asistida por GAN",
+      "url": "http://ganpaint.io/",
+      "category": "herramienta_ai",
+      "addedToDb": "2026-04-25T09:52:27.844Z",
+      "sent": false
+    },
+    {
+      "title": "Playform.io - Laboratorio de IA para Artistas Visuales",
+      "url": "https://www.playform.io/",
+      "category": "herramienta_ai",
+      "addedToDb": "2026-04-25T09:52:27.844Z",
+      "sent": false
+    },
+    {
+      "title": "StyleGAN3 - Revolución de los Generadores de Imágenes",
+      "url": "https://github.com/NVlabs/stylegan3",
+      "category": "herramienta_ai",
+      "addedToDb": "2026-04-25T09:52:27.844Z",
+      "sent": false
+    },
+    {
+      "title": "Svganimation - Animación Vectorial Inteligente",
+      "url": "https://github.com/CodeBrainz/svg-animation-generator",
+      "category": "herramienta_ai",
+      "addedToDb": "2026-04-25T09:52:27.844Z",
       "sent": false
     }
   ],

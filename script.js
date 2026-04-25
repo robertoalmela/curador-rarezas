@@ -9392,6 +9392,76 @@ async function fetchFromHackerNews() {
         url: "https://link.springer.com/article/10.1007/s11042-020-09151-4",
         description: "Este artículo desentraña cómo el espectro visual es analizado y aplicado en algoritmos generativos para crear una paleta de colores y formas que desafían las convenciones artísticas preexistentes.",
         quote: "El espectro visual, en manos de la IA generativa, se convierte en un lienzo donde las normas del color son reescritas constantemente."
+    },
+    {
+        category: "herramienta_ai",
+        title: "DeepArt.io - Transformaciones Artísticas con IA Poco Conocidas",
+        url: "https://deepart.io/",
+        description: "DeepArt.io permite a los usuarios transformar imágenes mediante redes neuronales en estilos artísticos únicos. Aunque ha estado eclipsado por herramientas más populares, su técnica de transferencia de estilo neuronal ofrece resultados impresionantes y menos conocidos.",
+        quote: "Imagina convertir una selfie en una obra maestra al estilo de Van Gogh con solo un clic. DeepArt.io lo hace posible."
+    },
+    {
+        category: "herramienta_ai",
+        title: "RunwayML - La Caja de Herramientas Creativas para IA Ocultas",
+        url: "https://runwayml.com/",
+        description: "RunwayML ofrece un conjunto de herramientas de IA que permite a los creativos trabajar con modelos de aprendizaje automático de manera accesible, desde la edición de video hasta la creación de imágenes generativas.",
+        quote: "Los sueños creativos impulsados por IA cobran vida en RunwayML, donde cada usuario puede ser un pionero digital."
+    },
+    {
+        category: "herramienta_ai",
+        title: "Artbreeder - Evoluciona Imágenes con Redes Generativas",
+        url: "https://www.artbreeder.com/",
+        description: "Artbreeder utiliza redes generativas para combinar y modificar imágenes, creando nuevos fenotipos visuales. Permite explorar infinitas variaciones y estilos, haciendo de cada imagen una singularidad en evolución.",
+        quote: "La creatividad es un proceso evolutivo; en Artbreeder, cada usuario deviene en co-creador de un universo visual en constante cambio."
+    },
+    {
+        category: "herramienta_ai",
+        title: "Runway Research - Platform para Proyectos de Investigación en IA",
+        url: "https://research.runwayml.com/",
+        description: "Este subproyecto de RunwayML es un espacio para la experimentación y descubrimiento en el campo de la inteligencia artificial aplicada al arte. Ofrece un acceso abierto a modelos y datos que pueden ser usados en investigaciones creativas.",
+        quote: "El futuro del arte se dibuja en la frontera digital, donde la investigación y la creatividad convergen en Runway Research."
+    },
+    {
+        category: "herramienta_ai",
+        title: "Daz 3D - Creación de Personajes Realistas con IA",
+        url: "https://www.daz3d.com/",
+        description: "Daz 3D permite a los usuarios crear personajes, animaciones y renders en 3D con precisión y realismo, todo potenciado por inteligencia artificial. Su comunidad es dinámica, pero sigue siendo una joya oculta para muchos.",
+        quote: "La frontera entre la realidad y lo digital se difumina en Daz 3D, donde la inteligencia artificial modela lo imposible."
+    },
+    {
+        category: "herramienta_ai",
+        title: "DeepDream Generator - Psicodelia Digital Generada por IA",
+        url: "https://deepdreamgenerator.com/",
+        description: "DeepDream Generator utiliza un algoritmo de visión por computadora para crear imágenes surrealistas con un toque de fantasía psicodélica. Su relativa oscuridad es inversamente proporcional a la explosión visual que ofrece.",
+        quote: "Atrévete a soñar profundo y lo digital se transformará en una danza psicodélica de formas y colores."
+    },
+    {
+        category: "herramienta_ai",
+        title: "GANPaint Studio - Edición de Imágenes Asistida por GAN",
+        url: "http://ganpaint.io/",
+        description: "GANPaint Studio permite editar imágenes de manera intuitiva utilizando redes generativas adversariales, añadiendo o eliminando elementos de escenas complejas con gran facilidad. Es una herramienta potente pero poco conocida.",
+        quote: "Reimagina las escenas con un simple trazo, donde el lienzo digital se convierte en un campo de juego de la imaginación."
+    },
+    {
+        category: "herramienta_ai",
+        title: "Playform.io - Laboratorio de IA para Artistas Visuales",
+        url: "https://www.playform.io/",
+        description: "Playform.io brinda a los artistas herramientas para prototipar y experimentar con la inteligencia artificial en el arte visual. Ofrece oportunidades creativas accesibles y personalizables para talentos emergentes.",
+        quote: "En el corazón del proceso creativo, Playform.io abre puertas a un reino donde la IA no solo es herramienta, sino también musa."
+    },
+    {
+        category: "herramienta_ai",
+        title: "StyleGAN3 - Revolución de los Generadores de Imágenes",
+        url: "https://github.com/NVlabs/stylegan3",
+        description: "StyleGAN3 es la última evolución en generación de imágenes de alta calidad mediante redes generativas. Aunque es la vanguardia de la tecnología GAN, sigue siendo desconocida para muchos fuera de los círculos académicos.",
+        quote: "Alcanzar la perfección visual es posible con StyleGAN3, donde la realidad se refina a través de algoritmos de última generación."
+    },
+    {
+        category: "herramienta_ai",
+        title: "Svganimation - Animación Vectorial Inteligente",
+        url: "https://github.com/CodeBrainz/svg-animation-generator",
+        description: "Svganimation permite generar animaciones vectoriales SVG mediante IA, ofreciendo una solución rápida y elegante al reto de animaciones complejas. Ideal para diseñadores gráficos que exploran nuevos formatos.",
+        quote: "El arte del movimiento cobra vida a través de trazos vectoriales inteligentes, redefiniendo la animación digital."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
