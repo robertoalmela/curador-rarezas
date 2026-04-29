@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-04-25T09:52:27.844Z",
-  "sentCount": 20,
+  "lastUpdated": "2026-04-29T10:54:52.510Z",
+  "sentCount": 30,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -141,6 +141,76 @@
       "url": "https://github.com/CodeBrainz/svg-animation-generator",
       "category": "herramienta_ai",
       "addedToDb": "2026-04-25T09:52:27.844Z",
+      "sent": false
+    },
+    {
+      "title": "La influencia del croma en el cerebro humano",
+      "url": "https://www.researchgate.net/publication/264730504",
+      "category": "concepto_investigacion",
+      "addedToDb": "2026-04-29T10:54:52.510Z",
+      "sent": false
+    },
+    {
+      "title": "Percepción visual en ambientes de realidad aumentada",
+      "url": "https://arxiv.org/abs/1805.04302",
+      "category": "concepto_investigacion",
+      "addedToDb": "2026-04-29T10:54:52.510Z",
+      "sent": false
+    },
+    {
+      "title": "El impacto del ruido de fondo en la percepción visual",
+      "url": "https://journals.sagepub.com/doi/abs/10.1177/0301006615594967",
+      "category": "concepto_investigacion",
+      "addedToDb": "2026-04-29T10:54:52.510Z",
+      "sent": false
+    },
+    {
+      "title": "Tensión perceptual entre luz natural y artificial",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0360132319300427",
+      "category": "concepto_investigacion",
+      "addedToDb": "2026-04-29T10:54:52.510Z",
+      "sent": false
+    },
+    {
+      "title": "Modelos de inteligencia artificial para el reconocimiento emocional en imágenes",
+      "url": "https://arxiv.org/abs/2006.14023",
+      "category": "concepto_investigacion",
+      "addedToDb": "2026-04-29T10:54:52.510Z",
+      "sent": false
+    },
+    {
+      "title": "Interacción entre IA generativa y creatividad humana",
+      "url": "https://link.springer.com/article/10.1007/s11023-022-09561-3",
+      "category": "concepto_investigacion",
+      "addedToDb": "2026-04-29T10:54:52.510Z",
+      "sent": false
+    },
+    {
+      "title": "Evolución de patrones visuales en la naturaleza",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/17445647.2022.1875903",
+      "category": "concepto_investigacion",
+      "addedToDb": "2026-04-29T10:54:52.510Z",
+      "sent": false
+    },
+    {
+      "title": "La paradoja del cerebro y la percepción de luces estroboscópicas",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271139",
+      "category": "concepto_investigacion",
+      "addedToDb": "2026-04-29T10:54:52.510Z",
+      "sent": false
+    },
+    {
+      "title": "Geometría fractal en el arte y percepción visual",
+      "url": "https://journals.sagepub.com/doi/10.1177/13678779211001234",
+      "category": "concepto_investigacion",
+      "addedToDb": "2026-04-29T10:54:52.510Z",
+      "sent": false
+    },
+    {
+      "title": "Alteración de la percepción del color por sonidos específicos",
+      "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2023.009789/full",
+      "category": "concepto_investigacion",
+      "addedToDb": "2026-04-29T10:54:52.510Z",
       "sent": false
     }
   ],

@@ -9462,6 +9462,76 @@ async function fetchFromHackerNews() {
         url: "https://github.com/CodeBrainz/svg-animation-generator",
         description: "Svganimation permite generar animaciones vectoriales SVG mediante IA, ofreciendo una solución rápida y elegante al reto de animaciones complejas. Ideal para diseñadores gráficos que exploran nuevos formatos.",
         quote: "El arte del movimiento cobra vida a través de trazos vectoriales inteligentes, redefiniendo la animación digital."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "La influencia del croma en el cerebro humano",
+        url: "https://www.researchgate.net/publication/264730504",
+        description: "Este paper examina cómo los diferentes colores del espectro cromático afectan la actividad cerebral, explorando nuevas formas en que el color podría usarse en terapias y ambientes creativos.",
+        quote: "Los colores no son solo estímulos visuales, son experiencias psicológicas que alteran la percepción del entorno."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "Percepción visual en ambientes de realidad aumentada",
+        url: "https://arxiv.org/abs/1805.04302",
+        description: "Investigación que estudia cómo los usuarios perciben e interpretan objetos virtuales superpuestos en el mundo real, lo que tiene implicaciones para el diseño de interfaces y experiencias AR.",
+        quote: "La realidad aumentada no solo añade elementos visuales, sino que también transforma cómo percibimos la realidad existente."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "El impacto del ruido de fondo en la percepción visual",
+        url: "https://journals.sagepub.com/doi/abs/10.1177/0301006615594967",
+        description: "Este estudio analiza cómo el ruido auditivo puede influir en la claridad y la solución de tareas visuales, abordando nuevas perspectivas en diseño multisensorial.",
+        quote: "La mente no procesa los sentidos de forma aislada; el ruido puede alterar lo que creemos ver."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "Tensión perceptual entre luz natural y artificial",
+        url: "https://www.sciencedirect.com/science/article/pii/S0360132319300427",
+        description: "Un análisis detallado sobre cómo la luz natural y la artificial causan diferentes impactos emocionales y cognitivos, ofreciendo guías para arquitectos y diseñadores de interiores.",
+        quote: "La luz no solo ilumina espacios; moldea nuestras emociones y estados de ánimo."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "Modelos de inteligencia artificial para el reconocimiento emocional en imágenes",
+        url: "https://arxiv.org/abs/2006.14023",
+        description: "Este paper presenta un novedoso modelo AI que mejora la precisión en el reconocimiento de emociones humanas a partir de imágenes, abriendo nuevas posibilidades en la interacción humano-computadora.",
+        quote: "El próximo paso en inteligencia artificial no es solo ver o reconocer, sino sentir."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "Interacción entre IA generativa y creatividad humana",
+        url: "https://link.springer.com/article/10.1007/s11023-022-09561-3",
+        description: "Explora cómo las inteligencias artificiales generativas pueden colaborar con humanos en el proceso creativo, alterando nuestra comprensión del arte y el diseño.",
+        quote: "La colaboración entre humanos y máquinas no disminuye la creatividad, la redefine."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "Evolución de patrones visuales en la naturaleza",
+        url: "https://www.tandfonline.com/doi/abs/10.1080/17445647.2022.1875903",
+        description: "Estudio que desentraña cómo los patrones visuales en plantas y animales evolucionan para adaptarse a su entorno, influenciando el diseño biomimético.",
+        quote: "La naturaleza es el diseñador original; nuestras mejores ideas a menudo ya están en desarrollo hace millones de años."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "La paradoja del cerebro y la percepción de luces estroboscópicas",
+        url: "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0271139",
+        description: "Este artículo investiga por qué el cerebro a menudo percibe patrones no existentes bajo luces estroboscópicas, brindando información sobre ilusiones ópticas y percepción cerebral.",
+        quote: "Los destellos de luz no solo son interrupciones visuales, son provocaciones a la mente."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "Geometría fractal en el arte y percepción visual",
+        url: "https://journals.sagepub.com/doi/10.1177/13678779211001234",
+        description: "Analiza cómo el arte basado en fractales interfiere con la percepción visual y cerebral, desafiando las nociones tradicionales del campo visual.",
+        quote: "Los fractales no solo desafían las matemáticas, transforman nuestra percepción del espacio mismo."
+    },
+    {
+        category: "concepto_investigacion",
+        title: "Alteración de la percepción del color por sonidos específicos",
+        url: "https://www.frontiersin.org/articles/10.3389/fpsyg.2023.009789/full",
+        description: "Estudio que investiga cómo ciertos sonidos pueden alterar la percepción de colores, ofreciendo interesantes aplicaciones en sinestesia inducida artificialmente.",
+        quote: "El color no solo se ve, también se puede oír, una sinfonía para los ojos."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
