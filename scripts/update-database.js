@@ -20,16 +20,35 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 // ==================== CONFIGURACIÓN ====================
-const CONFIG = {
-    discoveriesPerRun: 10,
-    maxSearchResults: 5,         // cuántos resultados buscar por categoría
-    httpTimeout: 8000,           // ms para verificación HTTP
-    similarityThreshold: 0.7,   // umbral de similitud de título
-    model: process.env.AI_MODEL || 'deepseek/deepseek-chat',
-    apiKey: process.env.DEEPSEEK_API_KEY || process.env.OPENAI_API_KEY,
-    serpApiKey: process.env.SERPAPI_KEY || null,
-    serpApiBaseUrl: 'https://serpapi.com/search',
-};
+// Proveedores gratuitos con prioridad: Groq (gratis, rápido) > OpenRouter (gratis) > DeepSeek (barato) > OpenAI (fallback)
+const AI_PROVIDERS = [
+    { name: 'groq',   baseURL: 'https://api.groq.com/openai/v1', model: 'llama-3.3-70b-versatile', key: process.env.GROQ_API_KEY },
+    { name: 'openrouter-free', baseURL: 'https://openrouter.ai/api/v1', model: 'meta-llama/llama-3.3-70b-instruct:free', key: process.env.OPENROUTER_API_KEY },
+    { name: 'deepseek', baseURL: 'https://api.deepseek.com', model: 'deepseek-chat', key: process.env.DEEPSEEK_API_KEY },
+    { name: 'openai',  baseURL: 'https://api.openai.com/v1', model: 'gpt-4o', key: process.env.OPENAI_API_KEY },
+];
+
+function getConfig() {
+    const provider = AI_PROVIDERS.find(p => p.key);
+    if (!provider) {
+        console.error('❌ No hay API key disponible. Configura GROQ_API_KEY, OPENROUTER_API_KEY, DEEPSEEK_API_KEY u OPENAI_API_KEY');
+        process.exit(1);
+    }
+    console.log(`🤖 Usando proveedor: ${provider.name} (${provider.model})`);
+    return {
+        discoveriesPerRun: 10,
+        maxSearchResults: 5,
+        httpTimeout: 8000,
+        similarityThreshold: 0.7,
+        model: provider.model,
+        apiKey: provider.key,
+        baseURL: provider.baseURL,
+        serpApiKey: process.env.SERPAPI_KEY || null,
+        serpApiBaseUrl: 'https://serpapi.com/search',
+        providerName: provider.name,
+    };
+}
+const CONFIG = getConfig();
 
 // ==================== CATEGORÍAS EXPANDIDAS ====================
 // Restauramos el espíritu original: rarezas variadas de todo internet
@@ -199,31 +218,17 @@ async function searchWeb(query, numResults = CONFIG.maxSearchResults) {
 
 // ==================== CURACIÓN CON IA ====================
 async function curateWithAI(searchResults, category, existingUrls, existingTitles) {
-    // Determinar qué cliente de IA usar
-    let aiClient;
-    let modelName;
-    let isDeepSeek = false;
-
-    if (CONFIG.apiKey === process.env.DEEPSEEK_API_KEY && CONFIG.apiKey) {
-        // DeepSeek vía OpenAI-compatible API
-        const { default: OpenAI } = await import('openai');
-        aiClient = new OpenAI({
-            apiKey: CONFIG.apiKey,
-            baseURL: 'https://api.deepseek.com'
-        });
-        modelName = 'deepseek-chat';
-        isDeepSeek = true;
-    } else if (CONFIG.apiKey) {
-        const { default: OpenAI } = await import('openai');
-        aiClient = new OpenAI({ apiKey: CONFIG.apiKey });
-        modelName = 'gpt-4o';
-    } else {
-        console.error('❌ No hay API key (DEEPSEEK_API_KEY u OPENAI_API_KEY)');
-        return [];
-    }
+    // Usar el provider seleccionado automáticamente (Groq > OpenRouter > DeepSeek > OpenAI)
+    const { default: OpenAI } = await import('openai');
+    const aiClient = new OpenAI({
+        apiKey: CONFIG.apiKey,
+        baseURL: CONFIG.baseURL,
+    });
+    const modelName = CONFIG.model;
+    console.log(`  🤞 Llamando a ${CONFIG.providerName} (${modelName})...`);
 
     const searchContext = searchResults.length > 0
-        ? `\n\nFONTOS: He encontrado estos resultados de búsqueda web real. Úsalos como BASE, pero MEJORALOS:\n${searchResults.map((r, i) => `${i + 1}. ${r.title}\n   URL: ${r.url}\n   Snippet: ${r.snippet}`).join('\n')}\n\nINSTRUCCIONES:\n- Si una URL de los resultados es buena, úsala. Si es mainstream/basura, descártala.\n-Completa los que falten con rarezas REALES que conozcas.\n- NUNCA inventes URLs. Si no conoces una URL real, no la incluyas.`
+        ? `\n\nIMPORTANTE: He encontrado estos resultados de búsqueda web real. Úsalos como BASE, pero MEJORALOS:\n${searchResults.map((r, i) => `${i + 1}. ${r.title}\n   URL: ${r.url}\n   Snippet: ${r.snippet}`).join('\n')}\n\nINSTRUCCIONES:\n- Si una URL de los resultados es buena, úsala. Si es mainstream/basura, descártala.\n-Completa los que falten con rarezas REALES que conozcas.\n- NUNCA inventes URLs. Si no conoces una URL real, no la incluyas.`
         : '';
 
     const DISCOVERY_PROMPT = `Eres un curador de rarezas de internet. Tu misión es encontrar contenido genuinamente raro, fascinante, poco conocido o infravalorado.
