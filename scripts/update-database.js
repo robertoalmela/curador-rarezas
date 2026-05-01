@@ -36,7 +36,7 @@ function getConfig() {
     }
     console.log(`🤖 Usando proveedor: ${provider.name} (${provider.model})`);
     return {
-        discoveriesPerRun: 10,
+        discoveriesPerRun: 6,
         maxSearchResults: 5,
         httpTimeout: 8000,
         similarityThreshold: 0.7,
@@ -117,6 +117,51 @@ const CATEGORIAS = [
         "obscure web tool single purpose useful unknown gem site",
         "weird online utility strange calculator bizarre tool website",
         "underrated web app few users oddly specific useful tool"
+    ]},
+    { id: "lengua_muerta", nombre: "Lenguas y escrituras perdidas", queries: [
+        "last speaker endangered language obituary documentary",
+        "undeciphered script ancient writing mystery unknown alphabet",
+        "conlang secret language invented obscure fictional linguistics"
+    ]},
+    { id: "infraestructura_oculta", nombre: "Infraestructura oculta del mundo", queries: [
+        "underground tunnel network city steam pipes hidden infrastructure",
+        "abandoned military bunker cold war secret facility underground",
+        "submarine cable landing station hidden internet physical map"
+    ]},
+    { id: "sonido_invisible", nombre: "Sonidos que no deberías escuchar", queries: [
+        "numbers station shortwave radio mysterious broadcast unknown origin",
+        "strange frequency recording unexplained sound anomaly audio mystery",
+        "banned frequency forbidden sound infrasound military experiment audio"
+    ]},
+    { id: "fraude_historico", nombre: "Fraudes y engaños históricos", queries: [
+        "historical hoax elaborate deception exposed con artist obscure",
+        "forged document art forgery provenance scam historical impostor",
+        "pseudoscientific fraud deception unusual scam unknown history"
+    ]},
+    { id: "biologia_rara", nombre: "Biología que parece ciencia ficción", queries: [
+        "immortal jellyfish turritopsis dohrnii strange biology organism",
+        "cordyceps fungus zombie ant parasitic manipulation bizarre nature",
+        "tardigrade extremophile survival unusual organism deep sea creature"
+    ]},
+    { id: "lugar_desaparecido", nombre: "Lugares que ya no existen", queries: [
+        "kowloon walled city demolished erased place forgotten urban",
+        "centralia pennsylvania ghost town abandoned undergound fire disappearance",
+        "erased island removed from map historical place vanished geography"
+    ]},
+    { id: "ritual_oculto", nombre: "Rituales y prácticas insólitas", queries: [
+        "obscure religious ritual strange ceremony isolated community practice",
+        "body modification ritual scarification extreme cultural practice obscure",
+        "forgotten pagan ceremony unusual tradition isolated village custom"
+    ]},
+    { id: "obsceno_digital", nombre: "Lo obsceno de lo digital", queries: [
+        "digital hoarding terabytes data obsessive collection online disorder",
+        "wikiracing wikipedia game obscure internet subculture competition",
+        "person counted everything obsessive online enumeration strange project"
+    ]},
+    { id: "fracaso_bello", nombre: "Fracasos hermosos", queries: [
+        "jean tinguely useless machine kinetic art self-destroying sculpture",
+        "beautiful failure generative art glitch unexpected aesthetic mistake",
+        "grand ambition failed project magnificent engineering disaster art"
     ]},
 ];
 
