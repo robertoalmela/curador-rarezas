@@ -18,7 +18,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          # Necesario para poder pushear de vuelta con el token del workflow
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
           fetch-depth: 0
@@ -31,15 +30,14 @@ jobs:
       
       # 3. Instala dependencias
       - name: Install dependencies
-        run: |
-          # No usamos `npm ci` porque el repo no incluye package-lock.json.
-          # `npm install` puede generar package-lock.json (lo versionamos para estabilidad).
-          npm install --no-audit --no-fund
+        run: npm install --no-audit --no-fund
       
-      # 4. Actualiza base de datos con IA
-      - name: Update database with AI
+      # 4. Actualiza base de datos con IA v2 (búsqueda real + verificación HTTP)
+      - name: Update database with AI v2
         env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
         run: node scripts/update-database.js
       
       # 5. Commit cambios si hay actualizaciones
@@ -48,13 +46,12 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
 
-          # Stage cambios generados por update-database.js y send-daily-email.js
+          # Stage cambios generados por los scripts
           git add script.js package-lock.json scripts/email-history.json scripts/daily-selection.json scripts/sent-discoveries-archive.json 2>/dev/null || true
 
-          # Si no hay nada staged, no hacemos commit (y no fallamos)
-          git diff --staged --quiet || git commit -m "🤖 Actualización diaria: nuevos descubrimientos [skip ci]"
+          # Si no hay nada staged, no hacemos commit
+          git diff --staged --quiet || git commit -m "🤖 Actualización diaria: nuevos descubrimientos v2 [skip ci]"
 
-          # Si no hay commit, push no hace nada; si hay commit, sube cambios
           git push
       
       # 6. Envía newsletter diario
@@ -63,8 +60,8 @@ jobs:
           BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
         run: node scripts/send-daily-email.js
       
-      # 7. Guarda historial de emails y selección diaria para la web
+      # 7. Guarda historial final
       - name: Save email history
         run: |
-          git add scripts/email-history.json scripts/daily-selection.json || true
+          git add scripts/email-history.json scripts/daily-selection.json scripts/sent-discoveries-archive.json || true
           git diff --quiet && git diff --staged --quiet || (git commit -m "📧 Historial de envío actualizado" && git push) || true

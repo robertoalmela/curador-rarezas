@@ -1,7 +1,7 @@
 {
   "name": "curador-rarezas",
-  "version": "1.0.0",
-  "description": "Curador automático de rarezas e inspiración con IA y newsletter diario",
+  "version": "2.0.0",
+  "description": "Curador automático de rarezas de internet con búsqueda real, IA y newsletter diario",
   "type": "module",
   "scripts": {
     "update-db": "node scripts/update-database.js",
@@ -18,8 +18,10 @@
     "curation",
     "web",
     "art",
-    "underground"
+    "underground",
+    "rarezas",
+    "serpapi"
   ],
-  "author": "",
+  "author": "Roberto Almela",
   "license": "MIT"
 }
