@@ -9603,6 +9603,14 @@ async function fetchFromHackerNews() {
         url: "http://wwwwwwww.jodi.org/",
         description: "La net art como una forma de arte que explora la estética de la red, desafiando la percepción y la realidad en la era digital.",
         quote: "La red como un espacio de libertad y experimentación, donde el arte se vuelve una forma de hackear la realidad."
+    },
+    // 2026-05-01 — artista_marginal
+    {
+        category: "artista_marginal",
+        title: "El Mundo de Adolf Wölfli",
+        url: "https://www.adolfwoelfli.ch/",
+        description: "La obra del artista outsider Adolf Wölfli, quien creó un mundo detallado y complejo a través de sus dibujos y escritos mientras estaba institucionalizado. Una ventana a la creatividad y la resiliencia humana.",
+        quote: "La imaginación puede crear mundos enteros, incluso en los lugares más oscuros."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

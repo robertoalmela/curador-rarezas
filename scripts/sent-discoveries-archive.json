@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-01T09:35:06.257Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-01T09:47:54.439Z",
+  "sentCount": 41,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -291,6 +291,14 @@
       "category": "estetica_rara",
       "hash": "1d7ebf8512244724",
       "addedToDb": "2026-05-01T09:35:03.707Z",
+      "sent": false
+    },
+    {
+      "title": "El Mundo de Adolf Wölfli",
+      "url": "https://www.adolfwoelfli.ch/",
+      "category": "artista_marginal",
+      "hash": "ae72512f9cff35b1",
+      "addedToDb": "2026-05-01T09:47:54.438Z",
       "sent": false
     }
   ],
