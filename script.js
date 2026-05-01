@@ -9532,6 +9532,77 @@ async function fetchFromHackerNews() {
         url: "https://www.frontiersin.org/articles/10.3389/fpsyg.2023.009789/full",
         description: "Estudio que investiga cómo ciertos sonidos pueden alterar la percepción de colores, ofreciendo interesantes aplicaciones en sinestesia inducida artificialmente.",
         quote: "El color no solo se ve, también se puede oír, una sinfonía para los ojos."
+    },
+    // 2026-05-01 — estetica_rara
+    {
+        category: "estetica_rara",
+        title: "Glitch Art y Vaporwave: Un Viaje a través de la Estética Digital",
+        url: "https://tvrdja.com/visual-arts/digital-landscapes-of-the-internet/",
+        description: "Explora la fascinante intersección entre glitch art y vaporwave, donde la estética digital se vuelve un reflejo de la anomalía y la imperfección. Un viaje a través de la distorsión y la reinvención de lo digital.",
+        quote: "La estética del error se convierte en una forma de arte."
+    },
+    {
+        category: "estetica_rara",
+        title: "Vaporwave Aesthetic Collage",
+        url: "https://www.behance.net/gallery/96553021/Vaporwave-Art-and-Glitch",
+        description: "Un collage visual que combina elementos de vaporwave y glitch art, creando una experiencia estética única que desafía la percepción y la realidad.",
+        quote: "La unión de lo digital y lo estético crea un nuevo lenguaje visual."
+    },
+    {
+        category: "estetica_rara",
+        title: "Glitch Art como Movimiento Anti-Comunicación",
+        url: "https://aesthetics.fandom.com/wiki/Glitch_Art",
+        description: "Glitch art como un movimiento que rechaza la perfección y la comunicación efectiva, abrazando la imperfección y la distorsión como forma de arte.",
+        quote: "La belleza en la imperfección, un desafío a la norma."
+    },
+    {
+        category: "estetica_rara",
+        title: "Digital Decay y lo Imperfecto",
+        url: "https://www.polyesterzine.com/features/glitch-art-digital-decay-and-why-tiktok-is-celebrating-imperfect-technology",
+        description: "La celebración de lo imperfecto y el deterioro digital como una nueva estética, donde la tecnología se vuelve un medio para explorar la mortalidad y la transitoriedad.",
+        quote: "Lo imperfecto se convierte en el nuevo ideal de belleza digital."
+    },
+    {
+        category: "estetica_rara",
+        title: "Introducción a Dreamcore y Net Art",
+        url: "https://www.instagram.com/p/DLEb_SsIExJ/",
+        description: "Un viaje a través de las estéticas de dreamcore y net art, donde la realidad se distorsiona y se reimagina a través de la lente digital.",
+        quote: "La imaginación sin límites, donde el sueño se vuelve realidad."
+    },
+    {
+        category: "estetica_rara",
+        title: "Vaporwave Glitch como Iconografía",
+        url: "https://www.dreamstime.com/illustration/vaporwave-glitch.html",
+        description: "La iconografía de vaporwave glitch como un lenguaje visual que evoca la nostalgia y la distopía, creando un universo estético único.",
+        quote: "La imagen como portadora de la memoria y la emoción."
+    },
+    {
+        category: "estetica_rara",
+        title: "La Estética de la Realidad Rota",
+        url: "https://unwinnable.com/2018/01/02/the-vaporwave-aesthetic-of-broken-reality/",
+        description: "La vaporwave como una estética que refleja la realidad rota y distorsionada, un espejo de la condición humana en la era digital.",
+        quote: "La realidad se vuelve un reflejo de nuestra propia distorsión."
+    },
+    {
+        category: "estetica_rara",
+        title: "Glitch Art en la Era Digital",
+        url: "https://rebekahlavymedia.wordpress.com/2021/03/21/glitch-art-and-vapourware/",
+        description: "La glitch art como un movimiento que celebra la imperfección y el error en la era digital, desafiando la perfección y la eficiencia.",
+        quote: "La belleza en el caos, la libertad en la imperfección."
+    },
+    {
+        category: "estetica_rara",
+        title: "Vaporwave y Glitch en la Cultura Visual",
+        url: "https://www.pinterest.com/ideas/vaporwave-glitch/899274087351/",
+        description: "La influencia de vaporwave y glitch en la cultura visual, desde la moda hasta la música, creando un lenguaje estético compartido.",
+        quote: "La estética como un lenguaje universal, trascendiendo fronteras y disciplinas."
+    },
+    {
+        category: "estetica_rara",
+        title: "Net Art y la Estética de la Red",
+        url: "http://wwwwwwww.jodi.org/",
+        description: "La net art como una forma de arte que explora la estética de la red, desafiando la percepción y la realidad en la era digital.",
+        quote: "La red como un espacio de libertad y experimentación, donde el arte se vuelve una forma de hackear la realidad."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

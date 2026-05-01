@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-04-29T10:54:52.510Z",
-  "sentCount": 30,
+  "lastUpdated": "2026-05-01T09:35:03.707Z",
+  "sentCount": 40,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -211,6 +211,86 @@
       "url": "https://www.frontiersin.org/articles/10.3389/fpsyg.2023.009789/full",
       "category": "concepto_investigacion",
       "addedToDb": "2026-04-29T10:54:52.510Z",
+      "sent": false
+    },
+    {
+      "title": "Glitch Art y Vaporwave: Un Viaje a través de la Estética Digital",
+      "url": "https://tvrdja.com/visual-arts/digital-landscapes-of-the-internet/",
+      "category": "estetica_rara",
+      "hash": "f70687063ed0f055",
+      "addedToDb": "2026-05-01T09:35:03.707Z",
+      "sent": false
+    },
+    {
+      "title": "Vaporwave Aesthetic Collage",
+      "url": "https://www.behance.net/gallery/96553021/Vaporwave-Art-and-Glitch",
+      "category": "estetica_rara",
+      "hash": "b29fe1b0d852f046",
+      "addedToDb": "2026-05-01T09:35:03.707Z",
+      "sent": false
+    },
+    {
+      "title": "Glitch Art como Movimiento Anti-Comunicación",
+      "url": "https://aesthetics.fandom.com/wiki/Glitch_Art",
+      "category": "estetica_rara",
+      "hash": "1ed60a7f1455a92d",
+      "addedToDb": "2026-05-01T09:35:03.707Z",
+      "sent": false
+    },
+    {
+      "title": "Digital Decay y lo Imperfecto",
+      "url": "https://www.polyesterzine.com/features/glitch-art-digital-decay-and-why-tiktok-is-celebrating-imperfect-technology",
+      "category": "estetica_rara",
+      "hash": "d65e7b8c5b2ee87b",
+      "addedToDb": "2026-05-01T09:35:03.707Z",
+      "sent": false
+    },
+    {
+      "title": "Introducción a Dreamcore y Net Art",
+      "url": "https://www.instagram.com/p/DLEb_SsIExJ/",
+      "category": "estetica_rara",
+      "hash": "2f22f93b476c608c",
+      "addedToDb": "2026-05-01T09:35:03.707Z",
+      "sent": false
+    },
+    {
+      "title": "Vaporwave Glitch como Iconografía",
+      "url": "https://www.dreamstime.com/illustration/vaporwave-glitch.html",
+      "category": "estetica_rara",
+      "hash": "2c48641c62efc6e9",
+      "addedToDb": "2026-05-01T09:35:03.707Z",
+      "sent": false
+    },
+    {
+      "title": "La Estética de la Realidad Rota",
+      "url": "https://unwinnable.com/2018/01/02/the-vaporwave-aesthetic-of-broken-reality/",
+      "category": "estetica_rara",
+      "hash": "ffa58f501ba64783",
+      "addedToDb": "2026-05-01T09:35:03.707Z",
+      "sent": false
+    },
+    {
+      "title": "Glitch Art en la Era Digital",
+      "url": "https://rebekahlavymedia.wordpress.com/2021/03/21/glitch-art-and-vapourware/",
+      "category": "estetica_rara",
+      "hash": "f943339da1b1892c",
+      "addedToDb": "2026-05-01T09:35:03.707Z",
+      "sent": false
+    },
+    {
+      "title": "Vaporwave y Glitch en la Cultura Visual",
+      "url": "https://www.pinterest.com/ideas/vaporwave-glitch/899274087351/",
+      "category": "estetica_rara",
+      "hash": "6c378b7a25b606d0",
+      "addedToDb": "2026-05-01T09:35:03.707Z",
+      "sent": false
+    },
+    {
+      "title": "Net Art y la Estética de la Red",
+      "url": "http://wwwwwwww.jodi.org/",
+      "category": "estetica_rara",
+      "hash": "1d7ebf8512244724",
+      "addedToDb": "2026-05-01T09:35:03.707Z",
       "sent": false
     }
   ],
