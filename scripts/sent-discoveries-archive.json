@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-01T09:48:04.202Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-01T10:04:08.376Z",
+  "sentCount": 43,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -299,6 +299,22 @@
       "category": "artista_marginal",
       "hash": "ae72512f9cff35b1",
       "addedToDb": "2026-05-01T09:47:54.438Z",
+      "sent": false
+    },
+    {
+      "title": "Red de Almacenamiento de Datos Abandonada de la CIA",
+      "url": "https://www.cia.gov/library/readingroom/docs/CIA-RDP75-00001R000100010013-6.pdf",
+      "category": "infraestructura_oculta",
+      "hash": "0599d238ed6d388e",
+      "addedToDb": "2026-05-01T10:04:08.376Z",
+      "sent": false
+    },
+    {
+      "title": "Sistema de Bunkeres y Refugios Subterráneos del Proyecto Cheyenne Mountain",
+      "url": "https://www.norad.mil/About-NORAD/Cheyenne-Mountain-Air-Force-Station/",
+      "category": "infraestructura_oculta",
+      "hash": "514bfe12c753e637",
+      "addedToDb": "2026-05-01T10:04:08.376Z",
       "sent": false
     }
   ],

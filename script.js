@@ -9611,6 +9611,21 @@ async function fetchFromHackerNews() {
         url: "https://www.adolfwoelfli.ch/",
         description: "La obra del artista outsider Adolf Wölfli, quien creó un mundo detallado y complejo a través de sus dibujos y escritos mientras estaba institucionalizado. Una ventana a la creatividad y la resiliencia humana.",
         quote: "La imaginación puede crear mundos enteros, incluso en los lugares más oscuros."
+    },
+    // 2026-05-01 — infraestructura_oculta
+    {
+        category: "infraestructura_oculta",
+        title: "Red de Almacenamiento de Datos Abandonada de la CIA",
+        url: "https://www.cia.gov/library/readingroom/docs/CIA-RDP75-00001R000100010013-6.pdf",
+        description: "Un informe desclasificado de la CIA muestra detalles de una red de almacenamiento de datos abandonada, revelando aspectos de la infraestructura de inteligencia de Estados Unidos.",
+        quote: "Estos archivos abandonados contienen secretos que nunca fueron destinados a ver la luz del día."
+    },
+    {
+        category: "infraestructura_oculta",
+        title: "Sistema de Bunkeres y Refugios Subterráneos del Proyecto Cheyenne Mountain",
+        url: "https://www.norad.mil/About-NORAD/Cheyenne-Mountain-Air-Force-Station/",
+        description: "El Proyecto Cheyenne Mountain incluye un sistema de bunkeres y refugios subterráneos que servían como centro de comando y control para la defensa aérea de Estados Unidos.",
+        quote: "Este complejo subterráneo fue diseñado para resistir ataques nucleares y funcionar como un gobierno en el exilio."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
