@@ -1,16 +1,18 @@
-# 🎨 Curador Automático de Rarezas e Inspiración
+# 🎨 Curador de Rarezas
 
-Una experiencia web que descubre y presenta contenido fascinante y extraño de internet cada día.
+Descubre contenido fascinante y extraño de los rincones más oscuros de internet. Cada día.
 
 ## 🌟 Características
 
 - **Descubrimientos Diarios**: 6 rarezas curadas cada día
-- **Sin Repeticiones**: Los descubrimientos diarios NUNCA se repiten en el tiempo
-- **Misma Selección Todo el Día**: Aunque recargues, verás los mismos 6 del día
-- **Newsletter Automático**: Suscripción y envío diario con **Brevo** (sin backend propio, usando GitHub Actions)
-- **Actualización con IA**: OpenAI busca y añade nuevos descubrimientos automáticamente
-- **Categorías Diversas**: Webs extrañas, artistas marginales, proyectos experimentales, net.art, subculturas, y más
-- **Estética Única**: Diseño glitch/vaporwave con animaciones suaves
+- **Sin Repeticiones**: Hash SHA-256 + deduplicación por URL y título
+- **Búsqueda Real**: SerpAPI con 3 queries específicos por categoría (no Google genérico)
+- **Filtro Anti-Mainstream**: 70+ dominios baneados (Behance, Pinterest, Instagram, Reddit, Fandom…)
+- **Verificación HTTP**: Solo URLs que responden 200 entran en la base
+- **IA Anti-Curator**: Prompt agresivo contra contenido genérico — si lo encuentras en 5 segundos, no va
+- **Newsletter Automático**: Envío diario con Brevo vía GitHub Actions
+- **Multi-proveedor**: Groq, OpenRouter, DeepSeek o OpenAI (fallback automático)
+- **Estética Única**: Diseño glitch/vaporwave
 
 ## 📂 Estructura del Proyecto
 
@@ -110,58 +112,32 @@ Por defecto, este proyecto usa **Brevo** tanto para la suscripción (formulario 
 
 ---
 
-## 🤖 Configurar IA (Actualización Automática de BD)
+## 🤖 Configurar IA (Actualización Automática)
 
-### Paso 1: Obtener API Key de OpenAI
+El sistema prueba proveedores en orden: **Groq → OpenRouter → DeepSeek → OpenAI**. Basta con configurar uno.
 
-1. Ve a [OpenAI](https://platform.openai.com/)
-2. Crea cuenta o inicia sesión
-3. Ve a API Keys → Create new secret key
-4. Copia y guárdala
+### Secrets de GitHub necesarios
 
-**Costo:**
-- GPT-4o: ~$0.03 por actualización diaria
-- ~$1/mes si ejecutas diariamente
+| Secret | Para qué | Gratis? |
+|--------|----------|---------|
+| `GROQ_API_KEY` | IA principal (Llama 3.3 70B) | ✅ tier gratis |
+| `SERPAPI_KEY` | Búsqueda web real | ✅ 100 req/mes |
+| `BREVO_API_KEY` | Newsletter | ✅ 300 emails/día |
+| `OPENROUTER_API_KEY` | Fallback IA | ✅ tier gratis |
+| `DEEPSEEK_API_KEY` | Fallback IA | Freemium |
+| `OPENAI_API_KEY` | Fallback IA | 💰 Pago |
 
-### Paso 2: Instalar Dependencias (si quieres probar local)
+### Probar localmente
 
 ```bash
+# Clonar e instalar
+git clone https://github.com/robertoalmela/curador-rarezas.git
+cd curador-rarezas
 npm install
+
+# Ejecutar con un proveedor
+GROQ_API_KEY=tu_key SERPAPI_KEY=tu_key node scripts/update-database.js
 ```
-
-### Paso 3: Configurar Variable de Entorno Local
-
-**Windows (PowerShell):**
-```powershell
-$env:OPENAI_API_KEY="tu-api-key"
-```
-
-**Mac/Linux:**
-```bash
-export OPENAI_API_KEY="tu-api-key"
-```
-
-### Paso 4: Probar Actualización de BD
-
-```bash
-node scripts/update-database.js
-```
-
-Esto añadirá 10 nuevos descubrimientos a `script.js`.
-
-### Paso 5: Automatizar con GitHub Actions
-
-1. Sube el proyecto a GitHub
-2. Configura el secret `OPENAI_API_KEY` (paso anterior)
-3. El workflow `.github/workflows/daily-update.yml` se ejecutará automáticamente cada día a las 9 AM UTC
-
-**Qué hace automáticamente:**
-- Busca 10 nuevas rarezas con IA
-- Las añade a `script.js`
-- Hace commit automático
-- Selecciona 6 para el día (sin repetir)
-- Envía email a suscriptores (usando Brevo)
-- Guarda historial para no repetir
 
 ---
 
@@ -208,38 +184,19 @@ crontab -e
 
 ## ❓ Cómo Funciona la No Repetición
 
+### Pipeline de curación v2
+
+1. **Búsqueda web** (SerpAPI): 3 queries específicos por categoría → rincones oscuros, no primera página de Google
+2. **Filtro L0**: 70+ dominios baneados eliminados antes de procesar (Behance, Pinterest, Instagram, Reddit, Fandom, DeviantArt, Wikipedia, TikTok, Medium…)
+3. **IA Anti-Curator**: Genera descubrimientos basándose en los resultados, pero con instrucciones agresivas contra contenido genérico
+4. **Deduplicación SHA-256**: Hash de título+URL, similitud de títulos (>80% = descartado), URLs normalizadas
+5. **Verificación HTTP**: HEAD request a cada URL → solo 200 OK pasa
+6. **Commit + email**: Se añade a la base, selecciona 6, envía newsletter
+
 ### En el Frontend (Web)
 
-1. **Selección Diaria Persistente:**
-   - Cada día se eligen 6 descubrimientos aleatorios
-   - Se guardan en `localStorage` con la fecha del día
-   - Aunque recargues la página, verás los mismos 6
-   - A medianoche (nuevo día) se seleccionan 6 nuevos
-
-2. **Historial Global:**
-   - Cada descubrimiento mostrado se añade a un historial
-   - Los descubrimientos del historial NUNCA vuelven a aparecer
-   - Si se agotan, el historial se reinicia automáticamente
-
-### En el Newsletter (Email)
-
-1. **Archivo `email-history.json`:**
-   - Guarda los índices de descubrimientos ya enviados
-   - El script comprueba este archivo antes de elegir
-   - NUNCA envía el mismo descubrimiento dos veces
-
-2. **Selección del Día:**
-   - Filtra descubrimientos no enviados
-   - Mezcla aleatoriamente
-   - Elige 6 únicos
-   - Los marca como enviados en el historial
-
-3. **Reinicio Automático:**
-   - Si quedan menos de 6 descubrimientos disponibles
-   - El historial se reinicia (todos disponibles de nuevo)
-   - Esto solo pasa después de enviar TODOS los descubrimientos
-
-**Resultado:** Cada suscriptor recibe 6 rarezas únicas cada día que NUNCA se repiten hasta agotar toda la base de datos.
+- **Selección Diaria Persistente**: 6 descubrimientos aleatorios del día (localStorage)
+- **Historial Global**: Los mostrados nunca se repiten hasta agotar la base
 
 ---
 
