@@ -51,27 +51,112 @@ function getConfig() {
 const CONFIG = getConfig();
 
 // ==================== CATEGORÍAS EXPANDIDAS ====================
-// Restauramos el espíritu original: rarezas variadas de todo internet
+// Queries específicos que apuntan a rincones oscuros de internet, no a la primera página de Google
 const CATEGORIAS = [
-    { id: "web_extraña", nombre: "Webs extrañas o inútiles", query: "weird useless websites hidden gems internet oddity" },
-    { id: "artista_marginal", nombre: "Artistas desconocidos o marginales", query: "unknown outsider artist obscure art discovery" },
-    { id: "proyecto_experimental", nombre: "Proyectos raros y experimentales", query: "experimental web project internet art weird technology" },
-    { id: "juego_absurdo", nombre: "Juegos absurdos o interactivos", query: "weird browser game absurd interactive experience" },
-    { id: "subcultura", nombre: "Mundos under, subculturas", query: "internet subculture underground community obscure" },
-    { id: "estetica_rara", nombre: "Estéticas raras (net.art, glitch, vaporwave)", query: "glitch art vaporwave net.art digital aesthetic weird" },
-    { id: "idea_provocadora", nombre: "Ideas provocadoras", query: "strange philosophical idea thought experiment obscure" },
-    { id: "blog_olvidado", nombre: "Blogs olvidados", query: "forgotten blog obscure website personal weird internet" },
-    { id: "performance_raro", nombre: "Performances o exposiciones raras", query: "bizarre art performance installation strange exhibition" },
-    { id: "musica_experimental", nombre: "Música experimental", query: "experimental music obscure sound art noise" },
-    { id: "filosofia_digital", nombre: "Filosofía digital", query: "digital philosophy internet paradox technology concept" },
-    { id: "experimento_social", nombre: "Experimentos sociales", query: "social experiment internet project crowd weird" },
-    { id: "herramienta_oculta", nombre: "Herramientas ocultas de internet", query: "hidden tool obscure website utility underrated" },
+    { id: "web_extraña", nombre: "Webs extrañas o inútiles", queries: [
+        "most useless websites 2024 bizarre single purpose",
+        "obscure web 1.0 sites still alive weird corner internet",
+        "strange interactive websites experimental web oddity"
+    ]},
+    { id: "artista_marginal", nombre: "Artistas desconocidos o marginales", queries: [
+        "outsider art unknown visionary artist obscure portfolio",
+        "self-taught artist bizarre world creation underground",
+        "art brut naive artist strange obsession discovered posthumously"
+    ]},
+    { id: "proyecto_experimental", nombre: "Proyectos raros y experimentales", queries: [
+        "weird github repo experimental project under 100 stars",
+        "obscure creative coding project strange web experiment",
+        "academic research project bizarre finding unusual experiment"
+    ]},
+    { id: "juego_absurdo", nombre: "Juegos absurdos o interactivos", queries: [
+        "weird browser game indie experimental unsettling itch.io",
+        "absurd single mechanic game strange web experience",
+        "html5 game bizarre concept creepy indie obscure"
+    ]},
+    { id: "subcultura", nombre: "Mundos under, subculturas", queries: [
+        "obscure internet community strange ritual digital subculture",
+        "weird forum alive since 2000s niche underground online world",
+        "forgotten internet culture bizarre subreddit 100 members"
+    ]},
+    { id: "estetica_rara", nombre: "Estéticas raras (net.art, glitch, vaporwave)", queries: [
+        "net art project obscure digital aesthetic weird website",
+        "databending glitch art technique obscure artist portfolio",
+        "dead web aesthetic liminal space website digital decay art"
+    ]},
+    { id: "idea_provocadora", nombre: "Ideas provocadoras", queries: [
+        "obscure philosophical concept thought experiment bizarre",
+        "strange scientific hypothesis fringe theory unusual paradox",
+        "forgotten philosophical idea unsettling implication unknown"
+    ]},
+    { id: "blog_olvidado", nombre: "Blogs olvidados", queries: [
+        "old geocities tripod personal page still online obsession",
+        "forgotten blog 2010s obscure passion personal website alive",
+        "web 1.0 personal homepage strange hobby preserved internet"
+    ]},
+    { id: "performance_raro", nombre: "Performances o exposiciones raras", queries: [
+        "bizarre art performance obscure documented strange footage",
+        "unusual installation art disturbing immersive weird gallery",
+        "outsider performance art strange ritual documented obscure"
+    ]},
+    { id: "musica_experimental", nombre: "Música experimental", queries: [
+        "obscure noise artist experimental sound bandcamp few followers",
+        "strange instrument invented obscure musician unusual technique",
+        "experimental music scene underground cassette tape obscure"
+    ]},
+    { id: "filosofia_digital", nombre: "Filosofía digital", queries: [
+        "internet paradox strange digital phenomenon unusual online behavior",
+        "obscure concept network theory unusual finding digital culture",
+        "cyber-philosophy unusual thought digital existence fringe concept"
+    ]},
+    { id: "experimento_social", nombre: "Experimentos sociales", queries: [
+        "strange social experiment online project unusual crowd behavior",
+        "bizarre internet civic experiment weird online participation",
+        "obscure crowdsourcing project strange result unusual study"
+    ]},
+    { id: "herramienta_oculta", nombre: "Herramientas ocultas de internet", queries: [
+        "obscure web tool single purpose useful unknown gem site",
+        "weird online utility strange calculator bizarre tool website",
+        "underrated web app few users oddly specific useful tool"
+    ]},
 ];
 
-// Selección de categoría: aleatoria ponderada (no rígida por día del año)
+// ==================== LISTA NEGRA DE DOMINIOS ====================
+// Dominios mainstream que NUNCA deben aparecer en las rarezas
+const BANNED_DOMAINS = [
+    // Redes sociales mainstream
+    'facebook.com', 'twitter.com', 'x.com', 'instagram.com', 'tiktok.com',
+    'linkedin.com', 'reddit.com', 'pinterest.com', 'snapchat.com',
+    'youtube.com', 'twitch.tv', 'discord.com', 'whatsapp.com',
+    // Plataformas mainstream de contenido
+    'medium.com', 'buzzfeed.com', 'huffpost.com', 'vice.com',
+    'techcrunch.com', 'theverge.com', 'wired.com', 'arstechnica.com',
+    'gizmodo.com', 'kotaku.com', 'io9.com', 'jezebel.com',
+    'producthunt.com', 'ycombinator.com', 'slashdot.org',
+    // Stock/marketplaces genéricos
+    'shutterstock.com', 'istockphoto.com', 'dreamstime.com', 'alamy.com',
+    'adobe.com', 'canva.com', 'freepik.com', 'unsplash.com', 'pexels.com',
+    'etsy.com', 'amazon.com', 'ebay.com', 'aliexpress.com',
+    // Enciclopedias/wikis genéricas
+    'wikipedia.org', 'fandom.com', 'wikia.com', 'imdb.com',
+    // Portafolios/platformas genéricas
+    'behance.net', 'dribbble.com', 'deviantart.com', 'artstation.com',
+    'tumblr.com', 'wordpress.com', 'blogspot.com',
+    // Dominios de noticias mainstream
+    'nytimes.com', 'bbc.com', 'cnn.com', 'theguardian.com', 'elpais.com',
+    'elmundo.es', 'abc.es', 'rtve.es',
+    // Otros contenido genérico
+    'pinterest.es', 'tripadvisor.com', 'yelp.com', 'zomato.com',
+    'goodreads.com', 'letterboxd.com', 'rateyourmusic.com',
+    'genius.com', 'genius.ly', 'spotify.com', 'soundcloud.com',
+    'bandcamp.com', 'apple.com', 'play.google.com',
+    // Dominios de referencia/apuntes
+    'quora.com', 'stackexchange.com', 'stackoverflow.com',
+    'en.wikipedia.org', 'es.wikipedia.org',
+];
+
+// Selección de categoría: aleatoria ponderada con queries específicos
 function pickCategory() {
     const dayOfYear = Math.floor((new Date() - new Date(new Date().getFullYear(), 0, 0)) / 86400000);
-    // Usamos el día + algo de aleatoriedad para que no sea 100% predecible
     const seed = (dayOfYear * 7 + 3) % CATEGORIAS.length;
     return CATEGORIAS[seed];
 }
@@ -188,32 +273,72 @@ async function verifyUrl(url) {
     }
 }
 
-// ==================== BÚSQUEDA WEB REAL (SERPAPI) ====================
-async function searchWeb(query, numResults = CONFIG.maxSearchResults) {
+// ==================== FILTRO DE DOMINIOS BANEADOS ====================
+function isBannedDomain(url) {
+    try {
+        const hostname = new URL(url).hostname.toLowerCase().replace(/^www\./, '');
+        return BANNED_DOMAINS.some(d => hostname === d || hostname.endsWith('.' + d));
+    } catch {
+        return true; // URLs inválidas también se descartan
+    }
+}
+
+// ==================== BÚSQUEDA WEB MULTI-QUERY (SERPAPI) ====================
+async function searchWeb(category, numResults = CONFIG.maxSearchResults) {
     if (!CONFIG.serpApiKey) {
         console.log('  ℹ️  Sin SERPAPI_KEY, usando solo IA para generar descubrimientos');
         return [];
     }
 
-    try {
-        const url = `${CONFIG.serpApiBaseUrl}?q=${encodeURIComponent(query)}&num=${numResults}&api_key=${CONFIG.serpApiKey}&engine=google`;
-        const response = await fetch(url);
-        const data = await response.json();
+    // Seleccionar 2 queries aleatorios de la categoría para diversificar
+    const queries = category.queries || [category.query];
+    const shuffled = [...queries].sort(() => Math.random() - 0.5);
+    const selectedQueries = shuffled.slice(0, Math.min(2, queries.length));
 
-        if (!data.organic_results) {
-            console.log('  ⚠️  Sin resultados orgánicos de SerpAPI');
-            return [];
+    let allResults = [];
+    const seenUrls = new Set();
+
+    for (const query of selectedQueries) {
+        console.log(`  🔍 Buscando: "${query}"`);
+        try {
+            const url = `${CONFIG.serpApiBaseUrl}?q=${encodeURIComponent(query)}&num=10&api_key=${CONFIG.serpApiKey}&engine=google`;
+            const response = await fetch(url);
+            const data = await response.json();
+
+            if (data.organic_results) {
+                for (const r of data.organic_results) {
+                    const link = r.link || '';
+                    // Filtro 1: dominios baneados
+                    if (isBannedDomain(link)) {
+                        console.log(`    ⛔ Dominio baneado: ${link.substring(0, 50)}`);
+                        continue;
+                    }
+                    // Filtro 2: duplicados
+                    const norm = normalizeUrl(link);
+                    if (seenUrls.has(norm)) continue;
+                    seenUrls.add(norm);
+
+                    allResults.push({
+                        title: r.title || '',
+                        url: link,
+                        snippet: r.snippet || '',
+                    });
+                }
+            }
+        } catch (error) {
+            console.error(`  ❌ Error buscando "${query}":`, error.message);
         }
 
-        return data.organic_results.map(r => ({
-            title: r.title || '',
-            url: r.link || '',
-            snippet: r.snippet || '',
-        }));
-    } catch (error) {
-        console.error('  ❌ Error en búsqueda web:', error.message);
-        return [];
+        // Rate limit entre queries
+        if (selectedQueries.indexOf(query) < selectedQueries.length - 1) {
+            await new Promise(r => setTimeout(r, 500));
+        }
     }
+
+    // Mezclar y limitar resultados
+    allResults = allResults.sort(() => Math.random() - 0.5).slice(0, numResults * 2);
+    console.log(`  📊 ${allResults.length} resultados limpios (sin banned domains)`);
+    return allResults;
 }
 
 // ==================== CURACIÓN CON IA ====================
@@ -228,49 +353,61 @@ async function curateWithAI(searchResults, category, existingUrls, existingTitle
     console.log(`  🤞 Llamando a ${CONFIG.providerName} (${modelName})...`);
 
     const searchContext = searchResults.length > 0
-        ? `\n\nIMPORTANTE: He encontrado estos resultados de búsqueda web real. Úsalos como BASE, pero MEJORALOS:\n${searchResults.map((r, i) => `${i + 1}. ${r.title}\n   URL: ${r.url}\n   Snippet: ${r.snippet}`).join('\n')}\n\nINSTRUCCIONES:\n- Si una URL de los resultados es buena, úsala. Si es mainstream/basura, descártala.\n-Completa los que falten con rarezas REALES que conozcas.\n- NUNCA inventes URLs. Si no conoces una URL real, no la incluyas.`
-        : '';
+        ? `\n\nRESULTADOS DE BÚSQUEDA WEB (ya filtrados de dominios mainstream):\n${searchResults.map((r, i) => `${i + 1}. ${r.title}\n   URL: ${r.url}\n   Snippet: ${r.snippet}`).join('\n')}\n\nINSTRUCCIONES PARA LOS RESULTADOS:\n- Si un resultado apunta a algo genuinamente raro/obscuro, úsalo tal cual.\n- Si un resultado sigue pareciendo mainstream a pesar del filtro, descártalo SIN piedad.\n- Complementa con rarezas REALES que conozcas de primera mano (no las inventes).\n- NUNCA inventes URLs. Si no estás seguro de que una URL existe, NO la incluyas.`
+        : '\n\nNOTA: No hay resultados de búsqueda. Usa SOLO rarezas que conozcas de primera mano y estés ALTAMENTE seguro de que existen.';
 
-    const DISCOVERY_PROMPT = `Eres un curador de rarezas de internet. Tu misión es encontrar contenido genuinamente raro, fascinante, poco conocido o infravalorado.
+    const DISCOVERY_PROMPT = `Eres el curador de rarezas más obsesivo y exigente de internet. Solo recomiendas cosas que NADIE conocería buscando en Google. Tu criterio es brutal: si algo aparece en la primera página de Google para su tema, es BASURA para ti.
 
-HOY debes generar exactamente ${CONFIG.discoveriesPerRun} descubrimientos nuevos. La categoría de hoy es: **${category.nombre}** (${category.id}).
+MISIÓN: Generar exactamente ${CONFIG.discoveriesPerRun} descubrimientos GENUINAMENTE RAROS. Categoría de hoy: **${category.nombre}** (${category.id}).
 
-CATEGORÍAS POSIBLES (usa la de hoy):
-- "web_extraña" → Sitios web que desafían la lógica, inútiles, hipnóticos, absurdos
-- "artista_marginal" → Artistas outsider, desconocidos, visionarios solitarios
-- "proyecto_experimental" → Obras, hacks, experimentos tecnológicos no convencionales
-- "juego_absurdo" → Juegos de navegador absurdos, interactivos, perturbadores
-- "subcultura" → Comunidades underground, fenómenos de internet marginales
-- "estetica_rara" → Glitch art, vaporwave, net.art, estéticas digitales raras
-- "idea_provocadora" → Conceptos, paradojas, experimentos mentales, filosofía rara
-- "blog_olvidado" → Blogs personales olvidados, webs antiguas que resisten
-- "performance_raro" → Performances, exposiciones, instalaciones raras
-- "musica_experimental" → Música experimental, noise, sound art, instrumentos raros
-- "filosofia_digital" → Paradojas de internet, teoría digital, ciberfilosofía
-- "experimento_social" → Experimentos sociales online, crowdsourcing raro
-- "herramienta_oculta" → Utilidades web ocultas, herramientas raras de internet
+CATEGORÍA DETALLADA:
+- "web_extraña" → Sitios que desafían toda lógica: webs de un solo propósito hipnótico, páginas abandonadas desde 2003 que siguen vivas, experimentos web que nadie entiende
+- "artista_marginal" → Artistas outsider AUTÉNTICOS: Henry Darger, Adolf Wölfli, personas que crearon mundos enteros en secreto. NO ilustradores de Instagram con 10K followers
+- "proyecto_experimental" → Hacks, mods, proyectos de creative coding raros, repos GitHub con <50 estrellas que hacen algo fascinante, experimentos académicos extraños
+- "juego_absurdo" → Juegos que NO deberían existir: Cookie Clicker antes de ser famosa, Neon Structure, experiencias web que te hacen cuestionar la realidad
+- "subcultura" → Comunidades underground REALES: webrings de Neocities, foros de los 2000s que siguen vivos, grupos que hacen cosas inexplicables
+- "estetica_rara" → Estéticas que la mayoría ignora:_seapunk, post-internet, cursed images como forma de arte, databending, URL art. NO vaporwave genérico de Pinterest
+- "idea_provocadora" → Conceptos que te quitan el sueño: la hipótesis del bosque oscuro, el problema del hardr de la consciencia, teorías marginales fascinantes
+- "blog_olvidado" → El tipo de página personal de los 90s/2000s que alguien mantiene por purera obsesión, actualizada hace 15 años y sigue ahí
+- "performance_raro" → Performances DOCUMENTADOS que te dejan sin palabras: Tilda Swinton durmiendo en el MoMA, Stelarc con su tercera oreja
+- "musica_experimental" → Música que NADIE en tu círculo conoce: Microgenres como vaporwave original, Japanoise, lowercase music, field recordings como arte
+- "filosofia_digital" → Fenómenos digitales extraños: la muerte en MMOs, la economía de los juegos como metáfora, el problema del último usuario
+- "experimento_social" → Experimentos sociales reales y documentados, NO teóricos. Proyectos como The Million Dollar Homepage, ChatRoulette en su momento
+- "herramienta_oculta" → Herramientas con un propósito TAN específico que es genial: sitios que hacen una cosa y la hacen perfectamente, pero nadie los conoce
 
-REGLAS ESTRICTAS:
-1. Nada mainstream. Evita sitios que aparecen en la primera página de Google buscando su nombre
-2. PROHIBIDO: ProductHunt, PetaPixel, Creative Bloq, TechCrunch, Futurism, Medium top, Reddit frontpage
-3. PRIORIZAR: GitHub repos con <500 estrellas, blogs personales, proyectos universitarios, herramientas beta, webs de un solo propósito, arxiv, arte outsider
-4. Cada URL debe ser REAL y VERIFICABLE. Si no estás seguro de que existe, NO la inventes.
-5. Varía entre subcategorias dentro de la categoría de hoy
-6. Las descriptions deben ser VIVAS y ESPECÍFICAS, no genéricas
+LISTA NEGRA ABSOLUTA — NUNCA recomendes nada de estos dominios:
+Behance, Pinterest, Instagram, Dribbble, ArtStation, DeviantArt, Medium, Reddit (frontpage), Wikipedia, Fandom, Dreamstime, Shutterstock, Unsplash, BuzzFeed, Vice (main), TechCrunch, The Verge, Tumblr, YouTube, TikTok, Facebook, Twitter/X, LinkedIn, Etsy, Amazon, IMDB, Goodreads
 
-Devuelve SOLO un objeto JSON válido con esta estructura:
+PRIORIZAR SIEMPRE:
+- Proyectos personales con dominio propio (no subdominios de platforms)
+- GitHub repos con pocas estrellas pero ideas brillantes
+- Sitios .edu de investigadores excéntricos
+- Webs alojadas en Neocities, Glitch, Itch.io
+- Arxiv papers, repositorios universitarios
+- Blogs de una sola persona actualizados con obsesión
+- Archivos de internet (Wayback Machine, Archive.org)
+- Foros pequeños y antiguos que siguen activos
+
+REGLAS DE ORO:
+1. Si podrías encontrarlo en 5 segundos en Google, NO lo recomiendas.
+2. Si tu amigo hipster de Brooklyn ya lo comparte en Instagram, NO lo recomiendas.
+3. Cada URL debe ser REAL y VERIFICABLE. Si no estás AL 100% seguro de que existe, NO la inventes.
+4. Las descripciones deben ser VIVAS, ESPECÍFICAS y con DATOS CONCRETOS. Nada de "una fascinante exploración de..."
+5. El campo "quote" debe ser un dato JUDOSO o una observación mordaz, no una frase genérica de LinkedIn.
+6. VARÍA dentro de la categoría: no me des 5 cosas de la misma subcategoría.
+
+Devuelve SOLO un objeto JSON válido:
 {
   "discoveries": [
     {
       "category": "${category.id}",
-      "title": "Título específico y llamativo",
-      "url": "https://url-real-y-verificable.com",
-      "description": "Qué es, por qué es raro o valioso, qué lo diferencia. 2-3 frases con tono curioso.",
-      "quote": "Una idea provocadora o dato sorprendente relacionado."
+      "title": "Título específico y punzante (no genérico)",
+      "url": "https://url-real-y-verificable.com/ruta-específica",
+      "description": "Qué es exactamente, por qué es raro, qué lo hace único. Datos concretos, no palabrería. 2-3 frases.",
+      "quote": "Dato sorprendente, estadística inusual, o observación mordaz."
     }
   ]
-}
-${searchContext}
+}${searchContext}
 
 URLS YA EN LA BASE DE DATOS (NO REPETIR):
 ${existingUrls.slice(0, 200).map(u => `  - ${u}`).join('\n')}
@@ -278,7 +415,8 @@ ${existingUrls.slice(0, 200).map(u => `  - ${u}`).join('\n')}
 TÍTULOS YA USADOS (NO REPETIR NI PARECIDOS):
 ${existingTitles.slice(0, 200).map(t => `  - ${t}`).join('\n')}
 
-Ahora genera ${CONFIG.discoveriesPerRun} descubrimientos completamente nuevos y únicos:`;
+Ahora genera ${CONFIG.discoveriesPerRun} descubrimientos completamente nuevos y ÚNICOS. Recuerda: si es mainstream, no lo quiero.`;
+
 
     try {
         const response = await aiClient.chat.completions.create({
@@ -286,12 +424,12 @@ Ahora genera ${CONFIG.discoveriesPerRun} descubrimientos completamente nuevos y 
             messages: [
                 {
                     role: 'system',
-                    content: 'Eres el curador de rarezas más obsesivo de internet. Encuentras cosas que nadie más encuentra. Solo recomiendas cosas que EXISTEN de verdad. Tu tono es culto, curioso y ligeramente perturbado. Hablas en español.'
+                    content: 'Eres el anticurador. Tu trabajo es encontrar lo que NADIE encuentra. Cosas que hacen que la gente diga "¿cómo se SUPONE que iba a yo saber que esto existía?". Solo recomiendas cosas que EXISTEN de verdad — si inventas URLs, fracasaste. Tu tono es culto, obsesivo y ligeramente perturbado. Hablas en español con precisión quirúrgica.'
                 },
                 { role: 'user', content: DISCOVERY_PROMPT }
             ],
             response_format: { type: 'json_object' },
-            temperature: 0.9,
+            temperature: 1.0,
             max_tokens: 4000
         });
 
@@ -340,6 +478,12 @@ function filterDuplicates(newDiscoveries, database, sentArchive) {
     return newDiscoveries.filter(d => {
         if (!d.url || !d.title) {
             console.log(`  ⏭️  Sin URL o título: ${d.title || '(vacío)'}`);
+            return false;
+        }
+
+        // L0: Dominio baneado (mainstream)
+        if (isBannedDomain(d.url)) {
+            console.log(`  ⛔ Dominio baneado: ${d.title} → ${d.url}`);
             return false;
         }
 
@@ -491,8 +635,8 @@ async function main() {
 
     // 3. Búsqueda web real
     console.log('\n🌐 Buscando en la web...');
-    const searchResults = await searchWeb(category.query);
-    console.log(`  → ${searchResults.length} resultados de búsqueda`);
+    const searchResults = await searchWeb(category);
+    console.log(`  → ${searchResults.length} resultados de búsqueda (limpios)`);
 
     // 4. Curación con IA
     console.log('\n🤖 Curando con IA...');
