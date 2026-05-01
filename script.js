@@ -9626,6 +9626,49 @@ async function fetchFromHackerNews() {
         url: "https://www.norad.mil/About-NORAD/Cheyenne-Mountain-Air-Force-Station/",
         description: "El Proyecto Cheyenne Mountain incluye un sistema de bunkeres y refugios subterráneos que servían como centro de comando y control para la defensa aérea de Estados Unidos.",
         quote: "Este complejo subterráneo fue diseñado para resistir ataques nucleares y funcionar como un gobierno en el exilio."
+    },
+    // 2026-05-01 — infraestructura_oculta
+    {
+        category: "infraestructura_oculta",
+        title: "La Red de Cables Submarinos que Conecta el Mundo",
+        url: "https://submarine-cable-map-2025.telegeography.com/",
+        description: "Un mapa interactivo de los cables submarinos que conectan el mundo, revelando la infraestructura oculta que soporta la comunicación global. Con 597 cable systems y 1,712 landings activos o en construcción, este mapa es una ventana a la red física que sustenta nuestra era digital.",
+        quote: "¿Sabías que más del 99% del tráfico de Internet viaja a través de cables submarinos?"
+    },
+    {
+        category: "infraestructura_oculta",
+        title: "El Bunker Nuclear Secreto de Greenbrier",
+        url: "https://www.smithsonianmag.com/history/the-town-that-kept-its-nuclear-bunker-a-secret-for-three-decades-180984107/",
+        description: "Un bunker nuclear construido en secreto durante la Guerra Fría, diseñado para proteger al Congreso de los Estados Unidos en caso de un ataque nuclear. Conocido como 'Project Greek Island', este sitio es un recordatorio de la paranoia y la planificación para la supervivencia durante la era de la guerra nuclear.",
+        quote: "Este bunker, construido en 1962, podría haber sido el lugar seguro para el Congreso en caso de un ataque nuclear, pero permaneció en secreto durante décadas."
+    },
+    {
+        category: "infraestructura_oculta",
+        title: "La Red de Túneles y Bunkeres de ArcelorMittal",
+        url: "https://www.urbex-travel.com/steelworks-shelter/",
+        description: "Un refugio de la Guerra Fría escondido debajo de una fábrica de acero en funcionamiento, mostrando la complejidad de la infraestructura de defensa secreta construida durante el siglo XX. Este sitio es un ejemplo de cómo la historia y la función pueden coexistir en lugares inesperados.",
+        quote: "¿Quién hubiera imaginado que bajo una fábrica de acero en funcionamiento se escondiera un refugio de la Guerra Fría?"
+    },
+    {
+        category: "infraestructura_oculta",
+        title: "El Proyecto de Cable Submarino de Google",
+        url: "https://www.google.com/about/datacenters/efficiency/cables/",
+        description: "Google está construyendo su propia red de cables submarinos para mejorar la conectividad y reducir la latencia en la transmisión de datos a nivel global. Este proyecto muestra el compromiso de la empresa con la innovación y la expansión de la infraestructura de Internet.",
+        quote: "La inversión de Google en cables submarinos es un ejemplo claro de cómo las empresas tecnológicas están cambiando la forma en que pensamos sobre la infraestructura global de comunicaciones."
+    },
+    {
+        category: "infraestructura_oculta",
+        title: "La Cartografía de la Infraestructura de Internet por Hurricane Electric",
+        url: "https://he.net/3d-map/",
+        description: "Un mapa 3D interactivo que muestra la infraestructura de Internet a nivel global, incluyendo cables submarinos y centros de datos. Esta herramienta ofrece una perspectiva única sobre la red física que soporta nuestra era digital.",
+        quote: "Este mapa es una ventana a la complejidad de la infraestructura de Internet, revelando cómo los datos viajan alrededor del mundo."
+    },
+    {
+        category: "infraestructura_oculta",
+        title: "El Mapa de la Infraestructura de Conectividad de la UIT",
+        url: "https://bbmaps.itu.int/bbmaps/",
+        description: "Un mapa de la Unión Internacional de Telecomunicaciones que muestra la infraestructura de conectividad a nivel global, incluyendo cables submarinos, redes de fibra óptica y centros de datos. Esta herramienta es fundamental para entender la distribución y el acceso a la tecnología de la información y la comunicación en diferentes regiones del mundo.",
+        quote: "Este mapa es una herramienta invaluable para los formuladores de políticas y los investigadores que buscan entender la brecha digital y la infraestructura de conectividad global."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

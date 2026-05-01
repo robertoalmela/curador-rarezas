@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-01T10:04:15.177Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-01T10:22:06.392Z",
+  "sentCount": 49,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -315,6 +315,54 @@
       "category": "infraestructura_oculta",
       "hash": "514bfe12c753e637",
       "addedToDb": "2026-05-01T10:04:08.376Z",
+      "sent": false
+    },
+    {
+      "title": "La Red de Cables Submarinos que Conecta el Mundo",
+      "url": "https://submarine-cable-map-2025.telegeography.com/",
+      "category": "infraestructura_oculta",
+      "hash": "53348d4c6cfcad4e",
+      "addedToDb": "2026-05-01T10:22:06.392Z",
+      "sent": false
+    },
+    {
+      "title": "El Bunker Nuclear Secreto de Greenbrier",
+      "url": "https://www.smithsonianmag.com/history/the-town-that-kept-its-nuclear-bunker-a-secret-for-three-decades-180984107/",
+      "category": "infraestructura_oculta",
+      "hash": "64ea88a541dafb96",
+      "addedToDb": "2026-05-01T10:22:06.392Z",
+      "sent": false
+    },
+    {
+      "title": "La Red de Túneles y Bunkeres de ArcelorMittal",
+      "url": "https://www.urbex-travel.com/steelworks-shelter/",
+      "category": "infraestructura_oculta",
+      "hash": "dc9fef46a7e93e8c",
+      "addedToDb": "2026-05-01T10:22:06.392Z",
+      "sent": false
+    },
+    {
+      "title": "El Proyecto de Cable Submarino de Google",
+      "url": "https://www.google.com/about/datacenters/efficiency/cables/",
+      "category": "infraestructura_oculta",
+      "hash": "26f30d74dd961c31",
+      "addedToDb": "2026-05-01T10:22:06.392Z",
+      "sent": false
+    },
+    {
+      "title": "La Cartografía de la Infraestructura de Internet por Hurricane Electric",
+      "url": "https://he.net/3d-map/",
+      "category": "infraestructura_oculta",
+      "hash": "08432222e7d01cc0",
+      "addedToDb": "2026-05-01T10:22:06.392Z",
+      "sent": false
+    },
+    {
+      "title": "El Mapa de la Infraestructura de Conectividad de la UIT",
+      "url": "https://bbmaps.itu.int/bbmaps/",
+      "category": "infraestructura_oculta",
+      "hash": "0d8be454d1ade05b",
+      "addedToDb": "2026-05-01T10:22:06.392Z",
       "sent": false
     }
   ],
