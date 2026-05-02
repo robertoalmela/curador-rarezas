@@ -9669,6 +9669,21 @@ async function fetchFromHackerNews() {
         url: "https://bbmaps.itu.int/bbmaps/",
         description: "Un mapa de la Unión Internacional de Telecomunicaciones que muestra la infraestructura de conectividad a nivel global, incluyendo cables submarinos, redes de fibra óptica y centros de datos. Esta herramienta es fundamental para entender la distribución y el acceso a la tecnología de la información y la comunicación en diferentes regiones del mundo.",
         quote: "Este mapa es una herramienta invaluable para los formuladores de políticas y los investigadores que buscan entender la brecha digital y la infraestructura de conectividad global."
+    },
+    // 2026-05-02 — fracaso_bello
+    {
+        category: "fracaso_bello",
+        title: "El extraño caso de la Ciudad de Masdar",
+        url: "https://www.masdarcity.ae/en/",
+        description: "La Ciudad de Masdar, en Abu Dabi, fue diseñada para ser una utopía sostenible. Sin embargo, su construcción y ocupación han sido marcadas por retrasos y controversias, convirtiéndola en un ejemplo de fracaso de planificación urbana.",
+        quote: "Un intento de crear una ciudad ecológica perfecta que se convirtió en un símbolo de la falta de sostenibilidad de las ambiciones humanas."
+    },
+    {
+        category: "fracaso_bello",
+        title: "La debacle del Proyecto SETI@home",
+        url: "https://setiathome.berkeley.edu/sah_about.php",
+        description: "El Proyecto SETI@home, destinado a buscar señales de vida extraterrestre, fracasó en su objetivo principal pero logró sentar las bases para proyectos de computación distribuida. Un ejemplo de cómo el fracaso puede llevar a innovaciones inesperadas.",
+        quote: "Un intento de encontrar vida más allá de la Tierra que, aunque no logró su objetivo, demostró la potencia de la colaboración humana en la búsqueda del conocimiento."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
