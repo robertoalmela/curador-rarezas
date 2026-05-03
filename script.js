@@ -9684,6 +9684,28 @@ async function fetchFromHackerNews() {
         url: "https://setiathome.berkeley.edu/sah_about.php",
         description: "El Proyecto SETI@home, destinado a buscar señales de vida extraterrestre, fracasó en su objetivo principal pero logró sentar las bases para proyectos de computación distribuida. Un ejemplo de cómo el fracaso puede llevar a innovaciones inesperadas.",
         quote: "Un intento de encontrar vida más allá de la Tierra que, aunque no logró su objetivo, demostró la potencia de la colaboración humana en la búsqueda del conocimiento."
+    },
+    // 2026-05-03 — idea_provocadora
+    {
+        category: "idea_provocadora",
+        title: "El problema de la conciencia en la mecánica cuántica",
+        url: "https://arxiv.org/abs/1208.4355",
+        description: "El problema de la conciencia en la mecánica cuántica se refiere a la cuestión de cómo la conciencia y la observación influyen en el comportamiento de las partículas cuánticas. Esta área de investigación busca entender la relación entre la conciencia y el mundo físico.",
+        quote: "La conciencia puede ser la clave para entender la realidad cuántica, pero ¿cómo podemos medir y cuantificar algo tan subjetivo?"
+    },
+    {
+        category: "idea_provocadora",
+        title: "La paradoja de la información en los agujeros negros",
+        url: "https://arxiv.org/abs/1609.04828",
+        description: "La paradoja de la información en los agujeros negros se refiere a la cuestión de qué sucede con la información contenida en la materia que cae en un agujero negro. Esta paradoja ha generado un gran debate en la comunidad de físicos y filósofos.",
+        quote: "La información no puede ser destruida, pero ¿dónde va cuando cae en un agujero negro?"
+    },
+    {
+        category: "idea_provocadora",
+        title: "La teoría del panpsiquismo",
+        url: "https://plato.stanford.edu/entries/panpsychism/",
+        description: "La teoría del panpsiquismo sugiere que la conciencia es una propiedad fundamental del universo, presente en todos los seres y objetos, desde las partículas subatómicas hasta los seres humanos. Esta idea busca entender la naturaleza de la conciencia y su relación con el mundo físico.",
+        quote: "La conciencia no es exclusiva de los seres humanos, sino que es una propiedad esencial del universo mismo."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

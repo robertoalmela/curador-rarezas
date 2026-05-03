@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-02T09:57:17.297Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-03T10:03:37.822Z",
+  "sentCount": 54,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -379,6 +379,30 @@
       "category": "fracaso_bello",
       "hash": "850bf4ed327e34eb",
       "addedToDb": "2026-05-02T09:57:15.139Z",
+      "sent": false
+    },
+    {
+      "title": "El problema de la conciencia en la mecánica cuántica",
+      "url": "https://arxiv.org/abs/1208.4355",
+      "category": "idea_provocadora",
+      "hash": "d6d0cc85dc3f0d83",
+      "addedToDb": "2026-05-03T10:03:37.822Z",
+      "sent": false
+    },
+    {
+      "title": "La paradoja de la información en los agujeros negros",
+      "url": "https://arxiv.org/abs/1609.04828",
+      "category": "idea_provocadora",
+      "hash": "681a4fa937925e8f",
+      "addedToDb": "2026-05-03T10:03:37.822Z",
+      "sent": false
+    },
+    {
+      "title": "La teoría del panpsiquismo",
+      "url": "https://plato.stanford.edu/entries/panpsychism/",
+      "category": "idea_provocadora",
+      "hash": "3f42c1d2c2f4895f",
+      "addedToDb": "2026-05-03T10:03:37.822Z",
       "sent": false
     }
   ],
