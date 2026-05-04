@@ -9706,6 +9706,21 @@ async function fetchFromHackerNews() {
         url: "https://plato.stanford.edu/entries/panpsychism/",
         description: "La teoría del panpsiquismo sugiere que la conciencia es una propiedad fundamental del universo, presente en todos los seres y objetos, desde las partículas subatómicas hasta los seres humanos. Esta idea busca entender la naturaleza de la conciencia y su relación con el mundo físico.",
         quote: "La conciencia no es exclusiva de los seres humanos, sino que es una propiedad esencial del universo mismo."
+    },
+    // 2026-05-04 — lengua_muerta
+    {
+        category: "lengua_muerta",
+        title: "El alfabeto de la escritura rongorongo",
+        url: "https://omniglot.com/writing/rongorongo.htm",
+        description: "El rongorongo es un sistema de escritura indescifrado que se encuentra en tablillas de madera de la Isla de Pascua. A pesar de numerosos intentos, su significado y propósito siguen siendo un misterio.",
+        quote: "Hay aproximadamente 120 símbolos distintos en el rongorongo, que abarcan desde formas geométricas hasta representaciones de animales y seres humanos."
+    },
+    {
+        category: "lengua_muerta",
+        title: "La lengua de los guaraníes",
+        url: "https://www.ethnologue.com/language/gug",
+        description: "El guaraní es una lengua indígena que se habla en Paraguay y partes de Argentina, Bolivia y Brasil. Aunque es una lengua oficial en Paraguay, enfrenta desafíos en su preservación y promoción.",
+        quote: "El guaraní es una de las lenguas indígenas más habladas en América del Sur, con más de 5 millones de hablantes."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
