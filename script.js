@@ -9721,6 +9721,28 @@ async function fetchFromHackerNews() {
         url: "https://www.ethnologue.com/language/gug",
         description: "El guaraní es una lengua indígena que se habla en Paraguay y partes de Argentina, Bolivia y Brasil. Aunque es una lengua oficial en Paraguay, enfrenta desafíos en su preservación y promoción.",
         quote: "El guaraní es una de las lenguas indígenas más habladas en América del Sur, con más de 5 millones de hablantes."
+    },
+    // 2026-05-06 — estetica_rara
+    {
+        category: "estetica_rara",
+        title: "Databending 101: Un Viaje a lo Inesperado",
+        url: "https://nickbriz.com/databending101/intro.html",
+        description: "Un tutorial interactivo sobre databending, una técnica que altera archivos digitales para crear imágenes y sonidos interesantes. Un recurso valioso para aquellos que buscan experimentar con la estética de la degradación digital.",
+        quote: "El databending es como una excavación arqueológica en el ciberespacio, descubriendo patrones y texturas escondidas en los archivos digitales."
+    },
+    {
+        category: "proyecto_experimental",
+        title: "La Galería de Arte Digital de Arebyte",
+        url: "https://www.arebyte.com/digital-weird",
+        description: "Un espacio en línea que exhibe obras de arte digital que desafían la lógica y la percepción. Desde instalaciones interactivas hasta performances virtuales, cada pieza es un ejercicio en la exploración de los límites de la creación digital.",
+        quote: "En un mundo donde la realidad se está volviendo cada vez más virtual, el arte digital se está convirtiendo en el espejo que refleja nuestra condición existencial."
+    },
+    {
+        category: "herramienta_oculta",
+        title: "Tobloef's Glitch Art Tools",
+        url: "https://tobloef.com/blog/glitch-art/",
+        description: "Un conjunto de herramientas y tutoriales para crear arte glitch, desde databending hasta la manipulación de archivos de audio y video. Un recurso invaluable para los artistas que buscan explorar los confines de la estética digital.",
+        quote: "El glitch art es la poesía del mal funcionamiento, donde el error se vuelve belleza y la falla se convierte en arte."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

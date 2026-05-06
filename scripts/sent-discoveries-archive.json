@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-05T10:45:27.537Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-06T11:06:05.897Z",
+  "sentCount": 59,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -419,6 +419,30 @@
       "category": "lengua_muerta",
       "hash": "179b9f95f6147da6",
       "addedToDb": "2026-05-04T11:04:53.695Z",
+      "sent": false
+    },
+    {
+      "title": "Databending 101: Un Viaje a lo Inesperado",
+      "url": "https://nickbriz.com/databending101/intro.html",
+      "category": "estetica_rara",
+      "hash": "fb960103e361c19d",
+      "addedToDb": "2026-05-06T11:06:05.897Z",
+      "sent": false
+    },
+    {
+      "title": "La Galería de Arte Digital de Arebyte",
+      "url": "https://www.arebyte.com/digital-weird",
+      "category": "proyecto_experimental",
+      "hash": "fde283061a81ae85",
+      "addedToDb": "2026-05-06T11:06:05.897Z",
+      "sent": false
+    },
+    {
+      "title": "Tobloef's Glitch Art Tools",
+      "url": "https://tobloef.com/blog/glitch-art/",
+      "category": "herramienta_oculta",
+      "hash": "1e2c5bb4af1b8530",
+      "addedToDb": "2026-05-06T11:06:05.897Z",
       "sent": false
     }
   ],
