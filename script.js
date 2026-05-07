@@ -9743,6 +9743,42 @@ async function fetchFromHackerNews() {
         url: "https://tobloef.com/blog/glitch-art/",
         description: "Un conjunto de herramientas y tutoriales para crear arte glitch, desde databending hasta la manipulación de archivos de audio y video. Un recurso invaluable para los artistas que buscan explorar los confines de la estética digital.",
         quote: "El glitch art es la poesía del mal funcionamiento, donde el error se vuelve belleza y la falla se convierte en arte."
+    },
+    // 2026-05-07 — herramienta_oculta
+    {
+        category: "herramienta_oculta",
+        title: "Regex101: La herramienta de expresiones regulares definitiva",
+        url: "https://regex101.com/",
+        description: "Regex101 es una herramienta en línea que permite a los desarrolladores probar y depurar expresiones regulares de manera efectiva. Con su potente motor de ejecución y su interfaz de usuario intuitiva, es una herramienta indispensable para cualquier persona que trabaje con texto y necesite manipular patrones complejos.",
+        quote: "El 90% de los programadores no entienden realmente cómo funcionan las expresiones regulares, pero con Regex101, pueden hacer que parezca que sí."
+    },
+    {
+        category: "herramienta_oculta",
+        title: "Godbolt: El compilador en línea que revela los secretos del código",
+        url: "https://godbolt.org/",
+        description: "Godbolt es una herramienta en línea que permite a los desarrolladores compilar y depurar código en una variedad de lenguajes de programación, incluyendo C, C++ y Rust. Su capacidad para mostrar el código ensamblado correspondiente al código de alto nivel es una herramienta valiosa para aquellos que buscan optimizar su código.",
+        quote: "Godbolt es como tener un tutor de compilación personalizado que te muestra exactamente qué está haciendo el compilador con tu código."
+    },
+    {
+        category: "herramienta_oculta",
+        title: "Roadmap.sh: El mapa de ruta para desarrolladores que buscan mejorar",
+        url: "https://roadmap.sh/",
+        description: "Roadmap.sh es una herramienta en línea que proporciona mapas de ruta personalizados para desarrolladores que buscan mejorar sus habilidades en diferentes tecnologías y campos. Con su enfoque en la creación de planes de estudio personalizados, es una herramienta valiosa para aquellos que buscan avanzar en sus carreras.",
+        quote: "Roadmap.sh es como tener un mentor personal que te guía a través del laberinto de tecnologías y habilidades que necesitas para tener éxito en la industria del software."
+    },
+    {
+        category: "herramienta_oculta",
+        title: "Cloudhiker: El sitio web que te lleva a lugares inesperados",
+        url: "https://cloudhiker.net/",
+        description: "Cloudhiker es un sitio web que te lleva a lugares inesperados en la web. Con su enfoque en la exploración y el descubrimiento, es una herramienta valiosa para aquellos que buscan encontrar nuevos y emocionantes sitios web que no están en el radar mainstream.",
+        quote: "Cloudhiker es como tener un amigo que te muestra los secretos mejor guardados de la web, uno a la vez."
+    },
+    {
+        category: "herramienta_oculta",
+        title: "Fastblinker: El sitio web que te hace cuestionar la realidad",
+        url: "https://www.fastblinker.com/",
+        description: "Fastblinker es un sitio web que te lleva a un viaje a través de la web, mostrándote sitios y experiencias que desafían la lógica y la razón. Con su enfoque en la exploración y el descubrimiento, es una herramienta valiosa para aquellos que buscan expandir sus horizontes y cuestionar su percepción de la realidad.",
+        quote: "Fastblinker es como tener un puente a otro universo, donde la lógica y la razón no aplican."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

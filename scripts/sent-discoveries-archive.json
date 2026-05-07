@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-06T11:06:08.383Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-07T11:09:07.695Z",
+  "sentCount": 64,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -443,6 +443,46 @@
       "category": "herramienta_oculta",
       "hash": "1e2c5bb4af1b8530",
       "addedToDb": "2026-05-06T11:06:05.897Z",
+      "sent": false
+    },
+    {
+      "title": "Regex101: La herramienta de expresiones regulares definitiva",
+      "url": "https://regex101.com/",
+      "category": "herramienta_oculta",
+      "hash": "f9f5b3eb959004c9",
+      "addedToDb": "2026-05-07T11:09:07.695Z",
+      "sent": false
+    },
+    {
+      "title": "Godbolt: El compilador en línea que revela los secretos del código",
+      "url": "https://godbolt.org/",
+      "category": "herramienta_oculta",
+      "hash": "93aec22501083c68",
+      "addedToDb": "2026-05-07T11:09:07.695Z",
+      "sent": false
+    },
+    {
+      "title": "Roadmap.sh: El mapa de ruta para desarrolladores que buscan mejorar",
+      "url": "https://roadmap.sh/",
+      "category": "herramienta_oculta",
+      "hash": "b43d654974b6882e",
+      "addedToDb": "2026-05-07T11:09:07.695Z",
+      "sent": false
+    },
+    {
+      "title": "Cloudhiker: El sitio web que te lleva a lugares inesperados",
+      "url": "https://cloudhiker.net/",
+      "category": "herramienta_oculta",
+      "hash": "e7992fa398e408a1",
+      "addedToDb": "2026-05-07T11:09:07.695Z",
+      "sent": false
+    },
+    {
+      "title": "Fastblinker: El sitio web que te hace cuestionar la realidad",
+      "url": "https://www.fastblinker.com/",
+      "category": "herramienta_oculta",
+      "hash": "fb2f4048e85ea961",
+      "addedToDb": "2026-05-07T11:09:07.695Z",
       "sent": false
     }
   ],
