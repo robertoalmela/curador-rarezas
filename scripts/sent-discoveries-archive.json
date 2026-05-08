@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-07T11:09:13.907Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-08T10:23:36.016Z",
+  "sentCount": 69,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -483,6 +483,46 @@
       "category": "herramienta_oculta",
       "hash": "fb2f4048e85ea961",
       "addedToDb": "2026-05-07T11:09:07.695Z",
+      "sent": false
+    },
+    {
+      "title": "El ritual de los 'Kukeri' en Bulgaria",
+      "url": "https://petapixel.com/2022/04/19/photos-of-one-of-the-last-remaining-pagan-rituals-in-europe/",
+      "category": "ritual_oculto",
+      "hash": "fda1f81c16b865c3",
+      "addedToDb": "2026-05-08T10:23:36.016Z",
+      "sent": false
+    },
+    {
+      "title": "La escarificación como arte corporal extremo",
+      "url": "https://medicalnewstoday.com/articles/scarification",
+      "category": "ritual_oculto",
+      "hash": "be398ec84791ed8d",
+      "addedToDb": "2026-05-08T10:23:36.016Z",
+      "sent": false
+    },
+    {
+      "title": "El Museo Pitt Rivers y su colección de arte corporal",
+      "url": "https://web.prm.ox.ac.uk/bodyarts/index.php/permanent-body-arts/scarification.html",
+      "category": "ritual_oculto",
+      "hash": "57100288245614f8",
+      "addedToDb": "2026-05-08T10:23:36.016Z",
+      "sent": false
+    },
+    {
+      "title": "La tradición de 'May Day' en el Reino Unido",
+      "url": "https://www.history.co.uk/articles/seven-forgotten-may-day-traditions-from-around-the-uk",
+      "category": "ritual_oculto",
+      "hash": "fe803c838765d73f",
+      "addedToDb": "2026-05-08T10:23:36.016Z",
+      "sent": false
+    },
+    {
+      "title": "El arte de la escarificación en el mundo moderno",
+      "url": "https://www.nationalgeographic.com/science/article/scarification-ancient-body-art-leaving-new-marks",
+      "category": "ritual_oculto",
+      "hash": "4c376f89c45b3c4c",
+      "addedToDb": "2026-05-08T10:23:36.016Z",
       "sent": false
     }
   ],

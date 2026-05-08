@@ -9779,6 +9779,42 @@ async function fetchFromHackerNews() {
         url: "https://www.fastblinker.com/",
         description: "Fastblinker es un sitio web que te lleva a un viaje a través de la web, mostrándote sitios y experiencias que desafían la lógica y la razón. Con su enfoque en la exploración y el descubrimiento, es una herramienta valiosa para aquellos que buscan expandir sus horizontes y cuestionar su percepción de la realidad.",
         quote: "Fastblinker es como tener un puente a otro universo, donde la lógica y la razón no aplican."
+    },
+    // 2026-05-08 — ritual_oculto
+    {
+        category: "ritual_oculto",
+        title: "El ritual de los 'Kukeri' en Bulgaria",
+        url: "https://petapixel.com/2022/04/19/photos-of-one-of-the-last-remaining-pagan-rituals-in-europe/",
+        description: "Un ritual pagano que involucra el disfrazarse con máscaras y ropas para ahuyentar a los espíritus malignos. Esta práctica es una de las últimas que queda en Europa y es un ejemplo fascinante de cómo las tradiciones antiguas pueden seguir vivas en la modernidad.",
+        quote: "Un ejemplo sorprendente de cómo la fe y la superstición pueden influir en las prácticas culturales de una comunidad."
+    },
+    {
+        category: "ritual_oculto",
+        title: "La escarificación como arte corporal extremo",
+        url: "https://medicalnewstoday.com/articles/scarification",
+        description: "La escarificación es una forma de modificación corporal que implica cortar o quemar la piel para crear patrones o diseños. Aunque puede parecer peligrosa, es una práctica que tiene raíces en various culturas alrededor del mundo.",
+        quote: "Un recordatorio de que la percepción de la belleza y la identidad puede variar ampliamente entre culturas y personas."
+    },
+    {
+        category: "ritual_oculto",
+        title: "El Museo Pitt Rivers y su colección de arte corporal",
+        url: "https://web.prm.ox.ac.uk/bodyarts/index.php/permanent-body-arts/scarification.html",
+        description: "El Museo Pitt Rivers en Oxford es conocido por su vasta colección de arte y objetos de culturas de todo el mundo. Su sección de arte corporal es particularmente fascinante, ya que exhibe ejemplos de escarificación y otras formas de modificación corporal.",
+        quote: "Un vistazo a la diversidad de prácticas culturales que existen en el mundo y cómo se pueden apreciar y entender en un contexto museístico."
+    },
+    {
+        category: "ritual_oculto",
+        title: "La tradición de 'May Day' en el Reino Unido",
+        url: "https://www.history.co.uk/articles/seven-forgotten-may-day-traditions-from-around-the-uk",
+        description: "El primer día de mayo es celebrado de diversas maneras alrededor del mundo, incluyendo el Reino Unido. Desde bailes folclóricos hasta rituales de fertilidad, estas tradiciones ofrecen una ventana a las costumbres y supersticiones de antaño.",
+        quote: "Un recordatorio de que incluso en sociedades modernas, las raíces culturales y las tradiciones pueden seguir siendo vibrantes y significativas."
+    },
+    {
+        category: "ritual_oculto",
+        title: "El arte de la escarificación en el mundo moderno",
+        url: "https://www.nationalgeographic.com/science/article/scarification-ancient-body-art-leaving-new-marks",
+        description: "Aunque la escarificación tiene sus raíces en prácticas antiguas, en la actualidad se ha convertido en una forma de expresión artística para algunos. Esta evolución muestra cómo las tradiciones pueden evolucionar y adaptarse a los tiempos modernos.",
+        quote: "Un ejemplo de cómo las prácticas culturales pueden transformarse y ser reinterpretadas en el contexto contemporáneo."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
