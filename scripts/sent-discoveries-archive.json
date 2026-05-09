@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-08T10:23:38.604Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-09T10:04:41.241Z",
+  "sentCount": 71,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -523,6 +523,22 @@
       "category": "ritual_oculto",
       "hash": "4c376f89c45b3c4c",
       "addedToDb": "2026-05-08T10:23:36.016Z",
+      "sent": false
+    },
+    {
+      "title": "Foros de internet de nichos específicos",
+      "url": "https://www.zeldauniverse.net/forums/index.php?thread/213711-what-are-your-favorite-niche-internet-forums/",
+      "category": "subcultura",
+      "hash": "016c37be892ac778",
+      "addedToDb": "2026-05-09T10:04:41.241Z",
+      "sent": false
+    },
+    {
+      "title": "La obra de Hiroyuki Doi",
+      "url": "https://www.victoria-miro.com/artists/282-hiroyuki-doi/",
+      "category": "artista_marginal",
+      "hash": "0466c3bad19aeb0f",
+      "addedToDb": "2026-05-09T10:04:41.241Z",
       "sent": false
     }
   ],

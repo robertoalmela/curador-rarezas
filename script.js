@@ -9815,6 +9815,21 @@ async function fetchFromHackerNews() {
         url: "https://www.nationalgeographic.com/science/article/scarification-ancient-body-art-leaving-new-marks",
         description: "Aunque la escarificación tiene sus raíces en prácticas antiguas, en la actualidad se ha convertido en una forma de expresión artística para algunos. Esta evolución muestra cómo las tradiciones pueden evolucionar y adaptarse a los tiempos modernos.",
         quote: "Un ejemplo de cómo las prácticas culturales pueden transformarse y ser reinterpretadas en el contexto contemporáneo."
+    },
+    // 2026-05-09 — subcultura
+    {
+        category: "subcultura",
+        title: "Foros de internet de nichos específicos",
+        url: "https://www.zeldauniverse.net/forums/index.php?thread/213711-what-are-your-favorite-niche-internet-forums/",
+        description: "Un foro de discusión dedicado a la nostalgia de internet de los 2000, donde usuarios comparten sus recuerdos de comunidades en línea pasadas y presentes. Un espacio para descubrir subculturas y nichos específicos.",
+        quote: "Un usuario compartió un enlace a un foro abandonado de fanes de la serie de videojuegos 'Metroid', que seguía activo después de más de una década."
+    },
+    {
+        category: "artista_marginal",
+        title: "La obra de Hiroyuki Doi",
+        url: "https://www.victoria-miro.com/artists/282-hiroyuki-doi/",
+        description: "Hiroyuki Doi es un artista japonés cuya obra explora la relación entre la tecnología y la naturaleza. Sus esculturas y instalaciones desafían la percepción del espectador sobre la intersección entre lo digital y lo orgánico.",
+        quote: "Una de sus obras más famosas, 'The Garden of Eden', utiliza una combinación de materiales naturales y tecnología para crear un jardín que parece estar en constante cambio."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
