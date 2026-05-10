@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-09T10:04:44.128Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-10T10:13:51.596Z",
+  "sentCount": 76,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -539,6 +539,46 @@
       "category": "artista_marginal",
       "hash": "0466c3bad19aeb0f",
       "addedToDb": "2026-05-09T10:04:41.241Z",
+      "sent": false
+    },
+    {
+      "title": "La Psicología Social en el Proyecto de la Isla de la Juventud",
+      "url": "https://www.labvanced.com/content/research/en/blog/2024-04-5-famous-social-psychology-experiments/",
+      "category": "experimento_social",
+      "hash": "56d56876c16c1592",
+      "addedToDb": "2026-05-10T10:13:51.596Z",
+      "sent": false
+    },
+    {
+      "title": "El Estudio de la Interacción en Línea y la Participación Cívica",
+      "url": "https://vtechworks.lib.vt.edu/bitstream/handle/10919/77871/Madondo_K_D_2015.pdf",
+      "category": "experimento_social",
+      "hash": "2249201995ac1d7d",
+      "addedToDb": "2026-05-10T10:13:51.596Z",
+      "sent": false
+    },
+    {
+      "title": "La Dinámica de los Grupos en Línea y el Comportamiento Humano",
+      "url": "https://www.livescience.com/human-behavior/when-people-gather-in-groups-bizarre-behaviors-often-emerge-how-the-rise-of-online-social-networks-has-catapulted-dysfunctional-thinking-opinion",
+      "category": "experimento_social",
+      "hash": "fdf120c4af164a8f",
+      "addedToDb": "2026-05-10T10:13:51.596Z",
+      "sent": false
+    },
+    {
+      "title": "El Experimento del Juego de la Cooperación en Línea",
+      "url": "https://keuschnigg.org/wp-content/uploads/2017/10/virtual-pools1.pdf",
+      "category": "experimento_social",
+      "hash": "bb17ad418cadc833",
+      "addedToDb": "2026-05-10T10:13:51.596Z",
+      "sent": false
+    },
+    {
+      "title": "La Investigación sobre la Influencia de las Redes Sociales en la Conducta Política",
+      "url": "https://www.bps.org.uk/research-digest/10-most-controversial-psychology-studies-ever-published",
+      "category": "experimento_social",
+      "hash": "c4c65cfddbe7c6df",
+      "addedToDb": "2026-05-10T10:13:51.596Z",
       "sent": false
     }
   ],

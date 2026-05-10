@@ -9830,6 +9830,42 @@ async function fetchFromHackerNews() {
         url: "https://www.victoria-miro.com/artists/282-hiroyuki-doi/",
         description: "Hiroyuki Doi es un artista japonés cuya obra explora la relación entre la tecnología y la naturaleza. Sus esculturas y instalaciones desafían la percepción del espectador sobre la intersección entre lo digital y lo orgánico.",
         quote: "Una de sus obras más famosas, 'The Garden of Eden', utiliza una combinación de materiales naturales y tecnología para crear un jardín que parece estar en constante cambio."
+    },
+    // 2026-05-10 — experimento_social
+    {
+        category: "experimento_social",
+        title: "La Psicología Social en el Proyecto de la Isla de la Juventud",
+        url: "https://www.labvanced.com/content/research/en/blog/2024-04-5-famous-social-psychology-experiments/",
+        description: "Un artículo que detalla experimentos psicológicos sociales famosos, incluyendo la Isla de la Juventud, donde se exploran los efectos de la socialización en la conducta humana. La investigación aborda cómo las dinámicas de grupo influyen en la toma de decisiones y la interacción social.",
+        quote: "La Isla de la Juventud es un ejemplo fascinante de cómo la socialización puede moldear la conducta humana, demostrando que incluso en entornos controlados, las dinámicas de grupo pueden llevar a resultados inesperados."
+    },
+    {
+        category: "experimento_social",
+        title: "El Estudio de la Interacción en Línea y la Participación Cívica",
+        url: "https://vtechworks.lib.vt.edu/bitstream/handle/10919/77871/Madondo_K_D_2015.pdf",
+        description: "Una investigación que examina el impacto de la interacción en línea en la participación cívica, analizando cómo las plataformas digitales pueden influir en la participación política y la conciencia social. El estudio proporciona perspectivas valiosas sobre el papel de la tecnología en la configuración de la conducta cívica.",
+        quote: "La investigación sugiere que las plataformas en línea pueden ser herramientas efectivas para fomentar la participación cívica, especialmente entre los jóvenes, lo que plantea interrogantes sobre cómo se pueden diseñar las plataformas para maximizar el impacto social positivo."
+    },
+    {
+        category: "experimento_social",
+        title: "La Dinámica de los Grupos en Línea y el Comportamiento Humano",
+        url: "https://www.livescience.com/human-behavior/when-people-gather-in-groups-bizarre-behaviors-often-emerge-how-the-rise-of-online-social-networks-has-catapulted-dysfunctional-thinking-opinion",
+        description: "Un artículo que explora cómo la dinámica de los grupos en línea puede llevar a comportamientos inusuales y a veces disfuncionales, analizando el impacto de las redes sociales en la conducta humana. El artículo ofrece una visión crítica sobre los efectos no deseados de la interacción en línea.",
+        quote: "La rápida propagación de ideas y comportamientos a través de las redes sociales puede llevar a la emergencia de 'epidemias' de pensamiento disfuncional, subrayando la necesidad de entender mejor cómo las interacciones en línea moldean la conducta humana."
+    },
+    {
+        category: "experimento_social",
+        title: "El Experimento del Juego de la Cooperación en Línea",
+        url: "https://keuschnigg.org/wp-content/uploads/2017/10/virtual-pools1.pdf",
+        description: "Un experimento que explora la cooperación en entornos en línea, utilizando juegos y tareas para analizar cómo las personas interactúan y toman decisiones en grupos virtuales. Los resultados proporcionan una visión detallada de las dinámicas de la cooperación en línea.",
+        quote: "El estudio demuestra que, incluso en entornos anónimos en línea, las personas pueden exhibir altos niveles de cooperación, lo que sugiere que las plataformas en línea pueden ser diseñadas para fomentar la colaboración y el trabajo en equipo."
+    },
+    {
+        category: "experimento_social",
+        title: "La Investigación sobre la Influencia de las Redes Sociales en la Conducta Política",
+        url: "https://www.bps.org.uk/research-digest/10-most-controversial-psychology-studies-ever-published",
+        description: "Un artículo queresume los estudios más controvertidos en psicología, incluyendo aquellos que exploran la influencia de las redes sociales en la conducta política y las actitudes sociales. El artículo ofrece una visión crítica de los debates en torno a la psicología social y su aplicación en contextos políticos.",
+        quote: "Algunos de los estudios más controvertidos en psicología han abordado la influencia de las redes sociales en la conducta política, lo que plantea preguntas importantes sobre cómo las plataformas en línea pueden ser utilizadas para influir en las opiniones y comportamientos políticos de las personas."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
