@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-10T10:13:53.652Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-11T12:09:49.704Z",
+  "sentCount": 79,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -579,6 +579,30 @@
       "category": "experimento_social",
       "hash": "c4c65cfddbe7c6df",
       "addedToDb": "2026-05-10T10:13:51.596Z",
+      "sent": false
+    },
+    {
+      "title": "La Isla Fantasma de Hy-Brasil",
+      "url": "https://vocal.media/history/the-island-that-vanished",
+      "category": "lugar_desaparecido",
+      "hash": "c5e000879699cde0",
+      "addedToDb": "2026-05-11T12:09:49.704Z",
+      "sent": false
+    },
+    {
+      "title": "La Ciudad Amurallada de Kowloon",
+      "url": "https://www.atlasobscura.com/articles/kowloon-walled-city",
+      "category": "lugar_desaparecido",
+      "hash": "07b0727350c896d7",
+      "addedToDb": "2026-05-11T12:09:49.704Z",
+      "sent": false
+    },
+    {
+      "title": "La Isla de Sandy: Un Enigma Cartográfico",
+      "url": "https://legacy.geog.ucsb.edu/to-be-or-not-to-be-the-pacific-ocean-loses-an-island-it-never-had/",
+      "category": "lugar_desaparecido",
+      "hash": "27a2ab9a758bcd36",
+      "addedToDb": "2026-05-11T12:09:49.704Z",
       "sent": false
     }
   ],

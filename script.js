@@ -9866,6 +9866,28 @@ async function fetchFromHackerNews() {
         url: "https://www.bps.org.uk/research-digest/10-most-controversial-psychology-studies-ever-published",
         description: "Un artículo queresume los estudios más controvertidos en psicología, incluyendo aquellos que exploran la influencia de las redes sociales en la conducta política y las actitudes sociales. El artículo ofrece una visión crítica de los debates en torno a la psicología social y su aplicación en contextos políticos.",
         quote: "Algunos de los estudios más controvertidos en psicología han abordado la influencia de las redes sociales en la conducta política, lo que plantea preguntas importantes sobre cómo las plataformas en línea pueden ser utilizadas para influir en las opiniones y comportamientos políticos de las personas."
+    },
+    // 2026-05-11 — lugar_desaparecido
+    {
+        category: "lugar_desaparecido",
+        title: "La Isla Fantasma de Hy-Brasil",
+        url: "https://vocal.media/history/the-island-that-vanished",
+        description: "Hy-Brasil fue una isla misteriosa que apareció en los mapas desde el siglo XIV hasta el siglo XIX, antes de desaparecer sin dejar rastro. Su ubicación exacta sigue siendo un misterio.",
+        quote: "La búsqueda de Hy-Brasil se convirtió en una obsesión para muchos exploradores, pero su desaparición dejó más preguntas que respuestas."
+    },
+    {
+        category: "lugar_desaparecido",
+        title: "La Ciudad Amurallada de Kowloon",
+        url: "https://www.atlasobscura.com/articles/kowloon-walled-city",
+        description: "La Ciudad Amurallada de Kowloon fue un enclave denso y autónomo en Hong Kong, conocido por su arquitectura improvisada y su economía sumergida. Fue demolido en 1993.",
+        quote: "La ciudad fue un ejemplo de cómo la necesidad y la creatividad pueden dar lugar a una comunidad próspera en un entorno hostil."
+    },
+    {
+        category: "lugar_desaparecido",
+        title: "La Isla de Sandy: Un Enigma Cartográfico",
+        url: "https://legacy.geog.ucsb.edu/to-be-or-not-to-be-the-pacific-ocean-loses-an-island-it-never-had/",
+        description: "La Isla de Sandy es un ejemplo de un 'isla fantasma' que apareció en los mapas durante siglos, solo para ser eliminada debido a la falta de evidencia de su existencia.",
+        quote: "La historia de la Isla de Sandy nos recuerda que la cartografía es un proceso dinámico y que la realidad puede ser más compleja que nuestros mapas."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
