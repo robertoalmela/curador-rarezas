@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-11T12:09:51.896Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-12T11:20:42.918Z",
+  "sentCount": 84,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -603,6 +603,46 @@
       "category": "lugar_desaparecido",
       "hash": "27a2ab9a758bcd36",
       "addedToDb": "2026-05-11T12:09:49.704Z",
+      "sent": false
+    },
+    {
+      "title": "Juegos perturbadores en itch.io",
+      "url": "https://itch.io/games/tag-unsettling",
+      "category": "juego_absurdo",
+      "hash": "8d7655f7683fe4ff",
+      "addedToDb": "2026-05-12T11:20:42.918Z",
+      "sent": false
+    },
+    {
+      "title": "Experiencias interactivas de Foreboding Games",
+      "url": "https://foreboding-games.itch.io/",
+      "category": "juego_absurdo",
+      "hash": "e7786ab9bbeb2ba4",
+      "addedToDb": "2026-05-12T11:20:42.918Z",
+      "sent": false
+    },
+    {
+      "title": "Juegos web raros en itch.io",
+      "url": "https://itch.io/games/platform-web/tag-weird?page=12",
+      "category": "juego_absurdo",
+      "hash": "dd463a4822d4944a",
+      "addedToDb": "2026-05-12T11:20:42.918Z",
+      "sent": false
+    },
+    {
+      "title": "Absurdismo en juegos",
+      "url": "https://www.gamedeveloper.com/design/absurd-games",
+      "category": "juego_absurdo",
+      "hash": "3fa9947819ca48c1",
+      "addedToDb": "2026-05-12T11:20:42.918Z",
+      "sent": false
+    },
+    {
+      "title": "Noches de terror indie en itch.io",
+      "url": "https://itch.io/c/2033675/indie-horror-night",
+      "category": "juego_absurdo",
+      "hash": "2ffb82e7647c90b6",
+      "addedToDb": "2026-05-12T11:20:42.918Z",
       "sent": false
     }
   ],

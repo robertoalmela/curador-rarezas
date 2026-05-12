@@ -9888,6 +9888,42 @@ async function fetchFromHackerNews() {
         url: "https://legacy.geog.ucsb.edu/to-be-or-not-to-be-the-pacific-ocean-loses-an-island-it-never-had/",
         description: "La Isla de Sandy es un ejemplo de un 'isla fantasma' que apareció en los mapas durante siglos, solo para ser eliminada debido a la falta de evidencia de su existencia.",
         quote: "La historia de la Isla de Sandy nos recuerda que la cartografía es un proceso dinámico y que la realidad puede ser más compleja que nuestros mapas."
+    },
+    // 2026-05-12 — juego_absurdo
+    {
+        category: "juego_absurdo",
+        title: "Juegos perturbadores en itch.io",
+        url: "https://itch.io/games/tag-unsettling",
+        description: "Una colección de juegos que desafían la norma, desde experiencias de terror hasta juegos que cuestionan la realidad. Algunos ejemplos incluyen el prototipo de Baldi 2017 y el juego DownSchool.",
+        quote: "El miedo a lo desconocido se manifiesta en estos juegos que te harán cuestionar tu percepción de la realidad."
+    },
+    {
+        category: "juego_absurdo",
+        title: "Experiencias interactivas de Foreboding Games",
+        url: "https://foreboding-games.itch.io/",
+        description: "Foreboding Games ofrece una variedad de experiencias interactivas que combinan elementos de terror y misterio, como el juego 'The Game Inside a Game'. Estas experiencias son breves pero impactantes.",
+        quote: "La anticipación y el suspense son las armas más letales en estos juegos que te mantendrán al borde de tu asiento."
+    },
+    {
+        category: "juego_absurdo",
+        title: "Juegos web raros en itch.io",
+        url: "https://itch.io/games/platform-web/tag-weird?page=12",
+        description: "Un viaje a través de juegos web que desafían la convención, desde aventuras psicodélicas hasta situaciones existenciales. Cada juego es una experiencia única que te desafiará a pensar diferente.",
+        quote: "La web es un lienzo para la creatividad sin fronteras en estos juegos que expanden los límites de lo que se considera 'juego'."
+    },
+    {
+        category: "juego_absurdo",
+        title: "Absurdismo en juegos",
+        url: "https://www.gamedeveloper.com/design/absurd-games",
+        description: "Un análisis sobre el absurdo en el diseño de juegos, explorando cómo el absurdo puede ser una herramienta poderosa para crear experiencias memorables y pensativas. Desde juegos que rompen las reglas hasta aquellos que cuestionan la realidad.",
+        quote: "El absurdo es la puerta a nuevas perspectivas, permitiendo a los jugadores experimentar el mundo de maneras insospechadas."
+    },
+    {
+        category: "juego_absurdo",
+        title: "Noches de terror indie en itch.io",
+        url: "https://itch.io/c/2033675/indie-horror-night",
+        description: "Una colección de juegos de terror indie que te mantendrán despierto por la noche, con experiencias que van desde situaciones de supervivencia hasta historias de misterio y suspense. Cada juego es una ventana a un mundo aterrador.",
+        quote: "El miedo es una emoción universal, y estos juegos lo explotan de maneras tanto creativas como perturbadoras."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
