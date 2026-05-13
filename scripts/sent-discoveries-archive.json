@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-12T11:20:45.086Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-13T11:29:49.667Z",
+  "sentCount": 86,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -643,6 +643,22 @@
       "category": "juego_absurdo",
       "hash": "2ffb82e7647c90b6",
       "addedToDb": "2026-05-12T11:20:42.918Z",
+      "sent": false
+    },
+    {
+      "title": "Redes Neuronales para la Generación de Música Algorítmica",
+      "url": "https://magenta.tensorflow.org/",
+      "category": "proyecto_experimental",
+      "hash": "01d0b1f0ebacc886",
+      "addedToDb": "2026-05-13T11:29:49.667Z",
+      "sent": false
+    },
+    {
+      "title": "La Hipótesis del Universo Simulado",
+      "url": "https://arxiv.org/abs/1807.08467",
+      "category": "idea_provocadora",
+      "hash": "b847051bc61467ea",
+      "addedToDb": "2026-05-13T11:29:49.667Z",
       "sent": false
     }
   ],

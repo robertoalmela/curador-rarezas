@@ -9924,6 +9924,21 @@ async function fetchFromHackerNews() {
         url: "https://itch.io/c/2033675/indie-horror-night",
         description: "Una colección de juegos de terror indie que te mantendrán despierto por la noche, con experiencias que van desde situaciones de supervivencia hasta historias de misterio y suspense. Cada juego es una ventana a un mundo aterrador.",
         quote: "El miedo es una emoción universal, y estos juegos lo explotan de maneras tanto creativas como perturbadoras."
+    },
+    // 2026-05-13 — proyecto_experimental
+    {
+        category: "proyecto_experimental",
+        title: "Redes Neuronales para la Generación de Música Algorítmica",
+        url: "https://magenta.tensorflow.org/",
+        description: "Magenta es un proyecto de código abierto que utiliza redes neuronales para la generación de música algorítmica. Ofrece una plataforma para que artistas y desarrolladores exploren las posibilidades de la música creada por máquinas.",
+        quote: "La creatividad no es el monopolio de los humanos; las máquinas también pueden soñar."
+    },
+    {
+        category: "idea_provocadora",
+        title: "La Hipótesis del Universo Simulado",
+        url: "https://arxiv.org/abs/1807.08467",
+        description: "Este artículo científico explora la posibilidad de que nuestro universo sea una simulación creada por una civilización avanzada. La idea, aunque especulativa, ha generado un debate intenso en la comunidad científica y filosófica.",
+        quote: "Si vivimos en una simulación, ¿quién o qué sería el 'programador' detrás de la realidad que experimentamos?"
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
