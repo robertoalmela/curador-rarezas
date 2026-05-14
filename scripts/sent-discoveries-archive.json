@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-13T11:30:00.076Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-14T11:12:59.974Z",
+  "sentCount": 90,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -659,6 +659,38 @@
       "category": "idea_provocadora",
       "hash": "b847051bc61467ea",
       "addedToDb": "2026-05-13T11:29:49.667Z",
+      "sent": false
+    },
+    {
+      "title": "El Extraño Ciclo de Vida de Turritopsis dohrnii",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10753042/",
+      "category": "biologia_rara",
+      "hash": "9778abc4e8509135",
+      "addedToDb": "2026-05-14T11:12:59.974Z",
+      "sent": false
+    },
+    {
+      "title": "El Enigma de la Inmortalidad de Turritopsis dohrnii",
+      "url": "https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html",
+      "category": "biologia_rara",
+      "hash": "d5a89c2da75fa78e",
+      "addedToDb": "2026-05-14T11:12:59.974Z",
+      "sent": false
+    },
+    {
+      "title": "Descubriendo los Secretos de la Longevidad de los Tardígrados",
+      "url": "https://kids.nationalgeographic.com/animals/invertebrates/facts/tardigrade",
+      "category": "biologia_rara",
+      "hash": "fe649ecd9e4e0781",
+      "addedToDb": "2026-05-14T11:12:59.974Z",
+      "sent": false
+    },
+    {
+      "title": "Un Enfoque Científico sobre la Inmortalidad de los Organismos",
+      "url": "https://stories.tamu.edu/news/2026/02/19/a-tiny-jellyfish-may-be-hiding-the-blueprint-for-eternal-life/",
+      "category": "biologia_rara",
+      "hash": "a9d56bff550a2ec2",
+      "addedToDb": "2026-05-14T11:12:59.974Z",
       "sent": false
     }
   ],

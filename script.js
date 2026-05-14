@@ -9939,6 +9939,35 @@ async function fetchFromHackerNews() {
         url: "https://arxiv.org/abs/1807.08467",
         description: "Este artículo científico explora la posibilidad de que nuestro universo sea una simulación creada por una civilización avanzada. La idea, aunque especulativa, ha generado un debate intenso en la comunidad científica y filosófica.",
         quote: "Si vivimos en una simulación, ¿quién o qué sería el 'programador' detrás de la realidad que experimentamos?"
+    },
+    // 2026-05-14 — biologia_rara
+    {
+        category: "biologia_rara",
+        title: "El Extraño Ciclo de Vida de Turritopsis dohrnii",
+        url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC10753042/",
+        description: "Turritopsis dohrnii, también conocida como la medusa inmortal, es una especie de medusa que puede revertir su ciclo de vida a un estado poliposo después de experimentar daño o estrés, lo que la convierte en una especie prácticamente inmortal. Esta capacidad única ha generado un gran interés en la comunidad científica para entender los mecanismos detrás de este proceso.",
+        quote: "La medusa inmortal desafía nuestra comprensión tradicional del envejecimiento y la muerte en los organismos vivos."
+    },
+    {
+        category: "biologia_rara",
+        title: "El Enigma de la Inmortalidad de Turritopsis dohrnii",
+        url: "https://www.nhm.ac.uk/discover/immortal-jellyfish-secret-to-cheating-death.html",
+        description: "La especie Turritopsis dohrnii es conocida por su capacidad de revertir su ciclo de vida a un estado más temprano a través de un proceso llamado transdiferenciación, lo que le permite evitar la muerte y el envejecimiento. Este fenómeno ha intrigado a los científicos, que buscan entender cómo logra esta especie desafiar la mortalidad.",
+        quote: "La inmortalidad de Turritopsis dohrnii plantea preguntas fundamentales sobre la naturaleza del envejecimiento y la muerte en los seres vivos."
+    },
+    {
+        category: "biologia_rara",
+        title: "Descubriendo los Secretos de la Longevidad de los Tardígrados",
+        url: "https://kids.nationalgeographic.com/animals/invertebrates/facts/tardigrade",
+        description: "Los tardígrados son capaces de sobrevivir en condiciones extremas gracias a su capacidad para entrar en un estado de anhidrobiosis, en el que se deshidratan y entra en un estado de suspensión metabólica. Este mecanismo les permite resistir condiciones que serían letales para la mayoría de los otros organismos.",
+        quote: "La capacidad de los tardígrados para sobrevivir en condiciones extremas los convierte en un fascinante objeto de estudio para la biología y la medicina."
+    },
+    {
+        category: "biologia_rara",
+        title: "Un Enfoque Científico sobre la Inmortalidad de los Organismos",
+        url: "https://stories.tamu.edu/news/2026/02/19/a-tiny-jellyfish-may-be-hiding-the-blueprint-for-eternal-life/",
+        description: "La investigación sobre la inmortalidad de organismos como Turritopsis dohrnii y los tardígrados está llevando a nuevos descubrimientos sobre los mecanismos biológicos que gobiernan el envejecimiento y la muerte. Estos estudios pueden tener implicaciones significativas para nuestra comprensión de la vida y la búsqueda de la longevidad.",
+        quote: "La ciencia detrás de la inmortalidad de algunos organismos nos hace cuestionar nuestros supuestos sobre la vida y la muerte, y nos lleva a explorar nuevas posibilidades para la medicina y la biología."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
