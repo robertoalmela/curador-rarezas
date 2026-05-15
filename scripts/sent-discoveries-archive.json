@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-14T11:13:07.020Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-15T11:20:27.091Z",
+  "sentCount": 94,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -691,6 +691,38 @@
       "category": "biologia_rara",
       "hash": "a9d56bff550a2ec2",
       "addedToDb": "2026-05-14T11:12:59.974Z",
+      "sent": false
+    },
+    {
+      "title": "La iniciativa 'OpenWetWare' para investigación colaborativa",
+      "url": "https://openwetware.org/",
+      "category": "proyecto_experimental",
+      "hash": "03e70c97488ce257",
+      "addedToDb": "2026-05-15T11:20:27.091Z",
+      "sent": false
+    },
+    {
+      "title": "Proyecto 'EyeWire' para cartografía del cerebro",
+      "url": "https://eyewire.org/",
+      "category": "proyecto_experimental",
+      "hash": "b6fe1ec916363f54",
+      "addedToDb": "2026-05-15T11:20:27.091Z",
+      "sent": false
+    },
+    {
+      "title": "La 'Red de Observación de la Tierra' (Earthwatch)",
+      "url": "https://www.earthwatch.org/",
+      "category": "proyecto_experimental",
+      "hash": "244be37c965a1c57",
+      "addedToDb": "2026-05-15T11:20:27.091Z",
+      "sent": false
+    },
+    {
+      "title": "Proyecto 'Zooniverse' para ciencia participativa",
+      "url": "https://www.zooniverse.org/",
+      "category": "proyecto_experimental",
+      "hash": "bfb5cf20048b2cef",
+      "addedToDb": "2026-05-15T11:20:27.091Z",
       "sent": false
     }
   ],

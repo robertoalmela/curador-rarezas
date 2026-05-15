@@ -9968,6 +9968,35 @@ async function fetchFromHackerNews() {
         url: "https://stories.tamu.edu/news/2026/02/19/a-tiny-jellyfish-may-be-hiding-the-blueprint-for-eternal-life/",
         description: "La investigación sobre la inmortalidad de organismos como Turritopsis dohrnii y los tardígrados está llevando a nuevos descubrimientos sobre los mecanismos biológicos que gobiernan el envejecimiento y la muerte. Estos estudios pueden tener implicaciones significativas para nuestra comprensión de la vida y la búsqueda de la longevidad.",
         quote: "La ciencia detrás de la inmortalidad de algunos organismos nos hace cuestionar nuestros supuestos sobre la vida y la muerte, y nos lleva a explorar nuevas posibilidades para la medicina y la biología."
+    },
+    // 2026-05-15 — proyecto_experimental
+    {
+        category: "proyecto_experimental",
+        title: "La iniciativa 'OpenWetWare' para investigación colaborativa",
+        url: "https://openwetware.org/",
+        description: "Un espacio en línea donde científicos y investigadores comparten conocimientos, recursos y experimentos en tiempo real, desafiando las barreras tradicionales de la investigación científica y promoviendo la colaboración global.",
+        quote: "La ciencia no conoce fronteras, pero ¿cómo podemos asegurarnos de que todos tengan acceso a ella?"
+    },
+    {
+        category: "proyecto_experimental",
+        title: "Proyecto 'EyeWire' para cartografía del cerebro",
+        url: "https://eyewire.org/",
+        description: "Un juego en línea y una plataforma de colaboración ciudadana que busca mapear las conexiones neuronales del cerebro humano a través de la contribución de jugadores de todo el mundo, avanzando en el entendimiento del cerebro y posibles tratamientos para enfermedades neurológicas.",
+        quote: "El secreto del cerebro humano puede estar en las manos de los ciudadanos científicos, no solo de los expertos."
+    },
+    {
+        category: "proyecto_experimental",
+        title: "La 'Red de Observación de la Tierra' (Earthwatch)",
+        url: "https://www.earthwatch.org/",
+        description: "Una organización que impulsa la participación ciudadana en la investigación científica y la conservación del medio ambiente a través de expediciones y proyectos en todo el mundo, educando y concienciando sobre la importancia de la sostenibilidad.",
+        quote: "La conservación del planeta requiere la participación de todos, no solo de los científicos y políticos."
+    },
+    {
+        category: "proyecto_experimental",
+        title: "Proyecto 'Zooniverse' para ciencia participativa",
+        url: "https://www.zooniverse.org/",
+        description: "Una plataforma web que permite a cualquier persona contribuir a proyectos de investigación científica, desde la clasificación de galaxias hasta el análisis de especies en peligro de extinción, democratizando el acceso a la investigación y fomentando la colaboración global.",
+        quote: "La ciencia ciudadana puede ser la clave para descubrir los misterios del universo y solucionar problemas globales."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
