@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-15T11:20:29.792Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-16T10:14:50.956Z",
+  "sentCount": 96,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -723,6 +723,22 @@
       "category": "proyecto_experimental",
       "hash": "bfb5cf20048b2cef",
       "addedToDb": "2026-05-15T11:20:27.091Z",
+      "sent": false
+    },
+    {
+      "title": "Música de los Balineses Gamelán",
+      "url": "https://www.britannica.com/art/gamelan",
+      "category": "musica_experimental",
+      "hash": "8daaaef51bd441b1",
+      "addedToDb": "2026-05-16T10:14:50.956Z",
+      "sent": false
+    },
+    {
+      "title": "El arte sonoro de Christina Kubisch",
+      "url": "http://www.christinakubisch.de/",
+      "category": "musica_experimental",
+      "hash": "cd9f4bae2b28b17b",
+      "addedToDb": "2026-05-16T10:14:50.956Z",
       "sent": false
     }
   ],

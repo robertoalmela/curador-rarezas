@@ -9997,6 +9997,21 @@ async function fetchFromHackerNews() {
         url: "https://www.zooniverse.org/",
         description: "Una plataforma web que permite a cualquier persona contribuir a proyectos de investigación científica, desde la clasificación de galaxias hasta el análisis de especies en peligro de extinción, democratizando el acceso a la investigación y fomentando la colaboración global.",
         quote: "La ciencia ciudadana puede ser la clave para descubrir los misterios del universo y solucionar problemas globales."
+    },
+    // 2026-05-16 — musica_experimental
+    {
+        category: "musica_experimental",
+        title: "Música de los Balineses Gamelán",
+        url: "https://www.britannica.com/art/gamelan",
+        description: "El gamelán es un tipo de música tradicional de Indonesia que utiliza instrumentos de percusión. Es conocido por su complejidad rítmica y su belleza sonora.",
+        quote: "La música gamelán es como un tapiz sonoro, cada instrumento es una hebra que se teje con las demás para crear una textura rica y compleja."
+    },
+    {
+        category: "musica_experimental",
+        title: "El arte sonoro de Christina Kubisch",
+        url: "http://www.christinakubisch.de/",
+        description: "Christina Kubisch es una artista alemana que crea instalaciones sonoras que exploran la relación entre el sonido y el espacio. Utiliza instrumentos electrónicos y objetos cotidianos para crear paisajes sonoros únicos.",
+        quote: "La música de Kubisch es como un viaje a un mundo desconocido, donde los sonidos se convierten en un lenguaje secreto que solo se puede entender en ese lugar."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
