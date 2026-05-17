@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-16T10:15:01.222Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-17T10:21:37.780Z",
+  "sentCount": 97,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -739,6 +739,14 @@
       "category": "musica_experimental",
       "hash": "cd9f4bae2b28b17b",
       "addedToDb": "2026-05-16T10:14:50.956Z",
+      "sent": false
+    },
+    {
+      "title": "El Arte de la Falsificación",
+      "url": "https://archive.org/details/TheArtOfDeception",
+      "category": "fraude_historico",
+      "hash": "5cf5059630a3176b",
+      "addedToDb": "2026-05-17T10:21:37.780Z",
       "sent": false
     }
   ],

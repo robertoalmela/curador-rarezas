@@ -10012,6 +10012,14 @@ async function fetchFromHackerNews() {
         url: "http://www.christinakubisch.de/",
         description: "Christina Kubisch es una artista alemana que crea instalaciones sonoras que exploran la relación entre el sonido y el espacio. Utiliza instrumentos electrónicos y objetos cotidianos para crear paisajes sonoros únicos.",
         quote: "La música de Kubisch es como un viaje a un mundo desconocido, donde los sonidos se convierten en un lenguaje secreto que solo se puede entender en ese lugar."
+    },
+    // 2026-05-17 — fraude_historico
+    {
+        category: "fraude_historico",
+        title: "El Arte de la Falsificación",
+        url: "https://archive.org/details/TheArtOfDeception",
+        description: "Un estudio exhaustivo sobre la técnica y el arte de la falsificación en diversas áreas, desde el arte hasta la historia, explorando cómo los falsificadores utilizan su habilidad para engañar y manipular a los demás, y la importancia de desarrollar una conciencia crítica para detectar estos engaños.",
+        quote: "La habilidad para distinguir entre lo real y lo falso es esencial en una sociedad donde la información es poder."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
