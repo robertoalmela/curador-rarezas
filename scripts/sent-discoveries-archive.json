@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-17T10:21:44.826Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-18T12:29:06.030Z",
+  "sentCount": 100,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -747,6 +747,30 @@
       "category": "fraude_historico",
       "hash": "5cf5059630a3176b",
       "addedToDb": "2026-05-17T10:21:37.780Z",
+      "sent": false
+    },
+    {
+      "title": "La visión de Adolf Wölfli",
+      "url": "https://www.adolfwoelfli.ch/en/",
+      "category": "artista_marginal",
+      "hash": "54d4d63691058cb0",
+      "addedToDb": "2026-05-18T12:29:06.030Z",
+      "sent": false
+    },
+    {
+      "title": "El universo de Martin Ramírez",
+      "url": "https://www.martinramirez.org/",
+      "category": "artista_marginal",
+      "hash": "4f2552ae2b230ac7",
+      "addedToDb": "2026-05-18T12:29:06.030Z",
+      "sent": false
+    },
+    {
+      "title": "La obra de Friedensreich Hundertwasser",
+      "url": "https://www.hundertwasser.com/en/",
+      "category": "artista_marginal",
+      "hash": "28f8b2cdeb189e3f",
+      "addedToDb": "2026-05-18T12:29:06.030Z",
       "sent": false
     }
   ],

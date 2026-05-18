@@ -10020,6 +10020,28 @@ async function fetchFromHackerNews() {
         url: "https://archive.org/details/TheArtOfDeception",
         description: "Un estudio exhaustivo sobre la técnica y el arte de la falsificación en diversas áreas, desde el arte hasta la historia, explorando cómo los falsificadores utilizan su habilidad para engañar y manipular a los demás, y la importancia de desarrollar una conciencia crítica para detectar estos engaños.",
         quote: "La habilidad para distinguir entre lo real y lo falso es esencial en una sociedad donde la información es poder."
+    },
+    // 2026-05-18 — artista_marginal
+    {
+        category: "artista_marginal",
+        title: "La visión de Adolf Wölfli",
+        url: "https://www.adolfwoelfli.ch/en/",
+        description: "Adolf Wölfli, un artista suizo con discapacidad intelectual, creó una obra monumental que incluye dibujos, escritos y música. Su arte, considerado outsider, es un testimonio de la creatividad y la determinación humanas.",
+        quote: "Wölfli es el ejemplo perfecto de cómo el arte puede trascender las barreras de la convención y la comprensión."
+    },
+    {
+        category: "artista_marginal",
+        title: "El universo de Martin Ramírez",
+        url: "https://www.martinramirez.org/",
+        description: "Martin Ramírez, un inmigrante mexicano que pasó parte de su vida en instituciones psiquiátricas, creó una serie de dibujos y collages que reflejan su visión del mundo. Su arte, caracterizado por su simplicidad y profundidad, es un ejemplo de la creatividad marginal.",
+        quote: "Los dibujos de Ramírez son como ventanas a un mundo paralelo, donde la realidad y la fantasía se fusionan."
+    },
+    {
+        category: "artista_marginal",
+        title: "La obra de Friedensreich Hundertwasser",
+        url: "https://www.hundertwasser.com/en/",
+        description: "Friedensreich Hundertwasser, un artista austriaco, creó una obra que abarca la arquitectura, la pintura y la escultura. Su estilo, caracterizado por la use de colores vivos y formas orgánicas, es un ejemplo de la creatividad marginal que desafía las convenciones.",
+        quote: "La obra de Hundertwasser es un llamado a la libertad y la individualidad en un mundo cada vez más uniforme."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
