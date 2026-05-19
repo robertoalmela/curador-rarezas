@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-18T12:29:16.339Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-19T12:09:31.976Z",
+  "sentCount": 102,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -771,6 +771,22 @@
       "category": "artista_marginal",
       "hash": "28f8b2cdeb189e3f",
       "addedToDb": "2026-05-18T12:29:06.030Z",
+      "sent": false
+    },
+    {
+      "title": "Stelarc - Exoskeleton",
+      "url": "https://stelarc.org/",
+      "category": "performance_raro",
+      "hash": "8f679e993442391e",
+      "addedToDb": "2026-05-19T12:09:31.975Z",
+      "sent": false
+    },
+    {
+      "title": "Orlan - Carnal Art",
+      "url": "https://orlan.net/",
+      "category": "performance_raro",
+      "hash": "6a3fa919fb5a8871",
+      "addedToDb": "2026-05-19T12:09:31.976Z",
       "sent": false
     }
   ],

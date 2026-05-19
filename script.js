@@ -10042,6 +10042,21 @@ async function fetchFromHackerNews() {
         url: "https://www.hundertwasser.com/en/",
         description: "Friedensreich Hundertwasser, un artista austriaco, creó una obra que abarca la arquitectura, la pintura y la escultura. Su estilo, caracterizado por la use de colores vivos y formas orgánicas, es un ejemplo de la creatividad marginal que desafía las convenciones.",
         quote: "La obra de Hundertwasser es un llamado a la libertad y la individualidad en un mundo cada vez más uniforme."
+    },
+    // 2026-05-19 — performance_raro
+    {
+        category: "performance_raro",
+        title: "Stelarc - Exoskeleton",
+        url: "https://stelarc.org/",
+        description: "El artista australiano Stelarc ha realizado diversas performances con un traje de exoesqueleto que amplifica su cuerpo, cuestionando los límites entre el ser humano y la máquina.",
+        quote: "Mi cuerpo es una casa que necesito mejorar."
+    },
+    {
+        category: "performance_raro",
+        title: "Orlan - Carnal Art",
+        url: "https://orlan.net/",
+        description: "La artista francesa Orlan ha realizado performances quirúrgicas en las que se somete a operaciones de cirugía estética, cuestionando la noción de identidad y la relación entre el cuerpo y la tecnología.",
+        quote: "Mi cuerpo es una construcción social y cultural."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
