@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-19T12:09:34.259Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-20T11:48:40.668Z",
+  "sentCount": 103,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -787,6 +787,14 @@
       "category": "performance_raro",
       "hash": "6a3fa919fb5a8871",
       "addedToDb": "2026-05-19T12:09:31.976Z",
+      "sent": false
+    },
+    {
+      "title": "Los sonidos de la Tierra: Un viaje a través de la geofísica",
+      "url": "https://www.iris.edu/hq/inclass/animation/288",
+      "category": "sonido_invisible",
+      "hash": "b68fa107ae8b1273",
+      "addedToDb": "2026-05-20T11:48:40.668Z",
       "sent": false
     }
   ],

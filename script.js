@@ -10057,6 +10057,14 @@ async function fetchFromHackerNews() {
         url: "https://orlan.net/",
         description: "La artista francesa Orlan ha realizado performances quirúrgicas en las que se somete a operaciones de cirugía estética, cuestionando la noción de identidad y la relación entre el cuerpo y la tecnología.",
         quote: "Mi cuerpo es una construcción social y cultural."
+    },
+    // 2026-05-20 — sonido_invisible
+    {
+        category: "sonido_invisible",
+        title: "Los sonidos de la Tierra: Un viaje a través de la geofísica",
+        url: "https://www.iris.edu/hq/inclass/animation/288",
+        description: "La Tierra emite una variedad de sonidos, desde terremotos hasta erupciones volcánicas. Estos sonidos pueden ser capturados y analizados para entender mejor la geología de nuestro planeta.",
+        quote: "Los sonidos de la Tierra son una ventana a la actividad geológica que ocurre debajo de nuestros pies, y pueden proporcionar información valiosa sobre la estructura y la evolución de nuestro planeta."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
