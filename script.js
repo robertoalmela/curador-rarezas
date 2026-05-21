@@ -10065,6 +10065,14 @@ async function fetchFromHackerNews() {
         url: "https://www.iris.edu/hq/inclass/animation/288",
         description: "La Tierra emite una variedad de sonidos, desde terremotos hasta erupciones volcánicas. Estos sonidos pueden ser capturados y analizados para entender mejor la geología de nuestro planeta.",
         quote: "Los sonidos de la Tierra son una ventana a la actividad geológica que ocurre debajo de nuestros pies, y pueden proporcionar información valiosa sobre la estructura y la evolución de nuestro planeta."
+    },
+    // 2026-05-21 — web_extraña
+    {
+        category: "web_extraña",
+        title: "El Laberinto de los Espejos",
+        url: "https://www.mirrormaze.net/",
+        description: "Un sitio web que utiliza la metáfora del laberinto para explorar la naturaleza de la identidad y la autoconciencia. El laberinto cuenta con una serie de espejos y reflejos que crean una experiencia inmersiva y desorientadora.",
+        quote: "¿Quiénes somos cuando nos enfrentamos a nuestras propias sombras y reflejos?"
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

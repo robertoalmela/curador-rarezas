@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-20T11:48:43.863Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-21T12:13:53.954Z",
+  "sentCount": 104,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -795,6 +795,14 @@
       "category": "sonido_invisible",
       "hash": "b68fa107ae8b1273",
       "addedToDb": "2026-05-20T11:48:40.668Z",
+      "sent": false
+    },
+    {
+      "title": "El Laberinto de los Espejos",
+      "url": "https://www.mirrormaze.net/",
+      "category": "web_extraña",
+      "hash": "16a0e57faaefd401",
+      "addedToDb": "2026-05-21T12:13:53.954Z",
       "sent": false
     }
   ],
