@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-21T12:13:59.624Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-22T11:44:09.841Z",
+  "sentCount": 110,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -803,6 +803,54 @@
       "category": "web_extraña",
       "hash": "16a0e57faaefd401",
       "addedToDb": "2026-05-21T12:13:53.954Z",
+      "sent": false
+    },
+    {
+      "title": "Un rincón de la literatura victoriana",
+      "url": "https://louisamayalcottismypassion.com/",
+      "category": "blog_olvidado",
+      "hash": "46d1aabe3a2796cf",
+      "addedToDb": "2026-05-22T11:44:09.841Z",
+      "sent": false
+    },
+    {
+      "title": "El regreso de la página personal",
+      "url": "https://jefffinley.org/the-return-of-the-personal-website/",
+      "category": "blog_olvidado",
+      "hash": "9cd9f027f21f3865",
+      "addedToDb": "2026-05-22T11:44:09.841Z",
+      "sent": false
+    },
+    {
+      "title": "Un vistazo al pasado de la web",
+      "url": "https://ineedthisunicorn.com/ghosts-of-websites-past/",
+      "category": "blog_olvidado",
+      "hash": "02d057ebbe765a4c",
+      "addedToDb": "2026-05-22T11:44:09.841Z",
+      "sent": false
+    },
+    {
+      "title": "Un archivo de conocimiento",
+      "url": "https://www.ebsco.com/research-starters/computer-science/web-10",
+      "category": "blog_olvidado",
+      "hash": "5656ae89996eb86e",
+      "addedToDb": "2026-05-22T11:44:09.841Z",
+      "sent": false
+    },
+    {
+      "title": "Definiciones básicas de la web",
+      "url": "https://www.practicalecommerce.com/Basic-Definitions-Web-1-0-Web-2-0-Web-3-0",
+      "category": "blog_olvidado",
+      "hash": "521c8afeb482718e",
+      "addedToDb": "2026-05-22T11:44:09.841Z",
+      "sent": false
+    },
+    {
+      "title": "Un legado de conocimiento en línea",
+      "url": "https://www.deuglo.com/web-1-0-overview/",
+      "category": "blog_olvidado",
+      "hash": "070dc23698484dfb",
+      "addedToDb": "2026-05-22T11:44:09.841Z",
       "sent": false
     }
   ],

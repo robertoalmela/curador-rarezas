@@ -10073,6 +10073,49 @@ async function fetchFromHackerNews() {
         url: "https://www.mirrormaze.net/",
         description: "Un sitio web que utiliza la metáfora del laberinto para explorar la naturaleza de la identidad y la autoconciencia. El laberinto cuenta con una serie de espejos y reflejos que crean una experiencia inmersiva y desorientadora.",
         quote: "¿Quiénes somos cuando nos enfrentamos a nuestras propias sombras y reflejos?"
+    },
+    // 2026-05-22 — blog_olvidado
+    {
+        category: "blog_olvidado",
+        title: "Un rincón de la literatura victoriana",
+        url: "https://louisamayalcottismypassion.com/",
+        description: "Un blog personal iniciado en 2010 que analiza y reflexiona sobre la vida y obra de Louisa May Alcott y su familia con una dedicación admirable.",
+        quote: "Un ejemplo de cómo un blog personal puede convertirse en un tesoro de conocimiento especializado."
+    },
+    {
+        category: "blog_olvidado",
+        title: "El regreso de la página personal",
+        url: "https://jefffinley.org/the-return-of-the-personal-website/",
+        description: "Un artículo que reflexiona sobre la importancia de las páginas personales en la web, destacando su papel en la creatividad y la expresión individual.",
+        quote: "La web personal revive en un momento en que la homogeneización de las redes sociales amenaza con sofocar la originalidad."
+    },
+    {
+        category: "blog_olvidado",
+        title: "Un vistazo al pasado de la web",
+        url: "https://ineedthisunicorn.com/ghosts-of-websites-past/",
+        description: "Un sitio que explora los restos de sitios web del pasado, ofreciendo una fascinante visión de cómo ha evolucionado la web.",
+        quote: "Un viaje nostalgia que nos recuerda que la web tiene una memoria más larga de lo que creemos."
+    },
+    {
+        category: "blog_olvidado",
+        title: "Un archivo de conocimiento",
+        url: "https://www.ebsco.com/research-starters/computer-science/web-10",
+        description: "Un recurso de investigación sobre la historia de la web, desde sus inicios hasta la actualidad, con enlaces a artículos y sitios relevantes.",
+        quote: "Un punto de partida para entender la evolución de la web y su impacto en la sociedad."
+    },
+    {
+        category: "blog_olvidado",
+        title: "Definiciones básicas de la web",
+        url: "https://www.practicalecommerce.com/Basic-Definitions-Web-1-0-Web-2-0-Web-3-0",
+        description: "Un artículo que proporciona definiciones claras de los diferentes estadios de la web, desde la web 1.0 hasta la web 3.0.",
+        quote: "Entender las diferencias entre las versiones de la web es clave para navegar el complejo ecosistema digital actual."
+    },
+    {
+        category: "blog_olvidado",
+        title: "Un legado de conocimiento en línea",
+        url: "https://www.deuglo.com/web-1-0-overview/",
+        description: "Un sitio que ofrece una visión general de la web 1.0, incluyendo sus características y cómo se ha desarrollado hasta la actualidad.",
+        quote: "La web 1.0, aunque considerada 'estática', sentó las bases para la rica experiencia en línea que disfrutamos hoy en día."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
