@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-22T11:44:11.878Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-23T10:25:29.614Z",
+  "sentCount": 115,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -851,6 +851,46 @@
       "category": "blog_olvidado",
       "hash": "070dc23698484dfb",
       "addedToDb": "2026-05-22T11:44:09.841Z",
+      "sent": false
+    },
+    {
+      "title": "Túneles de Vapor de Milwaukee",
+      "url": "https://onmilwaukee.com/articles/steamtunnels",
+      "category": "infraestructura_oculta",
+      "hash": "ec844936a6df0273",
+      "addedToDb": "2026-05-23T10:25:29.614Z",
+      "sent": false
+    },
+    {
+      "title": "La Infraestructura Oculta de Nueva York",
+      "url": "https://www.newyork.com/articles/post/new-york-city-underground-infrastructure/",
+      "category": "infraestructura_oculta",
+      "hash": "305e84d59845c77e",
+      "addedToDb": "2026-05-23T10:25:29.614Z",
+      "sent": false
+    },
+    {
+      "title": "El Mapa de Cables Submarinos de TeleGeography",
+      "url": "https://www.submarinecablemap.com/",
+      "category": "infraestructura_oculta",
+      "hash": "f9b0ab753f080310",
+      "addedToDb": "2026-05-23T10:25:29.614Z",
+      "sent": false
+    },
+    {
+      "title": "Los Túneles Abandonados de St. Louis",
+      "url": "https://www.stlpr.org/2012-04-20/past-meets-present-in-hidden-world-under-st-louis-streets",
+      "category": "infraestructura_oculta",
+      "hash": "7e64ce3c1eb6ad5e",
+      "addedToDb": "2026-05-23T10:25:29.614Z",
+      "sent": false
+    },
+    {
+      "title": "El Proyecto de Cartografía de Infraestructura Oculta",
+      "url": "https://webiano.digital/a-live-map-of-the-cables-holding-the-internet-together/",
+      "category": "infraestructura_oculta",
+      "hash": "fb0890070e3a09d5",
+      "addedToDb": "2026-05-23T10:25:29.614Z",
       "sent": false
     }
   ],

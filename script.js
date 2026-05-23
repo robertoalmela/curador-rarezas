@@ -10116,6 +10116,42 @@ async function fetchFromHackerNews() {
         url: "https://www.deuglo.com/web-1-0-overview/",
         description: "Un sitio que ofrece una visión general de la web 1.0, incluyendo sus características y cómo se ha desarrollado hasta la actualidad.",
         quote: "La web 1.0, aunque considerada 'estática', sentó las bases para la rica experiencia en línea que disfrutamos hoy en día."
+    },
+    // 2026-05-23 — infraestructura_oculta
+    {
+        category: "infraestructura_oculta",
+        title: "Túneles de Vapor de Milwaukee",
+        url: "https://onmilwaukee.com/articles/steamtunnels",
+        description: "Descubre los túneles de vapor abandonados que se extienden bajo las calles de Milwaukee, y cómo se utilizan para calefacción y refrigeración.",
+        quote: "Los túneles de vapor pueden alcanzar temperaturas de hasta 300°F (149°C) en invierno."
+    },
+    {
+        category: "infraestructura_oculta",
+        title: "La Infraestructura Oculta de Nueva York",
+        url: "https://www.newyork.com/articles/post/new-york-city-underground-infrastructure/",
+        description: "Explora la infraestructura oculta que se esconde bajo las calles de Nueva York, desde túneles de agua hasta pasillos de servicio.",
+        quote: "Hay más de 6.000 millas de túneles y pasillos bajo la ciudad de Nueva York."
+    },
+    {
+        category: "infraestructura_oculta",
+        title: "El Mapa de Cables Submarinos de TeleGeography",
+        url: "https://www.submarinecablemap.com/",
+        description: "Este mapa interactivo muestra los principales sistemas de cable submarino y puntos de aterrizaje alrededor del mundo, destacando la complejidad de la infraestructura de Internet.",
+        quote: "El mapa de cables submarinos es actualizado constantemente para reflejar los cambios en la infraestructura de Internet."
+    },
+    {
+        category: "infraestructura_oculta",
+        title: "Los Túneles Abandonados de St. Louis",
+        url: "https://www.stlpr.org/2012-04-20/past-meets-present-in-hidden-world-under-st-louis-streets",
+        description: "Descubre los túneles abandonados que se esconden bajo las calles de St. Louis, y cómo se están convirtiendo en un espacio para la exploración y la aventura.",
+        quote: "Los túneles abandonados de St. Louis son un recordatorio de la historia oculta de la ciudad."
+    },
+    {
+        category: "infraestructura_oculta",
+        title: "El Proyecto de Cartografía de Infraestructura Oculta",
+        url: "https://webiano.digital/a-live-map-of-the-cables-holding-the-internet-together/",
+        description: "Este proyecto busca crear un mapa en vivo de la infraestructura oculta que conecta el mundo, desde cables submarinos hasta túneles de servicio.",
+        quote: "La infraestructura oculta es el esqueleto que sostiene la sociedad moderna."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
