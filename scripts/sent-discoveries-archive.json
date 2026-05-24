@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-23T10:25:38.708Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-24T10:41:18.620Z",
+  "sentCount": 119,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -891,6 +891,38 @@
       "category": "infraestructura_oculta",
       "hash": "fb0890070e3a09d5",
       "addedToDb": "2026-05-23T10:25:29.614Z",
+      "sent": false
+    },
+    {
+      "title": "El Arte de la Disfunción: Explorando la Estética de los Glitches",
+      "url": "https://red-eye.world/c/the-poetics-of-error-aesthetics-of-glitch-and-disruption-in-ai-generated-visuals",
+      "category": "fracaso_bello",
+      "hash": "6e6d7831d39d1195",
+      "addedToDb": "2026-05-24T10:41:18.619Z",
+      "sent": false
+    },
+    {
+      "title": "El Papel del Fracaso en el Diseño: Lecciones de Henry Petroski",
+      "url": "https://novelinvestor.com/notes/to-engineer-is-human-the-role-of-failure-in-successful-design-by-henry-petroski/",
+      "category": "fracaso_bello",
+      "hash": "6d854ce82389587d",
+      "addedToDb": "2026-05-24T10:41:18.619Z",
+      "sent": false
+    },
+    {
+      "title": "Desastres de Ingeniería: Lecciones del Pasado para el Futuro",
+      "url": "https://www.asme.org/topics-resources/content/ten-engineering-disasters-of-the-last-100-years",
+      "category": "fracaso_bello",
+      "hash": "691bfdfa315791fe",
+      "addedToDb": "2026-05-24T10:41:18.619Z",
+      "sent": false
+    },
+    {
+      "title": "El Poder de los Errores: Cómo los Glitches Están Cambiando la Estética Digital",
+      "url": "https://indieground.net/blog/30-images-wonderfully-ruined-by-glitch-artists/",
+      "category": "fracaso_bello",
+      "hash": "bd3d62d78380f783",
+      "addedToDb": "2026-05-24T10:41:18.619Z",
       "sent": false
     }
   ],

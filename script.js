@@ -10152,6 +10152,35 @@ async function fetchFromHackerNews() {
         url: "https://webiano.digital/a-live-map-of-the-cables-holding-the-internet-together/",
         description: "Este proyecto busca crear un mapa en vivo de la infraestructura oculta que conecta el mundo, desde cables submarinos hasta túneles de servicio.",
         quote: "La infraestructura oculta es el esqueleto que sostiene la sociedad moderna."
+    },
+    // 2026-05-24 — fracaso_bello
+    {
+        category: "fracaso_bello",
+        title: "El Arte de la Disfunción: Explorando la Estética de los Glitches",
+        url: "https://red-eye.world/c/the-poetics-of-error-aesthetics-of-glitch-and-disruption-in-ai-generated-visuals",
+        description: "Un análisis en profundidad sobre cómo los errores en la generación de imágenes por IA pueden dar lugar a patrones y estilos visuales únicos y fascinantes, desafiando nuestra percepción de la belleza y la función.",
+        quote: "La belleza reside en los errores, no en la perfección."
+    },
+    {
+        category: "fracaso_bello",
+        title: "El Papel del Fracaso en el Diseño: Lecciones de Henry Petroski",
+        url: "https://novelinvestor.com/notes/to-engineer-is-human-the-role-of-failure-in-successful-design-by-henry-petroski/",
+        description: "Un examen de cómo el fracaso y el error son esenciales para el proceso de diseño y la innovación, basado en el trabajo del ingeniero y escritor Henry Petroski.",
+        quote: "El éxito está en aprender de los errores, no en evitarlos."
+    },
+    {
+        category: "fracaso_bello",
+        title: "Desastres de Ingeniería: Lecciones del Pasado para el Futuro",
+        url: "https://www.asme.org/topics-resources/content/ten-engineering-disasters-of-the-last-100-years",
+        description: "Un recorrido por algunos de los peores desastres de ingeniería del siglo pasado, destacando lo que se puede aprender de ellos para prevenir errores similares en el futuro.",
+        quote: "La historia se repite si no se aprende de ella."
+    },
+    {
+        category: "fracaso_bello",
+        title: "El Poder de los Errores: Cómo los Glitches Están Cambiando la Estética Digital",
+        url: "https://indieground.net/blog/30-images-wonderfully-ruined-by-glitch-artists/",
+        description: "Un análisis de cómo los artistas de glitch están utilizando errores y disfunciones para crear imágenes y experiencias visuales innovadoras y fascinantes.",
+        quote: "Los errores son la fuente de la creatividad."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
