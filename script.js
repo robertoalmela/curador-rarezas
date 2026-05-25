@@ -10181,6 +10181,21 @@ async function fetchFromHackerNews() {
         url: "https://indieground.net/blog/30-images-wonderfully-ruined-by-glitch-artists/",
         description: "Un análisis de cómo los artistas de glitch están utilizando errores y disfunciones para crear imágenes y experiencias visuales innovadoras y fascinantes.",
         quote: "Los errores son la fuente de la creatividad."
+    },
+    // 2026-05-25 — idea_provocativa
+    {
+        category: "idea_provocativa",
+        title: "El Problema de la Concordancia de Gross",
+        url: "https://arxiv.org/abs/1512.03379",
+        description: "El problema de la concordancia de Gross se refiere a la discrepancia entre la predicción teórica y la observación experimental de la constante de acoplamiento en la teoría de cuerdas. Esto ha llevado a una reevaluación de la teoría y ha generado debate sobre la naturaleza de la realidad.",
+        quote: "La teoría de cuerdas puede ser una de las más grandes teorías de la física, pero también es una de las más problemáticas."
+    },
+    {
+        category: "idea_provocativa",
+        title: "El Problema de la Información de la Entropía",
+        url: "https://arxiv.org/abs/0905.2188",
+        description: "El problema de la información de la entropía se refiere a la pregunta de cómo se relaciona la información con la entropía en un sistema. Esto ha llevado a debates sobre la naturaleza de la realidad y la relación entre la información y la física.",
+        quote: "La información es la clave para entender la entropía y la naturaleza del universo."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

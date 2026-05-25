@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-24T10:41:22.778Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-25T12:29:41.678Z",
+  "sentCount": 121,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -923,6 +923,22 @@
       "category": "fracaso_bello",
       "hash": "bd3d62d78380f783",
       "addedToDb": "2026-05-24T10:41:18.619Z",
+      "sent": false
+    },
+    {
+      "title": "El Problema de la Concordancia de Gross",
+      "url": "https://arxiv.org/abs/1512.03379",
+      "category": "idea_provocativa",
+      "hash": "01c7a6deb71c0e14",
+      "addedToDb": "2026-05-25T12:29:41.678Z",
+      "sent": false
+    },
+    {
+      "title": "El Problema de la Información de la Entropía",
+      "url": "https://arxiv.org/abs/0905.2188",
+      "category": "idea_provocativa",
+      "hash": "4bdc10f1e7fafa19",
+      "addedToDb": "2026-05-25T12:29:41.678Z",
       "sent": false
     }
   ],
