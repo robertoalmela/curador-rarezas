@@ -10196,6 +10196,35 @@ async function fetchFromHackerNews() {
         url: "https://arxiv.org/abs/0905.2188",
         description: "El problema de la información de la entropía se refiere a la pregunta de cómo se relaciona la información con la entropía en un sistema. Esto ha llevado a debates sobre la naturaleza de la realidad y la relación entre la información y la física.",
         quote: "La información es la clave para entender la entropía y la naturaleza del universo."
+    },
+    // 2026-05-27 — obsceno_digital
+    {
+        category: "obsceno_digital",
+        title: "El Arte de Wikiracing: Un Juego de Conexiones",
+        url: "https://slate.com/technology/2023/09/wikiracing-wikipedia-champions.html",
+        description: "Wikiracing es un juego en línea donde los jugadores intentan llegar de un artículo de Wikipedia a otro utilizando el menor número de enlaces posibles, desafiando la lógica y la estrategia en la red.",
+        quote: "El récord actual para el menor número de saltos entre dos artículos aleatorios es de 3, lo que plantea preguntas sobre la estructura subyacente de la información en linea."
+    },
+    {
+        category: "obsceno_digital",
+        title: "Digital Hoarders: Una Nueva Clasificación",
+        url: "https://theconversation.com/digital-hoarders-weve-identified-four-types-which-are-you-153111",
+        description: "Un estudio reciente clasifica a los acumuladores digitales en cuatro categorías: 'collectores', 'acumuladores accidentales', 'utilitarios' y ' Sentimentales', destacando la complejidad del comportamiento humano en la era digital.",
+        quote: "El 40% de los encuestados admitieron difficulties para eliminar archivos digitales, sugiriendo un patrón de comportamiento que puede llevar a la ansiedad y la disorganización."
+    },
+    {
+        category: "obsceno_digital",
+        title: "El Juego de Wikipedia: Un Laberinto de Conocimiento",
+        url: "https://www.thewikigame.com/",
+        description: "Un juego en línea que desafia a los jugadores a explorar y navegar a través de artículos de Wikipedia, descubriendo conexiones inesperadas y ampliando los límites de la curiosidad humana.",
+        quote: "El juego ha sido diseñado para fomentar la exploración y el descubrimiento, más que la competencia, lo que lo convierte en un ejercicio único de aprendizaje y diversión."
+    },
+    {
+        category: "obsceno_digital",
+        title: "El Arte de la Interacción: Experimentos en Creative Coding",
+        url: "https://orteil.dashnet.org/",
+        description: "Un sitio web que ofrece una variedad de experimentos y juegos creados utilizando técnicas de creative coding, desafiando las fronteras entre el arte, la ciencia y la tecnología.",
+        quote: "Los experimentos de Orteil demuestran que la programación puede ser una forma de arte, capaz de generar experiencias visuales y auditivas únicas y fascinantes."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

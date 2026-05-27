@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-25T12:29:44.076Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-27T12:19:33.324Z",
+  "sentCount": 125,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -939,6 +939,38 @@
       "category": "idea_provocativa",
       "hash": "4bdc10f1e7fafa19",
       "addedToDb": "2026-05-25T12:29:41.678Z",
+      "sent": false
+    },
+    {
+      "title": "El Arte de Wikiracing: Un Juego de Conexiones",
+      "url": "https://slate.com/technology/2023/09/wikiracing-wikipedia-champions.html",
+      "category": "obsceno_digital",
+      "hash": "a8975a30fd1826c6",
+      "addedToDb": "2026-05-27T12:19:33.324Z",
+      "sent": false
+    },
+    {
+      "title": "Digital Hoarders: Una Nueva Clasificación",
+      "url": "https://theconversation.com/digital-hoarders-weve-identified-four-types-which-are-you-153111",
+      "category": "obsceno_digital",
+      "hash": "52097a553cf070f3",
+      "addedToDb": "2026-05-27T12:19:33.324Z",
+      "sent": false
+    },
+    {
+      "title": "El Juego de Wikipedia: Un Laberinto de Conocimiento",
+      "url": "https://www.thewikigame.com/",
+      "category": "obsceno_digital",
+      "hash": "83c4f266392989be",
+      "addedToDb": "2026-05-27T12:19:33.324Z",
+      "sent": false
+    },
+    {
+      "title": "El Arte de la Interacción: Experimentos en Creative Coding",
+      "url": "https://orteil.dashnet.org/",
+      "category": "obsceno_digital",
+      "hash": "35c9ce4c2cf4ccbb",
+      "addedToDb": "2026-05-27T12:19:33.324Z",
       "sent": false
     }
   ],
