@@ -10225,6 +10225,14 @@ async function fetchFromHackerNews() {
         url: "https://orteil.dashnet.org/",
         description: "Un sitio web que ofrece una variedad de experimentos y juegos creados utilizando técnicas de creative coding, desafiando las fronteras entre el arte, la ciencia y la tecnología.",
         quote: "Los experimentos de Orteil demuestran que la programación puede ser una forma de arte, capaz de generar experiencias visuales y auditivas únicas y fascinantes."
+    },
+    // 2026-05-28 — estetica_rara
+    {
+        category: "estetica_rara",
+        title: "Net-art: Una Historia del Arte en Internet",
+        url: "https://www.artforum.com/features/web-work-a-history-of-internet-art-2-162477/",
+        description: "Un artículo que explora la historia del net-art, desde sus inicios en la década de 1990 hasta su evolución en la actualidad, destacando su impacto en la escena artística contemporánea.",
+        quote: "Del ciberespacio al museo: cómo el net-art ha transformado la forma en que pensamos sobre el arte y la tecnología."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

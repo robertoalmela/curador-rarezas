@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-27T12:19:33.324Z",
-  "sentCount": 125,
+  "lastUpdated": "2026-05-28T12:25:29.698Z",
+  "sentCount": 126,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -971,6 +971,14 @@
       "category": "obsceno_digital",
       "hash": "35c9ce4c2cf4ccbb",
       "addedToDb": "2026-05-27T12:19:33.324Z",
+      "sent": false
+    },
+    {
+      "title": "Net-art: Una Historia del Arte en Internet",
+      "url": "https://www.artforum.com/features/web-work-a-history-of-internet-art-2-162477/",
+      "category": "estetica_rara",
+      "hash": "1c83f9f564297454",
+      "addedToDb": "2026-05-28T12:25:29.698Z",
       "sent": false
     }
   ],
