@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-28T12:25:33.639Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-29T12:14:43.052Z",
+  "sentCount": 132,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -979,6 +979,54 @@
       "category": "estetica_rara",
       "hash": "1c83f9f564297454",
       "addedToDb": "2026-05-28T12:25:29.698Z",
+      "sent": false
+    },
+    {
+      "title": "Unidades de Sonido Generativas con Pure Data",
+      "url": "https://puredata.info/",
+      "category": "herramienta_oculta",
+      "hash": "7aca82c341dc38c0",
+      "addedToDb": "2026-05-29T12:14:43.052Z",
+      "sent": false
+    },
+    {
+      "title": "Generador de Paisajes Aleatorios con Terragen",
+      "url": "https://www.planetside.co.uk/",
+      "category": "herramienta_oculta",
+      "hash": "3a4805d7763af4dc",
+      "addedToDb": "2026-05-29T12:14:43.052Z",
+      "sent": false
+    },
+    {
+      "title": "Análisis de Redes Sociales con Gephi",
+      "url": "https://gephi.org/",
+      "category": "herramienta_oculta",
+      "hash": "a671af7150baa9a9",
+      "addedToDb": "2026-05-29T12:14:43.052Z",
+      "sent": false
+    },
+    {
+      "title": "Creación de Música Algorítmica con SuperCollider",
+      "url": "https://supercollider.github.io/",
+      "category": "herramienta_oculta",
+      "hash": "8ee3b5ff28b370c1",
+      "addedToDb": "2026-05-29T12:14:43.052Z",
+      "sent": false
+    },
+    {
+      "title": "Simulación de Sistemas Complejos con NetLogo",
+      "url": "https://ccl.northwestern.edu/netlogo/",
+      "category": "herramienta_oculta",
+      "hash": "1fac01ba05d15a20",
+      "addedToDb": "2026-05-29T12:14:43.052Z",
+      "sent": false
+    },
+    {
+      "title": "Edición de Vídeo Experimental con FFmpeg",
+      "url": "https://ffmpeg.org/",
+      "category": "herramienta_oculta",
+      "hash": "e1ec0124af89d746",
+      "addedToDb": "2026-05-29T12:14:43.052Z",
       "sent": false
     }
   ],

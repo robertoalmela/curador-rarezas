@@ -10233,6 +10233,49 @@ async function fetchFromHackerNews() {
         url: "https://www.artforum.com/features/web-work-a-history-of-internet-art-2-162477/",
         description: "Un artículo que explora la historia del net-art, desde sus inicios en la década de 1990 hasta su evolución en la actualidad, destacando su impacto en la escena artística contemporánea.",
         quote: "Del ciberespacio al museo: cómo el net-art ha transformado la forma en que pensamos sobre el arte y la tecnología."
+    },
+    // 2026-05-29 — herramienta_oculta
+    {
+        category: "herramienta_oculta",
+        title: "Unidades de Sonido Generativas con Pure Data",
+        url: "https://puredata.info/",
+        description: "Pure Data es un entorno de desarrollo visual para la creación de software de audio y multimedia. Permite a los usuarios diseñar y crear instrumentos musicales virtuales, efectos de sonido y sistemas de procesamiento de audio complejos.",
+        quote: "La programación visual es la clave para desbloquear la verdadera potencia del sonido."
+    },
+    {
+        category: "herramienta_oculta",
+        title: "Generador de Paisajes Aleatorios con Terragen",
+        url: "https://www.planetside.co.uk/",
+        description: "Terragen es un software de generación de paisajes y terrenos que permite a los usuarios crear paisajes realistas y personalizados. Es especialmente útil para artistas visuales, diseñadores de juegos y cineastas.",
+        quote: "La generación de paisajes aleatorios puede llevar a lugares inexplorados y emocionantes."
+    },
+    {
+        category: "herramienta_oculta",
+        title: "Análisis de Redes Sociales con Gephi",
+        url: "https://gephi.org/",
+        description: "Gephi es una herramienta de código abierto para el análisis y visualización de redes sociales. Permite a los usuarios estudiar patrones y relaciones dentro de redes complejas.",
+        quote: "Entender las redes sociales puede revelar secretos sobre cómo funciona nuestra sociedad."
+    },
+    {
+        category: "herramienta_oculta",
+        title: "Creación de Música Algorítmica con SuperCollider",
+        url: "https://supercollider.github.io/",
+        description: "SuperCollider es una plataforma de programación de sonido que permite a los usuarios crear música algorítmica y efectos de sonido en tiempo real. Es popular entre compositores y artistas sonoros.",
+        quote: "La música generada por algoritmos puede ser sorprendentemente hermosa y emocional."
+    },
+    {
+        category: "herramienta_oculta",
+        title: "Simulación de Sistemas Complejos con NetLogo",
+        url: "https://ccl.northwestern.edu/netlogo/",
+        description: "NetLogo es un entorno de modelado y simulación que permite a los usuarios estudiar sistemas complejos y comportamientos emergentes en diversos campos, desde biología hasta economía.",
+        quote: "Los sistemas complejos pueden exhibir comportamientos inesperados y fascinantes cuando se modelan correctamente."
+    },
+    {
+        category: "herramienta_oculta",
+        title: "Edición de Vídeo Experimental con FFmpeg",
+        url: "https://ffmpeg.org/",
+        description: "FFmpeg es una herramienta de línea de comandos para la edición, procesamiento y streaming de vídeo y audio. Ofrece una gran flexibilidad y control sobre los flujos de medios.",
+        quote: "La edición de vídeo experimental puede llevar a resultados visuales impresionantes y únicos."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
