@@ -10276,6 +10276,21 @@ async function fetchFromHackerNews() {
         url: "https://ffmpeg.org/",
         description: "FFmpeg es una herramienta de línea de comandos para la edición, procesamiento y streaming de vídeo y audio. Ofrece una gran flexibilidad y control sobre los flujos de medios.",
         quote: "La edición de vídeo experimental puede llevar a resultados visuales impresionantes y únicos."
+    },
+    // 2026-05-31 — subcultura
+    {
+        category: "subcultura",
+        title: "Foros de la era pre-Reddit",
+        url: "https://forums.thetechnodrome.com/showthread.php?t=62800",
+        description: "Un hilo de discusión en un foro de tecnología donde los usuarios comparten sus experiencias y recuerdos de la época pre-Reddit, ofreciendo una visión única de cómo era la internet en sus inicios.",
+        quote: "Es fascinante ver cómo los usuarios de internet han evolucionado desde la era de los foros hasta las redes sociales actuales."
+    },
+    {
+        category: "proyecto_experimental",
+        title: "El proyecto 'Internet Obscura'",
+        url: "https://www.printmag.com/sva-branding-100-days-2/internet-obscura-catalogs-100-of-the-most-fascinating-niche-online-subcultures/",
+        description: "Un proyecto que busca catalogar y explorar las subculturas más oscuras y fascinantes de internet, ofreciendo una visión única de la diversidad y complejidad de la red.",
+        quote: "El proyecto 'Internet Obscura' es un recordatorio de que la internet es un lugar vasto y desconocido, lleno de sorpresas y descubrimientos esperando a ser encontrados."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

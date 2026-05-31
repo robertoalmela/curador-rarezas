@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-05-30T10:46:30.805Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-05-31T10:56:21.220Z",
+  "sentCount": 134,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1027,6 +1027,22 @@
       "category": "herramienta_oculta",
       "hash": "e1ec0124af89d746",
       "addedToDb": "2026-05-29T12:14:43.052Z",
+      "sent": false
+    },
+    {
+      "title": "Foros de la era pre-Reddit",
+      "url": "https://forums.thetechnodrome.com/showthread.php?t=62800",
+      "category": "subcultura",
+      "hash": "b31a93314b2f5cbe",
+      "addedToDb": "2026-05-31T10:56:21.220Z",
+      "sent": false
+    },
+    {
+      "title": "El proyecto 'Internet Obscura'",
+      "url": "https://www.printmag.com/sva-branding-100-days-2/internet-obscura-catalogs-100-of-the-most-fascinating-niche-online-subcultures/",
+      "category": "proyecto_experimental",
+      "hash": "324eacbfec26c89a",
+      "addedToDb": "2026-05-31T10:56:21.220Z",
       "sent": false
     }
   ],
