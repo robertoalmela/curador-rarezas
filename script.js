@@ -10291,6 +10291,14 @@ async function fetchFromHackerNews() {
         url: "https://www.printmag.com/sva-branding-100-days-2/internet-obscura-catalogs-100-of-the-most-fascinating-niche-online-subcultures/",
         description: "Un proyecto que busca catalogar y explorar las subculturas más oscuras y fascinantes de internet, ofreciendo una visión única de la diversidad y complejidad de la red.",
         quote: "El proyecto 'Internet Obscura' es un recordatorio de que la internet es un lugar vasto y desconocido, lleno de sorpresas y descubrimientos esperando a ser encontrados."
+    },
+    // 2026-06-01 — experimento_social
+    {
+        category: "experimento_social",
+        title: "La Comunidad de los Sueños Compartidos",
+        url: "https://dreamincubation.com/",
+        description: "Un proyecto que explora la idea de compartir sueños y cómo pueden influir en nuestra realidad. Los participantes comparten sus sueños y trabajan juntos para entender su significado.",
+        quote: "Los sueños son la ventana al alma, y compartirlos puede ser una forma de conectar con los demás a un nivel más profundo."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
