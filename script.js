@@ -10299,6 +10299,14 @@ async function fetchFromHackerNews() {
         url: "https://dreamincubation.com/",
         description: "Un proyecto que explora la idea de compartir sueños y cómo pueden influir en nuestra realidad. Los participantes comparten sus sueños y trabajan juntos para entender su significado.",
         quote: "Los sueños son la ventana al alma, y compartirlos puede ser una forma de conectar con los demás a un nivel más profundo."
+    },
+    // 2026-06-03 — juego_absurdo
+    {
+        category: "juego_absurdo",
+        title: "The Swapper",
+        url: "http://facepalmgames.com/the-swapper/",
+        description: "Un juego de rompecabezas y exploración que te permite crear clones y resolver acertijos en una estación espacial abandonada.",
+        quote: "La identidad es un rompecabezas que puede tener muchas soluciones."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

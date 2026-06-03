@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-02T12:40:12.582Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-03T13:15:38.945Z",
+  "sentCount": 136,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1051,6 +1051,14 @@
       "category": "experimento_social",
       "hash": "f79155b390c5a433",
       "addedToDb": "2026-06-01T15:19:07.553Z",
+      "sent": false
+    },
+    {
+      "title": "The Swapper",
+      "url": "http://facepalmgames.com/the-swapper/",
+      "category": "juego_absurdo",
+      "hash": "9b8b80d7e3671735",
+      "addedToDb": "2026-06-03T13:15:38.945Z",
       "sent": false
     }
   ],
