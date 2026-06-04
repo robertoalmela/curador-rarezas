@@ -10307,6 +10307,42 @@ async function fetchFromHackerNews() {
         url: "http://facepalmgames.com/the-swapper/",
         description: "Un juego de rompecabezas y exploración que te permite crear clones y resolver acertijos en una estación espacial abandonada.",
         quote: "La identidad es un rompecabezas que puede tener muchas soluciones."
+    },
+    // 2026-06-04 — filosofia_digital
+    {
+        category: "filosofia_digital",
+        title: "La Paradoja de la Soledad en la Era Digital",
+        url: "https://www.cs.cmu.edu/~kiesler/publications/1998pdfs/1998_Internet-Paradox.pdf",
+        description: "Un estudio sobre el impacto social y psicológico de Internet en las primeras etapas de su adopción. La investigación destaca la paradoja de cómo, a pesar de aumentar la conectividad, la soledad y la depresión pueden aumentar en usuarios de Internet.",
+        quote: "'La ironía es que, mientras más tiempo pasan las personas en línea, más se sienten solas.'"
+    },
+    {
+        category: "herramienta_oculta",
+        title: "The Wayback Machine",
+        url: "https://web.archive.org/",
+        description: "Una herramienta que permite a los usuarios acceder a versiones anteriores de sitios web, ofreciendo una perspectiva sobre cómo han evolucionado los contenidos y las estructuras de la web a lo largo del tiempo.",
+        quote: "'La Wayback Machine es como una máquina del tiempo para la web, revelando cómo hemos cambiado y qué hemos olvidado.'"
+    },
+    {
+        category: "blog_olvidado",
+        title: "The Invisibl.com",
+        url: "https://www.invisibl.com/",
+        description: "Un blog que explora temas relacionados con la privacidad y la vigilancia en la era digital, destacando la importancia de la privacidad y la necesidad de protegerla en un mundo cada vez más conectado.",
+        quote: "'La vigilancia es el precio que pagamos por la conveniencia; pero, ¿vale la pena?'"
+    },
+    {
+        category: "estetica_rara",
+        title: "Databending y el Arte de Corromper Datos",
+        url: "https://www.glitchet.com/",
+        description: "Una práctica artística que implica la manipulación intencional de datos para crear imágenes y sonidos distorsionados, cuestionando la percepción de la realidad en la era digital.",
+        quote: "'El databending nos muestra que, incluso en la precisión del código, hay espacio para el error y la belleza.'"
+    },
+    {
+        category: "idea_provocadora",
+        title: "El Problema del Hard de la Conciencia",
+        url: "https://www.edge.org/conversation/david_chalmers-the-mind-bleeds-into-the-world",
+        description: "Un debate filosófico sobre la naturaleza de la conciencia y cómo se relaciona con los sistemas físicos, planteando preguntas sobre la posibilidad de replicar la conciencia humana en máquinas.",
+        quote: "'La conciencia es el último gran misterio; resolverlo podría requerir una revolución en nuestra comprensión del mundo.'"
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-03T13:16:13.683Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-04T11:52:42.655Z",
+  "sentCount": 141,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1059,6 +1059,46 @@
       "category": "juego_absurdo",
       "hash": "9b8b80d7e3671735",
       "addedToDb": "2026-06-03T13:15:38.945Z",
+      "sent": false
+    },
+    {
+      "title": "La Paradoja de la Soledad en la Era Digital",
+      "url": "https://www.cs.cmu.edu/~kiesler/publications/1998pdfs/1998_Internet-Paradox.pdf",
+      "category": "filosofia_digital",
+      "hash": "3157be0d9b64a89a",
+      "addedToDb": "2026-06-04T11:52:42.655Z",
+      "sent": false
+    },
+    {
+      "title": "The Wayback Machine",
+      "url": "https://web.archive.org/",
+      "category": "herramienta_oculta",
+      "hash": "366cf9f35087df32",
+      "addedToDb": "2026-06-04T11:52:42.655Z",
+      "sent": false
+    },
+    {
+      "title": "The Invisibl.com",
+      "url": "https://www.invisibl.com/",
+      "category": "blog_olvidado",
+      "hash": "75635e64e9ad324c",
+      "addedToDb": "2026-06-04T11:52:42.655Z",
+      "sent": false
+    },
+    {
+      "title": "Databending y el Arte de Corromper Datos",
+      "url": "https://www.glitchet.com/",
+      "category": "estetica_rara",
+      "hash": "c5dbd8a902bc00e9",
+      "addedToDb": "2026-06-04T11:52:42.655Z",
+      "sent": false
+    },
+    {
+      "title": "El Problema del Hard de la Conciencia",
+      "url": "https://www.edge.org/conversation/david_chalmers-the-mind-bleeds-into-the-world",
+      "category": "idea_provocadora",
+      "hash": "4384c685a79a3c81",
+      "addedToDb": "2026-06-04T11:52:42.655Z",
       "sent": false
     }
   ],
