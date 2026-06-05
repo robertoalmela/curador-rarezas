@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-04T11:52:45.145Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-05T12:07:25.074Z",
+  "sentCount": 144,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1099,6 +1099,30 @@
       "category": "idea_provocadora",
       "hash": "4384c685a79a3c81",
       "addedToDb": "2026-06-04T11:52:42.655Z",
+      "sent": false
+    },
+    {
+      "title": "Ophiocordyceps unilateralis: El hongo que controla la mente de las hormigas",
+      "url": "https://www.nationalgeographic.com/animals/article/cordyceps-zombie-fungus-takes-over-ants",
+      "category": "biologia_rara",
+      "hash": "f84430d58da0333a",
+      "addedToDb": "2026-06-05T12:07:25.074Z",
+      "sent": false
+    },
+    {
+      "title": "El axolotl: Un anfibio que puede regenerar sus miembros",
+      "url": "https://www.axolotl.org/",
+      "category": "biologia_rara",
+      "hash": "eb237767c6a17531",
+      "addedToDb": "2026-06-05T12:07:25.074Z",
+      "sent": false
+    },
+    {
+      "title": "El pez luna: Un pez que puede inflar su cuerpo",
+      "url": "https://www.fishbase.se/summary/2709",
+      "category": "biologia_rara",
+      "hash": "23674b6034d46bf6",
+      "addedToDb": "2026-06-05T12:07:25.074Z",
       "sent": false
     }
   ],

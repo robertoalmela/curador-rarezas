@@ -10343,6 +10343,28 @@ async function fetchFromHackerNews() {
         url: "https://www.edge.org/conversation/david_chalmers-the-mind-bleeds-into-the-world",
         description: "Un debate filosófico sobre la naturaleza de la conciencia y cómo se relaciona con los sistemas físicos, planteando preguntas sobre la posibilidad de replicar la conciencia humana en máquinas.",
         quote: "'La conciencia es el último gran misterio; resolverlo podría requerir una revolución en nuestra comprensión del mundo.'"
+    },
+    // 2026-06-05 — biologia_rara
+    {
+        category: "biologia_rara",
+        title: "Ophiocordyceps unilateralis: El hongo que controla la mente de las hormigas",
+        url: "https://www.nationalgeographic.com/animals/article/cordyceps-zombie-fungus-takes-over-ants",
+        description: "El Ophiocordyceps unilateralis es un hongo que infecta a las hormigas y las controla, haciendo que suban a lugares altos y se agarren a las hojas, lo que facilita la diseminación de las esporas del hongo. Este hongo es capaz de manipular el comportamiento de las hormigas para beneficio propio.",
+        quote: "El Ophiocordyceps unilateralis es un ejemplo de cómo un hongo puede controlar la mente de un insecto y hacer que realice acciones que no serían normales para él."
+    },
+    {
+        category: "biologia_rara",
+        title: "El axolotl: Un anfibio que puede regenerar sus miembros",
+        url: "https://www.axolotl.org/",
+        description: "El axolotl es un anfibio que puede regenerar sus miembros, incluyendo sus brazos, piernas y hasta partes de su cerebro. Esta capacidad de regeneración es muy rara en el mundo animal y se encuentra en pocos organismos.",
+        quote: "El axolotl es un ejemplo de cómo la naturaleza puede sorprendernos con sus capacidades y adaptaciones, y nos inspira a seguir investigando y aprendiendo sobre el mundo natural."
+    },
+    {
+        category: "biologia_rara",
+        title: "El pez luna: Un pez que puede inflar su cuerpo",
+        url: "https://www.fishbase.se/summary/2709",
+        description: "El pez luna es un pez que puede inflar su cuerpo para defenderse de depredadores. Esto se logra a través de la ingestión de agua y la expansión de su estómago, lo que hace que su cuerpo se vuelva más grande y esférico.",
+        quote: "El pez luna es un ejemplo de cómo los organismos pueden desarrollar adaptaciones únicas para defenderse de depredadores y sobrevivir en su entorno."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
