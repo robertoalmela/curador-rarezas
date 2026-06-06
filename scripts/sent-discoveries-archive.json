@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-05T12:07:27.478Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-06T10:52:44.251Z",
+  "sentCount": 150,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1123,6 +1123,54 @@
       "category": "biologia_rara",
       "hash": "23674b6034d46bf6",
       "addedToDb": "2026-06-05T12:07:25.074Z",
+      "sent": false
+    },
+    {
+      "title": "Proyecto de Radiación Experimental Declassificado",
+      "url": "https://nsarchive.gwu.edu/briefing-book/intelligence-russia-programs/2022-09-13/moscow-signals-declassified-microwave",
+      "category": "proyecto_experimental",
+      "hash": "14e0765c4b118b96",
+      "addedToDb": "2026-06-06T10:52:44.251Z",
+      "sent": false
+    },
+    {
+      "title": "Glitch Art y Creative Coding con Neal Agarwal",
+      "url": "https://blog.glitch.com/post/neal-agarwal-is-keeping-the-weird-web-alive/",
+      "category": "proyecto_experimental",
+      "hash": "40964bb8214abd86",
+      "addedToDb": "2026-06-06T10:52:44.251Z",
+      "sent": false
+    },
+    {
+      "title": "Investigación sobre el Objeto 'Oumuamua",
+      "url": "https://news.uchicago.edu/story/ten-cool-research-stories-you-might-have-missed-year",
+      "category": "proyecto_experimental",
+      "hash": "13a0075965af21fb",
+      "addedToDb": "2026-06-06T10:52:44.251Z",
+      "sent": false
+    },
+    {
+      "title": "Creative Coding IDE Workshop en el MIT",
+      "url": "https://www.media.mit.edu/posts/creative-coding-ide-workshop/",
+      "category": "proyecto_experimental",
+      "hash": "4808567e044dc50e",
+      "addedToDb": "2026-06-06T10:52:44.251Z",
+      "sent": false
+    },
+    {
+      "title": "Experimentos Bizarros en la Historia de la Ciencia",
+      "url": "https://www.weirduniverse.net/science/top20_bizarre_experiments/",
+      "category": "proyecto_experimental",
+      "hash": "eedfcfddecc4f1e2",
+      "addedToDb": "2026-06-06T10:52:44.251Z",
+      "sent": false
+    },
+    {
+      "title": "Gray Area Creative Code for the Web Intensive",
+      "url": "https://grayarea.org/course/gray-area-creative-code-for-the-web-intensive-2025/",
+      "category": "proyecto_experimental",
+      "hash": "2a1e77a17e1d14e7",
+      "addedToDb": "2026-06-06T10:52:44.251Z",
       "sent": false
     }
   ],

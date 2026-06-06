@@ -10365,6 +10365,49 @@ async function fetchFromHackerNews() {
         url: "https://www.fishbase.se/summary/2709",
         description: "El pez luna es un pez que puede inflar su cuerpo para defenderse de depredadores. Esto se logra a través de la ingestión de agua y la expansión de su estómago, lo que hace que su cuerpo se vuelva más grande y esférico.",
         quote: "El pez luna es un ejemplo de cómo los organismos pueden desarrollar adaptaciones únicas para defenderse de depredadores y sobrevivir en su entorno."
+    },
+    // 2026-06-06 — proyecto_experimental
+    {
+        category: "proyecto_experimental",
+        title: "Proyecto de Radiación Experimental Declassificado",
+        url: "https://nsarchive.gwu.edu/briefing-book/intelligence-russia-programs/2022-09-13/moscow-signals-declassified-microwave",
+        description: "El Proyecto BIZARRE, un programa de radiación experimental de la Unión Soviética, ha sido desclasificado. Esto nos permite ver la investigación detrás de los fenómenos de radiación en Moscú durante la Guerra Fría.",
+        quote: "Estos documentos revelan los experimentos más sorprendentes y peligrosos de la época."
+    },
+    {
+        category: "proyecto_experimental",
+        title: "Glitch Art y Creative Coding con Neal Agarwal",
+        url: "https://blog.glitch.com/post/neal-agarwal-is-keeping-the-weird-web-alive/",
+        description: "Neal Agarwal es conocido por crear proyectos experimentales en la web. Desde aplicaciones extrañas hasta arte generativo, su enfoque en lo innovador nos muestra lo que puede hacerse cuando se piensa fuera de lo común.",
+        quote: "La verdadera creatividad surge cuando se rompen las reglas y se explora lo desconocido."
+    },
+    {
+        category: "proyecto_experimental",
+        title: "Investigación sobre el Objeto 'Oumuamua",
+        url: "https://news.uchicago.edu/story/ten-cool-research-stories-you-might-have-missed-year",
+        description: "El objeto 'Oumuamua, descubierto en 2017, ha intrigado a los científicos. Su naturaleza y origen desconocidos lo convierten en un enigma que sigue siendo estudiado y debateado en la comunidad astronómica.",
+        quote: "La búsqueda de respuestas sobre 'Oumuamua nos lleva a preguntarnos sobre la existencia de vida más allá de la Tierra."
+    },
+    {
+        category: "proyecto_experimental",
+        title: "Creative Coding IDE Workshop en el MIT",
+        url: "https://www.media.mit.edu/posts/creative-coding-ide-workshop/",
+        description: "Este taller explora las posibilidades del código creativo, invirtiendo los roles tradicionales del programador y el artista. La idea es crear un entorno donde la imaginación y la tecnología se fusionen.",
+        quote: "El futuro del código está en la imaginación de aquellos que lo crean."
+    },
+    {
+        category: "proyecto_experimental",
+        title: "Experimentos Bizarros en la Historia de la Ciencia",
+        url: "https://www.weirduniverse.net/science/top20_bizarre_experiments/",
+        description: "Desde darles LSD a elefantes hasta otros experimentos igualmente surrealistas, este contenido revela los aspectos más inusuales de la investigación científica a lo largo de la historia.",
+        quote: "La curiosidad y la valentía a veces llevan a resultados asombrosos, aunque inesperados."
+    },
+    {
+        category: "proyecto_experimental",
+        title: "Gray Area Creative Code for the Web Intensive",
+        url: "https://grayarea.org/course/gray-area-creative-code-for-the-web-intensive-2025/",
+        description: "Este curso intensivo de Gray Area fomenta la creatividad y el pensamiento fuera de lo convencional en el contexto de la web. Los participantes exploran nuevas formas de expresión artística y digital.",
+        quote: "La verdadera innovación surge cuando combinamos arte y tecnología de manera inesperada."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
