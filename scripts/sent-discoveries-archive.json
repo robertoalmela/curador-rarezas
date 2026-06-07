@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-06T10:52:46.212Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-07T11:08:15.339Z",
+  "sentCount": 153,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1171,6 +1171,30 @@
       "category": "proyecto_experimental",
       "hash": "2a1e77a17e1d14e7",
       "addedToDb": "2026-06-06T10:52:44.251Z",
+      "sent": false
+    },
+    {
+      "title": "Cassette Culture y la Democratización de la Música",
+      "url": "https://danjoseph.org/cassette/",
+      "category": "musica_experimental",
+      "hash": "b22320988c29d366",
+      "addedToDb": "2026-06-07T11:08:15.339Z",
+      "sent": false
+    },
+    {
+      "title": "El Mundo de los Instrumentos Electrónicos Experimentales",
+      "url": "https://theviolinchannel.com/weird-instruments-in-classical-music/",
+      "category": "musica_experimental",
+      "hash": "51f19cbfea58146a",
+      "addedToDb": "2026-06-07T11:08:15.339Z",
+      "sent": false
+    },
+    {
+      "title": "La Fusión de la Música y la Tecnología",
+      "url": "https://www.carvedculture.com/blogs/articles/10-weird-instruments-you-wont-believe-exist?srsltid=AfmBOooGdFHUmwnd22inAf3YbIWt7EaXF_Lwv8pCl_Xo5ilZ9Y8i8aC5",
+      "category": "musica_experimental",
+      "hash": "3f6b1653f1f56741",
+      "addedToDb": "2026-06-07T11:08:15.339Z",
       "sent": false
     }
   ],

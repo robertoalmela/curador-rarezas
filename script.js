@@ -10408,6 +10408,28 @@ async function fetchFromHackerNews() {
         url: "https://grayarea.org/course/gray-area-creative-code-for-the-web-intensive-2025/",
         description: "Este curso intensivo de Gray Area fomenta la creatividad y el pensamiento fuera de lo convencional en el contexto de la web. Los participantes exploran nuevas formas de expresión artística y digital.",
         quote: "La verdadera innovación surge cuando combinamos arte y tecnología de manera inesperada."
+    },
+    // 2026-06-07 — musica_experimental
+    {
+        category: "musica_experimental",
+        title: "Cassette Culture y la Democratización de la Música",
+        url: "https://danjoseph.org/cassette/",
+        description: "Un viaje a través de la historia de la Cassette Culture, un movimiento que permitió a los artistas independientes producir y distribuir su música de manera más accesible, desafiando a la industria musical convencional.",
+        quote: "La cassette, un formato considerado obsoleto, fue el vehículo para una revolución en la creación y distribución de música experimental."
+    },
+    {
+        category: "musica_experimental",
+        title: "El Mundo de los Instrumentos Electrónicos Experimentales",
+        url: "https://theviolinchannel.com/weird-instruments-in-classical-music/",
+        description: "Descubre instrumentos electrónicos raros y experimentales que han sido utilizados en la música clásica y contemporánea, desafiando las fronteras del sonido y la percepción musical.",
+        quote: "La música experimental no solo se trata de sonidos nuevos, sino de cómo nos hacen sentir y pensar sobre el mundo que nos rodea."
+    },
+    {
+        category: "musica_experimental",
+        title: "La Fusión de la Música y la Tecnología",
+        url: "https://www.carvedculture.com/blogs/articles/10-weird-instruments-you-wont-believe-exist?srsltid=AfmBOooGdFHUmwnd22inAf3YbIWt7EaXF_Lwv8pCl_Xo5ilZ9Y8i8aC5",
+        description: "Explora instrumentos musicales innovadores que combinan la música con la tecnología, creando experiencias audibles únicas y fascinantes.",
+        quote: "La música del futuro no solo se trata de notas y acordes, sino de la fusión de la creatividad humana con la innovación tecnológica."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
