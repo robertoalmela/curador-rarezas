@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-10T12:19:16.298Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-11T12:45:41.640Z",
+  "sentCount": 157,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1195,6 +1195,38 @@
       "category": "musica_experimental",
       "hash": "3f6b1653f1f56741",
       "addedToDb": "2026-06-07T11:08:15.339Z",
+      "sent": false
+    },
+    {
+      "title": "El misterioso 'Bloop' del Océano Pacífico",
+      "url": "http://www.noiseaddicts.com/2008/08/strange-sounds-earth-bloop-hum-mistpouffers/",
+      "category": "sonido_invisible",
+      "hash": "d204ff92990446b3",
+      "addedToDb": "2026-06-11T12:45:41.640Z",
+      "sent": false
+    },
+    {
+      "title": "La investigación sobre infrasonido de researchonline.ljmu.ac.uk",
+      "url": "https://researchonline.ljmu.ac.uk/id/eprint/6092/1/543845.pdf",
+      "category": "sonido_invisible",
+      "hash": "f79dd6ef46516138",
+      "addedToDb": "2026-06-11T12:45:41.640Z",
+      "sent": false
+    },
+    {
+      "title": "El proyecto 'Acoustic Weapons' de Article36",
+      "url": "https://article36.org/wp-content/uploads/2020/12/acoustic-weapons.pdf",
+      "category": "sonido_invisible",
+      "hash": "85f1fc69c7f2b888",
+      "addedToDb": "2026-06-11T12:45:41.640Z",
+      "sent": false
+    },
+    {
+      "title": "La emisión de infrasonido por parte de las ballenas",
+      "url": "https://news.cnrs.fr/articles/infrasound-sound-waves-that-nothing-can-stop",
+      "category": "sonido_invisible",
+      "hash": "927571919cc7449d",
+      "addedToDb": "2026-06-11T12:45:41.640Z",
       "sent": false
     }
   ],

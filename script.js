@@ -10430,6 +10430,35 @@ async function fetchFromHackerNews() {
         url: "https://www.carvedculture.com/blogs/articles/10-weird-instruments-you-wont-believe-exist?srsltid=AfmBOooGdFHUmwnd22inAf3YbIWt7EaXF_Lwv8pCl_Xo5ilZ9Y8i8aC5",
         description: "Explora instrumentos musicales innovadores que combinan la música con la tecnología, creando experiencias audibles únicas y fascinantes.",
         quote: "La música del futuro no solo se trata de notas y acordes, sino de la fusión de la creatividad humana con la innovación tecnológica."
+    },
+    // 2026-06-11 — sonido_invisible
+    {
+        category: "sonido_invisible",
+        title: "El misterioso 'Bloop' del Océano Pacífico",
+        url: "http://www.noiseaddicts.com/2008/08/strange-sounds-earth-bloop-hum-mistpouffers/",
+        description: "Un sonido extremadamente-low frequency, llamado 'Bloop', fue registrando en 1997 por el National Oceanic and Atmospheric Administration (NOAA) en el Océano Pacífico. El sonido, que se cree que podría ser causado por un iceberg desprendiéndose del casquete polar antártico, es tan poderoso que puede ser escuchado por miles de kilómetros.",
+        quote: "El sonido 'Bloop' es tan fuerte que podría haber sido causado por un objeto del tamaño de una montaña entrando en el agua."
+    },
+    {
+        category: "sonido_invisible",
+        title: "La investigación sobre infrasonido de researchonline.ljmu.ac.uk",
+        url: "https://researchonline.ljmu.ac.uk/id/eprint/6092/1/543845.pdf",
+        description: "Un estudio sobre el efecto del infrasonido en la salud y la seguridad. El informe analiza la exposición a infrasonido en diversos entornos y su impacto en la salud humana.",
+        quote: "El infrasonido puede causar fatiga, dolores de cabeza y problemas de concentración."
+    },
+    {
+        category: "sonido_invisible",
+        title: "El proyecto 'Acoustic Weapons' de Article36",
+        url: "https://article36.org/wp-content/uploads/2020/12/acoustic-weapons.pdf",
+        description: "Un informe sobre el uso de armas acústicas en conflictos y su impacto en la salud y la seguridad. El documento analiza la tecnología detrás de las armas acústicas y sus posibles consecuencias.",
+        quote: "Las armas acústicas pueden causar daño permanente a la audición y otros efectos negativos en la salud."
+    },
+    {
+        category: "sonido_invisible",
+        title: "La emisión de infrasonido por parte de las ballenas",
+        url: "https://news.cnrs.fr/articles/infrasound-sound-waves-that-nothing-can-stop",
+        description: "Un artículo sobre la emisión de infrasonido por parte de las ballenas y su posible uso para la comunicación y la navegación.",
+        quote: "Las ballenas pueden emitir infrasonido a distancias de hasta 800 kilómetros."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
