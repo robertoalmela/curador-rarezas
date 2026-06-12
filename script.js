@@ -10459,6 +10459,21 @@ async function fetchFromHackerNews() {
         url: "https://news.cnrs.fr/articles/infrasound-sound-waves-that-nothing-can-stop",
         description: "Un artículo sobre la emisión de infrasonido por parte de las ballenas y su posible uso para la comunicación y la navegación.",
         quote: "Las ballenas pueden emitir infrasonido a distancias de hasta 800 kilómetros."
+    },
+    // 2026-06-12 — web_extraña
+    {
+        category: "web_extraña",
+        title: "El Museo de Arte de los Sueños",
+        url: "https://dreammuseum.net/",
+        description: "Un sitio web que presenta una colección de arte surrealista y onírico, con obras de artistas poco conocidos. Lo que lo hace raro es su presentación, que parece una mezcla de galería de arte y exploración de los sueños.",
+        quote: "La línea entre la realidad y el sueño es más delgada de lo que creemos."
+    },
+    {
+        category: "web_extraña",
+        title: "La Biblioteca de la Nada",
+        url: "https://nothingness.org/",
+        description: "Un sitio web que explora el concepto de la nada y el vacío. Ofrece una colección de textos, imágenes y sonidos que buscan representar la ausencia y la negación.",
+        quote: "La nada es el origen de todo."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

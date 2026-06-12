@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-11T12:46:03.271Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-12T12:18:17.423Z",
+  "sentCount": 159,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1227,6 +1227,22 @@
       "category": "sonido_invisible",
       "hash": "927571919cc7449d",
       "addedToDb": "2026-06-11T12:45:41.640Z",
+      "sent": false
+    },
+    {
+      "title": "El Museo de Arte de los Sueños",
+      "url": "https://dreammuseum.net/",
+      "category": "web_extraña",
+      "hash": "f23b226cd14dbcde",
+      "addedToDb": "2026-06-12T12:18:17.423Z",
+      "sent": false
+    },
+    {
+      "title": "La Biblioteca de la Nada",
+      "url": "https://nothingness.org/",
+      "category": "web_extraña",
+      "hash": "95b96ce5048bd0b5",
+      "addedToDb": "2026-06-12T12:18:17.423Z",
       "sent": false
     }
   ],
