@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-12T12:18:27.026Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-13T11:13:25.024Z",
+  "sentCount": 162,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1243,6 +1243,30 @@
       "category": "web_extraña",
       "hash": "95b96ce5048bd0b5",
       "addedToDb": "2026-06-12T12:18:17.423Z",
+      "sent": false
+    },
+    {
+      "title": "La bitácora de un viajero digital de la década de 1990",
+      "url": "https://web.archive.org/web/19970616024025/http://www.well.com:80/user/jer/",
+      "category": "blog_olvidado",
+      "hash": "ed636500a3757cb7",
+      "addedToDb": "2026-06-13T11:13:25.024Z",
+      "sent": false
+    },
+    {
+      "title": "El sitio web personal de un artista de new media de la década de 1990",
+      "url": "https://web.archive.org/web/19980109035541/http://www.yproductions.com/",
+      "category": "blog_olvidado",
+      "hash": "07d4a33ce9c2cbb4",
+      "addedToDb": "2026-06-13T11:13:25.024Z",
+      "sent": false
+    },
+    {
+      "title": "La historia de la creación de un juego de rol en línea de la década de 1990",
+      "url": "https://web.archive.org/web/19981206132547/http://www.legendmud.org/",
+      "category": "blog_olvidado",
+      "hash": "f3899b452a9ea175",
+      "addedToDb": "2026-06-13T11:13:25.024Z",
       "sent": false
     }
   ],

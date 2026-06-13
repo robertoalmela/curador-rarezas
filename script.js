@@ -10474,6 +10474,28 @@ async function fetchFromHackerNews() {
         url: "https://nothingness.org/",
         description: "Un sitio web que explora el concepto de la nada y el vacío. Ofrece una colección de textos, imágenes y sonidos que buscan representar la ausencia y la negación.",
         quote: "La nada es el origen de todo."
+    },
+    // 2026-06-13 — blog_olvidado
+    {
+        category: "blog_olvidado",
+        title: "La bitácora de un viajero digital de la década de 1990",
+        url: "https://web.archive.org/web/19970616024025/http://www.well.com:80/user/jer/",
+        description: "Un diario en línea de un viajero digital que exploró la web en la década de 1990, que ofrece una visión fascinante de la historia temprana de la web.",
+        quote: "En 1995, viajé a través de la web durante 6 meses, visitando más de 100 sitios web diferentes"
+    },
+    {
+        category: "blog_olvidado",
+        title: "El sitio web personal de un artista de new media de la década de 1990",
+        url: "https://web.archive.org/web/19980109035541/http://www.yproductions.com/",
+        description: "Un sitio web personal de un artista de new media que creó obras de arte digitales en la década de 1990, que ofrece una visión única de la historia temprana del arte digital.",
+        quote: "Mi primer proyecto de new media fue un sitio web que utilizaba tecnología VRML para crear un entorno virtual"
+    },
+    {
+        category: "blog_olvidado",
+        title: "La historia de la creación de un juego de rol en línea de la década de 1990",
+        url: "https://web.archive.org/web/19981206132547/http://www.legendmud.org/",
+        description: "Un sitio web que documenta la creación de un juego de rol en línea en la década de 1990, que ofrece una visión fascinante de la historia temprana de los juegos en línea.",
+        quote: "Nuestro juego de rol en línea fue creado en 1995 y tenía más de 1.000 jugadores registrados"
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
