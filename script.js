@@ -10496,6 +10496,14 @@ async function fetchFromHackerNews() {
         url: "https://web.archive.org/web/19981206132547/http://www.legendmud.org/",
         description: "Un sitio web que documenta la creación de un juego de rol en línea en la década de 1990, que ofrece una visión fascinante de la historia temprana de los juegos en línea.",
         quote: "Nuestro juego de rol en línea fue creado en 1995 y tenía más de 1.000 jugadores registrados"
+    },
+    // 2026-06-16 — idea_provocadora
+    {
+        category: "idea_provocadora",
+        title: "El Problema de la Filosofía de la Mente",
+        url: "https://plato.stanford.edu/entries/mind-identity/",
+        description: "El problema de la mente y el cuerpo pregunta cómo los procesos mentales, como los pensamientos y los sentimientos, son relacionados con los procesos físicos del cerebro. Es un desafío filosófico y científico que busca entender la relación entre la mente y el cerebro.",
+        quote: "¿Cómo podemos estar seguros de que nuestra experiencia subjetiva de la realidad no es simplemente un producto de nuestro cerebro?"
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

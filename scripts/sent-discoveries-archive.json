@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-15T15:13:52.980Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-16T13:27:08.443Z",
+  "sentCount": 163,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1267,6 +1267,14 @@
       "category": "blog_olvidado",
       "hash": "f3899b452a9ea175",
       "addedToDb": "2026-06-13T11:13:25.024Z",
+      "sent": false
+    },
+    {
+      "title": "El Problema de la Filosofía de la Mente",
+      "url": "https://plato.stanford.edu/entries/mind-identity/",
+      "category": "idea_provocadora",
+      "hash": "29090220a9b07b3b",
+      "addedToDb": "2026-06-16T13:27:08.443Z",
       "sent": false
     }
   ],
