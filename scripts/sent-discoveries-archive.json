@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-17T12:50:50.955Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-18T12:25:05.308Z",
+  "sentCount": 167,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1275,6 +1275,38 @@
       "category": "idea_provocadora",
       "hash": "29090220a9b07b3b",
       "addedToDb": "2026-06-16T13:27:08.443Z",
+      "sent": false
+    },
+    {
+      "title": "Arithmomania: La compulsión por contar",
+      "url": "https://www.treatmyocd.com/blog/counting-numbers-ocd",
+      "category": "obsceno_digital",
+      "hash": "414e6e0a586021ea",
+      "addedToDb": "2026-06-18T12:25:05.308Z",
+      "sent": false
+    },
+    {
+      "title": "Obsessive Measurement Disorder: El trastorno de la medición obsesiva",
+      "url": "https://frompoverty.oxfam.org.uk/are-we-suffering-from-obsessive-measurement-disorder/",
+      "category": "obsceno_digital",
+      "hash": "8a0f4d1a2e0942ea",
+      "addedToDb": "2026-06-18T12:25:05.308Z",
+      "sent": false
+    },
+    {
+      "title": "Counting OCD Treatment: Tratamiento para la compulsión por contar",
+      "url": "https://theocdtreatmentcenter.com/counting-ocd-treatment/",
+      "category": "obsceno_digital",
+      "hash": "b7fd01f2b48751a0",
+      "addedToDb": "2026-06-18T12:25:05.308Z",
+      "sent": false
+    },
+    {
+      "title": "Compulsive Counting: La cuenta compulsiva",
+      "url": "https://www.medicalnewstoday.com/articles/compulsive-counting",
+      "category": "obsceno_digital",
+      "hash": "0b4dc5c1852384ea",
+      "addedToDb": "2026-06-18T12:25:05.308Z",
       "sent": false
     }
   ],

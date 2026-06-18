@@ -10504,6 +10504,35 @@ async function fetchFromHackerNews() {
         url: "https://plato.stanford.edu/entries/mind-identity/",
         description: "El problema de la mente y el cuerpo pregunta cómo los procesos mentales, como los pensamientos y los sentimientos, son relacionados con los procesos físicos del cerebro. Es un desafío filosófico y científico que busca entender la relación entre la mente y el cerebro.",
         quote: "¿Cómo podemos estar seguros de que nuestra experiencia subjetiva de la realidad no es simplemente un producto de nuestro cerebro?"
+    },
+    // 2026-06-18 — obsceno_digital
+    {
+        category: "obsceno_digital",
+        title: "Arithmomania: La compulsión por contar",
+        url: "https://www.treatmyocd.com/blog/counting-numbers-ocd",
+        description: "La arithmomania es un tipo de compulsión que implica contar de manera obsesiva, ya sea objetos o acciones, como un mecanismo para tratar de neutralizar pensamientos intrusivos. Afecta a personas con trastorno obsesivo-compulsivo (TOC).",
+        quote: "Algunas personas con TOC pueden contar hasta miles de veces al día como una forma de aliviar su ansiedad."
+    },
+    {
+        category: "obsceno_digital",
+        title: "Obsessive Measurement Disorder: El trastorno de la medición obsesiva",
+        url: "https://frompoverty.oxfam.org.uk/are-we-suffering-from-obsessive-measurement-disorder/",
+        description: "El trastorno de la medición obsesiva se refiere a la tendencia a enfocarse excesivamente en la medición y el análisis de datos, a veces a expensas de la acción práctica o el bienestar general. Puede ser un obstáculo para organizaciones y personas que buscan el cambio social.",
+        quote: "La medición obsesiva puede llevar a una parálisis por análisis, donde la acción se retrasa debido a la búsqueda de datos perfectos."
+    },
+    {
+        category: "obsceno_digital",
+        title: "Counting OCD Treatment: Tratamiento para la compulsión por contar",
+        url: "https://theocdtreatmentcenter.com/counting-ocd-treatment/",
+        description: "El tratamiento para la compulsión por contar, una forma de trastorno obsesivo-compulsivo, puede involucrar terapias como la exposición y respuesta preventiva, além de técnicas de manejo del estrés y la ansiedad.",
+        quote: "La terapia cognitivo-conductual es una de las formas más efectivas de tratar la compulsión por contar en personas con TOC."
+    },
+    {
+        category: "obsceno_digital",
+        title: "Compulsive Counting: La cuenta compulsiva",
+        url: "https://www.medicalnewstoday.com/articles/compulsive-counting",
+        description: "La cuenta compulsiva es un síntoma común del trastorno obsesivo-compulsivo que implica el impulso irresistible de contar objetos, palabras, pasos o cualquier otra cosa, como una forma de aliviar la ansiedad o el estrés.",
+        quote: "La cuenta compulsiva puede interferir significativamente con la vida diaria de una persona, afectando su productividad y bienestar emocional."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
