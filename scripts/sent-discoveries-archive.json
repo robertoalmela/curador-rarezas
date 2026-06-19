@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-18T12:25:09.866Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-19T12:44:38.651Z",
+  "sentCount": 168,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1307,6 +1307,14 @@
       "category": "obsceno_digital",
       "hash": "0b4dc5c1852384ea",
       "addedToDb": "2026-06-18T12:25:05.308Z",
+      "sent": false
+    },
+    {
+      "title": "Databending como forma de arte",
+      "url": "http://blog.animalswithinanimals.com/2008/08/databending-and-glitch-art-primer-part.html",
+      "category": "estetica_rara",
+      "hash": "3a33b46dd758a618",
+      "addedToDb": "2026-06-19T12:44:38.651Z",
       "sent": false
     }
   ],

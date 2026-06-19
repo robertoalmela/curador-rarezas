@@ -10533,6 +10533,14 @@ async function fetchFromHackerNews() {
         url: "https://www.medicalnewstoday.com/articles/compulsive-counting",
         description: "La cuenta compulsiva es un síntoma común del trastorno obsesivo-compulsivo que implica el impulso irresistible de contar objetos, palabras, pasos o cualquier otra cosa, como una forma de aliviar la ansiedad o el estrés.",
         quote: "La cuenta compulsiva puede interferir significativamente con la vida diaria de una persona, afectando su productividad y bienestar emocional."
+    },
+    // 2026-06-19 — estetica_rara
+    {
+        category: "estetica_rara",
+        title: "Databending como forma de arte",
+        url: "http://blog.animalswithinanimals.com/2008/08/databending-and-glitch-art-primer-part.html",
+        description: "Un blog que explora el mundo del databending y el glitch art, ofreciendo tutoriales y ejemplos de cómo crear arte a partir de errores digitales.",
+        quote: "El databending es como una forma de alquimia digital, donde se convierte el basura en oro."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
