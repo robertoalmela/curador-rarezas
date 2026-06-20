@@ -10541,6 +10541,49 @@ async function fetchFromHackerNews() {
         url: "http://blog.animalswithinanimals.com/2008/08/databending-and-glitch-art-primer-part.html",
         description: "Un blog que explora el mundo del databending y el glitch art, ofreciendo tutoriales y ejemplos de cómo crear arte a partir de errores digitales.",
         quote: "El databending es como una forma de alquimia digital, donde se convierte el basura en oro."
+    },
+    // 2026-06-20 — herramienta_oculta
+    {
+        category: "herramienta_oculta",
+        title: "Calculadora de Área Irregular",
+        url: "https://www.sketchandcalc.com/",
+        description: "Una herramienta en línea para calcular el área o perímetro de formas irregulares. Permite subir imágenes o usar coordenadas para obtener resultados precisos. Es perfecta para aquellos que necesitan medir espacios complejos.",
+        quote: "¿Sabías que puedes calcular el área de una piscina irregular en menos de un minuto?"
+    },
+    {
+        category: "herramienta_oculta",
+        title: "Calculator Soup",
+        url: "https://www.calculatorsoup.com/",
+        description: "Un sitio web que ofrece una variedad de calculadoras para realizar operaciones aritméticas simples y complejas. Desde cálculos básicos hasta funciones trigonométricas, es un recurso valioso para estudiantes y profesionales.",
+        quote: "¿Necesitas calcular la trayectoria de un proyectil? Calculator Soup tiene la herramienta perfecta para ti."
+    },
+    {
+        category: "herramienta_oculta",
+        title: "Think Calculator",
+        url: "https://webiano.digital/think-calculator-is-the-internet-drawer-for-small-problems",
+        description: "Un conjunto de calculadoras en línea especializadas en resolver problemas cotidianos, desde cálculos de fechas hasta cálculos de áreas. Es una excelente herramienta para resolver problemas pequeños de manera eficiente.",
+        quote: "¿Cuántos días faltan para tu cumpleaños? Think Calculator tiene la respuesta."
+    },
+    {
+        category: "herramienta_oculta",
+        title: "The Weirdest Calculators On The Internet",
+        url: "https://www.popsci.com/article/technology/weirdest-calculators-internet/",
+        description: "Un articulo que explora algunos de los calculadores más extraños disponibles en línea, desde cálculos de la probabilidad de supervivencia en un apocalipsis zombie hasta la cantidad de pasos dados en una vida. Es una mirada fascinante a la diversidad de las herramientas en línea.",
+        quote: "¿Sabías que hay un calculador que te dice cuántos días te quedan para convertirte en un zombi?"
+    },
+    {
+        category: "herramienta_oculta",
+        title: "15 Free Hidden Gem Design and Development Resources",
+        url: "https://theadminbar.com/15-free-hidden-gem-design-and-development-tools/",
+        description: "Un artículo que destaca 15 herramientas y recursos ocultos para diseñadores y desarrolladores web. Desde editores de código hasta herramientas de prototipado, es una lista invaluable para aquellos que buscan mejorar su flujo de trabajo.",
+        quote: "¿Necesitas un editor de código que se adapte a tus necesidades específicas? Esta lista tiene la solución perfecta para ti."
+    },
+    {
+        category: "herramienta_oculta",
+        title: "5 Hidden-Gem OSINT Tools Every Penetration Tester Needs",
+        url: "https://pentestmag.com/5-hidden-gem-osint-tools-every-penetration-tester-needs-in-2024/",
+        description: "Un artículo que presenta herramientas de inteligencia de código abierto (OSINT) menos conocidas pero extremadamente útiles para testers de penetración. Es un recurso valioso para aquellos que buscan mejorar sus habilidades de investigación y análisis.",
+        quote: "¿Sabías que hay herramientas OSINT que pueden ayudarte a descubrir vulnerabilidades en sitios web sin ser detectado?"
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

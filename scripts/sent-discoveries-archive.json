@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-19T12:44:41.703Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-20T11:17:38.490Z",
+  "sentCount": 174,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1315,6 +1315,54 @@
       "category": "estetica_rara",
       "hash": "3a33b46dd758a618",
       "addedToDb": "2026-06-19T12:44:38.651Z",
+      "sent": false
+    },
+    {
+      "title": "Calculadora de Área Irregular",
+      "url": "https://www.sketchandcalc.com/",
+      "category": "herramienta_oculta",
+      "hash": "cad955eec505660d",
+      "addedToDb": "2026-06-20T11:17:38.490Z",
+      "sent": false
+    },
+    {
+      "title": "Calculator Soup",
+      "url": "https://www.calculatorsoup.com/",
+      "category": "herramienta_oculta",
+      "hash": "11fff4951771b6b4",
+      "addedToDb": "2026-06-20T11:17:38.490Z",
+      "sent": false
+    },
+    {
+      "title": "Think Calculator",
+      "url": "https://webiano.digital/think-calculator-is-the-internet-drawer-for-small-problems",
+      "category": "herramienta_oculta",
+      "hash": "337a9687d8295b5f",
+      "addedToDb": "2026-06-20T11:17:38.490Z",
+      "sent": false
+    },
+    {
+      "title": "The Weirdest Calculators On The Internet",
+      "url": "https://www.popsci.com/article/technology/weirdest-calculators-internet/",
+      "category": "herramienta_oculta",
+      "hash": "cdf70f603259fbad",
+      "addedToDb": "2026-06-20T11:17:38.490Z",
+      "sent": false
+    },
+    {
+      "title": "15 Free Hidden Gem Design and Development Resources",
+      "url": "https://theadminbar.com/15-free-hidden-gem-design-and-development-tools/",
+      "category": "herramienta_oculta",
+      "hash": "443e7aeaa38fcb00",
+      "addedToDb": "2026-06-20T11:17:38.490Z",
+      "sent": false
+    },
+    {
+      "title": "5 Hidden-Gem OSINT Tools Every Penetration Tester Needs",
+      "url": "https://pentestmag.com/5-hidden-gem-osint-tools-every-penetration-tester-needs-in-2024/",
+      "category": "herramienta_oculta",
+      "hash": "936b024924105171",
+      "addedToDb": "2026-06-20T11:17:38.490Z",
       "sent": false
     }
   ],
