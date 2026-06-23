@@ -10584,6 +10584,14 @@ async function fetchFromHackerNews() {
         url: "https://pentestmag.com/5-hidden-gem-osint-tools-every-penetration-tester-needs-in-2024/",
         description: "Un artículo que presenta herramientas de inteligencia de código abierto (OSINT) menos conocidas pero extremadamente útiles para testers de penetración. Es un recurso valioso para aquellos que buscan mejorar sus habilidades de investigación y análisis.",
         quote: "¿Sabías que hay herramientas OSINT que pueden ayudarte a descubrir vulnerabilidades en sitios web sin ser detectado?"
+    },
+    // 2026-06-23 — experimento_social
+    {
+        category: "experimento_social",
+        title: "The Happiness Project de la Universidad de Harvard",
+        url: "https://www.philosophyofhappiness.com/",
+        description: "Un experimento social que busca comprender qué hace que las personas sean felices. Los participantes realizan diarios de gratitud y participan en actividades diseñadas para aumentar la felicidad. El proyecto busca identificar patrones y tendencias en la búsqueda de la felicidad.",
+        quote: "'La felicidad no se trata solo de lo que tenemos, sino de cómo pensamos sobre lo que tenemos' - Dra. Laurie Santos, directora del proyecto."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

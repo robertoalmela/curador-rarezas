@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-22T14:38:30.041Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-23T12:06:12.794Z",
+  "sentCount": 175,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1363,6 +1363,14 @@
       "category": "herramienta_oculta",
       "hash": "936b024924105171",
       "addedToDb": "2026-06-20T11:17:38.490Z",
+      "sent": false
+    },
+    {
+      "title": "The Happiness Project de la Universidad de Harvard",
+      "url": "https://www.philosophyofhappiness.com/",
+      "category": "experimento_social",
+      "hash": "89df1b1f68938d3e",
+      "addedToDb": "2026-06-23T12:06:12.793Z",
       "sent": false
     }
   ],
