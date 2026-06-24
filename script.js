@@ -10592,6 +10592,35 @@ async function fetchFromHackerNews() {
         url: "https://www.philosophyofhappiness.com/",
         description: "Un experimento social que busca comprender qué hace que las personas sean felices. Los participantes realizan diarios de gratitud y participan en actividades diseñadas para aumentar la felicidad. El proyecto busca identificar patrones y tendencias en la búsqueda de la felicidad.",
         quote: "'La felicidad no se trata solo de lo que tenemos, sino de cómo pensamos sobre lo que tenemos' - Dra. Laurie Santos, directora del proyecto."
+    },
+    // 2026-06-24 — lugar_desaparecido
+    {
+        category: "lugar_desaparecido",
+        title: "Centralia, la Ciudad Fantasma de Pensilvania",
+        url: "https://www.wgal.com/article/pennsylvania-abandoned-town-centralia/37726449",
+        description: "Centralia, una ciudad minera que fue evacuada debido a un incendio subterráneo que no se ha apagado desde 1962, se ha convertido en una ciudad fantasma. La ciudad, que una vez fue hogar de miles de personas, ahora es un paisaje desolado y abandonado.",
+        quote: "El incendio subterráneo de Centralia es un recordatorio de la fragilidad de la vida humana frente a la naturaleza."
+    },
+    {
+        category: "lugar_desaparecido",
+        title: "La Desaparición de Hy-Brasil, la Isla Mítica del Atlántico",
+        url: "https://www.labrujulaverde.com/en/2019/03/the-huge-island-mentioned-by-herodotus-that-disappeared-from-maps-in-the-15th-century/",
+        description: "Hy-Brasil, una isla mítica mencionada por el historiador Heródoto, se cree que se encontraba en el Atlántico. Aunque su existencia es incierta, la isla ha sido objeto de fascinación y especulación durante siglos.",
+        quote: "La búsqueda de Hy-Brasil es un recordatorio de la importancia de la exploración y la búsqueda de lo desconocido."
+    },
+    {
+        category: "lugar_desaparecido",
+        title: "La Isla de Sandy, un Error Cartográfico del Siglo XIX",
+        url: "https://www.edubloxtutor.com/disappearing-islands/",
+        description: "La Isla de Sandy, un error cartográfico del siglo XIX, se cree que se encontraba en el Pacífico. Aunque su existencia es incierta, la isla ha sido objeto de fascinación y especulación durante siglos.",
+        quote: "La Isla de Sandy es un recordatorio de la importancia de la precisión y la exactitud en la cartografía."
+    },
+    {
+        category: "lugar_desaparecido",
+        title: "La Ciudad Perdida de Ciudad Perdida, un Misterio en la Selva Colombiana",
+        url: "https://www.atlasobscura.com/places/ciudad-perdida",
+        description: "Ciudad Perdida, una ciudad precolombina que se cree que se encontraba en la selva colombiana, ha sido objeto de fascinación y especulación durante siglos. Aunque su existencia es incierta, la ciudad ha sido descubierta y explorada en los últimos años.",
+        quote: "La Ciudad Perdida es un recordatorio de la importancia de la preservación y la protección del patrimonio cultural."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

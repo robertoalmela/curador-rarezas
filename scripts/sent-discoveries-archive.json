@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-23T12:06:22.903Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-24T11:43:52.280Z",
+  "sentCount": 179,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1371,6 +1371,38 @@
       "category": "experimento_social",
       "hash": "89df1b1f68938d3e",
       "addedToDb": "2026-06-23T12:06:12.793Z",
+      "sent": false
+    },
+    {
+      "title": "Centralia, la Ciudad Fantasma de Pensilvania",
+      "url": "https://www.wgal.com/article/pennsylvania-abandoned-town-centralia/37726449",
+      "category": "lugar_desaparecido",
+      "hash": "6480017e043d4cd2",
+      "addedToDb": "2026-06-24T11:43:52.280Z",
+      "sent": false
+    },
+    {
+      "title": "La Desaparición de Hy-Brasil, la Isla Mítica del Atlántico",
+      "url": "https://www.labrujulaverde.com/en/2019/03/the-huge-island-mentioned-by-herodotus-that-disappeared-from-maps-in-the-15th-century/",
+      "category": "lugar_desaparecido",
+      "hash": "02ca70713094fa75",
+      "addedToDb": "2026-06-24T11:43:52.280Z",
+      "sent": false
+    },
+    {
+      "title": "La Isla de Sandy, un Error Cartográfico del Siglo XIX",
+      "url": "https://www.edubloxtutor.com/disappearing-islands/",
+      "category": "lugar_desaparecido",
+      "hash": "5057939e68c4425f",
+      "addedToDb": "2026-06-24T11:43:52.280Z",
+      "sent": false
+    },
+    {
+      "title": "La Ciudad Perdida de Ciudad Perdida, un Misterio en la Selva Colombiana",
+      "url": "https://www.atlasobscura.com/places/ciudad-perdida",
+      "category": "lugar_desaparecido",
+      "hash": "4198029fc25216d8",
+      "addedToDb": "2026-06-24T11:43:52.280Z",
       "sent": false
     }
   ],
