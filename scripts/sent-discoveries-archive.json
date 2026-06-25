@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-24T11:43:54.726Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-25T11:39:34.330Z",
+  "sentCount": 185,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1403,6 +1403,54 @@
       "category": "lugar_desaparecido",
       "hash": "4198029fc25216d8",
       "addedToDb": "2026-06-24T11:43:52.280Z",
+      "sent": false
+    },
+    {
+      "title": "Hypagogia: Un juego de pesadilla surrealista",
+      "url": "https://itch.io/t/4178037/hypagogia",
+      "category": "juego_absurdo",
+      "hash": "3301625534dcfb5a",
+      "addedToDb": "2026-06-25T11:39:34.329Z",
+      "sent": false
+    },
+    {
+      "title": "The Baby In Yellow: Un juego de terror psicológico",
+      "url": "https://itch.io/games/tag-horror/the-baby-in-yellow",
+      "category": "juego_absurdo",
+      "hash": "f777b3762c43ac49",
+      "addedToDb": "2026-06-25T11:39:34.329Z",
+      "sent": false
+    },
+    {
+      "title": "JOB HUNTING 9000 DELUHX: Un juego de simulación surrealista",
+      "url": "https://itch.io/games/tag-weird/job-hunting-9000-deluhx",
+      "category": "juego_absurdo",
+      "hash": "04da3df5bcda666a",
+      "addedToDb": "2026-06-25T11:39:34.329Z",
+      "sent": false
+    },
+    {
+      "title": "Pine Point: Insomniac: Un juego que explora la ansiedad",
+      "url": "https://itch.io/games/tag-unsettling/pine-point-insomniac",
+      "category": "juego_absurdo",
+      "hash": "c556a0d332ea0279",
+      "addedToDb": "2026-06-25T11:39:34.329Z",
+      "sent": false
+    },
+    {
+      "title": "DownSchool: Un juego de terror escolar",
+      "url": "https://itch.io/games/tag-unsettling/downschool",
+      "category": "juego_absurdo",
+      "hash": "8e57746030b91c07",
+      "addedToDb": "2026-06-25T11:39:34.329Z",
+      "sent": false
+    },
+    {
+      "title": "#21: The World: Un juego de supervivencia en un mundo desolado",
+      "url": "https://itch.io/games/tag-unsettling/21-the-world",
+      "category": "juego_absurdo",
+      "hash": "817fa35fda3e6212",
+      "addedToDb": "2026-06-25T11:39:34.330Z",
       "sent": false
     }
   ],

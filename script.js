@@ -10621,6 +10621,49 @@ async function fetchFromHackerNews() {
         url: "https://www.atlasobscura.com/places/ciudad-perdida",
         description: "Ciudad Perdida, una ciudad precolombina que se cree que se encontraba en la selva colombiana, ha sido objeto de fascinación y especulación durante siglos. Aunque su existencia es incierta, la ciudad ha sido descubierta y explorada en los últimos años.",
         quote: "La Ciudad Perdida es un recordatorio de la importancia de la preservación y la protección del patrimonio cultural."
+    },
+    // 2026-06-25 — juego_absurdo
+    {
+        category: "juego_absurdo",
+        title: "Hypagogia: Un juego de pesadilla surrealista",
+        url: "https://itch.io/t/4178037/hypagogia",
+        description: "Hypagogia es un juego que te sumerge en un mundo de pesadillas, con un atmósfera inquietante y desafiante. Su objetivo es navegar a través de un laberinto de pensamientos y miedos, intentando mantener la cordura.",
+        quote: "¿Puedes sobrevivir a tus propias pesadillas?"
+    },
+    {
+        category: "juego_absurdo",
+        title: "The Baby In Yellow: Un juego de terror psicológico",
+        url: "https://itch.io/games/tag-horror/the-baby-in-yellow",
+        description: "The Baby In Yellow es un juego que combina terror y psicología, presentando una atmósfera ominosa y perturbadora. La trama sigue a un personaje que intenta sobrevivir en un mundo donde la realidad se distorsiona.",
+        quote: "La verdadera pregunta es, ¿eres tú el que está loco?"
+    },
+    {
+        category: "juego_absurdo",
+        title: "JOB HUNTING 9000 DELUHX: Un juego de simulación surrealista",
+        url: "https://itch.io/games/tag-weird/job-hunting-9000-deluhx",
+        description: "JOB HUNTING 9000 DELUHX es un juego que satiriza la búsqueda de empleo, presentando un mundo absurdo donde las reglas de la realidad no aplican. El objetivo es 'encontrar' un trabajo en este mundo extraño.",
+        quote: "¿Estás preparado para la entrevista de tu vida... o de tu muerte?"
+    },
+    {
+        category: "juego_absurdo",
+        title: "Pine Point: Insomniac: Un juego que explora la ansiedad",
+        url: "https://itch.io/games/tag-unsettling/pine-point-insomniac",
+        description: "Pine Point: Insomniac es un juego que sumerge al jugador en un mundo donde la ansiedad y el insomnio son los únicos constantes. La trama sigue al personaje principal mientras intenta encontrar la calma en un mundo que no parece querer dejarlo dormir.",
+        quote: "¿Cuántas noches sin dormir puedes soportar antes de que la realidad se vuelva contra ti?"
+    },
+    {
+        category: "juego_absurdo",
+        title: "DownSchool: Un juego de terror escolar",
+        url: "https://itch.io/games/tag-unsettling/downschool",
+        description: "DownSchool es un juego que combina elementos de terror y aventura, situándote en un entorno escolar que poco a poco se vuelve más surrealista y aterrador. La misión es sobrevivir y descubrir los secretos detrás de este lugar ominoso.",
+        quote: "¿Qué secretos esconde el pasillo de tu alma mater?"
+    },
+    {
+        category: "juego_absurdo",
+        title: "#21: The World: Un juego de supervivencia en un mundo desolado",
+        url: "https://itch.io/games/tag-unsettling/21-the-world",
+        description: "#21: The World es un juego que te deposita en un mundo desolado y aparentemente sin vida. El objetivo es explorar, sobrevivir y descubrir qué ha sucedido en este lugar abandonado, enfrentándote a desafíos que ponen a prueba tu capacidad para seguir adelante.",
+        quote: "¿Qué significa 'sobrevivir' en un mundo que ya no tiene nada que ofrecer?"
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
