@@ -10664,6 +10664,14 @@ async function fetchFromHackerNews() {
         url: "https://itch.io/games/tag-unsettling/21-the-world",
         description: "#21: The World es un juego que te deposita en un mundo desolado y aparentemente sin vida. El objetivo es explorar, sobrevivir y descubrir qué ha sucedido en este lugar abandonado, enfrentándote a desafíos que ponen a prueba tu capacidad para seguir adelante.",
         quote: "¿Qué significa 'sobrevivir' en un mundo que ya no tiene nada que ofrecer?"
+    },
+    // 2026-06-26 — filosofia_digital
+    {
+        category: "filosofia_digital",
+        title: "El problema del último usuario en las redes sociales",
+        url: "https://www.nature.com/articles/s44271-024-00112-6",
+        description: "Un artículo que explora las implicaciones éticas y sociales de las redes sociales cuando el último usuario activo se desconecta, dejando tras de sí una infraestructura vacía.",
+        quote: "¿La verdadera pregunta no es quién es el último, sino qué queda cuando todos se han ido?"
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

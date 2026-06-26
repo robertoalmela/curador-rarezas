@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-25T11:39:36.543Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-26T11:43:47.497Z",
+  "sentCount": 186,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1451,6 +1451,14 @@
       "category": "juego_absurdo",
       "hash": "817fa35fda3e6212",
       "addedToDb": "2026-06-25T11:39:34.330Z",
+      "sent": false
+    },
+    {
+      "title": "El problema del último usuario en las redes sociales",
+      "url": "https://www.nature.com/articles/s44271-024-00112-6",
+      "category": "filosofia_digital",
+      "hash": "ac8fa6c1da350f8b",
+      "addedToDb": "2026-06-26T11:43:47.497Z",
       "sent": false
     }
   ],
