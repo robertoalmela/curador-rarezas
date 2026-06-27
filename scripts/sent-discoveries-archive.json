@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-26T11:43:50.031Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-27T10:56:56.503Z",
+  "sentCount": 189,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1459,6 +1459,30 @@
       "category": "filosofia_digital",
       "hash": "ac8fa6c1da350f8b",
       "addedToDb": "2026-06-26T11:43:47.497Z",
+      "sent": false
+    },
+    {
+      "title": "El misterioso mundo de las 'bacterias extremófilas'",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4267481/",
+      "category": "biologia_rara",
+      "hash": "03d444c738dc7aef",
+      "addedToDb": "2026-06-27T10:56:56.503Z",
+      "sent": false
+    },
+    {
+      "title": "La 'hormiga zombie' y el hongo que la controla",
+      "url": "https://www.nature.com/articles/ncomms12149",
+      "category": "biologia_rara",
+      "hash": "bac6f5ef4a59d364",
+      "addedToDb": "2026-06-27T10:56:56.503Z",
+      "sent": false
+    },
+    {
+      "title": "La 'medusa inmortal' y su capacidad de regeneración",
+      "url": "https://www.ebsco.com/research-starters/biology/turritopsis-dohrnii-immortal-jellyfish",
+      "category": "biologia_rara",
+      "hash": "80aab26779554564",
+      "addedToDb": "2026-06-27T10:56:56.503Z",
       "sent": false
     }
   ],

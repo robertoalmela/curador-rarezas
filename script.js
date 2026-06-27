@@ -10672,6 +10672,28 @@ async function fetchFromHackerNews() {
         url: "https://www.nature.com/articles/s44271-024-00112-6",
         description: "Un artículo que explora las implicaciones éticas y sociales de las redes sociales cuando el último usuario activo se desconecta, dejando tras de sí una infraestructura vacía.",
         quote: "¿La verdadera pregunta no es quién es el último, sino qué queda cuando todos se han ido?"
+    },
+    // 2026-06-27 — biologia_rara
+    {
+        category: "biologia_rara",
+        title: "El misterioso mundo de las 'bacterias extremófilas'",
+        url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4267481/",
+        description: "Las bacterias extremófilas son organismos que pueden sobrevivir en condiciones extremas, como temperaturas muy altas o bajas, presiones extremas y ambientes con altos niveles de radiación. Estos organismos han sido encontrados en lugares como las fuentes termales, los fondos oceánicos y las regiones polares.",
+        quote: "Algunas bacterias extremófilas pueden sobrevivir en temperaturas de hasta 122°C, lo que las convierte en los organismos más resistentes a la temperatura conocidos en la actualidad."
+    },
+    {
+        category: "biologia_rara",
+        title: "La 'hormiga zombie' y el hongo que la controla",
+        url: "https://www.nature.com/articles/ncomms12149",
+        description: "El hongo Ophiocordyceps unilateralis infecta a las hormigas y las controla, haciendo que suban a lugares altos y mueran, lo que permite al hongo dispersar sus esporas. Este fenómeno es un ejemplo de cómo un organismo puede controlar el comportamiento de otro.",
+        quote: "El hongo Ophiocordyceps unilateralis puede controlar el comportamiento de las hormigas para que estas se comporten como 'zombis', lo que es un ejemplo fascinante de la interacción entre organismos en la naturaleza."
+    },
+    {
+        category: "biologia_rara",
+        title: "La 'medusa inmortal' y su capacidad de regeneración",
+        url: "https://www.ebsco.com/research-starters/biology/turritopsis-dohrnii-immortal-jellyfish",
+        description: "La medusa Turritopsis dohrnii es una especie de medusa que puede regenerar su cuerpo completo a partir de su forma de medusa adulta, lo que la convierte en una especie 'inmortal'. Esta capacidad de regeneración ha sido objeto de estudio en la biología del desarrollo y la regeneración de tejidos.",
+        quote: "La medusa Turritopsis dohrnii puede revertir su proceso de envejecimiento y convertirse en una forma más joven, lo que la convierte en una especie única en el reino animal."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
