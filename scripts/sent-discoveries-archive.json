@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-27T10:56:58.856Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-28T11:06:29.800Z",
+  "sentCount": 190,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1483,6 +1483,14 @@
       "category": "biologia_rara",
       "hash": "80aab26779554564",
       "addedToDb": "2026-06-27T10:56:56.503Z",
+      "sent": false
+    },
+    {
+      "title": "El Proyecto de Inteligencia Artificial de la Universidad de Stanford",
+      "url": "https://ai.stanford.edu/",
+      "category": "proyecto_experimental",
+      "hash": "6c29c7dcad524253",
+      "addedToDb": "2026-06-28T11:06:29.800Z",
       "sent": false
     }
   ],

@@ -10694,6 +10694,14 @@ async function fetchFromHackerNews() {
         url: "https://www.ebsco.com/research-starters/biology/turritopsis-dohrnii-immortal-jellyfish",
         description: "La medusa Turritopsis dohrnii es una especie de medusa que puede regenerar su cuerpo completo a partir de su forma de medusa adulta, lo que la convierte en una especie 'inmortal'. Esta capacidad de regeneración ha sido objeto de estudio en la biología del desarrollo y la regeneración de tejidos.",
         quote: "La medusa Turritopsis dohrnii puede revertir su proceso de envejecimiento y convertirse en una forma más joven, lo que la convierte en una especie única en el reino animal."
+    },
+    // 2026-06-28 — proyecto_experimental
+    {
+        category: "proyecto_experimental",
+        title: "El Proyecto de Inteligencia Artificial de la Universidad de Stanford",
+        url: "https://ai.stanford.edu/",
+        description: "Un proyecto de investigación en inteligencia artificial que busca avanzar en el desarrollo de sistemas AI capaces de aprender, razonar y interactuar con humanos de manera más efectiva. Ofrece una plataforma para el estudio y la aplicación práctica de la IA en diversas áreas.",
+        quote: "La investigación en IA de la Universidad de Stanford nos lleva a reflexionar sobre el impacto potencial de estas tecnologías en nuestra sociedad y economía, planteando preguntas críticas sobre ética y responsabilidad."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
