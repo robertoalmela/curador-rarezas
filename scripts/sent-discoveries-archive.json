@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-29T13:05:42.289Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-06-30T11:44:30.254Z",
+  "sentCount": 191,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1491,6 +1491,14 @@
       "category": "proyecto_experimental",
       "hash": "6c29c7dcad524253",
       "addedToDb": "2026-06-28T11:06:29.800Z",
+      "sent": false
+    },
+    {
+      "title": "La Estafa del Mapa de Vinlandia",
+      "url": "https://www.library.yale.edu/mssa/exhibitions/2005/vinland/vinland.htm",
+      "category": "fraude_historico",
+      "hash": "14c84312480467fe",
+      "addedToDb": "2026-06-30T11:44:30.253Z",
       "sent": false
     }
   ],

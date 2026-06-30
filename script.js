@@ -10702,6 +10702,14 @@ async function fetchFromHackerNews() {
         url: "https://ai.stanford.edu/",
         description: "Un proyecto de investigación en inteligencia artificial que busca avanzar en el desarrollo de sistemas AI capaces de aprender, razonar y interactuar con humanos de manera más efectiva. Ofrece una plataforma para el estudio y la aplicación práctica de la IA en diversas áreas.",
         quote: "La investigación en IA de la Universidad de Stanford nos lleva a reflexionar sobre el impacto potencial de estas tecnologías en nuestra sociedad y economía, planteando preguntas críticas sobre ética y responsabilidad."
+    },
+    // 2026-06-30 — fraude_historico
+    {
+        category: "fraude_historico",
+        title: "La Estafa del Mapa de Vinlandia",
+        url: "https://www.library.yale.edu/mssa/exhibitions/2005/vinland/vinland.htm",
+        description: "El Mapa de Vinlandia, supuestamente creado en el siglo XV, muestra una representación de América del Norte antes de la llegada de Colón. Sin embargo, ha sido ampliamente desacreditado como una falsificación del siglo XX.",
+        quote: "La búsqueda de riquezas y fama puede llevar a individuos a falsificar arte y documentos, alterando el curso de la historia."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
