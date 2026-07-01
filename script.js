@@ -10710,6 +10710,14 @@ async function fetchFromHackerNews() {
         url: "https://www.library.yale.edu/mssa/exhibitions/2005/vinland/vinland.htm",
         description: "El Mapa de Vinlandia, supuestamente creado en el siglo XV, muestra una representación de América del Norte antes de la llegada de Colón. Sin embargo, ha sido ampliamente desacreditado como una falsificación del siglo XX.",
         quote: "La búsqueda de riquezas y fama puede llevar a individuos a falsificar arte y documentos, alterando el curso de la historia."
+    },
+    // 2026-07-01 — artista_marginal
+    {
+        category: "artista_marginal",
+        title: "La historia de Martin Ramírez: El artista que encontró su voz en la institución",
+        url: "https://martinramirez.org/the-artist/",
+        description: "Martin Ramírez fue un inmigrante mexicano que desarrolló una enfermedad mental y fue institucionalizado, donde comenzó a crear obras de arte que combinan elementos de la cultura popular y la mitología mexicana.",
+        quote: "Sus obras son un testimonio de la capacidad humana para crear belleza en las circunstancias más adversas."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

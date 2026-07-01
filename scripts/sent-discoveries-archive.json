@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-06-30T11:44:45.268Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-01T12:06:12.864Z",
+  "sentCount": 192,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1499,6 +1499,14 @@
       "category": "fraude_historico",
       "hash": "14c84312480467fe",
       "addedToDb": "2026-06-30T11:44:30.253Z",
+      "sent": false
+    },
+    {
+      "title": "La historia de Martin Ramírez: El artista que encontró su voz en la institución",
+      "url": "https://martinramirez.org/the-artist/",
+      "category": "artista_marginal",
+      "hash": "dddc0cfa1c08e892",
+      "addedToDb": "2026-07-01T12:06:12.864Z",
       "sent": false
     }
   ],
