@@ -10718,6 +10718,28 @@ async function fetchFromHackerNews() {
         url: "https://martinramirez.org/the-artist/",
         description: "Martin Ramírez fue un inmigrante mexicano que desarrolló una enfermedad mental y fue institucionalizado, donde comenzó a crear obras de arte que combinan elementos de la cultura popular y la mitología mexicana.",
         quote: "Sus obras son un testimonio de la capacidad humana para crear belleza en las circunstancias más adversas."
+    },
+    // 2026-07-02 — performance_raro
+    {
+        category: "performance_raro",
+        title: "La Fura dels Baus: Teatro de Acción",
+        url: "https://www.lafura.com/",
+        description: "Un grupo de teatro de vanguardia que combina danza, teatro y música en performances que desafían la convención. Desde 1979, han sido pioneros en el uso de la tecnología y la experimentación en sus obras.",
+        quote: "Su obra 'Tier Mon' es un ejemplo de cómo el teatro puede ser tanto una experiencia física como emocionalmente desgarradora."
+    },
+    {
+        category: "performance_raro",
+        title: "Tehching Hsieh: Un Año de Silencio",
+        url: "https://www.tehchinghsieh.com/",
+        description: "Un artista taiwanés-estadounidense que ha realizado performances que exploran los límites del tiempo y la resistencia humana. Su obra 'One Year Performance 1978-1979' lo llevó a permanecer en silencio durante todo un año.",
+        quote: "Hsieh ha dicho: 'El arte es una forma de vivir, no solo una forma de crear objetos', reflejando su visión del arte como una forma de vida y una práctica espiritual."
+    },
+    {
+        category: "performance_raro",
+        title: "Chris Burden: La Frontera entre el Arte y la Vida",
+        url: "https://www.gagosian.com/artists/chris-burden",
+        description: "Un artista estadounidense que realizó performances que exploraban los límites entre el arte y la vida. Su obra 'Shoot' es un ejemplo de su uso del riesgo y la vulnerabilidad como medios para crear experiencias artísticas intensas.",
+        quote: "Burden ha dicho: 'El arte es una forma de hacer preguntas, no de dar respuestas', reflejando su visión del arte como una forma de cuestionar y desafiar las convenciones."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

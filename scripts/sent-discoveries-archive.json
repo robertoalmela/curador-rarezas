@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-01T12:06:15.157Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-02T11:32:51.546Z",
+  "sentCount": 195,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1507,6 +1507,30 @@
       "category": "artista_marginal",
       "hash": "dddc0cfa1c08e892",
       "addedToDb": "2026-07-01T12:06:12.864Z",
+      "sent": false
+    },
+    {
+      "title": "La Fura dels Baus: Teatro de Acción",
+      "url": "https://www.lafura.com/",
+      "category": "performance_raro",
+      "hash": "1ed9189ab7a1f2fd",
+      "addedToDb": "2026-07-02T11:32:51.546Z",
+      "sent": false
+    },
+    {
+      "title": "Tehching Hsieh: Un Año de Silencio",
+      "url": "https://www.tehchinghsieh.com/",
+      "category": "performance_raro",
+      "hash": "53634ff0f708118a",
+      "addedToDb": "2026-07-02T11:32:51.546Z",
+      "sent": false
+    },
+    {
+      "title": "Chris Burden: La Frontera entre el Arte y la Vida",
+      "url": "https://www.gagosian.com/artists/chris-burden",
+      "category": "performance_raro",
+      "hash": "444e7a2b1d374c04",
+      "addedToDb": "2026-07-02T11:32:51.546Z",
       "sent": false
     }
   ],
