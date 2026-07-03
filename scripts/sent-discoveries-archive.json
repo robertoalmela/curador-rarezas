@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-02T11:33:00.549Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-03T11:31:17.168Z",
+  "sentCount": 197,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1531,6 +1531,22 @@
       "category": "performance_raro",
       "hash": "444e7a2b1d374c04",
       "addedToDb": "2026-07-02T11:32:51.546Z",
+      "sent": false
+    },
+    {
+      "title": "La física detrás de los sonidos invisibles",
+      "url": "https://www.semanticscholar.org/paper/The-psychoacoustic-effect-of-infrasonic%2C-sonic-and-Littlefield/3a2791084fa114b34b45a92011cffa5f863b64c1",
+      "category": "sonido_invisible",
+      "hash": "64491305656cee73",
+      "addedToDb": "2026-07-03T11:31:17.168Z",
+      "sent": false
+    },
+    {
+      "title": "La relación entre los sonidos invisibles y la conciencia",
+      "url": "https://www.atlasobscura.com/articles/forest-grove-sound-mystery",
+      "category": "sonido_invisible",
+      "hash": "be4c4d285017ae7d",
+      "addedToDb": "2026-07-03T11:31:17.168Z",
       "sent": false
     }
   ],

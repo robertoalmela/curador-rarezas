@@ -10740,6 +10740,21 @@ async function fetchFromHackerNews() {
         url: "https://www.gagosian.com/artists/chris-burden",
         description: "Un artista estadounidense que realizó performances que exploraban los límites entre el arte y la vida. Su obra 'Shoot' es un ejemplo de su uso del riesgo y la vulnerabilidad como medios para crear experiencias artísticas intensas.",
         quote: "Burden ha dicho: 'El arte es una forma de hacer preguntas, no de dar respuestas', reflejando su visión del arte como una forma de cuestionar y desafiar las convenciones."
+    },
+    // 2026-07-03 — sonido_invisible
+    {
+        category: "sonido_invisible",
+        title: "La física detrás de los sonidos invisibles",
+        url: "https://www.semanticscholar.org/paper/The-psychoacoustic-effect-of-infrasonic%2C-sonic-and-Littlefield/3a2791084fa114b34b45a92011cffa5f863b64c1",
+        description: "Un artículo científico que explora la física detrás de los sonidos invisibles, incluyendo la percepción humana de los infrasonidos y los ultrasonidos.",
+        quote: "Los sonidos invisibles pueden afectar nuestra percepción de la realidad de manera significativa, y su estudio puede revelar nuevos secretos sobre la naturaleza del universo."
+    },
+    {
+        category: "sonido_invisible",
+        title: "La relación entre los sonidos invisibles y la conciencia",
+        url: "https://www.atlasobscura.com/articles/forest-grove-sound-mystery",
+        description: "Un artículo que explora la relación entre los sonidos invisibles y la conciencia, incluyendo la percepción de sonidos inexplicables en entornos naturales.",
+        quote: "Los sonidos invisibles pueden afectar nuestra conciencia de manera profunda, y su estudio puede revelar nuevos secretos sobre la naturaleza de la realidad y la percepción humana."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
