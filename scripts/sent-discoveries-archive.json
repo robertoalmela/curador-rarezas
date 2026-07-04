@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-03T11:31:19.163Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-04T10:53:50.533Z",
+  "sentCount": 198,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1547,6 +1547,14 @@
       "category": "sonido_invisible",
       "hash": "be4c4d285017ae7d",
       "addedToDb": "2026-07-03T11:31:17.168Z",
+      "sent": false
+    },
+    {
+      "title": "El Proyecto de la Carta de los Sonidos",
+      "url": "https://www.freesound.org/",
+      "category": "web_extraña",
+      "hash": "7ca882132fe6f2d7",
+      "addedToDb": "2026-07-04T10:53:50.533Z",
       "sent": false
     }
   ],

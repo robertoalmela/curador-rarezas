@@ -10755,6 +10755,14 @@ async function fetchFromHackerNews() {
         url: "https://www.atlasobscura.com/articles/forest-grove-sound-mystery",
         description: "Un artículo que explora la relación entre los sonidos invisibles y la conciencia, incluyendo la percepción de sonidos inexplicables en entornos naturales.",
         quote: "Los sonidos invisibles pueden afectar nuestra conciencia de manera profunda, y su estudio puede revelar nuevos secretos sobre la naturaleza de la realidad y la percepción humana."
+    },
+    // 2026-07-04 — web_extraña
+    {
+        category: "web_extraña",
+        title: "El Proyecto de la Carta de los Sonidos",
+        url: "https://www.freesound.org/",
+        description: "Un sitio web que recopila y ofrece acceso a una gran variedad de sonidos ysamples de audio de todo el mundo. El proyecto busca crear una cartografía sonora global y promover la creatividad y la experimentación.",
+        quote: "La carta de los sonidos es como un mapa del mundo, pero en lugar de lugares, muestra las texturas y emociones de la vida humana."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
