@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-04T10:53:58.887Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-05T11:03:19.615Z",
+  "sentCount": 202,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1555,6 +1555,38 @@
       "category": "web_extraña",
       "hash": "7ca882132fe6f2d7",
       "addedToDb": "2026-07-04T10:53:50.533Z",
+      "sent": false
+    },
+    {
+      "title": "Un Rincón de la Web 1.0",
+      "url": "https://computer.howstuffworks.com/web-10.htm",
+      "category": "blog_olvidado",
+      "hash": "7342363f788b09bf",
+      "addedToDb": "2026-07-05T11:03:19.615Z",
+      "sent": false
+    },
+    {
+      "title": "La Estética de la Nostalgia",
+      "url": "https://hashbuilds.com/patterns/what-is-web1-design",
+      "category": "blog_olvidado",
+      "hash": "25fb88460d4605dc",
+      "addedToDb": "2026-07-05T11:03:19.615Z",
+      "sent": false
+    },
+    {
+      "title": "La Libertad de la Web Personal",
+      "url": "https://stories.byburk.net/personal-websites-are-in-a-weird-place-right-now-9e378797360c",
+      "category": "blog_olvidado",
+      "hash": "9bd42c9fe4e5ccfa",
+      "addedToDb": "2026-07-05T11:03:19.615Z",
+      "sent": false
+    },
+    {
+      "title": "La Belleza de lo Estático",
+      "url": "https://bridgingpointsmedia.com/web-1-0-definition-characteristics-examples/",
+      "category": "blog_olvidado",
+      "hash": "6ec5e60c4c38cd66",
+      "addedToDb": "2026-07-05T11:03:19.615Z",
       "sent": false
     }
   ],

@@ -10763,6 +10763,35 @@ async function fetchFromHackerNews() {
         url: "https://www.freesound.org/",
         description: "Un sitio web que recopila y ofrece acceso a una gran variedad de sonidos ysamples de audio de todo el mundo. El proyecto busca crear una cartografía sonora global y promover la creatividad y la experimentación.",
         quote: "La carta de los sonidos es como un mapa del mundo, pero en lugar de lugares, muestra las texturas y emociones de la vida humana."
+    },
+    // 2026-07-05 — blog_olvidado
+    {
+        category: "blog_olvidado",
+        title: "Un Rincón de la Web 1.0",
+        url: "https://computer.howstuffworks.com/web-10.htm",
+        description: "Un artículo que explora el concepto de Web 1.0, describiendo sus principios y características, y cómo ha evolucionado la web desde entonces, ofreciendo una perspectiva única sobre la historia de la tecnología.",
+        quote: "La Web 1.0 se define como un conjunto de principios de páginas web estáticas, lo que explica por qué los visitantes solo visitan estos sitios una vez, destacando la importancia de la interacción en la web moderna."
+    },
+    {
+        category: "blog_olvidado",
+        title: "La Estética de la Nostalgia",
+        url: "https://hashbuilds.com/patterns/what-is-web1-design",
+        description: "Un sitio que explora el diseño de la Web 1.0, ofreciendo ejemplos y patrones de diseño que pueden ser utilizados para proyectos nostálgicos o irónicos, destacando la importancia de la nostalgia en la creación de experiencias en línea.",
+        quote: "El uso de la estética de la Web 1.0 puede añadir un toque retro y único a proyectos modernos, mostrando cómo la nostalgia puede ser una herramienta poderosa en la creación de experiencias en línea memorables."
+    },
+    {
+        category: "blog_olvidado",
+        title: "La Libertad de la Web Personal",
+        url: "https://stories.byburk.net/personal-websites-are-in-a-weird-place-right-now-9e378797360c",
+        description: "Un artículo que reflexiona sobre la importancia de los sitios web personales en la actualidad, y cómo pueden ofrecer una sensación de libertad y control en la era de las redes sociales, destacando la importancia de la autonomía en línea.",
+        quote: "Un sitio web personal puede ser un espacio de expresión y creatividad, donde los individuos pueden mostrar su personalidad y estilo sin las restricciones de las plataformas de redes sociales, subrayando la importancia de la libertad en la creación de contenido en línea."
+    },
+    {
+        category: "blog_olvidado",
+        title: "La Belleza de lo Estático",
+        url: "https://bridgingpointsmedia.com/web-1-0-definition-characteristics-examples/",
+        description: "Un sitio que explora la definición, diseño y características de la Web 1.0, ofreciendo ejemplos y explicaciones detalladas sobre esta etapa temprana de la web, destacando la importancia de la simplicidad en la creación de experiencias en línea.",
+        quote: "La Web 1.0 puede parecer simple en comparación con la web moderna, pero su enfoque en la presentación de información de manera clara y concisa puede ser una lección valiosa para los diseñadores y creadores de contenido en línea, subrayando la importancia de la claridad y la simplicidad en la comunicación en línea."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
