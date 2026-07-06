@@ -10792,6 +10792,14 @@ async function fetchFromHackerNews() {
         url: "https://bridgingpointsmedia.com/web-1-0-definition-characteristics-examples/",
         description: "Un sitio que explora la definición, diseño y características de la Web 1.0, ofreciendo ejemplos y explicaciones detalladas sobre esta etapa temprana de la web, destacando la importancia de la simplicidad en la creación de experiencias en línea.",
         quote: "La Web 1.0 puede parecer simple en comparación con la web moderna, pero su enfoque en la presentación de información de manera clara y concisa puede ser una lección valiosa para los diseñadores y creadores de contenido en línea, subrayando la importancia de la claridad y la simplicidad en la comunicación en línea."
+    },
+    // 2026-07-06 — infraestructura_oculta
+    {
+        category: "infraestructura_oculta",
+        title: "La Ciudad Subterránea de Derinkuyu",
+        url: "https://whc.unesco.org/en/list/1070/",
+        description: "Un sitio arqueológico en Turquía que alberga una ciudad subterránea excavada en el siglo VIII a.C., con capacidades para alojar a miles de personas.",
+        quote: "La ciudad subterránea de Derinkuyu es una de las más antiguas y mejor conservadas del mundo, con una compleja red de túneles y habitaciones."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

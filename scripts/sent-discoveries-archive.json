@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-05T11:03:21.583Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-06T12:45:31.081Z",
+  "sentCount": 203,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1587,6 +1587,14 @@
       "category": "blog_olvidado",
       "hash": "6ec5e60c4c38cd66",
       "addedToDb": "2026-07-05T11:03:19.615Z",
+      "sent": false
+    },
+    {
+      "title": "La Ciudad Subterránea de Derinkuyu",
+      "url": "https://whc.unesco.org/en/list/1070/",
+      "category": "infraestructura_oculta",
+      "hash": "cc9b45cc38cec199",
+      "addedToDb": "2026-07-06T12:45:31.081Z",
       "sent": false
     }
   ],
