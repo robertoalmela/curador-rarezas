@@ -10800,6 +10800,28 @@ async function fetchFromHackerNews() {
         url: "https://whc.unesco.org/en/list/1070/",
         description: "Un sitio arqueológico en Turquía que alberga una ciudad subterránea excavada en el siglo VIII a.C., con capacidades para alojar a miles de personas.",
         quote: "La ciudad subterránea de Derinkuyu es una de las más antiguas y mejor conservadas del mundo, con una compleja red de túneles y habitaciones."
+    },
+    // 2026-07-08 — idea_provocadora
+    {
+        category: "idea_provocadora",
+        title: "El Problema de la Inducción y la Naturaleza de la Realidad",
+        url: "https://plato.stanford.edu/entries/induction-problem/",
+        description: "El problema de la inducción, planteado por David Hume, cuestiona nuestra capacidad para hacer inferencias sobre el futuro basadas en experiencias pasadas. Esto lleva a una exploración profunda sobre la naturaleza de la causalidad y la realidad.",
+        quote: "\"No podemos estar seguros de nada, excepto de nuestra propia ignorancia\"."
+    },
+    {
+        category: "idea_provocadora",
+        title: "El Dilema del Viajero en el Tiempo y la Paradoja del Abuelo",
+        url: "https://science.howstuffworks.com/time-travel-paradox.htm",
+        description: "El dilema del viajero en el tiempo, ejemplificado por la paradoja del abuelo, desafía nuestra comprensión del tiempo y la causalidad. Si un viajero en el tiempo mata a su propio abuelo antes de que su abuelo tenga hijos, entonces el viajero en el tiempo nunca nació. Pero si nunca nació, ¿quién mató al abuelo?",
+        quote: "\"El tiempo es un río que fluye en una sola dirección, pero la memoria es un océano que puede retroceder\"."
+    },
+    {
+        category: "idea_provocadora",
+        title: "El Problema del Mal y la Existencia de Dios",
+        url: "https://plato.stanford.edu/entries/evil/",
+        description: "El problema del mal, una cuestión central en la filosofía de la religión, se refiere a la existencia del sufrimiento y el mal en un mundo supuestamente creado por un Dios omnipotente, omnisciente y perfectamente bueno. Esto lleva a explorar los límites de la omnipotencia divina y la naturaleza del libre albedrío.",
+        quote: "\"El mal es la sombra que el bien proyecta sobre el mundo\"."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

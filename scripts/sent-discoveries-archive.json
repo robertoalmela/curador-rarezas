@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-07T11:49:41.363Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-08T11:03:06.064Z",
+  "sentCount": 206,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1595,6 +1595,30 @@
       "category": "infraestructura_oculta",
       "hash": "cc9b45cc38cec199",
       "addedToDb": "2026-07-06T12:45:31.081Z",
+      "sent": false
+    },
+    {
+      "title": "El Problema de la Inducción y la Naturaleza de la Realidad",
+      "url": "https://plato.stanford.edu/entries/induction-problem/",
+      "category": "idea_provocadora",
+      "hash": "56a7e7318bdbb776",
+      "addedToDb": "2026-07-08T11:03:06.064Z",
+      "sent": false
+    },
+    {
+      "title": "El Dilema del Viajero en el Tiempo y la Paradoja del Abuelo",
+      "url": "https://science.howstuffworks.com/time-travel-paradox.htm",
+      "category": "idea_provocadora",
+      "hash": "e9ef2db46a8dbdcf",
+      "addedToDb": "2026-07-08T11:03:06.064Z",
+      "sent": false
+    },
+    {
+      "title": "El Problema del Mal y la Existencia de Dios",
+      "url": "https://plato.stanford.edu/entries/evil/",
+      "category": "idea_provocadora",
+      "hash": "a03a179ae094896b",
+      "addedToDb": "2026-07-08T11:03:06.064Z",
       "sent": false
     }
   ],
