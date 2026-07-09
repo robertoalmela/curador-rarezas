@@ -10822,6 +10822,14 @@ async function fetchFromHackerNews() {
         url: "https://plato.stanford.edu/entries/evil/",
         description: "El problema del mal, una cuestión central en la filosofía de la religión, se refiere a la existencia del sufrimiento y el mal en un mundo supuestamente creado por un Dios omnipotente, omnisciente y perfectamente bueno. Esto lleva a explorar los límites de la omnipotencia divina y la naturaleza del libre albedrío.",
         quote: "\"El mal es la sombra que el bien proyecta sobre el mundo\"."
+    },
+    // 2026-07-09 — lengua_muerta
+    {
+        category: "lengua_muerta",
+        title: "El Proyecto de Lingüística Computacional para la Preservación de Lenguas",
+        url: "https://www.clarin.eu/",
+        description: "Este proyecto busca desarrollar herramientas y recursos para la preservación y documentación de lenguas en peligro de extinción utilizando técnicas de lingüística computacional.",
+        quote: "La tecnología puede ser una poderosa herramienta para la preservación de lenguas, permitiendo la creación de recursos y materiales para la enseñanza y el aprendizaje de lenguas en peligro."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

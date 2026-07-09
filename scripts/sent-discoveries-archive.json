@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-08T11:03:15.223Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-09T12:01:21.709Z",
+  "sentCount": 207,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1619,6 +1619,14 @@
       "category": "idea_provocadora",
       "hash": "a03a179ae094896b",
       "addedToDb": "2026-07-08T11:03:06.064Z",
+      "sent": false
+    },
+    {
+      "title": "El Proyecto de Lingüística Computacional para la Preservación de Lenguas",
+      "url": "https://www.clarin.eu/",
+      "category": "lengua_muerta",
+      "hash": "c374d01d5a2b5a1c",
+      "addedToDb": "2026-07-09T12:01:21.709Z",
       "sent": false
     }
   ],
