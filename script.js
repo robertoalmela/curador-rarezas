@@ -10830,6 +10830,14 @@ async function fetchFromHackerNews() {
         url: "https://www.clarin.eu/",
         description: "Este proyecto busca desarrollar herramientas y recursos para la preservación y documentación de lenguas en peligro de extinción utilizando técnicas de lingüística computacional.",
         quote: "La tecnología puede ser una poderosa herramienta para la preservación de lenguas, permitiendo la creación de recursos y materiales para la enseñanza y el aprendizaje de lenguas en peligro."
+    },
+    // 2026-07-10 — obsceno_digital
+    {
+        category: "obsceno_digital",
+        title: "El juego ' Neon Structure ' y su mundo de arquitectura surrealista",
+        url: "https://store.steampowered.com/app/1034740/Neon_Structure/",
+        description: "Un juego de puzzle que invita a los jugadores a explorar un mundo de estructuras neón y arquitecturas surrealistas, desafiando la lógica y la razón.",
+        quote: "Neon Structure es como un sueño febril, un viaje a un mundo donde la realidad se distorsiona y la lógica se vuelve absurda."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
