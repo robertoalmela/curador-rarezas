@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-10T11:50:48.949Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-11T10:13:07.657Z",
+  "sentCount": 209,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1635,6 +1635,14 @@
       "category": "obsceno_digital",
       "hash": "d869b2ef8510436e",
       "addedToDb": "2026-07-10T11:50:46.055Z",
+      "sent": false
+    },
+    {
+      "title": "Desert Golfing",
+      "url": "https://www.kongregate.com/games/justpirulo/desert-golfing",
+      "category": "juego_absurdo",
+      "hash": "bc731ffac6406270",
+      "addedToDb": "2026-07-11T10:13:07.657Z",
       "sent": false
     }
   ],

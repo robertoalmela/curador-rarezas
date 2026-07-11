@@ -10838,6 +10838,14 @@ async function fetchFromHackerNews() {
         url: "https://store.steampowered.com/app/1034740/Neon_Structure/",
         description: "Un juego de puzzle que invita a los jugadores a explorar un mundo de estructuras neón y arquitecturas surrealistas, desafiando la lógica y la razón.",
         quote: "Neon Structure es como un sueño febril, un viaje a un mundo donde la realidad se distorsiona y la lógica se vuelve absurda."
+    },
+    // 2026-07-11 — juego_absurdo
+    {
+        category: "juego_absurdo",
+        title: "Desert Golfing",
+        url: "https://www.kongregate.com/games/justpirulo/desert-golfing",
+        description: "Un juego de golf en el que se juega en un entorno surrealista y sin fin. La simplicidad del juego se combina con la complejidad de sus reglas para crear una experiencia única.",
+        quote: "A veces, la simplicidad puede ser el camino hacia la complejidad y la profundidad en un juego."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
