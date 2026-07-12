@@ -10846,6 +10846,28 @@ async function fetchFromHackerNews() {
         url: "https://www.kongregate.com/games/justpirulo/desert-golfing",
         description: "Un juego de golf en el que se juega en un entorno surrealista y sin fin. La simplicidad del juego se combina con la complejidad de sus reglas para crear una experiencia única.",
         quote: "A veces, la simplicidad puede ser el camino hacia la complejidad y la profundidad en un juego."
+    },
+    // 2026-07-12 — herramienta_oculta
+    {
+        category: "herramienta_oculta",
+        title: "Analizador de Texto Oculto",
+        url: "https://www.online-utility.org/",
+        description: "Un sitio web que ofrece una variedad de herramientas para el análisis de texto, incluyendo la detección de patrones ocultos y la extracción de información valiosa de grandes conjuntos de datos.",
+        quote: "Descubre los secretos escondidos en tus textos con esta poderosa herramienta de análisis."
+    },
+    {
+        category: "herramienta_oculta",
+        title: "Generador de Números Aleatorios Verdaderos",
+        url: "https://www.random.org/",
+        description: "Un generador de números aleatorios que utiliza fuentes externas para producir series verdaderamente aleatorias, útil para experimentos científicos y simulaciones.",
+        quote: "La verdadera aleatoriedad se hace posible gracias a esta herramienta única en internet."
+    },
+    {
+        category: "herramienta_oculta",
+        title: "Atlas de la Web Invisible",
+        url: "https://www.oedb.org/ilibrarian/invisible-web/",
+        description: "Un recurso valioso para explorar la web invisible, incluyendo directorios, motores de búsqueda y herramientas de investigación especializadas.",
+        quote: "La web invisible deja de ser un misterio gracias a este atlas comprehensivo."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

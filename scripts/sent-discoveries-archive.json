@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-11T10:13:09.979Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-12T10:26:28.762Z",
+  "sentCount": 212,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1643,6 +1643,30 @@
       "category": "juego_absurdo",
       "hash": "bc731ffac6406270",
       "addedToDb": "2026-07-11T10:13:07.657Z",
+      "sent": false
+    },
+    {
+      "title": "Analizador de Texto Oculto",
+      "url": "https://www.online-utility.org/",
+      "category": "herramienta_oculta",
+      "hash": "4529f5f8cf15170e",
+      "addedToDb": "2026-07-12T10:26:28.761Z",
+      "sent": false
+    },
+    {
+      "title": "Generador de Números Aleatorios Verdaderos",
+      "url": "https://www.random.org/",
+      "category": "herramienta_oculta",
+      "hash": "f61382e49c271980",
+      "addedToDb": "2026-07-12T10:26:28.761Z",
+      "sent": false
+    },
+    {
+      "title": "Atlas de la Web Invisible",
+      "url": "https://www.oedb.org/ilibrarian/invisible-web/",
+      "category": "herramienta_oculta",
+      "hash": "55897a48cff19c3d",
+      "addedToDb": "2026-07-12T10:26:28.761Z",
       "sent": false
     }
   ],
