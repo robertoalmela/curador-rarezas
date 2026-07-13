@@ -10868,6 +10868,28 @@ async function fetchFromHackerNews() {
         url: "https://www.oedb.org/ilibrarian/invisible-web/",
         description: "Un recurso valioso para explorar la web invisible, incluyendo directorios, motores de búsqueda y herramientas de investigación especializadas.",
         quote: "La web invisible deja de ser un misterio gracias a este atlas comprehensivo."
+    },
+    // 2026-07-13 — ritual_oculto
+    {
+        category: "ritual_oculto",
+        title: "Los Aghori: Una Secta Hindú que Practica el Canibalismo Ritual",
+        url: "https://allthatsinteresting.com/unusual-religious-rituals",
+        description: "Los aghori son una secta hindú que practica el canibalismo ritual como parte de sus creencias religiosas. Se cree que esta práctica les permite conectarse con la energía divina y alcanzar la iluminación espiritual.",
+        quote: "La práctica del canibalismo ritual es considerada tabú en muchas culturas, pero para los aghori, es un aspecto fundamental de su fe."
+    },
+    {
+        category: "ritual_oculto",
+        title: "La Celebración del Día de los Muertos en México",
+        url: "https://www.bootsnall.com/articles/unusual-religious-rituals-around-the-world.html",
+        description: "El Día de los Muertos es una celebración mexicana que honra a los difuntos. La festividad incluye la creación de altares, la preparación de alimentos y la realización de rituales para comunicarse con los espíritus de los muertos.",
+        quote: "Esta celebración es un ejemplo de cómo las culturas pueden abordar la muerte de manera positiva y constructiva, en lugar de evitarla o temerla."
+    },
+    {
+        category: "ritual_oculto",
+        title: "El Rito de la Circuncisión enAfrica",
+        url: "https://www.ebsco.com/research-starters/social-sciences-and-humanities/body-modifications-and-mutilations",
+        description: "La circuncisión es un rito de iniciación que se practica en algunas culturas africanas. El proceso implica la eliminación del prepucio y se considera un paso importante hacia la madurez.",
+        quote: "La circuncisión es un ejemplo de cómo los rituales de iniciación pueden variar ampliamente entre culturas y pueden tener diferentes significados y propósitos."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

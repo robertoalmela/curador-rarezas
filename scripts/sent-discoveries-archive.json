@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-12T10:26:38.953Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-13T12:03:47.771Z",
+  "sentCount": 215,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1667,6 +1667,30 @@
       "category": "herramienta_oculta",
       "hash": "55897a48cff19c3d",
       "addedToDb": "2026-07-12T10:26:28.761Z",
+      "sent": false
+    },
+    {
+      "title": "Los Aghori: Una Secta Hindú que Practica el Canibalismo Ritual",
+      "url": "https://allthatsinteresting.com/unusual-religious-rituals",
+      "category": "ritual_oculto",
+      "hash": "9663814437d09a6e",
+      "addedToDb": "2026-07-13T12:03:47.771Z",
+      "sent": false
+    },
+    {
+      "title": "La Celebración del Día de los Muertos en México",
+      "url": "https://www.bootsnall.com/articles/unusual-religious-rituals-around-the-world.html",
+      "category": "ritual_oculto",
+      "hash": "65b58cbd4d175339",
+      "addedToDb": "2026-07-13T12:03:47.771Z",
+      "sent": false
+    },
+    {
+      "title": "El Rito de la Circuncisión enAfrica",
+      "url": "https://www.ebsco.com/research-starters/social-sciences-and-humanities/body-modifications-and-mutilations",
+      "category": "ritual_oculto",
+      "hash": "290b9b886ef5cc4f",
+      "addedToDb": "2026-07-13T12:03:47.771Z",
       "sent": false
     }
   ],
