@@ -10890,6 +10890,42 @@ async function fetchFromHackerNews() {
         url: "https://www.ebsco.com/research-starters/social-sciences-and-humanities/body-modifications-and-mutilations",
         description: "La circuncisión es un rito de iniciación que se practica en algunas culturas africanas. El proceso implica la eliminación del prepucio y se considera un paso importante hacia la madurez.",
         quote: "La circuncisión es un ejemplo de cómo los rituales de iniciación pueden variar ampliamente entre culturas y pueden tener diferentes significados y propósitos."
+    },
+    // 2026-07-15 — experimento_social
+    {
+        category: "experimento_social",
+        title: "El Proyecto de Democracia Participativa de Barcelona",
+        url: "https://decidim.barcelona/",
+        description: "Un plataforma de participación ciudadana que permite a los residentes de Barcelona proponer, debatir y votar políticas públicas. Es un ejemplo de democracia directa en acción.",
+        quote: "Más de 10.000 personas han participado en la plataforma, lo que ha llevado a la implementación de más de 100 propuestas ciudadanas."
+    },
+    {
+        category: "experimento_social",
+        title: "El Estudio de la Economía Circular de la Ciudad de Ámsterdam",
+        url: "https://www.circulareconomy.nl/",
+        description: "Un proyecto que busca reducir el desperdicio y promover la sostenibilidad en la ciudad de Ámsterdam a través de la economía circular. Incluye un mapa de recursos y una plataforma de intercambio de materiales.",
+        quote: "La ciudad de Ámsterdam tiene como objetivo ser circular en un 65% para 2030, lo que supondría una reducción del 50% de las emisiones de CO2."
+    },
+    {
+        category: "experimento_social",
+        title: "La Iniciativa de Moneda Local de Bristol",
+        url: "https://bristolpound.org/",
+        description: "Una moneda local que busca fomentar la economía local y reducir la dependencia de las grandes corporaciones. Los negocios locales pueden aceptar la moneda y los ciudadanos pueden comprar productos y servicios con ella.",
+        quote: "Más de 1.000 negocios en Bristol aceptan la moneda local, lo que ha generado un impacto económico significativo en la comunidad."
+    },
+    {
+        category: "experimento_social",
+        title: "El Proyecto de Vivienda Comunitaria de Twin Oaks",
+        url: "https://www.twinoaks.org/",
+        description: "Una comunidad intencional que busca crear un modelo de vivienda sostenible y equitativa. Los residentes comparten recursos y espacios, y trabajan juntos para mantener la comunidad.",
+        quote: "Twin Oaks ha sido un modelo para otras comunidades intencionales en todo el mundo, demostrando que es posible vivir de manera sostenible y en armonía con el medio ambiente."
+    },
+    {
+        category: "experimento_social",
+        title: "El Proyecto de Educación Comunitaria de la Ciudad de Portland",
+        url: "https://www.pcc.edu/",
+        description: "Un programa que busca ofrecer educación y capacitación a la comunidad, con un enfoque en la sostenibilidad y la justicia social. Incluye cursos y talleres sobre temas como la agricultura urbana y la energía renovable.",
+        quote: "Más de 70.000 personas han participado en el programa, lo que ha generado un impacto significativo en la comunidad y ha ayudado a crear un futuro más sostenible."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

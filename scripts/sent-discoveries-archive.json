@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-14T10:44:31.279Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-15T10:48:20.584Z",
+  "sentCount": 220,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1691,6 +1691,46 @@
       "category": "ritual_oculto",
       "hash": "290b9b886ef5cc4f",
       "addedToDb": "2026-07-13T12:03:47.771Z",
+      "sent": false
+    },
+    {
+      "title": "El Proyecto de Democracia Participativa de Barcelona",
+      "url": "https://decidim.barcelona/",
+      "category": "experimento_social",
+      "hash": "215d6ec4589f4240",
+      "addedToDb": "2026-07-15T10:48:20.584Z",
+      "sent": false
+    },
+    {
+      "title": "El Estudio de la Economía Circular de la Ciudad de Ámsterdam",
+      "url": "https://www.circulareconomy.nl/",
+      "category": "experimento_social",
+      "hash": "d1a6051b5ea1ddb5",
+      "addedToDb": "2026-07-15T10:48:20.584Z",
+      "sent": false
+    },
+    {
+      "title": "La Iniciativa de Moneda Local de Bristol",
+      "url": "https://bristolpound.org/",
+      "category": "experimento_social",
+      "hash": "48e11cdcbec23c01",
+      "addedToDb": "2026-07-15T10:48:20.584Z",
+      "sent": false
+    },
+    {
+      "title": "El Proyecto de Vivienda Comunitaria de Twin Oaks",
+      "url": "https://www.twinoaks.org/",
+      "category": "experimento_social",
+      "hash": "e6bb23e10db2c355",
+      "addedToDb": "2026-07-15T10:48:20.584Z",
+      "sent": false
+    },
+    {
+      "title": "El Proyecto de Educación Comunitaria de la Ciudad de Portland",
+      "url": "https://www.pcc.edu/",
+      "category": "experimento_social",
+      "hash": "e1d2f37d601bab56",
+      "addedToDb": "2026-07-15T10:48:20.584Z",
       "sent": false
     }
   ],
