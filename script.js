@@ -10926,6 +10926,21 @@ async function fetchFromHackerNews() {
         url: "https://www.pcc.edu/",
         description: "Un programa que busca ofrecer educación y capacitación a la comunidad, con un enfoque en la sostenibilidad y la justicia social. Incluye cursos y talleres sobre temas como la agricultura urbana y la energía renovable.",
         quote: "Más de 70.000 personas han participado en el programa, lo que ha generado un impacto significativo en la comunidad y ha ayudado a crear un futuro más sostenible."
+    },
+    // 2026-07-16 — lugar_desaparecido
+    {
+        category: "lugar_desaparecido",
+        title: "El Pueblo Abandonado de Agdam: Un Testamento de la Guerra y el Abandono",
+        url: "https://www.rferl.org/a/photogallery-abandoned-city-agdam-azerbaijan/28011315.html",
+        description: "Agdam es un pueblo en Azerbaiyán que fue completamente abandonado durante la guerra de Nagorno-Karabaj. Esta ciudad fantasma ofrece una visión sombría del impacto de la guerra en las comunidades.",
+        quote: "La guerra puede convertir un lugar próspero en un paisaje desolado y abandonado."
+    },
+    {
+        category: "lugar_desaparecido",
+        title: "La Ciudad Fantasma de Oradour-sur-Glane: Un Recuerdo de la Segunda Guerra Mundial",
+        url: "https://www.oradour.org/",
+        description: "Oradour-sur-Glane es una villa en Francia que fue destruida por las tropas nazis en 1944, y desde entonces ha sido preservada como un memorial del Holocausto. Esta ciudad fantasma ofrece una visión conmovedora de los horrores de la guerra.",
+        quote: "Un recordatorio sombrío de las atrocidades que pueden cometerse durante la guerra."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

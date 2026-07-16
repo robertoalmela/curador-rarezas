@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-15T10:48:22.829Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-16T10:58:24.010Z",
+  "sentCount": 222,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1731,6 +1731,22 @@
       "category": "experimento_social",
       "hash": "e1d2f37d601bab56",
       "addedToDb": "2026-07-15T10:48:20.584Z",
+      "sent": false
+    },
+    {
+      "title": "El Pueblo Abandonado de Agdam: Un Testamento de la Guerra y el Abandono",
+      "url": "https://www.rferl.org/a/photogallery-abandoned-city-agdam-azerbaijan/28011315.html",
+      "category": "lugar_desaparecido",
+      "hash": "dc82d780ac760edd",
+      "addedToDb": "2026-07-16T10:58:24.009Z",
+      "sent": false
+    },
+    {
+      "title": "La Ciudad Fantasma de Oradour-sur-Glane: Un Recuerdo de la Segunda Guerra Mundial",
+      "url": "https://www.oradour.org/",
+      "category": "lugar_desaparecido",
+      "hash": "2517798ccc13b14a",
+      "addedToDb": "2026-07-16T10:58:24.009Z",
       "sent": false
     }
   ],
