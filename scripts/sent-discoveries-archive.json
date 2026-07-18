@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-17T10:46:18.101Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-18T10:17:13.590Z",
+  "sentCount": 225,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1747,6 +1747,30 @@
       "category": "lugar_desaparecido",
       "hash": "2517798ccc13b14a",
       "addedToDb": "2026-07-16T10:58:24.009Z",
+      "sent": false
+    },
+    {
+      "title": "El proyecto de 'Digital Culture Research Gallery' de la Universidad de Cincinnati",
+      "url": "https://www.daap.uc.edu/strategic-futures/digital-culture/digital-culture-research-gallery.html",
+      "category": "proyecto_experimental",
+      "hash": "3706f87e459253cd",
+      "addedToDb": "2026-07-18T10:17:13.589Z",
+      "sent": false
+    },
+    {
+      "title": "La comunidad en torno a 'New Network Theory'",
+      "url": "https://networkcultures.org/networktheory/1-network-theory/program/",
+      "category": "subcultura",
+      "hash": "df7dd02f227548c1",
+      "addedToDb": "2026-07-18T10:17:13.590Z",
+      "sent": false
+    },
+    {
+      "title": "El trabajo de Franco Moretti en 'Network Theory, Plot Analysis'",
+      "url": "https://newleftreview.org/issues/ii68/articles/franco-moretti-network-theory-plot-analysis",
+      "category": "artista_marginal",
+      "hash": "c49ac95cd3d88bf8",
+      "addedToDb": "2026-07-18T10:17:13.590Z",
       "sent": false
     }
   ],

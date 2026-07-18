@@ -10941,6 +10941,28 @@ async function fetchFromHackerNews() {
         url: "https://www.oradour.org/",
         description: "Oradour-sur-Glane es una villa en Francia que fue destruida por las tropas nazis en 1944, y desde entonces ha sido preservada como un memorial del Holocausto. Esta ciudad fantasma ofrece una visión conmovedora de los horrores de la guerra.",
         quote: "Un recordatorio sombrío de las atrocidades que pueden cometerse durante la guerra."
+    },
+    // 2026-07-18 — proyecto_experimental
+    {
+        category: "proyecto_experimental",
+        title: "El proyecto de 'Digital Culture Research Gallery' de la Universidad de Cincinnati",
+        url: "https://www.daap.uc.edu/strategic-futures/digital-culture/digital-culture-research-gallery.html",
+        description: "Este proyecto busca investigar cómo los estudiantes consideran la identidad 'americana' y cómo las habilidades en medios digitales juegan un papel en su conciencia cívica. Es un ejemplo de investigación experimental en el ámbito de la cultura digital.",
+        quote: "El proyecto demuestra cómo la investigación académica puede involucrar a los estudiantes en la exploración de conceptos complejos a través de medios digitales."
+    },
+    {
+        category: "subcultura",
+        title: "La comunidad en torno a 'New Network Theory'",
+        url: "https://networkcultures.org/networktheory/1-network-theory/program/",
+        description: "Este programa de investigación explora la aplicación de la teoría de redes en diversas áreas, desde la cultura hasta la tecnología, y cómo estas redes pueden ser vistas como estructuras generadas a través de la diferencia.",
+        quote: "La iniciativa promueve un enfoque interdisciplinario para el estudio de las redes, considerando tanto aspectos técnicos como culturales."
+    },
+    {
+        category: "artista_marginal",
+        title: "El trabajo de Franco Moretti en 'Network Theory, Plot Analysis'",
+        url: "https://newleftreview.org/issues/ii68/articles/franco-moretti-network-theory-plot-analysis",
+        description: "Moretti aplica la teoría de redes al análisis de obras literarias, mapeando las relaciones entre personajes en novelas de Shakespeare, Dickens y Cao Xueqin, y explorando cómo las bases de datos digitales pueden transformar nuestra comprensión de la literatura.",
+        quote: "La aplicación de la teoría de redes a la literatura revela patrones y relaciones que de otra manera podrían pasar desapercibidos."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
