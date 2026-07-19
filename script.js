@@ -10963,6 +10963,21 @@ async function fetchFromHackerNews() {
         url: "https://newleftreview.org/issues/ii68/articles/franco-moretti-network-theory-plot-analysis",
         description: "Moretti aplica la teoría de redes al análisis de obras literarias, mapeando las relaciones entre personajes en novelas de Shakespeare, Dickens y Cao Xueqin, y explorando cómo las bases de datos digitales pueden transformar nuestra comprensión de la literatura.",
         quote: "La aplicación de la teoría de redes a la literatura revela patrones y relaciones que de otra manera podrían pasar desapercibidos."
+    },
+    // 2026-07-19 — biologia_rara
+    {
+        category: "biologia_rara",
+        title: "El pez que puede vivir fuera del agua",
+        url: "https://www.nationalgeographic.org/animals/fish/f/flying-fish/",
+        description: "El pez volador es capaz de saltar fuera del agua y planear durante largas distancias, lo que le permite escapar de depredadores y encontrar alimentos en la superficie del agua.",
+        quote: "Estos peces pueden planear durante hasta 450 metros, lo que les permite cubrir grandes distancias y explorar su entorno de una manera única."
+    },
+    {
+        category: "biologia_rara",
+        title: "La planta que puede moverse",
+        url: "https://www.smithsonianmag.com/science-nature/plant-mimics-animal-movement-180954151/",
+        description: "La planta Desmodium motorium es capaz de mover sus hojas y tallos en respuesta a estímulos externos, lo que le permite capturar insectos y otras presas.",
+        quote: "Esta planta puede mover sus hojas a una velocidad de hasta 10 centímetros por segundo, lo que la convierte en una de las plantas más 'animadas' del mundo."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

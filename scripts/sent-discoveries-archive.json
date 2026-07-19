@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-18T10:17:21.151Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-19T10:26:36.129Z",
+  "sentCount": 227,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1771,6 +1771,22 @@
       "category": "artista_marginal",
       "hash": "c49ac95cd3d88bf8",
       "addedToDb": "2026-07-18T10:17:13.590Z",
+      "sent": false
+    },
+    {
+      "title": "El pez que puede vivir fuera del agua",
+      "url": "https://www.nationalgeographic.org/animals/fish/f/flying-fish/",
+      "category": "biologia_rara",
+      "hash": "36ca7b6c19056128",
+      "addedToDb": "2026-07-19T10:26:36.129Z",
+      "sent": false
+    },
+    {
+      "title": "La planta que puede moverse",
+      "url": "https://www.smithsonianmag.com/science-nature/plant-mimics-animal-movement-180954151/",
+      "category": "biologia_rara",
+      "hash": "6d9b608f925f914b",
+      "addedToDb": "2026-07-19T10:26:36.129Z",
       "sent": false
     }
   ],
