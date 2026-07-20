@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-19T10:26:38.608Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-20T11:43:36.382Z",
+  "sentCount": 232,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1787,6 +1787,46 @@
       "category": "biologia_rara",
       "hash": "6d9b608f925f914b",
       "addedToDb": "2026-07-19T10:26:36.129Z",
+      "sent": false
+    },
+    {
+      "title": "Generación de Música Algorítmica con Wekinator",
+      "url": "https://www.wekinator.org/",
+      "category": "proyecto_experimental",
+      "hash": "bfdcdcf46e8473c8",
+      "addedToDb": "2026-07-20T11:43:36.382Z",
+      "sent": false
+    },
+    {
+      "title": "El Proyecto de Arte Generativo de Robby Kraft",
+      "url": "https://www.robbykraft.com/",
+      "category": "proyecto_experimental",
+      "hash": "2b1d03879d679c0c",
+      "addedToDb": "2026-07-20T11:43:36.382Z",
+      "sent": false
+    },
+    {
+      "title": "La Investigación de Creative Coding en la Universidad de NYU",
+      "url": "https://wp.nyu.edu/shanghai-evan/category/creative-coding-lab/",
+      "category": "proyecto_experimental",
+      "hash": "a3974c25386515a5",
+      "addedToDb": "2026-07-20T11:43:36.382Z",
+      "sent": false
+    },
+    {
+      "title": "El Proyecto de Experiencia de Sonido Inmersivo de Dave Birss",
+      "url": "https://davebirss.com/experiments-in-creativity-building-web-tools-with-cursor/",
+      "category": "proyecto_experimental",
+      "hash": "7ca5dd42baa13428",
+      "addedToDb": "2026-07-20T11:43:36.382Z",
+      "sent": false
+    },
+    {
+      "title": "La Investigación en Intérpretes de Código Abierto en GitHub",
+      "url": "https://github.com/cacheflowe/creative-coding-notes",
+      "category": "proyecto_experimental",
+      "hash": "500caad02ddbd974",
+      "addedToDb": "2026-07-20T11:43:36.382Z",
       "sent": false
     }
   ],

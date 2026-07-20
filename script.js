@@ -10978,6 +10978,42 @@ async function fetchFromHackerNews() {
         url: "https://www.smithsonianmag.com/science-nature/plant-mimics-animal-movement-180954151/",
         description: "La planta Desmodium motorium es capaz de mover sus hojas y tallos en respuesta a estímulos externos, lo que le permite capturar insectos y otras presas.",
         quote: "Esta planta puede mover sus hojas a una velocidad de hasta 10 centímetros por segundo, lo que la convierte en una de las plantas más 'animadas' del mundo."
+    },
+    // 2026-07-20 — proyecto_experimental
+    {
+        category: "proyecto_experimental",
+        title: "Generación de Música Algorítmica con Wekinator",
+        url: "https://www.wekinator.org/",
+        description: "Wekinator es una herramienta de software para la creación de música y arte algorítmico. Utiliza técnicas de aprendizaje automático y permite a los artistas generar música y sonidos únicos mediante la interacción con el software.",
+        quote: "'La música algorítmica puede ser tan expresiva como la música compuesta por humanos, pero con la ventaja de la sorpresa y la imprevisibilidad'."
+    },
+    {
+        category: "proyecto_experimental",
+        title: "El Proyecto de Arte Generativo de Robby Kraft",
+        url: "https://www.robbykraft.com/",
+        description: "Robby Kraft es un artista que crea obras de arte generativo utilizando algoritmos y técnicas de programación. Su sitio web muestra una variedad de proyectos que exploran la intersección entre el arte y la tecnología.",
+        quote: "'El arte generativo puede ser una forma de liberar la creatividad del artista, permitiéndole explorar nuevos territorios y descubrir patrones y formas inesperadas'."
+    },
+    {
+        category: "proyecto_experimental",
+        title: "La Investigación de Creative Coding en la Universidad de NYU",
+        url: "https://wp.nyu.edu/shanghai-evan/category/creative-coding-lab/",
+        description: "El laboratorio de Creative Coding en la Universidad de NYU es un espacio de investigación y experimentación en el que los estudiantes y profesores exploran las posibilidades del código creativo para la generación de arte y música.",
+        quote: "'La investigación en Creative Coding puede llevar a nuevos descubrimientos y aplicaciones en campos como la música, la danza y el teatro'."
+    },
+    {
+        category: "proyecto_experimental",
+        title: "El Proyecto de Experiencia de Sonido Inmersivo de Dave Birss",
+        url: "https://davebirss.com/experiments-in-creativity-building-web-tools-with-cursor/",
+        description: "Dave Birss es un artista y diseñador que ha creado un proyecto de experiencia de sonido inmersivo utilizando herramientas web y tecnologías de código abierto. Su sitio web detalla su proceso creativo y los resultados de su investigación.",
+        quote: "'La experiencia de sonido inmersivo puede ser una forma poderosa de conectar con el público y crear emociones y recuerdos duraderos'."
+    },
+    {
+        category: "proyecto_experimental",
+        title: "La Investigación en Intérpretes de Código Abierto en GitHub",
+        url: "https://github.com/cacheflowe/creative-coding-notes",
+        description: "El repositorio de cacheflowe en GitHub es una colección de notas y recursos sobre intérpretes de código abierto para Creative Coding. Ofrece una visión detallada de las posibilidades y limitaciones de estos intérpretes.",
+        quote: "'La investigación en intérpretes de código abierto puede llevar a la creación de nuevas herramientas y tecnologías para la generación de arte y música'."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
