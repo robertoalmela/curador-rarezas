@@ -11014,6 +11014,21 @@ async function fetchFromHackerNews() {
         url: "https://github.com/cacheflowe/creative-coding-notes",
         description: "El repositorio de cacheflowe en GitHub es una colección de notas y recursos sobre intérpretes de código abierto para Creative Coding. Ofrece una visión detallada de las posibilidades y limitaciones de estos intérpretes.",
         quote: "'La investigación en intérpretes de código abierto puede llevar a la creación de nuevas herramientas y tecnologías para la generación de arte y música'."
+    },
+    // 2026-07-21 — musica_experimental
+    {
+        category: "musica_experimental",
+        title: "El Archivo de Música Experimental de la Universidad de Mills",
+        url: "https://www.mills.edu/academics/facilities-center/cstm/music-technology/archive.php",
+        description: "Un vasto archivo de grabaciones y composiciones experimentales de artistas como John Cage, Karlheinz Stockhausen y otros pioneros de la música vanguardista. Alberga una colección de más de 10.000 grabaciones de conciertos y composiciones únicas.",
+        quote: "Aquí es donde la música se convierte en un experimento sin fin, desafiando los límites de lo que se considers 'música'."
+    },
+    {
+        category: "musica_experimental",
+        title: "The World Soundscape Project",
+        url: "https://www.sfu.ca/~truax/wsp.html",
+        description: "Un proyecto de investigación y documentación de los paisajes sonoros de todo el mundo, liderado por el compositor y académico canadiense Barry Truax. Presenta una amplia variedad de grabaciones de campo y análisis de la ecología acústica global.",
+        quote: "Un viaje sonoro alrededor del mundo, explorando la diversidad y complejidad de los ambientes acústicos en diferentes culturas y ecosistemas."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

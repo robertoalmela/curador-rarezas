@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-20T11:43:38.538Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-21T11:06:57.018Z",
+  "sentCount": 234,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1827,6 +1827,22 @@
       "category": "proyecto_experimental",
       "hash": "500caad02ddbd974",
       "addedToDb": "2026-07-20T11:43:36.382Z",
+      "sent": false
+    },
+    {
+      "title": "El Archivo de Música Experimental de la Universidad de Mills",
+      "url": "https://www.mills.edu/academics/facilities-center/cstm/music-technology/archive.php",
+      "category": "musica_experimental",
+      "hash": "7d8890d587ee5a68",
+      "addedToDb": "2026-07-21T11:06:57.018Z",
+      "sent": false
+    },
+    {
+      "title": "The World Soundscape Project",
+      "url": "https://www.sfu.ca/~truax/wsp.html",
+      "category": "musica_experimental",
+      "hash": "5ea6144be0d6b31c",
+      "addedToDb": "2026-07-21T11:06:57.018Z",
       "sent": false
     }
   ],
