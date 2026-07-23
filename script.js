@@ -11029,6 +11029,14 @@ async function fetchFromHackerNews() {
         url: "https://www.sfu.ca/~truax/wsp.html",
         description: "Un proyecto de investigación y documentación de los paisajes sonoros de todo el mundo, liderado por el compositor y académico canadiense Barry Truax. Presenta una amplia variedad de grabaciones de campo y análisis de la ecología acústica global.",
         quote: "Un viaje sonoro alrededor del mundo, explorando la diversidad y complejidad de los ambientes acústicos en diferentes culturas y ecosistemas."
+    },
+    // 2026-07-23 — artista_marginal
+    {
+        category: "artista_marginal",
+        title: "La Obra de Scottie Wilson",
+        url: "https://www.petulloartcollection.org/the-history-of-self-taught-outsider-art/scottie-wilson",
+        description: "Scottie Wilson, un artista escocés que se autodenominaba 'pequeño artista de la calle', creó una serie de dibujos y esculturas que hoy son considerados una contribución significativa al arte outsider. Su trabajo, que combinaba elementos de surrealismo y expresionismo, es conocido por su originalidad y belleza.",
+        quote: "Wilson creía que su arte era una forma de expresar su interior, y muchos de sus dibujos son acompañados por notas y poemas que revelan su estado de ánimo y pensamientos."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

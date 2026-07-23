@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-22T11:08:32.170Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-23T11:08:10.177Z",
+  "sentCount": 235,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1843,6 +1843,14 @@
       "category": "musica_experimental",
       "hash": "5ea6144be0d6b31c",
       "addedToDb": "2026-07-21T11:06:57.018Z",
+      "sent": false
+    },
+    {
+      "title": "La Obra de Scottie Wilson",
+      "url": "https://www.petulloartcollection.org/the-history-of-self-taught-outsider-art/scottie-wilson",
+      "category": "artista_marginal",
+      "hash": "7e8411d2714e39b8",
+      "addedToDb": "2026-07-23T11:08:10.177Z",
       "sent": false
     }
   ],
