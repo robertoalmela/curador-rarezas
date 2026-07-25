@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-24T11:07:26.983Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-25T10:25:51.530Z",
+  "sentCount": 236,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1851,6 +1851,14 @@
       "category": "artista_marginal",
       "hash": "7e8411d2714e39b8",
       "addedToDb": "2026-07-23T11:08:10.177Z",
+      "sent": false
+    },
+    {
+      "title": "Investigación sobre el Uso de Ultrasonido en Medicina",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6838218/",
+      "category": "sonido_invisible",
+      "hash": "c59d49b88b1032df",
+      "addedToDb": "2026-07-25T10:25:51.530Z",
       "sent": false
     }
   ],

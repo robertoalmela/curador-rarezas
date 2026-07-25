@@ -11037,6 +11037,14 @@ async function fetchFromHackerNews() {
         url: "https://www.petulloartcollection.org/the-history-of-self-taught-outsider-art/scottie-wilson",
         description: "Scottie Wilson, un artista escocés que se autodenominaba 'pequeño artista de la calle', creó una serie de dibujos y esculturas que hoy son considerados una contribución significativa al arte outsider. Su trabajo, que combinaba elementos de surrealismo y expresionismo, es conocido por su originalidad y belleza.",
         quote: "Wilson creía que su arte era una forma de expresar su interior, y muchos de sus dibujos son acompañados por notas y poemas que revelan su estado de ánimo y pensamientos."
+    },
+    // 2026-07-25 — sonido_invisible
+    {
+        category: "sonido_invisible",
+        title: "Investigación sobre el Uso de Ultrasonido en Medicina",
+        url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6838218/",
+        description: "Un artículo de investigación publicado en el National Center for Biotechnology Information sobre el uso terapéutico del ultrasonido en medicina, incluyendo su aplicación en tratamientos no invasivos.",
+        quote: "El ultrasonido tiene el potencial de revolutionar ciertos tratamientos médicos al ofrecer alternativas menos invasivas."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
