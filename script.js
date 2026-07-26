@@ -11045,6 +11045,14 @@ async function fetchFromHackerNews() {
         url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6838218/",
         description: "Un artículo de investigación publicado en el National Center for Biotechnology Information sobre el uso terapéutico del ultrasonido en medicina, incluyendo su aplicación en tratamientos no invasivos.",
         quote: "El ultrasonido tiene el potencial de revolutionar ciertos tratamientos médicos al ofrecer alternativas menos invasivas."
+    },
+    // 2026-07-26 — web_extraña
+    {
+        category: "web_extraña",
+        title: "El Museo de la Vida Silenciosa",
+        url: "https://www.asif.org/",
+        description: "Un sitio web que presenta una recopilación de objetos y artefactos cotidianos, pero con una presentación que desafía la comprensión inmediata, invitando a una exploración profunda de lo mundano.",
+        quote: "Donde la banalidad se vuelve fascinante."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-25T10:25:57.707Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-26T10:43:26.443Z",
+  "sentCount": 237,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1859,6 +1859,14 @@
       "category": "sonido_invisible",
       "hash": "c59d49b88b1032df",
       "addedToDb": "2026-07-25T10:25:51.530Z",
+      "sent": false
+    },
+    {
+      "title": "El Museo de la Vida Silenciosa",
+      "url": "https://www.asif.org/",
+      "category": "web_extraña",
+      "hash": "7f4b9939d2a1f948",
+      "addedToDb": "2026-07-26T10:43:26.443Z",
       "sent": false
     }
   ],
