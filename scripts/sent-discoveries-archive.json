@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-26T10:43:36.493Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-27T12:21:39.008Z",
+  "sentCount": 242,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1867,6 +1867,46 @@
       "category": "web_extraña",
       "hash": "7f4b9939d2a1f948",
       "addedToDb": "2026-07-26T10:43:26.443Z",
+      "sent": false
+    },
+    {
+      "title": "Un rincón en el ciberespacio: el blog de Josh Davis",
+      "url": "https://joshdavis.net/",
+      "category": "blog_olvidado",
+      "hash": "c4d9e9aa92c3c82e",
+      "addedToDb": "2026-07-27T12:21:39.008Z",
+      "sent": false
+    },
+    {
+      "title": "La nostalgia del pasado digital: Old Computers Museum",
+      "url": "http://oldcomputers.net/",
+      "category": "blog_olvidado",
+      "hash": "69be286d5fb82f53",
+      "addedToDb": "2026-07-27T12:21:39.008Z",
+      "sent": false
+    },
+    {
+      "title": "El arte de la experimentación: el sitio web de Golan Levin",
+      "url": "http://www.flong.com/",
+      "category": "blog_olvidado",
+      "hash": "8d77693cc8c5cb1f",
+      "addedToDb": "2026-07-27T12:21:39.008Z",
+      "sent": false
+    },
+    {
+      "title": "El diario electrónico de Justin Hall",
+      "url": "http://www.links.net/",
+      "category": "blog_olvidado",
+      "hash": "dbb3fd66d926b6a8",
+      "addedToDb": "2026-07-27T12:21:39.008Z",
+      "sent": false
+    },
+    {
+      "title": "Un refugio para la curiosidad: el sitio web de Cameron's World",
+      "url": "http://www.cameronsworld.net/",
+      "category": "blog_olvidado",
+      "hash": "a8f8895f242adf0b",
+      "addedToDb": "2026-07-27T12:21:39.008Z",
       "sent": false
     }
   ],

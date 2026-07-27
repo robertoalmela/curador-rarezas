@@ -11053,6 +11053,42 @@ async function fetchFromHackerNews() {
         url: "https://www.asif.org/",
         description: "Un sitio web que presenta una recopilación de objetos y artefactos cotidianos, pero con una presentación que desafía la comprensión inmediata, invitando a una exploración profunda de lo mundano.",
         quote: "Donde la banalidad se vuelve fascinante."
+    },
+    // 2026-07-27 — blog_olvidado
+    {
+        category: "blog_olvidado",
+        title: "Un rincón en el ciberespacio: el blog de Josh Davis",
+        url: "https://joshdavis.net/",
+        description: "Josh Davis es un pionero en el diseño web y su sitio personal es un reflejo de su pasión por la experimentación y la innovación en el diseño digital. Con contenido que se remonta a los años 90, este blog es un viaje en el tiempo a través de la evolución del diseño web.",
+        quote: "Un ejemplo de cómo un sitio web personal puede ser tanto un repositorio de conocimientos como una obra de arte en constante evolución."
+    },
+    {
+        category: "blog_olvidado",
+        title: "La nostalgia del pasado digital: Old Computers Museum",
+        url: "http://oldcomputers.net/",
+        description: "Este sitio web es un museo virtual dedicado a la preservación de la historia de los computadores antiguos. Con una extensa colección de imágenes, manuales y descripciones de ordenadores de los años 60 a los 90, es un tesoro para los nostálgicos de la tecnología.",
+        quote: "Un viaje a través de la historia de la informática que nos recuerda cómo llegamos a donde estamos hoy en el mundo digital."
+    },
+    {
+        category: "blog_olvidado",
+        title: "El arte de la experimentación: el sitio web de Golan Levin",
+        url: "http://www.flong.com/",
+        description: "Golan Levin es un artista y diseñador que explora las intersecciones entre el arte, la música y la tecnología. Su sitio web es un crisol de proyectos experimentales que desafían las convenciones del diseño web y la interacción.",
+        quote: "Un ejemplo de cómo la experimentación en el diseño web puede llevar a la creación de experiencias inmersivas y provocativas."
+    },
+    {
+        category: "blog_olvidado",
+        title: "El diario electrónico de Justin Hall",
+        url: "http://www.links.net/",
+        description: "Justin Hall es conocido por ser uno de los primeros bloggers. Su sitio web, que data de 1994, es un diario electrónico que ofrece una visión introspectiva de la vida del autor y de la evolución del medio.",
+        quote: "Un ejemplo temprano de cómo los blogs pueden servir como un medio para la reflexión personal y la narrativa en línea."
+    },
+    {
+        category: "blog_olvidado",
+        title: "Un refugio para la curiosidad: el sitio web de Cameron's World",
+        url: "http://www.cameronsworld.net/",
+        description: "Cameron's World es un sitio web personal que desde 1995 ha sido un refugio para aquellos que buscan contenido fuera de lo común. Con enlaces a sitios extraños y fascinantes, es un portal a la diversidad del ciberespacio.",
+        quote: "Un ejemplo de cómo un sitio web personal puede convertirse en un refugio para la curiosidad y la exploración en línea."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
