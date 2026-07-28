@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-27T12:21:42.045Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-28T11:15:36.580Z",
+  "sentCount": 245,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1907,6 +1907,30 @@
       "category": "blog_olvidado",
       "hash": "a8f8895f242adf0b",
       "addedToDb": "2026-07-27T12:21:39.008Z",
+      "sent": false
+    },
+    {
+      "title": "Búnkeres de la Guerra Fría: Estructuras Ocultas de Defensa",
+      "url": "https://www.historyhit.com/fascinating-cold-war-era-nuclear-bunkers/",
+      "category": "infraestructura_oculta",
+      "hash": "e78aab6d52355780",
+      "addedToDb": "2026-07-28T11:15:36.580Z",
+      "sent": false
+    },
+    {
+      "title": "Estaciones de Aterrizaje de Cables Submarinos: La Infraestructura Invisible",
+      "url": "https://argosatlas.com/en/blog/cables-submarinos-mapa-internet/",
+      "category": "infraestructura_oculta",
+      "hash": "6b7dd94a767dee9d",
+      "addedToDb": "2026-07-28T11:15:36.580Z",
+      "sent": false
+    },
+    {
+      "title": "Búnkeres Abandonados: Reliquias de la Guerra Fría",
+      "url": "https://www.atlasobscura.com/lists/cold-war-tunnels-bunkers-history",
+      "category": "infraestructura_oculta",
+      "hash": "ca361e3b7624e899",
+      "addedToDb": "2026-07-28T11:15:36.580Z",
       "sent": false
     }
   ],

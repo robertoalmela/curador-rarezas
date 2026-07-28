@@ -11089,6 +11089,28 @@ async function fetchFromHackerNews() {
         url: "http://www.cameronsworld.net/",
         description: "Cameron's World es un sitio web personal que desde 1995 ha sido un refugio para aquellos que buscan contenido fuera de lo común. Con enlaces a sitios extraños y fascinantes, es un portal a la diversidad del ciberespacio.",
         quote: "Un ejemplo de cómo un sitio web personal puede convertirse en un refugio para la curiosidad y la exploración en línea."
+    },
+    // 2026-07-28 — infraestructura_oculta
+    {
+        category: "infraestructura_oculta",
+        title: "Búnkeres de la Guerra Fría: Estructuras Ocultas de Defensa",
+        url: "https://www.historyhit.com/fascinating-cold-war-era-nuclear-bunkers/",
+        description: "Un recorrido por los búnkeres y estructuras de defensa construidas durante la Guerra Fría, muchos de los cuales permanecen ocultos y fuera del conocimiento público. Estas estructuras revelan la paranoia y la preparación para el conflicto nuclear de la época.",
+        quote: "Algunos de estos búnkeres han sido reconvertidos en museos o lugares de interés turístico, ofreciendo una visión única de la historia reciente."
+    },
+    {
+        category: "infraestructura_oculta",
+        title: "Estaciones de Aterrizaje de Cables Submarinos: La Infraestructura Invisible",
+        url: "https://argosatlas.com/en/blog/cables-submarinos-mapa-internet/",
+        description: "Un análisis de las estaciones de aterrizaje de cables submarinos, puntos críticos en la infraestructura global de comunicaciones. Estas estaciones, a menudo disimuladas como edificios comunes, desempeñan un papel crucial en la conectividad global.",
+        quote: "La ubicación exacta de muchas de estas estaciones remains clasificada para proteger la infraestructura de posibles amenazas."
+    },
+    {
+        category: "infraestructura_oculta",
+        title: "Búnkeres Abandonados: Reliquias de la Guerra Fría",
+        url: "https://www.atlasobscura.com/lists/cold-war-tunnels-bunkers-history",
+        description: "Un viaje a través de los búnkeres y túneles abandonados de la Guerra Fría, ofreciendo una visión única de la historia militar y política de la época. Muchos de estos lugares han sido olvidados y abandonados, pero aún conservan secretos y relatos de un pasado reciente.",
+        quote: "Algunos de estos búnkeres han sido redescubiertos y convertidos en sitios turísticos, mientras que otros siguen escondidos y fuera del conocimiento público."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
