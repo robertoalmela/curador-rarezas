@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-28T11:15:39.109Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-29T11:25:06.741Z",
+  "sentCount": 249,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1931,6 +1931,38 @@
       "category": "infraestructura_oculta",
       "hash": "ca361e3b7624e899",
       "addedToDb": "2026-07-28T11:15:36.580Z",
+      "sent": false
+    },
+    {
+      "title": "Máquinas de Tinguely: La Belleza en el Fracaso",
+      "url": "https://www.stedelijk.nl/en/exhibitions/jean-tinguely-machine-spectacle",
+      "category": "fracaso_bello",
+      "hash": "b874564fbb1c14ba",
+      "addedToDb": "2026-07-29T11:25:06.741Z",
+      "sent": false
+    },
+    {
+      "title": "La Estética del Error en la Comunicación Digital",
+      "url": "https://charumaithani.net/texts/glitch-and-error-implications-in-aesthetics-and-communication/",
+      "category": "fracaso_bello",
+      "hash": "a4667b856d4bac71",
+      "addedToDb": "2026-07-29T11:25:06.741Z",
+      "sent": false
+    },
+    {
+      "title": "La Poesía del Error en la Era Digital",
+      "url": "http://artpulsemagazine.com/glossing-over-thoughts-on-glitch-a-poetry-of-error",
+      "category": "fracaso_bello",
+      "hash": "eaf9777fbfe72240",
+      "addedToDb": "2026-07-29T11:25:06.741Z",
+      "sent": false
+    },
+    {
+      "title": "El Arte de Lo Inútil: La Escultura de Jean Tinguely",
+      "url": "https://repositories.lib.utexas.edu/items/152257a7-951e-49ab-a4ce-a429ac3d5690",
+      "category": "fracaso_bello",
+      "hash": "a0c6ddfaf5201e7b",
+      "addedToDb": "2026-07-29T11:25:06.741Z",
       "sent": false
     }
   ],

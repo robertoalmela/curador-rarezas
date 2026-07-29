@@ -11111,6 +11111,35 @@ async function fetchFromHackerNews() {
         url: "https://www.atlasobscura.com/lists/cold-war-tunnels-bunkers-history",
         description: "Un viaje a través de los búnkeres y túneles abandonados de la Guerra Fría, ofreciendo una visión única de la historia militar y política de la época. Muchos de estos lugares han sido olvidados y abandonados, pero aún conservan secretos y relatos de un pasado reciente.",
         quote: "Algunos de estos búnkeres han sido redescubiertos y convertidos en sitios turísticos, mientras que otros siguen escondidos y fuera del conocimiento público."
+    },
+    // 2026-07-29 — fracaso_bello
+    {
+        category: "fracaso_bello",
+        title: "Máquinas de Tinguely: La Belleza en el Fracaso",
+        url: "https://www.stedelijk.nl/en/exhibitions/jean-tinguely-machine-spectacle",
+        description: "Jean Tinguely, famoso por sus máquinas kinéticas y performances explosivas, creó arte que desafía la lógica y celebra el fracaso como proceso creativo.",
+        quote: "La meta de Tinguely no era solo crear máquinas que funcionaran, sino máquinas que, al fallar, revelaran la belleza en el fallo."
+    },
+    {
+        category: "fracaso_bello",
+        title: "La Estética del Error en la Comunicación Digital",
+        url: "https://charumaithani.net/texts/glitch-and-error-implications-in-aesthetics-and-communication/",
+        description: "El estudio de errores y glitch en la comunicación digital nos lleva a cuestionar las normas de la perfección y a encontrar belleza en lo imperfecto.",
+        quote: "El error en la comunicación digital no solo es un problema técnico, sino también un tema estético que invita a reflexionar sobre nuestra relación con la tecnología."
+    },
+    {
+        category: "fracaso_bello",
+        title: "La Poesía del Error en la Era Digital",
+        url: "http://artpulsemagazine.com/glossing-over-thoughts-on-glitch-a-poetry-of-error",
+        description: "El error y el glitch en la era digital ofrecen una nueva poesía, una que encuentra significado en la disrupción y el fallo, desafiando nuestras nociones tradicionales de belleza y arte.",
+        quote: "En la poesía del error, el fallo se convierte en un acto creativo que desafía las expectativas y abre nuevas posibilidades para el arte y la comunicación."
+    },
+    {
+        category: "fracaso_bello",
+        title: "El Arte de Lo Inútil: La Escultura de Jean Tinguely",
+        url: "https://repositories.lib.utexas.edu/items/152257a7-951e-49ab-a4ce-a429ac3d5690",
+        description: "La obra de Jean Tinguely, con sus máquinas inútiles y performances de destrucción, nos lleva a reflexionar sobre el valor y el propósito del arte en una sociedad que valora la funcionalidad.",
+        quote: "Tinguely nos muestra que el arte puede residir en lo inútil, en la celebración del fracaso como un fin en sí mismo, desafiando las expectativas de productividad y eficiencia."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
