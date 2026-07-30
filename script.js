@@ -11140,6 +11140,21 @@ async function fetchFromHackerNews() {
         url: "https://repositories.lib.utexas.edu/items/152257a7-951e-49ab-a4ce-a429ac3d5690",
         description: "La obra de Jean Tinguely, con sus máquinas inútiles y performances de destrucción, nos lleva a reflexionar sobre el valor y el propósito del arte en una sociedad que valora la funcionalidad.",
         quote: "Tinguely nos muestra que el arte puede residir en lo inútil, en la celebración del fracaso como un fin en sí mismo, desafiando las expectativas de productividad y eficiencia."
+    },
+    // 2026-07-30 — idea_provocadora
+    {
+        category: "idea_provocadora",
+        title: "La Investigación sobre el Libre Albedrío y la Predecibilidad Cerebral",
+        url: "https://www.nature.com/articles/nrn3800",
+        description: "Investigaciones que buscan dilucidar si el libre albedrío es una ilusión o si nuestra capacidad para tomar decisiones es fundamentalmente predecible a partir de la actividad cerebral.",
+        quote: "Los resultados sugieren que ciertas decisiones pueden ser predecibles segundos antes de que tomemos conciencia de ellas, cuestionando el concepto de libre albedrío."
+    },
+    {
+        category: "idea_provocadora",
+        title: "La Investigación sobre el Efecto del Ritmo Circadiano en la Percepción del Tiempo",
+        url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4449594",
+        description: "Estudios que examinan cómo nuestros ritmos biológicos internos influyen en nuestra percepción subjetiva del tiempo y cómo esta percepción puede variar significativamente entre individuos.",
+        quote: "Nuestra experiencia del tiempo no es absoluta, sino que está profundamente influenciada por nuestros ciclos biológicos y el contexto psicológico en el que nos encontramos."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

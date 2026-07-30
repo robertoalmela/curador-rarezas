@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-29T11:25:08.945Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-07-30T11:06:42.434Z",
+  "sentCount": 251,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1963,6 +1963,22 @@
       "category": "fracaso_bello",
       "hash": "a0c6ddfaf5201e7b",
       "addedToDb": "2026-07-29T11:25:06.741Z",
+      "sent": false
+    },
+    {
+      "title": "La Investigación sobre el Libre Albedrío y la Predecibilidad Cerebral",
+      "url": "https://www.nature.com/articles/nrn3800",
+      "category": "idea_provocadora",
+      "hash": "755fce8d5bb08fc8",
+      "addedToDb": "2026-07-30T11:06:42.434Z",
+      "sent": false
+    },
+    {
+      "title": "La Investigación sobre el Efecto del Ritmo Circadiano en la Percepción del Tiempo",
+      "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4449594",
+      "category": "idea_provocadora",
+      "hash": "90f29a9254220440",
+      "addedToDb": "2026-07-30T11:06:42.434Z",
       "sent": false
     }
   ],
