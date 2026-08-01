@@ -11155,6 +11155,35 @@ async function fetchFromHackerNews() {
         url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4449594",
         description: "Estudios que examinan cómo nuestros ritmos biológicos internos influyen en nuestra percepción subjetiva del tiempo y cómo esta percepción puede variar significativamente entre individuos.",
         quote: "Nuestra experiencia del tiempo no es absoluta, sino que está profundamente influenciada por nuestros ciclos biológicos y el contexto psicológico en el que nos encontramos."
+    },
+    // 2026-08-01 — obsceno_digital
+    {
+        category: "obsceno_digital",
+        title: "The Wiki Game Daily",
+        url: "https://www.thewikigamedaily.com/",
+        description: "Un juego diario que desafía a los jugadores a encontrar el camino más corto entre dos artículos de Wikipedia. Cada día, un nuevo desafío.",
+        quote: "El juego utiliza algoritmos para generar nuevos desafíos y asegurarse de que no haya dos caminos idénticos."
+    },
+    {
+        category: "obsceno_digital",
+        title: "Wikiracing.org",
+        url: "https://wikiracing.org/about",
+        description: "Un sitio web dedicado a Wikiracing, donde los jugadores pueden competir y compartir estrategias. Ofrece herramientas para analizar y mejorar el rendimiento.",
+        quote: "La comunidad de Wikiracing está creciendo rápidamente, con más de 10.000 jugadores registrados en el sitio."
+    },
+    {
+        category: "obsceno_digital",
+        title: "El Acaparamiento Digital: Un Problema Crecente",
+        url: "https://theconversation.com/with-seemingly-endless-data-storage-at-our-fingertips-digital-hoarding-could-be-an-increasing-problem-190356",
+        description: "El artículo discute cómo el almacenamiento de datos ilimitado puede llevar a un aumento en el acaparamiento digital, un problema que puede tener consecuencias negativas en la salud mental.",
+        quote: "Se estima que el 1 de cada 5 adultos tiene comportamientos de acaparamiento digital, lo que puede llevar a estrés y ansiedad."
+    },
+    {
+        category: "obsceno_digital",
+        title: "Un Caso de Acaparamiento Digital",
+        url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4600778/",
+        description: "Un estudio de caso sobre un individuo que acumuló más de 10 terabytes de datos personales, lo que llevó a problemas de salud mental y disfunción.",
+        quote: "El caso ilustra cómo el acaparamiento digital puede ser un síntoma de problemas más profundos, como la ansiedad y el miedo a la pérdida."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

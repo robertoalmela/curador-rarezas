@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-07-31T11:28:04.505Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-08-01T10:39:15.513Z",
+  "sentCount": 255,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -1979,6 +1979,38 @@
       "category": "idea_provocadora",
       "hash": "90f29a9254220440",
       "addedToDb": "2026-07-30T11:06:42.434Z",
+      "sent": false
+    },
+    {
+      "title": "The Wiki Game Daily",
+      "url": "https://www.thewikigamedaily.com/",
+      "category": "obsceno_digital",
+      "hash": "4242f4f15b792016",
+      "addedToDb": "2026-08-01T10:39:15.513Z",
+      "sent": false
+    },
+    {
+      "title": "Wikiracing.org",
+      "url": "https://wikiracing.org/about",
+      "category": "obsceno_digital",
+      "hash": "a09d13111f23c0ab",
+      "addedToDb": "2026-08-01T10:39:15.513Z",
+      "sent": false
+    },
+    {
+      "title": "El Acaparamiento Digital: Un Problema Crecente",
+      "url": "https://theconversation.com/with-seemingly-endless-data-storage-at-our-fingertips-digital-hoarding-could-be-an-increasing-problem-190356",
+      "category": "obsceno_digital",
+      "hash": "ce79711369b17b8a",
+      "addedToDb": "2026-08-01T10:39:15.513Z",
+      "sent": false
+    },
+    {
+      "title": "Un Caso de Acaparamiento Digital",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4600778/",
+      "category": "obsceno_digital",
+      "hash": "7b6c5764c47fd886",
+      "addedToDb": "2026-08-01T10:39:15.513Z",
       "sent": false
     }
   ],
