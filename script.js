@@ -11184,6 +11184,28 @@ async function fetchFromHackerNews() {
         url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC4600778/",
         description: "Un estudio de caso sobre un individuo que acumuló más de 10 terabytes de datos personales, lo que llevó a problemas de salud mental y disfunción.",
         quote: "El caso ilustra cómo el acaparamiento digital puede ser un síntoma de problemas más profundos, como la ansiedad y el miedo a la pérdida."
+    },
+    // 2026-08-02 — estetica_rara
+    {
+        category: "estetica_rara",
+        title: "GLITCH.exe: Una Breve Investigación sobre el Arte de Databending",
+        url: "https://repository.lib.umassd.edu/esploro/outputs/graduate/GLITCHexe-a-brief-inquiry-into-the/9914424781101301",
+        description: "Un proyecto de investigación que explora el arte de databending y su aplicación en la educación artística. Ofrece una visión profunda en la creación de lecciones de arte basadas en la técnica de glitch.",
+        quote: "El databending puede ser una herramienta poderosa para enseñar a los estudiantes sobre la conexión entre la tecnología y el arte."
+    },
+    {
+        category: "estetica_rara",
+        title: "El Portafolio de Arte Glitch de Lyndsey Clark",
+        url: "https://lmclark7.com/glitch-art-portfolio/",
+        description: "Un portafolio que muestra el trabajo de Lyndsey Clark en el arte glitch, utilizando múltiples métodos de databending. Es un ejemplo de cómo el arte digital puede ser moldeado y experimentado.",
+        quote: "El arte glitch puede ser una forma poderosa de expresión, permitiendo a los artistas explorar nuevos caminos en la creación digital."
+    },
+    {
+        category: "estetica_rara",
+        title: "Media Art Net: Espacios Públicos y Privados",
+        url: "http://www.medienkunstnetz.de/themes/public_sphere_s/media_spaces/scroll/",
+        description: "Un recurso en línea que aborda la relación entre el arte, la tecnología y los espacios públicos y privados. Ofrece perspectivas sobre cómo la red ha cambiado la manera en que interactuamos con el arte y la información.",
+        quote: "La red ha democratizado el acceso al arte, pero también ha creado nuevos desafíos en cuanto a la privacidad y la propiedad intelectual."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

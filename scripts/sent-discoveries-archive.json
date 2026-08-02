@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-08-01T10:39:17.620Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-08-02T10:40:00.737Z",
+  "sentCount": 258,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -2011,6 +2011,30 @@
       "category": "obsceno_digital",
       "hash": "7b6c5764c47fd886",
       "addedToDb": "2026-08-01T10:39:15.513Z",
+      "sent": false
+    },
+    {
+      "title": "GLITCH.exe: Una Breve Investigación sobre el Arte de Databending",
+      "url": "https://repository.lib.umassd.edu/esploro/outputs/graduate/GLITCHexe-a-brief-inquiry-into-the/9914424781101301",
+      "category": "estetica_rara",
+      "hash": "052700635ccdf00c",
+      "addedToDb": "2026-08-02T10:40:00.737Z",
+      "sent": false
+    },
+    {
+      "title": "El Portafolio de Arte Glitch de Lyndsey Clark",
+      "url": "https://lmclark7.com/glitch-art-portfolio/",
+      "category": "estetica_rara",
+      "hash": "f7194ab9fd75c685",
+      "addedToDb": "2026-08-02T10:40:00.737Z",
+      "sent": false
+    },
+    {
+      "title": "Media Art Net: Espacios Públicos y Privados",
+      "url": "http://www.medienkunstnetz.de/themes/public_sphere_s/media_spaces/scroll/",
+      "category": "estetica_rara",
+      "hash": "961c14a7974f24bc",
+      "addedToDb": "2026-08-02T10:40:00.737Z",
       "sent": false
     }
   ],
