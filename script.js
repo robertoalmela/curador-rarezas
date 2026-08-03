@@ -11206,6 +11206,35 @@ async function fetchFromHackerNews() {
         url: "http://www.medienkunstnetz.de/themes/public_sphere_s/media_spaces/scroll/",
         description: "Un recurso en línea que aborda la relación entre el arte, la tecnología y los espacios públicos y privados. Ofrece perspectivas sobre cómo la red ha cambiado la manera en que interactuamos con el arte y la información.",
         quote: "La red ha democratizado el acceso al arte, pero también ha creado nuevos desafíos en cuanto a la privacidad y la propiedad intelectual."
+    },
+    // 2026-08-03 — herramienta_oculta
+    {
+        category: "herramienta_oculta",
+        title: "Generador de nombres de dominio",
+        url: "https://www.online-utility.org/domain_name_generator.jsp",
+        description: "Un generador de nombres de dominio gratuito y fácil de usar. Permite la generación de nombres de dominio únicos y creativos con apenas unos clics.",
+        quote: "Un aspecto interesante de esta herramienta es su capacidad para sugerir nombres de dominio disponibles, ahorrando tiempo en la búsqueda de un nombre de dominio perfecto."
+    },
+    {
+        category: "herramienta_oculta",
+        title: "Herramienta de conversión de unidades",
+        url: "https://www.online-utility.org/unit_conversion.jsp",
+        description: "Una herramienta en línea versátil que permite la conversión entre diferentes unidades de medida. Desde longitudes hasta capacidades, esta herramienta cubre una amplia gama de conversiones.",
+        quote: "La utilidad de esta herramienta reside en su capacidad para manejar conversiones complejas que otros servicios en línea pueden no ofrecer, como la conversión de unidades obsoletas o especializadas."
+    },
+    {
+        category: "herramienta_oculta",
+        title: "Generador de textos aleatorios",
+        url: "https://www.online-utility.org/random_text_generator.jsp",
+        description: "Un generador de textos aleatorios que puede ser útil para pruebas de tipos, llenado de espacios en formularios o simplemente para inspiración creativa.",
+        quote: "Un aspecto interesante de esta herramienta es la capacidad de personalizar el tipo de texto generado, desde textos cortos hasta párrafos completos, y ajustar el nivel de complejidad del lenguaje."
+    },
+    {
+        category: "herramienta_oculta",
+        title: "Herramienta de análisis de color",
+        url: "https://www.online-utility.org/color_analyzer.jsp",
+        description: "Una herramienta en línea que analiza colores y proporciona información detallada sobre el código de color, incluyendo hexadecimal, RGB y HSV.",
+        quote: "La utilidad de esta herramienta reside en su capacidad para generar paletas de colores que pueden ser útiles para diseñadores gráficos y web, ofreciendo sugerencias de colores complementarios y armónicos."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-08-02T10:40:03.162Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-08-03T12:21:01.697Z",
+  "sentCount": 262,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -2035,6 +2035,38 @@
       "category": "estetica_rara",
       "hash": "961c14a7974f24bc",
       "addedToDb": "2026-08-02T10:40:00.737Z",
+      "sent": false
+    },
+    {
+      "title": "Generador de nombres de dominio",
+      "url": "https://www.online-utility.org/domain_name_generator.jsp",
+      "category": "herramienta_oculta",
+      "hash": "2d93ef5372fa20fd",
+      "addedToDb": "2026-08-03T12:21:01.696Z",
+      "sent": false
+    },
+    {
+      "title": "Herramienta de conversión de unidades",
+      "url": "https://www.online-utility.org/unit_conversion.jsp",
+      "category": "herramienta_oculta",
+      "hash": "752e0f58a3e04c17",
+      "addedToDb": "2026-08-03T12:21:01.696Z",
+      "sent": false
+    },
+    {
+      "title": "Generador de textos aleatorios",
+      "url": "https://www.online-utility.org/random_text_generator.jsp",
+      "category": "herramienta_oculta",
+      "hash": "8d33ffe7d030a733",
+      "addedToDb": "2026-08-03T12:21:01.696Z",
+      "sent": false
+    },
+    {
+      "title": "Herramienta de análisis de color",
+      "url": "https://www.online-utility.org/color_analyzer.jsp",
+      "category": "herramienta_oculta",
+      "hash": "0f0b61181846a9e7",
+      "addedToDb": "2026-08-03T12:21:01.697Z",
       "sent": false
     }
   ],
