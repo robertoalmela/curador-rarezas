@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-08-04T11:22:04.134Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-08-05T11:20:07.198Z",
+  "sentCount": 264,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -2067,6 +2067,22 @@
       "category": "herramienta_oculta",
       "hash": "0f0b61181846a9e7",
       "addedToDb": "2026-08-03T12:21:01.697Z",
+      "sent": false
+    },
+    {
+      "title": "El foro de los relojeros análogos",
+      "url": "https://www.nawcc.org/forums/",
+      "category": "subcultura",
+      "hash": "dd601379a15efc71",
+      "addedToDb": "2026-08-05T11:20:07.198Z",
+      "sent": false
+    },
+    {
+      "title": "El juego de la vida en un cubo",
+      "url": "https://www.cubeworld.com/",
+      "category": "juego_absurdo",
+      "hash": "5d4ef538bbdf8ab2",
+      "addedToDb": "2026-08-05T11:20:07.198Z",
       "sent": false
     }
   ],

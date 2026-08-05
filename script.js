@@ -11235,6 +11235,21 @@ async function fetchFromHackerNews() {
         url: "https://www.online-utility.org/color_analyzer.jsp",
         description: "Una herramienta en línea que analiza colores y proporciona información detallada sobre el código de color, incluyendo hexadecimal, RGB y HSV.",
         quote: "La utilidad de esta herramienta reside en su capacidad para generar paletas de colores que pueden ser útiles para diseñadores gráficos y web, ofreciendo sugerencias de colores complementarios y armónicos."
+    },
+    // 2026-08-05 — subcultura
+    {
+        category: "subcultura",
+        title: "El foro de los relojeros análogos",
+        url: "https://www.nawcc.org/forums/",
+        description: "Un foro dedicado a la conservación y restauración de relojes mecánicos y análogos, donde se discuten temas como la reparación de escapes y la fabricación de piezas de reloj",
+        quote: "La precisión del tiempo es un arte que requiere dedicación y patiente"
+    },
+    {
+        category: "juego_absurdo",
+        title: "El juego de la vida en un cubo",
+        url: "https://www.cubeworld.com/",
+        description: "Un juego de supervivencia en un mundo de cubos, donde se debe construir y explorar para sobrevivir",
+        quote: "La vida es un juego, pero ¿qué hay fuera del cubo?"
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
