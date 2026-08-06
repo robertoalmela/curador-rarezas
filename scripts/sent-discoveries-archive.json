@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-08-05T11:20:17.737Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-08-06T11:21:44.190Z",
+  "sentCount": 268,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -2083,6 +2083,38 @@
       "category": "juego_absurdo",
       "hash": "5d4ef538bbdf8ab2",
       "addedToDb": "2026-08-05T11:20:07.198Z",
+      "sent": false
+    },
+    {
+      "title": "El Proyecto de la Computadora Compartida",
+      "url": "https://sociologicalscience.com/download/vol_11/march/SocSci_v11_214to232.pdf",
+      "category": "experimento_social",
+      "hash": "3aaec1a6cbbf2421",
+      "addedToDb": "2026-08-06T11:21:44.190Z",
+      "sent": false
+    },
+    {
+      "title": "Crowd Abnormal Behavior Recognition",
+      "url": "https://www.preprints.org/manuscript/202409.1879",
+      "category": "experimento_social",
+      "hash": "4ea9b67321917981",
+      "addedToDb": "2026-08-06T11:21:44.190Z",
+      "sent": false
+    },
+    {
+      "title": "The Dynamics of Collective Social Behavior",
+      "url": "https://link.springer.com/article/10.1140/epjds/s13688-019-0200-1",
+      "category": "experimento_social",
+      "hash": "7cdee89a1b33a495",
+      "addedToDb": "2026-08-06T11:21:44.190Z",
+      "sent": false
+    },
+    {
+      "title": "Comparing Town Hall and Internet Civic Participation",
+      "url": "https://mitgovlab.org/projects/democracy-online/",
+      "category": "experimento_social",
+      "hash": "17c332c0084a10af",
+      "addedToDb": "2026-08-06T11:21:44.190Z",
       "sent": false
     }
   ],

@@ -11250,6 +11250,35 @@ async function fetchFromHackerNews() {
         url: "https://www.cubeworld.com/",
         description: "Un juego de supervivencia en un mundo de cubos, donde se debe construir y explorar para sobrevivir",
         quote: "La vida es un juego, pero ¿qué hay fuera del cubo?"
+    },
+    // 2026-08-06 — experimento_social
+    {
+        category: "experimento_social",
+        title: "El Proyecto de la Computadora Compartida",
+        url: "https://sociologicalscience.com/download/vol_11/march/SocSci_v11_214to232.pdf",
+        description: "Un estudio sobre cómo la recepción de una computadora con acceso a internet afecta la participación cívica y política en comunidades marginadas. La investigación ofrece una perspectiva única sobre la brecha digital y su impacto en la sociedad.",
+        quote: "La brecha digital no solo se trata de acceso a la tecnología, sino también de la capacidad de utilizarla para empoderar a las comunidades."
+    },
+    {
+        category: "experimento_social",
+        title: "Crowd Abnormal Behavior Recognition",
+        url: "https://www.preprints.org/manuscript/202409.1879",
+        description: "Un proyecto de investigación que busca desarrollar algoritmos para detectar comportamientos anormales en multitudes mediante el uso de visión por computadora. El objetivo es mejorar la seguridad pública en eventos masivos.",
+        quote: "La detección temprana de comportamientos anormales en multitudes puede prevenir tragedias y salvar vidas."
+    },
+    {
+        category: "experimento_social",
+        title: "The Dynamics of Collective Social Behavior",
+        url: "https://link.springer.com/article/10.1140/epjds/s13688-019-0200-1",
+        description: "Un estudio que analiza el comportamiento colectivo en un entorno de juego en línea, específicamente en 'Twitch Plays Pokémon'. La investigación explora cómo las decisiones individuales contribuyen al comportamiento del grupo.",
+        quote: "El estudio de la dinámica de grupos en entornos virtuales puede ofrecer insights valiosos sobre la psicología de masas y la toma de decisiones colectiva."
+    },
+    {
+        category: "experimento_social",
+        title: "Comparing Town Hall and Internet Civic Participation",
+        url: "https://mitgovlab.org/projects/democracy-online/",
+        description: "Un proyecto que compara la participación cívica en reuniones municipales tradicionales con la participación en línea. La investigación busca entender cómo la tecnología puede fortalecer la democracia participativa.",
+        quote: "La democratización de la participación cívica a través de la tecnología puede llevar a una mayor representación de las voces minoritarias en el proceso político."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
