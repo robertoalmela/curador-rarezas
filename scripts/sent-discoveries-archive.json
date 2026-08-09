@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-08-08T09:36:53.909Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-08-09T09:37:16.143Z",
+  "sentCount": 271,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -2115,6 +2115,30 @@
       "category": "experimento_social",
       "hash": "17c332c0084a10af",
       "addedToDb": "2026-08-06T11:21:44.190Z",
+      "sent": false
+    },
+    {
+      "title": "El Laberinto del Ciborg: Explorando la Interfaz entre Humanos y Máquinas",
+      "url": "https://www.strangeloopcanon.com/p/seeing-like-a-network",
+      "category": "filosofia_digital",
+      "hash": "6770a155674ea293",
+      "addedToDb": "2026-08-09T09:37:16.143Z",
+      "sent": false
+    },
+    {
+      "title": "El Impacto de la Avanzada Tecnológica en la Cultura y la Sociedad",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11685575/",
+      "category": "filosofia_digital",
+      "hash": "7060a56c9683523f",
+      "addedToDb": "2026-08-09T09:37:16.143Z",
+      "sent": false
+    },
+    {
+      "title": "Los Orígenes Filosóficos de la Digitalidad",
+      "url": "https://tripleampersand.org/the-philosophical-origins-of-digitality/",
+      "category": "filosofia_digital",
+      "hash": "ddf9c9977f694440",
+      "addedToDb": "2026-08-09T09:37:16.143Z",
       "sent": false
     }
   ],

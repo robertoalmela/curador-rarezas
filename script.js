@@ -11279,6 +11279,28 @@ async function fetchFromHackerNews() {
         url: "https://mitgovlab.org/projects/democracy-online/",
         description: "Un proyecto que compara la participación cívica en reuniones municipales tradicionales con la participación en línea. La investigación busca entender cómo la tecnología puede fortalecer la democracia participativa.",
         quote: "La democratización de la participación cívica a través de la tecnología puede llevar a una mayor representación de las voces minoritarias en el proceso político."
+    },
+    // 2026-08-09 — filosofia_digital
+    {
+        category: "filosofia_digital",
+        title: "El Laberinto del Ciborg: Explorando la Interfaz entre Humanos y Máquinas",
+        url: "https://www.strangeloopcanon.com/p/seeing-like-a-network",
+        description: "Un artículo profundo que explora la relación entre la cultura y la tecnología, argumentando que la cultura es el biosfera digital que creamos para nosotros mismos. Con ideas que desafían la forma en que pensamos sobre la interfaz entre humanos y máquinas.",
+        quote: "La información que creamos y compartimos se convierte en la base de nuestra realidad digital, una realidad que está constantemente evolucionando."
+    },
+    {
+        category: "filosofia_digital",
+        title: "El Impacto de la Avanzada Tecnológica en la Cultura y la Sociedad",
+        url: "https://pmc.ncbi.nlm.nih.gov/articles/PMC11685575/",
+        description: "Un análisis detallado sobre cómo las tecnologías digitales no solo son herramientas, sino participantes activos en la creación y experiencia de la cultura, y cómo esto redefine nuestra comprensión de la sociedad y la cultura en la era digital.",
+        quote: "Las tecnologías digitales están reconfigurando los fundamentos de la cultura y la sociedad, lo que plantea desafíos y oportunidadessin precedentes."
+    },
+    {
+        category: "filosofia_digital",
+        title: "Los Orígenes Filosóficos de la Digitalidad",
+        url: "https://tripleampersand.org/the-philosophical-origins-of-digitality/",
+        description: "Un ensayo que explora las raíces filosóficas de la digitalidad, argumentando que la esencia de lo digital se encuentra en la creación de unidades discretas de información, lo que a su vez requiere la división y separación de entidades.",
+        quote: "La digitalidad se basa en la discretización del mundo, lo que permite la creación de sistemas y estructuras complejas que nos rodean."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
