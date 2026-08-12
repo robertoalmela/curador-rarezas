@@ -11301,6 +11301,42 @@ async function fetchFromHackerNews() {
         url: "https://tripleampersand.org/the-philosophical-origins-of-digitality/",
         description: "Un ensayo que explora las raíces filosóficas de la digitalidad, argumentando que la esencia de lo digital se encuentra en la creación de unidades discretas de información, lo que a su vez requiere la división y separación de entidades.",
         quote: "La digitalidad se basa en la discretización del mundo, lo que permite la creación de sistemas y estructuras complejas que nos rodean."
+    },
+    // 2026-08-12 — musica_experimental
+    {
+        category: "musica_experimental",
+        title: "Simon Balestrazzi y el Underground Italiano",
+        url: "https://concreteshelves.blog/2018/10/09/simon-balestrazzi/",
+        description: "Un entrevista profundamente personal con Simon Balestrazzi, figura clave en la escena música italiana underground, ofreciendo una ventana a la evolución del sonido experimental en Italia.",
+        quote: "La música underground italiana es un mundo vasto y desconocido, esperando ser explorado."
+    },
+    {
+        category: "musica_experimental",
+        title: "Culturas de Cassette: Pasado y Presente",
+        url: "https://siebel-db.siebelinstitute.com/project/cassette-cultures-the-past-and-present-of-a-music",
+        description: "Un proyecto que analiza el impacto de las cassettes en la música, desde su uso en la escena punk y noise hasta su influencia en la música experimental contemporánea.",
+        quote: "Las cassettes son más que un medio de reproducción; son un símbolo de la resistencia y la creatividad en la música."
+    },
+    {
+        category: "musica_experimental",
+        title: "Música Ambient en Cintas: Un Resurgimiento",
+        url: "https://cdm.link/listen-gorgeous-ambient-music-coming-tapes/",
+        description: "Un artículo que destaca la resurgencia de la música ambient y experimental en formatos de cinta, destacando la belleza y la introspección que estas grabaciones ofrecen.",
+        quote: "La música ambient en cintas es un viaje sonoro que te sumerge en mundos desconocidos y emocionales."
+    },
+    {
+        category: "musica_experimental",
+        title: "Obscure Sound: Un Blog de Música Indie",
+        url: "https://www.obscuresound.com/",
+        description: "Un blog dedicado a descubrir y compartir música indie y experimental, ofreciendo una plataforma para artistas emergentes y sonidos innovadores.",
+        quote: "La música indie es un reflejo de la diversidad y la creatividad en la escena musical actual."
+    },
+    {
+        category: "musica_experimental",
+        title: "Artistas de Ruido en Bandcamp",
+        url: "https://getmusic.fm/bandcamp/noise",
+        description: "Un recurso que recopila y presenta a 50 artistas de música noise y experimental en Bandcamp, ofreciendo una ventana a la vibrante y diversa escena del ruido musical.",
+        quote: "La música noise es un desafío a los límites del sonido y la percepción; un mundo de experimentación y arte sonoro."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

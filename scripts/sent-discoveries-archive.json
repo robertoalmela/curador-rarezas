@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-08-11T09:58:40.708Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-08-12T10:02:02.317Z",
+  "sentCount": 276,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -2139,6 +2139,46 @@
       "category": "filosofia_digital",
       "hash": "ddf9c9977f694440",
       "addedToDb": "2026-08-09T09:37:16.143Z",
+      "sent": false
+    },
+    {
+      "title": "Simon Balestrazzi y el Underground Italiano",
+      "url": "https://concreteshelves.blog/2018/10/09/simon-balestrazzi/",
+      "category": "musica_experimental",
+      "hash": "7a748cc3014ebc75",
+      "addedToDb": "2026-08-12T10:02:02.317Z",
+      "sent": false
+    },
+    {
+      "title": "Culturas de Cassette: Pasado y Presente",
+      "url": "https://siebel-db.siebelinstitute.com/project/cassette-cultures-the-past-and-present-of-a-music",
+      "category": "musica_experimental",
+      "hash": "f2030f777c662158",
+      "addedToDb": "2026-08-12T10:02:02.317Z",
+      "sent": false
+    },
+    {
+      "title": "Música Ambient en Cintas: Un Resurgimiento",
+      "url": "https://cdm.link/listen-gorgeous-ambient-music-coming-tapes/",
+      "category": "musica_experimental",
+      "hash": "43bbaf73f7821b1d",
+      "addedToDb": "2026-08-12T10:02:02.317Z",
+      "sent": false
+    },
+    {
+      "title": "Obscure Sound: Un Blog de Música Indie",
+      "url": "https://www.obscuresound.com/",
+      "category": "musica_experimental",
+      "hash": "83ea2e3dca264ef4",
+      "addedToDb": "2026-08-12T10:02:02.317Z",
+      "sent": false
+    },
+    {
+      "title": "Artistas de Ruido en Bandcamp",
+      "url": "https://getmusic.fm/bandcamp/noise",
+      "category": "musica_experimental",
+      "hash": "9579afcb37c8cfdb",
+      "addedToDb": "2026-08-12T10:02:02.317Z",
       "sent": false
     }
   ],
