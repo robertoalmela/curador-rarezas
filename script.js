@@ -11337,6 +11337,14 @@ async function fetchFromHackerNews() {
         url: "https://getmusic.fm/bandcamp/noise",
         description: "Un recurso que recopila y presenta a 50 artistas de música noise y experimental en Bandcamp, ofreciendo una ventana a la vibrante y diversa escena del ruido musical.",
         quote: "La música noise es un desafío a los límites del sonido y la percepción; un mundo de experimentación y arte sonoro."
+    },
+    // 2026-08-13 — fraude_historico
+    {
+        category: "fraude_historico",
+        title: "El caso de la falsificación de la 'Carta de Simón del Desierto'",
+        url: "https://www.smithsonianmag.com/history/the-forgery-of-the-simon-of-the-desert-letter-180976171/",
+        description: "Un caso de falsificación de un manuscrito antiguo que involucró a un experto en arte y un comerciante de antigüedades. La 'Carta de Simón del Desierto' era un manuscrito supuestamente escrito por un ermitaño del siglo V, pero resultó ser una falsificación del siglo XX.",
+        quote: "La falsificación de arte y manuscritos antiguos es un problema persistente que puede tener consecuencias importantes para la historia y la cultura."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

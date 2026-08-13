@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-08-12T10:02:05.266Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-08-13T10:03:19.631Z",
+  "sentCount": 277,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -2179,6 +2179,14 @@
       "category": "musica_experimental",
       "hash": "9579afcb37c8cfdb",
       "addedToDb": "2026-08-12T10:02:02.317Z",
+      "sent": false
+    },
+    {
+      "title": "El caso de la falsificación de la 'Carta de Simón del Desierto'",
+      "url": "https://www.smithsonianmag.com/history/the-forgery-of-the-simon-of-the-desert-letter-180976171/",
+      "category": "fraude_historico",
+      "hash": "1ea5c5ec857bbbae",
+      "addedToDb": "2026-08-13T10:03:19.631Z",
       "sent": false
     }
   ],
