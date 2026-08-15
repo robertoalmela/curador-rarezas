@@ -11345,6 +11345,14 @@ async function fetchFromHackerNews() {
         url: "https://www.smithsonianmag.com/history/the-forgery-of-the-simon-of-the-desert-letter-180976171/",
         description: "Un caso de falsificación de un manuscrito antiguo que involucró a un experto en arte y un comerciante de antigüedades. La 'Carta de Simón del Desierto' era un manuscrito supuestamente escrito por un ermitaño del siglo V, pero resultó ser una falsificación del siglo XX.",
         quote: "La falsificación de arte y manuscritos antiguos es un problema persistente que puede tener consecuencias importantes para la historia y la cultura."
+    },
+    // 2026-08-15 — performance_raro
+    {
+        category: "performance_raro",
+        title: "Tehching Hsieh: Una vida de performances extremas",
+        url: "https://www.guerrillatranslation.org/2013/01/21/tehching-hsieh/",
+        description: "El artista taiwanés Tehching Hsieh es conocido por sus performances extremas que duran todo un año, como vivir en una jaula o atar su cabello a un peso.",
+        quote: "Hsieh dice: 'Mi obra es una especie de ritual, una forma de examinar la relación entre el cuerpo y el tiempo'."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:

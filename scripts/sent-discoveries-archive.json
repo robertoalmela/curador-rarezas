@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-08-14T09:59:09.140Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-08-15T09:24:01.233Z",
+  "sentCount": 278,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -2187,6 +2187,14 @@
       "category": "fraude_historico",
       "hash": "1ea5c5ec857bbbae",
       "addedToDb": "2026-08-13T10:03:19.631Z",
+      "sent": false
+    },
+    {
+      "title": "Tehching Hsieh: Una vida de performances extremas",
+      "url": "https://www.guerrillatranslation.org/2013/01/21/tehching-hsieh/",
+      "category": "performance_raro",
+      "hash": "d8c0b33137cdc588",
+      "addedToDb": "2026-08-15T09:24:01.233Z",
       "sent": false
     }
   ],
