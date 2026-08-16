@@ -1,7 +1,7 @@
 {
   "description": "Histórico COMPLETO de TODOS los descubrimientos ENVIADOS. Se usa para deduplicación severa. NO modificar manualmente.",
-  "lastUpdated": "2026-08-15T09:24:07.621Z",
-  "sentCount": 0,
+  "lastUpdated": "2026-08-16T09:25:07.660Z",
+  "sentCount": 280,
   "sent": [
     {
       "title": "Teoría del Color No-Lineal en IA Generativa",
@@ -2195,6 +2195,22 @@
       "category": "performance_raro",
       "hash": "d8c0b33137cdc588",
       "addedToDb": "2026-08-15T09:24:01.233Z",
+      "sent": false
+    },
+    {
+      "title": "El Proyecto de Mapeo de Sonidos Anómalos",
+      "url": "http://www.strangesounds.org/",
+      "category": "sonido_invisible",
+      "hash": "0a534235656c97ee",
+      "addedToDb": "2026-08-16T09:25:07.660Z",
+      "sent": false
+    },
+    {
+      "title": "Investigación sobre el Uso de Armas Sónicas",
+      "url": "https://www.sonicweapons.org/",
+      "category": "sonido_invisible",
+      "hash": "994bf6dd9b674d11",
+      "addedToDb": "2026-08-16T09:25:07.660Z",
       "sent": false
     }
   ],

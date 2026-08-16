@@ -11353,6 +11353,21 @@ async function fetchFromHackerNews() {
         url: "https://www.guerrillatranslation.org/2013/01/21/tehching-hsieh/",
         description: "El artista taiwanés Tehching Hsieh es conocido por sus performances extremas que duran todo un año, como vivir en una jaula o atar su cabello a un peso.",
         quote: "Hsieh dice: 'Mi obra es una especie de ritual, una forma de examinar la relación entre el cuerpo y el tiempo'."
+    },
+    // 2026-08-16 — sonido_invisible
+    {
+        category: "sonido_invisible",
+        title: "El Proyecto de Mapeo de Sonidos Anómalos",
+        url: "http://www.strangesounds.org/",
+        description: "Un proyecto que busca catalogar y mapear sonidos anómalos y no explicados alrededor del mundo, como 'The Hum' o 'The Taos Hum'. Cuenta con contribuciones de usuarios y un mapa interactivo.",
+        quote: "Más de 2.000 casos de 'The Hum' han sido reportados solo en los Estados Unidos."
+    },
+    {
+        category: "sonido_invisible",
+        title: "Investigación sobre el Uso de Armas Sónicas",
+        url: "https://www.sonicweapons.org/",
+        description: "Un sitio web que investiga y documenta el uso de armas sónicas y su impacto en la salud humana. Incluye artículos y recursos sobre la historia y el desarrollo de estas armas.",
+        quote: "Las armas sónicas pueden causar daño permanente al oído y provocar nauseas, dolores de cabeza y desorientación."
     }
 
 // Para usar APIs reales, reemplaza getRandomDiscoveries() con:
